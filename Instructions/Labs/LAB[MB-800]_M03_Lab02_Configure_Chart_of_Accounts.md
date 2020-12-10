@@ -1,4 +1,8 @@
-# Hands-on-Lab 3.2: Configure Chart of Accounts and Posting Groups
+---
+lab:
+    title: 'Lab: Configure Chart of Accounts and Posting Groups'
+    module: 'Module 3: Configure Financials'
+---
 
 ## Exercise 1: Configure the Chart of Accounts
 
