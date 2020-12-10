@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab04: Create and configure a new company'
+    title: 'Lab: Create and configure a new company'
     module: 'Module 3: Configure Financials'
 ---
 
