@@ -20,11 +20,11 @@ You will start with the vendor list, including contact information. To make sure
 the users know how to complete the required information, you prepare the
 following example.
 
-![](media/d3148cc97ddfa9ae4f83595f5b0b4a02.png)
+![Vendor info 01](media/lab2_2_vendor_info_01.png)
 
 The following information is returned to you by Contoso’s super user:
 
-![](media/7fd4bf8e3d26459f98fdf28406d2cc33.png)
+![Vendor info 02](media/lab2_2_vendor_info_02.png)
 
 ### Tasks
 
