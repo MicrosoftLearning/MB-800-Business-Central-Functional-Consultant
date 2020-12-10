@@ -1,4 +1,8 @@
-# Hands-on-Lab 5.3: Process Cash Management
+---
+lab:
+    title: 'Lab: Process Cash Management'
+    module: 'Module 5: Operations'
+---
 
 ## Exercise 1: Create and post journal entries
 
