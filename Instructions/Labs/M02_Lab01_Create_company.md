@@ -1,4 +1,10 @@
-# Hands-on-Lab 2.1: Create and configure a new company
+---
+lab:
+    title: 'Lab01: Create and configure a new company'
+    module: 'Module 2: Application Setup'
+---
+
+# Create and configure a new company
 
 ## Exercise 1: Create a new company
 
