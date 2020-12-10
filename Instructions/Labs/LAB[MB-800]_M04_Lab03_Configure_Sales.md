@@ -1,4 +1,8 @@
-# Hands-on-Lab 4.3: Configure Sales
+---
+lab:
+    title: 'Lab: Configure Sales'
+    module: 'Module 4: Configure Sales and Purchasing'
+---
 
 ## Exercise 1: Complete the customer card
 
