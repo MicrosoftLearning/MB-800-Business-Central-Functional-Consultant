@@ -1,4 +1,8 @@
-# Hands-on-Lab 3.5: Set Up Accounts Receivable
+---
+lab:
+    title: 'Lab: Set up Accounts Receivable'
+    module: 'Module 3: Configure Financials'
+---
 
 ## Exercise 1: Configure the Sales & Receivables Setup
 
