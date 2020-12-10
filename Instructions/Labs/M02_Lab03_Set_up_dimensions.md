@@ -1,4 +1,8 @@
-# Hands-on-Lab 2.3: Set up dimensions
+---
+lab:
+    title: 'Lab03: Set up dimensions'
+    module: 'Module 2: Application Setup'
+---
 
 ## Exercise 1: Set up a dimension with dimension values
 
