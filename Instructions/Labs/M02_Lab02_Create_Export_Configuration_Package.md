@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab01: Create and export a configuration package'
+    title: 'Lab02: Create and export a configuration package'
     module: 'Module 2: Application Setup'
 ---
 
