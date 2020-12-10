@@ -13,7 +13,7 @@ Contoso has expressed their requirements regarding reporting goals.
 From the general ledger they would like to analyze their sales by sales person
 and customer group, using the following pivot-table:
 
-![](media/4d0d8465b01c8185a7e37c0685459ff9.png)
+![Pivot Table](media/lab2_3_pivot_table.png)
 
 They want to see both the income and the granted discounts for each sales
 person.
