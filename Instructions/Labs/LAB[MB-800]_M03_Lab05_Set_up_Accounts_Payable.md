@@ -1,4 +1,8 @@
-# Hands-on-Lab 3.4: Set Up Accounts Payable
+---
+lab:
+    title: 'Lab: Set up Accounts Payable'
+    module: 'Module 3: Configure Financials'
+---
 
 ## Exercise 1: Configure the Purchases & Payables Setup
 
