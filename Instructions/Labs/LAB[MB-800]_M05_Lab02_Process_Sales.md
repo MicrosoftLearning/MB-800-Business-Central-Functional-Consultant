@@ -1,4 +1,8 @@
-# Hands-on-Lab 5.2: Process Sales
+---
+lab:
+    title: 'Lab: Process Sales'
+    module: 'Module 5: Operations'
+---
 
 ## Exercise 1: Process a sales from quote to invoice
 
