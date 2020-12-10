@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab03: Set up dimensions'
+    title: 'Lab: Set up dimensions'
     module: 'Module 2: Application Setup'
 ---
 
