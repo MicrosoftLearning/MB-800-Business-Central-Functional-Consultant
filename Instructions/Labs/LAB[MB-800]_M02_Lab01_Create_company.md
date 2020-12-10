@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab01: Create and configure a new company'
+    title: 'Lab: Create and configure a new company'
     module: 'Module 2: Application Setup'
 ---
 
