@@ -1,4 +1,8 @@
-# Hands-on-Lab 6.1: Setting up and using a purchase approval workflow
+---
+lab:
+    title: 'Lab: Setting up purchase approval workflow'
+    module: 'Module 6: Integration and Automation'
+---
 
 ## Exercise 1: Setting up a purchase approval workflow
 
