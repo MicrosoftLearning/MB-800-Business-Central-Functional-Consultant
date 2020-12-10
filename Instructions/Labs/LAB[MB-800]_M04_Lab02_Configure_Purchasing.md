@@ -1,4 +1,8 @@
-# Hands-on-Lab 4.2: Configure Purchasing
+---
+lab:
+    title: 'Lab: Configure Purchasing'
+    module: 'Module 4: Configure Sales and Purchasing'
+---
 
 ## Exercise 1: Complete the vendor card
 
