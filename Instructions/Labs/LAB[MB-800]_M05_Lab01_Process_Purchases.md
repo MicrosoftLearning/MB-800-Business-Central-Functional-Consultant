@@ -1,4 +1,8 @@
-# Hands-on-Lab 5.1: Process Purchase
+---
+lab:
+    title: 'Lab: Process Purchases'
+    module: 'Module 5: Operations'
+---
 
 ## Exercise 1: Process a purchase from order to invoice and review the posted documents
 
