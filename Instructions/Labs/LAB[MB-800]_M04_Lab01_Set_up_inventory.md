@@ -1,4 +1,8 @@
-# Hands-on-Lab 4.1: Set up Inventory
+---
+lab:
+    title: 'Lab: Set up Inventory'
+    module: 'Module 4: Configure Sales and Purchasing'
+---
 
 ## Exercise 1: Configure the Inventory Setup
 
