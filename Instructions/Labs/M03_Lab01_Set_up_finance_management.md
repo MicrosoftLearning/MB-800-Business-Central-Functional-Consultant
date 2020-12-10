@@ -1,4 +1,8 @@
-# Hands-on-Lab 3.1: Set Up Finance Management
+---
+lab:
+    title: 'Lab04: Create and configure a new company'
+    module: 'Module 3: Configure Financials'
+---
 
 ## Exercise 1: Create a new fiscal year
 
