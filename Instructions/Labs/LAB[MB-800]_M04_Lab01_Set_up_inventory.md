@@ -114,7 +114,7 @@ Different item features, such as inch, processor, color, will be registered as
 additional information on the item cards. More specifically the following
 computer hardware items are created:
 
-![](media/218a200ca941d82415b500899e506920.png)
+![Item features](media/lab4_1_item_features.png)
 
 You need to set up new item categories and configure the correct attributes.
 
