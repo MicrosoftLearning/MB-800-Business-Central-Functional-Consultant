@@ -170,7 +170,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
     4.  Select the line for **Item Ledger Entry** and select **Show Related
         Entries**.
 
-![](media/50a90a475e0129d3299e2e25cc1cbbb9.png)
+![Item ledger entries](media/lab5_1_item_ledger_entries.png)
 
 1.  Close the **General Ledger Entries** page.
 
@@ -185,7 +185,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
     5.  Select the line for G/L entries and select **Show Related Entries**.
 
-        ![](media/d93dd619f654e0f481cac82e01f77b9e.png)
+![General ledger entries](media/lab5_1_general_ledger_entries.png)
 
     6.  Close the **General Ledger Entries** page.
 
