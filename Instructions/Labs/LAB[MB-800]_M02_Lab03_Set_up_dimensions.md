@@ -29,13 +29,13 @@ a dimension for sales people as well.
 
 1.  Set up a dimension with dimension values
 
-    1.  In the **Dimensions** page, select **New**.
+   1.  In the **Dimensions** page, select **New**.
 
-    2.  In the **Code** field, enter SALESPERSON.
+   2.  In the **Code** field, enter SALESPERSON.
 
-    3.  Select **Dimension** and then **Dimension Values**.
+   3.  Select **Dimension** and then **Dimension Values**.
 
-    4.  For each sales person, enter the initials in the **Code** field and the
+   4.  For each sales person, enter the initials in the **Code** field and the
         full name in the **Name** field.
 
         -   AH - Annette Hill
@@ -52,7 +52,7 @@ a dimension for sales people as well.
 
         -   RL - Richard Lum
 
-    5.  For each sales person, set the **Dimension Value Type** field to the
+   5.  For each sales person, set the **Dimension Value Type** field to the
         **Standard** value.
 
 ## Exercise 2: Assign Account Type Default Dimensions
@@ -80,29 +80,29 @@ different sales people responsible for their customer group.
 
 1.  Assign Account Type Default Dimensions for the customer group.
 
-    1.  In the **Dimensions** page, select the CUSTOMERGROUP dimension.
+   1.  In the **Dimensions** page, select the CUSTOMERGROUP dimension.
 
-    2.  Select **Dimension**, and then select **Account Type Default Dim.**.
+   2.  Select **Dimension**, and then select **Account Type Default Dim.**.
 
-    3.  Open the assist edit button to the right of the **Table ID** field.
+   3.  Open the assist edit button to the right of the **Table ID** field.
 
-    4.  In the window that opens, select the **Customer** table and click
+   4.  In the window that opens, select the **Customer** table and click
         **OK**.
 
-    5.  In the **Value Posting** field, enter **Code Mandatory**.
+   5.  In the **Value Posting** field, enter **Code Mandatory**.
 
 2.  Assign Account Type Default Dimensions for the sales people.
 
-    1.  In the **Dimensions** page, select the SALESPERSON dimension.
+   1.  In the **Dimensions** page, select the SALESPERSON dimension.
 
-    2.  Select **Dimension**, and then select **Account Type Default Dim.**.
+   2.  Select **Dimension**, and then select **Account Type Default Dim.**.
 
-    3.  Open the assist edit button to the right of the **Table ID** field.
+   3.  Open the assist edit button to the right of the **Table ID** field.
 
-    4.  In the window that opens, select the **Salesperson/Purchaser** table and
+   4.  In the window that opens, select the **Salesperson/Purchaser** table and
         click **OK**.
 
-    5.  In the **Value Posting** field, enter **Code Mandatory**.
+   5.  In the **Value Posting** field, enter **Code Mandatory**.
 
 ## Exercise 3: Set up a dimension combination
 
@@ -148,25 +148,25 @@ Make sure the following requirements are met:
 
 1.  Limit a dimension combination.
 
-    1.  In the **Dimension Combinations** page, click on the combination of the
+   1.  In the **Dimension Combinations** page, click on the combination of the
         CUSTOMERGROUP and SALESPERSON dimension in the matrix.
 
-    2.  In the window that opens, select **Limited**.
+   2.  In the window that opens, select **Limited**.
 
 2.  Block dimension value combinations.
 
-    1.  In the **Dimension Combinations** page, click on the **Limited** value
+   1.  In the **Dimension Combinations** page, click on the **Limited** value
         of the combination of the CUSTOMERGROUP and SALESPERSON dimension in the
         matrix.
 
-    2.  Click **Yes**.
+   2.  Click **Yes**.
 
-    3.  Click on the combination of the AH and MEDIUM dimension values in the
+   3.  Click on the combination of the AH and MEDIUM dimension values in the
         matrix.
 
-    4.  In the window that opens, select **Blocked**.
+   4.  In the window that opens, select **Blocked**.
 
-    5.  Repeat steps c. and d., for the following combinations:
+   5.  Repeat steps c. and d., for the following combinations:
 
         -   AH – LARG
 
