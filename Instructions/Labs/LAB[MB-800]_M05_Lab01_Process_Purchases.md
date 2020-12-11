@@ -185,7 +185,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
     5.  Select the line for G/L entries and select **Show Related Entries**.
 
-![General ledger entries](media/lab5_1_general_ledger_entries.png)
+    ![General ledger entries](media/lab5_1_general_ledger_entries.png)
 
     6.  Close the **General Ledger Entries** page.
 
