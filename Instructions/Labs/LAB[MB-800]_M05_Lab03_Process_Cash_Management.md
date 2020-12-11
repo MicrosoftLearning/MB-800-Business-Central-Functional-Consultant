@@ -18,7 +18,7 @@ containing dimension information.
 The accounting manager at Contoso has provided you with the following opening
 balance to be posted on December 31st, 2020.
 
-![](media/12e7fce33cdf64c933410a7ef8f85296.png)
+![Opening General Journal 01](media/lab5_3_opening_general_journal_01.png)
 
 ### Tasks
 
@@ -173,7 +173,7 @@ vendor ledger entries.
 You receive the configuration package, that you can import into the correct
 general journals, review and post.
 
-![](media/d426bb5bb9eec9b6284bb2acd13fd889.png)
+![Opening General Journal 02](media/lab5_3_opening_general_journal_02.png)
 
 *(Remark: if you do not have the configuration package for this lab, you can use
 the configuration package from exercise 1 and use the excel sheet to import
