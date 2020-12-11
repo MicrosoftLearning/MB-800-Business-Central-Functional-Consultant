@@ -50,146 +50,146 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 1.  Change the currency code on the vendor.
 
-    1.  On the **Vendors** list page, select vendor Cronus Cardoxy Sales
+   1.  On the **Vendors** list page, select vendor Cronus Cardoxy Sales
 
-    2.  Select **Manage** and then select **Edit**.
+   2.  Select **Manage** and then select **Edit**.
 
-    3.  On the opened vendor card, go to the **Invoicing** FastTab, and in the
+   3.  On the opened vendor card, go to the **Invoicing** FastTab, and in the
         **Currency Code** field remove the value DKK and leave the field blank.
 
 2.  Create a purchase order.
 
-    1.  On the vendor card, select **New Document** and then select **Purchase
+   1.  On the vendor card, select **New Document** and then select **Purchase
         Order**.
 
-    2.  On the **General** FastTab, fill in the following fields:
+   2.  On the **General** FastTab, fill in the following fields:
 
-        1.  In the **Document Date** and **Order Date** fields, enter 1/14/2021.
+       1.  In the **Document Date** and **Order Date** fields, enter 1/14/2021.
 
-        2.  In the **Alternate Vendor Address Code** field, enter COMP&MON.
+       2.  In the **Alternate Vendor Address Code** field, enter COMP&MON.
 
-        3.  In the **Vendor Order No.** field, enter OC15-479.
+       3.  In the **Vendor Order No.** field, enter OC15-479.
 
-    3.  On the **Invoice Details** FastTab, fill in the following fields:
+   3.  On the **Invoice Details** FastTab, fill in the following fields:
 
-        1.  In the **Requested Receipt Date** field, enter 1/19/2021.
+       1.  In the **Requested Receipt Date** field, enter 1/19/2021.
 
-        2.  In the **Promised Receipt Date** field, enter 1/22/2021.
+       2.  In the **Promised Receipt Date** field, enter 1/22/2021.
 
-    4.  On the **Lines** section, enter a new line by filling in the following
+   4.  On the **Lines** section, enter a new line by filling in the following
         field:
 
-        1.  In the **Type** field, enter **Item**.
+       1.  In the **Type** field, enter **Item**.
 
-        2.  In the **No.** field, enter CHW1002 for the 15” flat panels.
+       2.  In the **No.** field, enter CHW1002 for the 15” flat panels.
 
-        3.  In the **Location Code** field, the value EUROP is automatically
+       3.  In the **Location Code** field, the value EUROP is automatically
             filled in.
 
-        4.  In the **Unit of Measure Code** field, the value BOX is
+       4.  In the **Unit of Measure Code** field, the value BOX is
             automatically filled in.
 
-        5.  In the **Quantity** field, enter ‘10’.
+       5.  In the **Quantity** field, enter ‘10’.
 
-        6.  In the **Direct Unit Cost Excl. Tax** field, enter ‘4,999.89’.
+       6.  In the **Direct Unit Cost Excl. Tax** field, enter ‘4,999.89’.
 
-    5.  On the **Lines** section, enter a new line by filling in the following
+   5.  On the **Lines** section, enter a new line by filling in the following
         field:
 
-        1.  In the **Type** field, enter **Item**.
+       1.  In the **Type** field, enter **Item**.
 
-        2.  In the **No.** field, enter CHW1003 for the 17” flat panels.
+       2.  In the **No.** field, enter CHW1003 for the 17” flat panels.
 
-        3.  In the **Location Code** field, the value EUROP is automatically
+       3.  In the **Location Code** field, the value EUROP is automatically
             filled in.
 
-        4.  In the **Unit of Measure Code** field, the value BOX is
+       4.  In the **Unit of Measure Code** field, the value BOX is
             automatically filled in.
 
-        5.  In the **Quantity** field, enter ‘5’.
+       5.  In the **Quantity** field, enter ‘5’.
 
-        6.  In the **Direct Unit Cost Excl. Tax** field, enter ‘5,348.56’.
+       6.  In the **Direct Unit Cost Excl. Tax** field, enter ‘5,348.56’.
 
-    6.  Select **Release**.
+   6.  Select **Release**.
 
 3.  Receive items on the purchase order.
 
-    1.  On the **General** FastTab, fill in the following fields:
+   1.  On the **General** FastTab, fill in the following fields:
 
-        1.  In the **Posting Date** field, enter 1/23/2021.
+       1.  In the **Posting Date** field, enter 1/23/2021.
 
-        2.  In the **Vendor Shipment No.** field, enter ‘DN01-47’.
+       2.  In the **Vendor Shipment No.** field, enter ‘DN01-47’.
 
-    2.  On the **Lines** section, select the line for item CHW1002, and fill in
+   2.  On the **Lines** section, select the line for item CHW1002, and fill in
         the following fields:
 
-        1.  In the **Over-Receipt Code** field, enter OVERRCPT10.
+       1.  In the **Over-Receipt Code** field, enter OVERRCPT10.
 
-        2.  In the **Qty. to Receive** field, enter ‘11’.
+       2.  In the **Qty. to Receive** field, enter ‘11’.
 
-    3.  On the **Lines** section, select the line for item CHW1003, and fill in
+   3.  On the **Lines** section, select the line for item CHW1003, and fill in
         the following fields:
 
-        1.  In the **Qty. to Receive** field, enter ‘4’.
+       1.  In the **Qty. to Receive** field, enter ‘4’.
 
-    4.  Select **Posting**, and then select **Post**.
+   4.  Select **Posting**, and then select **Post**.
 
-    5.  Select the **Receive** option, and click **OK**.
+   5.  Select the **Receive** option, and click **OK**.
 
 4.  Create a posted purchase invoice from the purchase order.
 
-    1.  Select **Release**, and then select **Reopen**.
+   1.  Select **Release**, and then select **Reopen**.
 
-    2.  On the **General** FastTab, fill in the following fields:
+   2.  On the **General** FastTab, fill in the following fields:
 
-        1.  In the **Posting Date** field, enter 1/24/2021.
+       1.  In the **Posting Date** field, enter 1/24/2021.
 
-        2.  In the **Vendor Invoice No.** field, enter ‘20-0747’.
+       2.  In the **Vendor Invoice No.** field, enter ‘20-0747’.
 
-    3.  On the **Invoice Details** FastTab, in the **Payment Terms Code** field,
+   3.  On the **Invoice Details** FastTab, in the **Payment Terms Code** field,
         enter ’30 DAYS’.
 
-    4.  On the **Lines** section, select the line for item CHW1002, and fill in
+   4.  On the **Lines** section, select the line for item CHW1002, and fill in
         the following fields:
 
-        1.  In the **Line Discount%** field, enter ‘5’.
+       1.  In the **Line Discount%** field, enter ‘5’.
 
-    5.  Select **Posting**, and then select **Post**.
+   5.  Select **Posting**, and then select **Post**.
 
-    6.  Select the **Invoice** option, and click **OK**.
+   6.  Select the **Invoice** option, and click **OK**.
 
 5.  Review the posted purchase receipt and invoice.
 
-    1.  Select **Related**, then select **Documents**, and then select
+  1.  Select **Related**, then select **Documents**, and then select
         **Receipts**.
 
-    2.  In the page, select the posted purchase receipt.
+  2.  In the page, select the posted purchase receipt.
 
-    3.  Select **Actions**, and then select **Find Entries**.
+  3.  Select **Actions**, and then select **Find Entries**.
 
-    4.  Select the line for **Item Ledger Entry** and select **Show Related
+  4.  Select the line for **Item Ledger Entry** and select **Show Related
         Entries**.
 
 ![Item ledger entries](media/lab5_1_item_ledger_entries.png)
 
 1.  Close the **General Ledger Entries** page.
 
-    1.  Close the **Find Entries** page.
+  1.  Close the **Find Entries** page.
 
-    2.  Select **Related**, then select **Documents**, and then select
+  2.  Select **Related**, then select **Documents**, and then select
         **Invoices**.
 
-    3.  In the page, select the posted purchase invoice.
+  3.  In the page, select the posted purchase invoice.
 
-    4.  Select **Reports**, and then select **Find Entries**.
+  4.  Select **Reports**, and then select **Find Entries**.
 
-    5.  Select the line for G/L entries and select **Show Related Entries**.
+  5.  Select the line for G/L entries and select **Show Related Entries**.
 
-    ![General ledger entries](media/lab5_1_general_ledger_entries.png)
+![General ledger entries](media/lab5_1_general_ledger_entries.png)
 
-    6.  Close the **General Ledger Entries** page.
+  6.  Close the **General Ledger Entries** page.
 
-    7.  Close the **Find Entries** page.
+  7.  Close the **Find Entries** page.
 
 ## Exercise 2: Process the return of a purchase from return order to credit memo
 
