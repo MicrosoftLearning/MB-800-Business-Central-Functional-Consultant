@@ -25,33 +25,33 @@ entire fiscal year.
 
 1.  Change the starting date of the fiscal year.
 
-    1.  Open the **Accounting Periods** page.
+   1.  Open the **Accounting Periods** page.
 
-    2.  Select the accounting period with starting date 1/1/2022 and deselect
+   2.  Select the accounting period with starting date 1/1/2022 and deselect
         the **New Fiscal Year** checkbox.
 
-    3.  Select the accounting period with starting date 7/1/2021 and select the
+   3.  Select the accounting period with starting date 7/1/2021 and select the
         **New Fiscal Year** checkbox.
 
-    4.  Leave the selection on the **New Fiscal Year** checkbox for the
+   4.  Leave the selection on the **New Fiscal Year** checkbox for the
         accounting period with starting date 1/1/2021.
 
 2.  Create accounting periods in bulk.
 
-    1.  In the **Accounting Periods** page, select **Actions** and then select
+   1.  In the **Accounting Periods** page, select **Actions** and then select
         **Create Year**.
 
-    2.  On the window that opens, fill in the following options:
+   2.  On the window that opens, fill in the following options:
 
-        1.  In the **Starting Date** field, enter 1/1/2022.
+       1.  In the **Starting Date** field, enter 1/1/2022.
 
-        2.  In the **No. of Periods** field, enter ‘6’.
+       2.  In the **No. of Periods** field, enter ‘6’.
 
-        3.  In the **Period Length** field, enter 1M.
+       3.  In the **Period Length** field, enter 1M.
 
-    3.  Click **OK**.
+   3.  Click **OK**.
 
-    4.  New accounting periods are now created, where the last accounting period
+   4.  New accounting periods are now created, where the last accounting period
         has a starting date of 7/1/2022 and the **New Fiscal Year** checkbox is
         selected.
 
@@ -93,58 +93,58 @@ opening balance on December 31st 2020.
 
 1.  Determine the local currency.
 
-    1.  Open the **General Ledger Setup** page.
+   1.  Open the **General Ledger Setup** page.
 
-    2.  In the **General** FastTab review that the following fields regarding
+   2.  In the **General** FastTab review that the following fields regarding
         local currency are filled in correctly.
 
-        1.  The **LCY Code** field must be set to USD.
+       1.  The **LCY Code** field must be set to USD.
 
-        2.  The **Local Currency Symbol** field must contain the \$ symbol.
+       2.  The **Local Currency Symbol** field must contain the \$ symbol.
 
-        3.  The **Local Currency Description** field must be filled in with ‘US
+       3.  The **Local Currency Description** field must be filled in with ‘US
             dollar’
 
-    3.  In the **General** FastTab review that the following fields regarding
+   3.  In the **General** FastTab review that the following fields regarding
         local currency rounding are filled in correctly:
 
-        1.  The **Amount Decimal Places (\$)** field must be set to 2:2.
+       1.  The **Amount Decimal Places (\$)** field must be set to 2:2.
 
-        2.  The **Unit-Amount Decimal Places (\$)** field must be set to 2:5.
+       2.  The **Unit-Amount Decimal Places (\$)** field must be set to 2:5.
 
 2.  Set up global and shortcut dimensions.
 
-    1.  In the **General Ledger Setup** page, select **Actions**, then
+   1.  In the **General Ledger Setup** page, select **Actions**, then
         **Functions** and then **Change Global Dimensions**.
 
-    2.  In the **Change Global Dimensions** page, fill in the following fields:
+   2.  In the **Change Global Dimensions** page, fill in the following fields:
 
-        1.  In the **Global Dimension 1 Code** field select the value
+       1.  In the **Global Dimension 1 Code** field select the value
             SALESPERSON.
 
-        2.  In the **Global Dimension 2 Code** field leave the value CUSTOMER
+       2.  In the **Global Dimension 2 Code** field leave the value CUSTOMER
             GROUP.
 
-    3.  Select **Sequential** and then click **Start**.
+   3.  Select **Sequential** and then click **Start**.
 
-    4.  Close the **Change Global Dimensions** page.
+   4.  Close the **Change Global Dimensions** page.
 
-    5.  In the **General Ledger Setup** page, in the **Dimensions** FastTab, in
+   5.  In the **General Ledger Setup** page, in the **Dimensions** FastTab, in
         the **Shortcut Dimension 3 Code** field select the value DEPARTMENT.
 
 3.  Allow posting in the open accounting period.
 
-    1.  In the **General Ledger Setup** page, in the **General** FastTab, fill
+   1.  In the **General Ledger Setup** page, in the **General** FastTab, fill
         in the following fields:
 
-        1.  In the **Allow Posting From** field, select 1/1/2021.
+       1.  In the **Allow Posting From** field, select 1/1/2021.
 
-        2.  In the **Allow Posting To** field, select 1/31/2021.
+       2.  In the **Allow Posting To** field, select 1/31/2021.
 
-    2.  Close the **General Ledger Setup** page.
+   2.  Close the **General Ledger Setup** page.
 
-    3.  In the **User Setup** page, select **New**.
+   3.  In the **User Setup** page, select **New**.
 
-    4.  In the **User ID** field, enter your own user id.
+   4.  In the **User ID** field, enter your own user id.
 
-    5.  In the **Allow Posting From** field, enter 12/31/2020.
+   5.  In the **Allow Posting From** field, enter 12/31/2020.
