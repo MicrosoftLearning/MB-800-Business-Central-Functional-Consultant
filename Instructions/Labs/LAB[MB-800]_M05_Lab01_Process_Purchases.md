@@ -299,7 +299,7 @@ You need to process the invoice.
 
     2.  On the **General** FastTab, fill in the following fields:
 
-        1.  In the **Vendor Name** field, enter ‘V9002’.
+        1.  In the **Vendor Name** field, enter ‘V9007’.
 
         2.  In the **Posting Date** field, enter 1/31/2021.
 
