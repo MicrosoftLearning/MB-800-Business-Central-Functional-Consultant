@@ -30,8 +30,8 @@ specific department each time an expense is made.
 Your first job is to make sure the g/l accounts are created correctly and that
 the necessary dimensions are connected.
 
-*Remark: for the income statement accounts, make sure to fill in the Tax Group
-Code with the NONTAXABLE value.*
+***Remark: for the income statement accounts, make sure to fill in the Tax Group
+Code with the NONTAXABLE value.***
 
 ### Tasks
 
@@ -43,9 +43,11 @@ Code with the NONTAXABLE value.*
 
 1.  Create a G/L Account card.
 
-  1.  In the **Chart of Accounts** page, select **New**.
+2.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Chart of Accounts** and click the **Chart of Accounts** link. 
 
-  2.  In the new general ledger account card, fill in the following fields:
+3.  In the **Chart of Accounts** page, select **New**.
+
+4.  In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘10250’
 
@@ -61,9 +63,9 @@ Code with the NONTAXABLE value.*
 
       7.  Close the **G/L Account Card** page.
 
-  3.  In the **Chart of Accounts** page, select **New**.
+5.  In the **Chart of Accounts** page, select **New**.
 
-  4.  In the new general ledger account card, fill in the following fields:
+6.  In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘10450’
 
@@ -80,11 +82,11 @@ Code with the NONTAXABLE value.*
 
       7.  Close the **G/L Account Card** page.
 
-  5.  Repeat steps c and d for the account ‘10475’.
+7.  Repeat steps c and d for the account ‘10475’.
 
-  6.  In the **Chart of Accounts** page, select **New**.
+8.  In the **Chart of Accounts** page, select **New**.
 
-  7.  In the new general ledger account card, fill in the following fields:
+9.  In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘10710’
       
@@ -100,9 +102,9 @@ Code with the NONTAXABLE value.*
 
       7.  Close the **G/L Account Card** page.
 
-  8.  In the **Chart of Accounts** page, select **New**.
+10. In the **Chart of Accounts** page, select **New**.
 
-  9.  In the new general ledger account card, fill in the following fields:
+11. In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘20150’
 
@@ -119,11 +121,11 @@ Code with the NONTAXABLE value.*
 
       7.  Close the **G/L Account Card** page.
 
-  10. Repeat steps h and i for the account ‘20175’.
+12. Repeat steps h and i for the account ‘20175’.
 
-  11. In the **Chart of Accounts** page, select **New**.
+13. In the **Chart of Accounts** page, select **New**.
 
-  12. In the new general ledger account card, fill in the following fields:
+14. In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘40210’
 
@@ -143,9 +145,9 @@ Code with the NONTAXABLE value.*
 
       8.  Close the **G/L Account Card** page.
 
-  13. In the **Chart of Accounts** page, select **New**.
+15. In the **Chart of Accounts** page, select **New**.
 
-  14. In the new general ledger account card, fill in the following fields:
+16. In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘50150’
 
@@ -165,9 +167,9 @@ Code with the NONTAXABLE value.*
 
       8.  Close the **G/L Account Card** page.
 
-  15. In the **Chart of Accounts** page, select **New**.
+17. In the **Chart of Accounts** page, select **New**.
 
-  16. In the new general ledger account card, fill in the following fields:
+18. In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘61450’
 
@@ -187,9 +189,9 @@ Code with the NONTAXABLE value.*
 
       8.  Close the **G/L Account Card** page.
 
-  17. In the **Chart of Accounts** page, select **New**.
+19. In the **Chart of Accounts** page, select **New**.
 
-  18. In the new general ledger account card, fill in the following fields:
+20. In the new general ledger account card, fill in the following fields:
 
       1.  In the **No.** field, enter ‘61850’
 
@@ -209,26 +211,26 @@ Code with the NONTAXABLE value.*
 
       8.  Close the **G/L Account Card** page.
 
-  19. In the **Chart of Accounts** page, select **Process** and then select
-        **Indent Chart of Accounts**.
+21. In the **Chart of Accounts** page, select **Process** and then select
+    **Indent Chart of Accounts**.
 
-  20. Click **Yes**.
+22. Click **Yes**.
 
-2.  Assign default dimensions to multiple G/L Accounts.
+23. Assign default dimensions to multiple G/L Accounts.
 
-  1.  In the **Chart of Accounts** page, select general ledger accounts 60700
-        until 61100.
+24. In the **Chart of Accounts** page, select general ledger accounts 60700
+    until 61100.
 
-  2.  Select **Related**, then **Account**, then **Dimensions** and then
-        select **Dimensions – Multiple**.
+25. Select **Related**, then **Account**, then **Dimensions** and then
+    select **Dimensions – Multiple**.
 
-  3.  In the **Default Dimensions-Multiple** page, select **New**.
+26. In the **Default Dimensions-Multiple** page, select **New**.
 
-  4.  In the **Dimensions Code** field, enter DEPARTMENT.
+27. In the **Dimensions Code** field, enter DEPARTMENT.
 
-  5.  In the **Value Posting** field, enter the value **Code Mandatory**.
+28. In the **Value Posting** field, enter the value **Code Mandatory**.
 
-  6.  Click **OK**.
+29. Click **OK**.
 
 ## Exercise 2: Set up posting groups
 
@@ -267,25 +269,27 @@ Posting Setup.
 
 1.  Create a VAT Product Posting Group.
 
-  1.  In the **VAT Product Posting Groups** page, select **New**.
+2.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **VAT Product Posting Groups**, then click the link **VAT Product Posting Groups**.
 
-  2.  In the **Code** field, enter G15.
-  
-  3.  In the **Description** field, enter ‘Goods 15%’.
+3.  In the **VAT Product Posting Groups** page, select **New**.
 
-2.  Create a VAT Business Posting Group.
+4.  In the **Code** field, enter G15.
 
-  1.  In the **VAT Business Posting Groups** page, select **New**.
+5.  In the **Description** field, enter ‘Goods 15%’.
 
-  2.  In the **Code** field, enter EU.
+6.  Create a VAT Business Posting Group.
 
-  3.  In the **Description** field, enter ‘EU’.
+7.  In the **VAT Business Posting Groups** page, select **New**.
 
-3.  Complete the Tax Posting Setup.
+8.  In the **Code** field, enter EU.
 
-  1.  In the **Tax Posting Setup** page, select **New**.
+9.  In the **Description** field, enter ‘EU’.
 
-  2.  In the new tax posting setup card, fill in the following fields:
+10. Complete the Tax Posting Setup.
+
+11. In the **Tax Posting Setup** page, select **New**.
+
+12. In the new tax posting setup card, fill in the following fields:
 
       1.  In the **VAT Bus. Posting Group** field, enter EU.
 
@@ -301,48 +305,47 @@ Posting Setup.
 
       7.  In the Sales Tax Account field, enter 61850.
 
-4.  Create a Product Posting Group.
+13. Create a Product Posting Group.
 
-  1.  In the **General Product Posting Groups** page, select **New**.
+14. In the **General Product Posting Groups** page, select **New**.
 
-  2.  In the **Code** field, enter COMPUTERHW.
+15. In the **Code** field, enter COMPUTERHW.
 
-  3.  In the **Description** field, enter ‘computer hardware’.
+16. In the **Description** field, enter ‘computer hardware’.
 
-  4.  In the **Def. VAT Prod. Posting Group** field, enter G15.
+17. In the **Def. VAT Prod. Posting Group** field, enter G15.
 
-5.  Create a Business Posting Group
+18. Create a Business Posting Group
 
-  1.  In the **Gen. Business Posting Groups** page, select **New**.
+19. In the **Gen. Business Posting Groups** page, select **New**.
 
-  2.  In the **Code** field, enter EU.
+20. In the **Code** field, enter EU.
 
-  3.  In the **Description** field, enter ‘EU customer and vendors’.
+21. In the **Description** field, enter ‘EU customer and vendors’.
 
-  4.  In the **Def. VAT Bus. Posting Group** field, enter EU.
+22. In the **Def. VAT Bus. Posting Group** field, enter EU.
 
-  5.  In the **Gen. Business Posting Groups** page, select **New**.
+23. In the **Gen. Business Posting Groups** page, select **New**.
 
-  6.  In the **Code** field, enter EXPORT.
+24. In the **Code** field, enter EXPORT.
 
-  7.  In the **Description** field, enter ‘Export customer and vendors’.
+25. In the **Description** field, enter ‘Export customer and vendors’.
 
-  8.  Leave the **Def. VAT Bus. Posting Group** field blank.
+26. Leave the **Def. VAT Bus. Posting Group** field blank.
 
-6.  Complete the General Posting Setup.
+27. Complete the General Posting Setup.
 
-  1.  In the **General Posting Setup** page, select **New**.
+28. In the **General Posting Setup** page, select **New**.
 
-  2.  In the new general posting setup card, in the **General** FastTab, fill
-        in the following fields:
+29. In the new general posting setup card, in the **General** FastTab, fill in the following fields:
 
       1.  In the **Gen. Bus. Posting Group** field, fill in EU.
 
       2.  In the **Gen. Prod. Posting Group** field, fill in COMPUTERHW.
 
-  3.  Select **Copy**.
+30. Select **Copy**.
 
-  4.  In the page that opens, fill in the following fields:
+31. In the page that opens, fill in the following fields:
 
       1.  In the **Gen. Bus. Posting Group** field, fill in DOMESTIC.
       
@@ -354,32 +357,29 @@ Posting Setup.
 
       5.  Click **OK**.
 
-  5.  In the new general posting setup card, in the **Sales** FastTab, change
-        the following fields:
+32. In the new general posting setup card, in the **Sales** FastTab, change the following fields:
 
       1.  In the **Sales Account** field, change 40200 to 40210
 
       2.  In the **Sales Credit Memo Account** field, change 40200 to 40210
 
-  6.  In the new general posting setup card, in the **Purchases** FastTab,
-        change the following fields:
+33. In the new general posting setup card, in the **Purchases** FastTab, change the following fields:
 
       1.  In the **Purch. Account** field, change 10700 to 50150.
 
       2.  In the **Purch. Credit Memo Account** field, change 10700 to 50150.
 
-  7.  In the **General Posting Setup** page, select **New**.
+34. In the **General Posting Setup** page, select **New**.
 
-  8.  In the new general posting setup card, in the **General** FastTab, fill
-        in the following fields:
+35. In the new general posting setup card, in the **General** FastTab, fill in the following fields:
 
       1.  In the **Gen. Bus. Posting Group** field, fill in EXPORT.
 
       2.  In the **Gen. Prod. Posting Group** field, fill in COMPUTERHW.
        
-  9.  Select **Copy**.
+36. Select **Copy**.
 
-  10. In the page that opens, fill in the following fields:
+37. In the page that opens, fill in the following fields:
 
       1.  In the **Gen. Bus. Posting Group** field, fill in EU.
 
