@@ -32,9 +32,11 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
 1.  Set up a journal for opening entries
 
-   1.  In the **General Journal Templates** page, select **New**.
+2.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Journal Templates**, and click the the **General Journal Templates** link. 
 
-   2.  Fill in the following fields:
+3.  In the **General Journal Templates** page, select **New**.
+
+4.  Fill in the following fields:
 
        1.  In the **Name** field, enter OPENING
 
@@ -49,33 +51,33 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
        6.  Deselect the **Copy Tax Setup to Jnl.** check box.
 
-2.  Set up different batches for customer, vendor, balance, and bank.
+5.  Set up different batches for customer, vendor, balance, and bank.
 
-   1.  In the **General Journal Templates** page, make sure the OPENING journal
-        is selected.
+6.  In the **General Journal Templates** page, make sure the OPENING journal
+    is selected.
 
-   2.  Select **Related**, then select **Template** and then select
-        **Batches**.
+7.  Select **Related**, then select **Template** and then select
+    **Batches**.
 
-   3.  In the opened **General Journal Batches** page, select **New**.
+8.  In the opened **General Journal Batches** page, select **New**.
 
-   4.  Fill in the following fields:
+9.  Fill in the following fields:
 
        1.  In the **Name** field, enter BALANCE.
 
        2.  In the **Description** field, enter ‘opening g/l balance account’.
 
-   5.  In the opened **General Journal Batches** page, select **New**.
+10. In the opened **General Journal Batches** page, select **New**.
 
-   6.  Fill in the following fields:
+11. Fill in the following fields:
 
        1.  In the **Name** field, enter BANK.
 
        2.  In the **Description** field, enter ‘opening bank balance’.
 
-   7.  In the opened **General Journal Batches** page, select **New**.
+12. In the opened **General Journal Batches** page, select **New**.
 
-   8.  Fill in the following fields:
+13. Fill in the following fields:
 
        1.  In the **Name** field, enter CUST.
 
@@ -84,9 +86,9 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
        3.  In the **Bal. Account No.** field, enter 10400
 
-   9.  In the opened **General Journal Batches** page, select **New**.
+14. In the opened **General Journal Batches** page, select **New**.
 
-   10. Fill in the following fields:
+15. Fill in the following fields:
 
        1.  In the **Name** field, enter VEND.
 
