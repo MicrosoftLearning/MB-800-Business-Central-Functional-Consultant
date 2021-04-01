@@ -384,14 +384,14 @@ user.
 
    7.  Then press ENTER or TAB.
 
-   8.  You will be asked to check related tables, click **No**.
+   8.  Select the **Dimensions as Columns** check box.
 
-   9.  Select the **Dimensions as Columns** check box.
+   9.  Click **Yes** to add the related dimension tables.
 
-   10. Click **Yes** to add the related dimension tables.
-
-   11. Make sure the customer table line is selected, select **Table** and then
+   10. Make sure the customer table line is selected, select **Table** and then
         **Fields**.
+
+   11.  You will be asked to check related tables, click **No**.
 
    12. On the field list page, first select **Clear Included**, to deselect the
         **Include Field** checkbox for all the fields.
@@ -435,13 +435,13 @@ user.
        3.  Open the assist edit button to the right of the **Table ID** field,
             select the table for customers (ID = 18) and click **OK**.
 
-       4.  Select the **Enabled** check box.
+       4.  Set the **Enabled** toggle switch to **Enabled**.
 
        5.  In the **Lines** section on the page, create the following line:
 
           1.  In the **Type** field, enter **Field**.
 
-          2.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
+          2.  In the **Field Name** field, select **Gen. Bus. Posting Group**.
 
           3.  In the **Default Value** field, enter DOMESTIC
 
@@ -459,7 +459,7 @@ user.
 
           2.  In the **Field Name** field, enter **Document Sending Profile**.
 
-          3.  In the **Default Value** field, enter MAIL&PDF
+          3.  In the **Default Value** field, enter **DIRECTFILE**
 
        8.  In the Lines section on the page, create the following line:
 

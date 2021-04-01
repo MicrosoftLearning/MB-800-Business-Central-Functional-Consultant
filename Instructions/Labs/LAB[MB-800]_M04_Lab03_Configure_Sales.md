@@ -44,7 +44,7 @@ specific sales person as follows:
 
 -   C00030 New Concepts Furniture is a customer from Peter Saddow
 
-Also don’t forget to assign de SALESPERSON dimension to each sales person.
+Also don’t forget to assign the SALESPERSON dimension to each sales person.
 
 ### Tasks
 

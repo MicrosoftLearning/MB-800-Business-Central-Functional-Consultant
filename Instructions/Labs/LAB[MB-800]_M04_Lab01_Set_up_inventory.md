@@ -450,7 +450,7 @@ template.
 
     32. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute ‘Color’, select the value ‘grey’.
+        1.  For the attribute ‘Color’, select the value ‘gray’.
 
         2.  Click **OK** to close the FactBox.
 
@@ -473,7 +473,7 @@ template.
 
     38. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute ‘Color’, select the value ‘grey’.
+        1.  For the attribute ‘Color’, select the value ‘gray’.
 
         2.  Click **OK** to close the FactBox.
 

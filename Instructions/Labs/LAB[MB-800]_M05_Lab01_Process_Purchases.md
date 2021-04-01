@@ -23,7 +23,7 @@ The purchase request is confirmed by the vendor on January 15th, 2021 with order
 confirmation OC15-479. They mention a delivery delay of a couple of days,
 expecting to be able to deliver the entire order on January 22nd, 2021.
 
-Eventually the goods are delivered with delivery note DN01-47 on January 23th,
+Eventually the goods are delivered with delivery note DN01-47 on January 23rd,
 2021 as follows:
 
 -   11 boxes of the 15” flat panel – this is 1 box more than ordered
@@ -200,7 +200,7 @@ out to be damaged. Cronus Cardoxy Sales will refund these items on return, which
 is done on January 24th, 2021.
 
 The purchase credit memo, with the same payment conditions as the invoice, and
-with number 20-CN0747, is received by mail on January 31th, 2021. The correct
+with number 20-CN0747, is received by mail on January 31st, 2021. The correct
 amount of \$ 4,999.89 a box will be repaid to Contoso.
 
 ### Tasks

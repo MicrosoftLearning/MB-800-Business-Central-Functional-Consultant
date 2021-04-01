@@ -26,6 +26,8 @@ data.
 
 2.  Complete the Company Setup wizard.
 
+3.  Configure the new company.
+
 ### Steps
 
 1.  Create a new company.
@@ -108,6 +110,8 @@ You will start by copying the following data from the default CRONUS company:
 
 2.  Copy data from another database company.
 
+3.  Create additional reporting currencies.
+
 ### Steps
 
 1.  Complete the configuration worksheet.
@@ -146,3 +150,76 @@ You will start by copying the following data from the default CRONUS company:
    5.  In the menu select **Copy Data**.
 
    6.  The data is now copied in the new company.
+
+3.  Create additional reporting currency for Denmark.
+
+   1.  Open the **Currencies** page.
+
+   2.  In the menu on the **Currencies** page, select **New**.
+
+   3.  In the **Code** field, enter **DKK**.
+
+   4.  In the **Description** field, enter **Denmark**.
+
+   5.  In the **ISO Code** field, enter **DKK**.
+
+   6.  In the **ISO Numberic Code** field, enter **208**.
+
+   7.  In the **Reliazed Gains Acc.** field, enter **40500**.
+
+4.  Create additional reporting currency for Malaysia.
+
+   1.  Open the **Currencies** page.
+
+   2.  In the menu on the **Currencies** page, select **New**.
+
+   3.  In the **Code** field, enter **MYR**.
+
+   4.  In the **Description** field, enter **Malaysia**.
+
+   5.  In the **ISO Code** field, enter **MYR**.
+
+   6.  In the **ISO Numberic Code** field, enter **458**.
+
+   7.  In the ** Symbol** field, enter **RM**.
+
+   8.  In the **Reliazed Gains Acc.** field, enter **40500**.
+
+5.  Create additional reporting currency for the UK.
+
+   1.  Open the **Currencies** page.
+
+   2.  In the menu on the **Currencies** page, select **New**.
+
+   3.  In the **Code** field, enter **GBP**.
+
+   4.  In the **Description** field, enter **United Kingdom**.
+
+   5.  In the **ISO Code** field, enter **GBP**.
+
+   6.  In the **ISO Numberic Code** field, enter **826**.
+
+   7.  In the **Reliazed Gains Acc.** field, enter **40500**.
+
+6.  Create additional reporting currency for South Africa.
+
+   1.  Open the **Currencies** page.
+
+   2.  In the menu on the **Currencies** page, select **New**.
+
+   3.  In the **Code** field, enter **ZAR**.
+
+   4.  In the **Description** field, enter **South Africa**.
+
+   5.  In the **ISO Code** field, enter **ZAR**.
+
+   6.  In the **ISO Numberic Code** field, enter **710**.
+
+   7.  In the ** Symbol** field, enter **R**
+
+   8.  In the **Reliazed Gains Acc.** field, enter **40500**.
+
+
+
+
+

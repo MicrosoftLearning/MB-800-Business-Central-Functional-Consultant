@@ -135,7 +135,7 @@ met:
     3.  A workflow is created, in the **Code** field, the value MS-POAPW-01 is
         automatically filled in.
 
-    4.  On the **Worflow Steps** FastTab, select the first line where the **When
+    4.  On the **Workflow Steps** FastTab, select the first line where the **When
         Event** field contains the value ‘Approval of a purchase document is
         requested’
 
@@ -176,7 +176,7 @@ met:
     11. A workflow is created, in the **Code** field, the value MS-POAPW-02 is
         automatically filled in.
 
-    12. On the **Worflow Steps** FastTab, select the first line where the **When
+    12. On the **Workflow Steps** FastTab, select the first line where the **When
         Event** field contains the value ‘Approval of a purchase document is
         requested’
 

@@ -156,7 +156,7 @@ groups will be based on this group, but with different balance accounts (20150
 for foreign vendors and 20175 for intercompany vendors).
 
 During the implementation process most of the master data for vendors was
-already imported. These vendors, will now have to be configured correctly by
+already imported. These vendors will now have to be configured correctly by
 adding the correct posting groups. First create templates based on the different
 posting groups. Then apply these templates to the existing vendors.
 
@@ -204,7 +204,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        2.  Payment Disc. Credit Acc.
 
-       3.  Invoice Rouding Account
+       3.  Invoice Rounding Account
 
        4.  Debit Curr. Appln. Rndg. Acc.
 

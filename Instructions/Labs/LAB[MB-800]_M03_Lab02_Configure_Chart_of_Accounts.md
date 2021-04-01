@@ -149,7 +149,7 @@ Code with the NONTAXABLE value.*
 
       1.  In the **No.** field, enter ‘50150’
 
-      2.  In the **Name** field, enter ‘Materials - Computerhardware’.
+      2.  In the **Name** field, enter ‘Materials - Computer Hardware’.
 
       3.  In the **Income/Balance** field, enter the value **Income
             Statement**.

@@ -99,8 +99,8 @@ The following information is returned to you by Contoso’s super user:
 
    1.  Open the exported excel file from the download folder.
 
-   2.  Enter the information as provided by Contoso.
-
+   2.  Enter the information as provided by Contoso in the scenario description above, or use the provided Vendor Import.xlsx file.
+   
    3.  Save the excel file.
 
 ## Exercise 2: Import and apply a configuration package
@@ -132,7 +132,7 @@ values.
    2.  In the **Config. Package Card** page, select **Actions**, then select
         **Package**, and then **Import from Excel**.
 
-   3.  Click **Choose…** and select the excel file.
+   3.  Click **Choose…** and select the Excel file.   
 
    4.  Click **Open**.
 
