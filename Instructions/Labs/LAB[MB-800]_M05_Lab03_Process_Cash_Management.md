@@ -36,132 +36,121 @@ balance to be posted on December 31st, 2020.
 
 1.  Prepare the journal for the G/L opening balance.
 
-    1.  First make sure your work date is set to 31/12/2020.
+2.  First make sure your work date is set to 31/12/2020.
 
-    2.  On the general journals list page, select the OPENING journal.
+3.  On the general journals list page, select the OPENING journal.
 
-    3.  Open the assist edit button to the right of the **Batch Name** field.
+4.  Open the assist edit button to the right of the **Batch Name** field.
 
-        1.  Select the BALANCE journal batch.
+      1.  Select the BALANCE journal batch.
 
-        2.  Click **OK**.
+      2.  Click **OK**.
 
-    4.  Select **Actions**, then select **Opening Balance**, then select
-        **Prepare journal** and then select **G/L Accounts Opening Balance**.
+5.  Select **Actions**, then select **Opening Balance**, then select **Prepare journal** and then select **G/L Accounts Opening Balance**.
 
-    5.  The journal lines are automatically filled in for all balance accounts.
+6.  The journal lines are automatically filled in for all balance accounts.
 
-2.  Create and export a configuration package including dimension information.
+7.  Create and export a configuration package including dimension information.
 
-    1.  In the **Configuration Packages** page, click **New** to create a new
-        configuration package.
+8.  In the **Configuration Packages** page, click **New** to create a new configuration package.
 
-    2.  In the **Code** field, enter OPENING.
+9.  In the **Code** field, enter OPENING.
 
-    3.  In the **Package Name** field, enter Opening Balances.
+10. In the **Package Name** field, enter Opening Balances.
 
-    4.  On the **Tables** section of the Config. Package Card, enter a new line
-        as follows.
+11. On the **Tables** section of the Config. Package Card, enter a new line as follows.
 
-    5.  Open the assist edit button to the right of the **Table ID** field.
+12. Open the assist edit button to the right of the **Table ID** field.
 
-    6.  In the window that opens, select the **Gen. Journal Line** table and
-        click **OK**.
+13. In the window that opens, select the **Gen. Journal Line** table and click **OK**.
 
-    7.  Then press ENTER or TAB.
+14. Then press ENTER or TAB.
 
-    8.  You will be asked to check related tables, click **No**.
+15. You will be asked to check related tables, click **No**.
 
-    9.  Make sure the general journal line table line is selected.
+16. Make sure the general journal line table line is selected.
 
-    10. Select the **Dimensions as Columns** checkbox.
+17. Select the **Dimensions as Columns** checkbox.
 
-    11. Select the **Delete Table Records Before Processing** checkbox.
+18. Select the **Delete Table Records Before Processing** checkbox.
 
-    12. Select **Table** and then **Fields**.
+19. Select **Table** and then **Fields**.
 
-    13. On the field list page, first select **Clear Included**, to deselect the
-        **Include Field** checkbox for all the fields.
+20. On the field list page, first select **Clear Included**, to deselect the **Include Field** checkbox for all the fields.
 
-    14. Then select the **Include Field** checkbox for the following fields:
+21. Then select the **Include Field** checkbox for the following fields:
 
-        1.  Account Type
+      1.  Account Type
 
-        2.  Account No.
+      2.  Account No.
 
-        3.  Posting Date
+      3.  Posting Date
 
-        4.  Document Type
+      4.  Document Type
 
-        5.  Document No.
+      5.  Document No.
 
-        6.  Description
+      6.  Description
 
-        7.  Currency Code
+      7.  Currency Code
 
-        8.  Amount
+      8.  Amount
 
-        9.  Amount (LCY)
+      9.  Amount (LCY)
 
-        10. Document Date
+      10. Document Date
 
-        11. External Document No.
+      11. External Document No.
 
-    15. The **Validate Field** checkbox is automatically selected.
+22. The **Validate Field** checkbox is automatically selected.
 
-    16. Click **Close**.
+23. Click **Close**.
 
-    17. In the **Config. Package Card** page, select **Actions**, then
-        **Package**, and then **Export to Excel**.
+24. In the **Config. Package Card** page, select **Actions**, then **Package**, and then **Export to Excel**.
 
-    18. Click **Yes** to export the configuration package.
+25. Click **Yes** to export the configuration package.
 
-3.  Prepare data in excel.
+26. Prepare data in excel.
 
-    1.  Open the exported excel file from the download folder.
+27. Open the exported excel file from the download folder.
 
-    2.  Delete the lines that are exported to Excel, so that you can start from
-        a blank Excel template.
+28. Delete the lines that are exported to Excel, so that you can start from a blank Excel template.
 
-    3.  Enter the information as provided by Contoso.
+29. Enter the information as provided by Contoso.
 
-    4.  Save the excel file.
+30. Save the excel file.
 
-4.  Import and apply the configuration package.
+31. Import and apply the configuration package.
 
-    1.  In the **Configuration Packages** page, select the new configuration
-        package for opening balances and select **Manage** and then **Edit**.
+32. In the **Configuration Packages** page, select the new configuration package for opening balances and select **Manage** and then **Edit**.
 
-    2.  In the **Config. Package Card** page, select **Actions**, then select
-        **Package**, and then **Import from Excel**.
+33. In the **Config. Package Card** page, select **Actions**, then select **Package**, and then **Import from Excel**.
 
-    3.  Click **Choose…** and select the excel file.
+34. Click **Choose…** and select the excel file.
 
-    4.  Click **Open**.
+35. Click **Open**.
 
-    5.  In the preview page, select **Import**.
+36. In the preview page, select **Import**.
 
-    6.  In the **Config. Package Card** page, select **Actions**, then select
-        **Functions**, and then **Apply Package**.
+37. In the **Config. Package Card** page, select **Actions**, then select **Functions**, and then **Apply Package**.
 
-    7.  Click **Yes**.
+38. Click **Yes**.
 
-5.  Post the general journal.
+39. Post the general journal.
 
-    1.  Make sure the **Allow Posting From** field, on the **General Ledger
-        Setup** page, is set to 12/31/2020.
+40. Make sure the **Allow Posting From** field, on the **General Ledger Setup** page, is set to 12/31/2020.
 
-    2.  On the general journals list page, select the OPENING journal.
+41. On the general journals list page, select the OPENING journal.
 
-    3.  Open the assist edit button to the right of the **Batch Name** field.
+42. Open the assist edit button to the right of the **Batch Name** field.
 
-        1.  Select the BALANCE journal batch.
+      1.  Select the BALANCE journal batch.
 
-        2.  Click **OK**.
+      2.  Click **OK**.
 
-    4.  Select **Post/Print**, and then select **Post**.
+43. Select **Post/Print**, and then select **Post**.
 
-    5.  Click **Yes**.
+44. Click **Yes**.
 
 ## Exercise 2: Create and post journal entries
 
@@ -188,46 +177,45 @@ these opening ledger entries)*
 
 ### Steps
 
-1.  Import and apply a predefined package containing historical data (customer
-    and vendor open entries).
+1.  Import and apply a predefined package containing historical data (customer and vendor open entries).
 
-    1.  On the **Configuation Packages** page, select **Process** and then
-        select **Import Package**.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Configuation Packages** and click the **Configuation Packages** link.
 
-    2.  Click **Choose…** and select the rapidstart package for Lab 5.3.
+3.  On the **Configuation Packages** page, select **Process** and then select **Import Package**.
 
-    3.  Click **Open**.
+4.  Click **Choose…** and select the rapidstart package for Lab 5.3.
 
-    4.  In the preview page, select **Import**.
+5.  Click **Open**.
 
-    5.  In the **Config. Package Card** page, select **Actions**, then select
-        **Functions** and then **Apply Package**.
+6.  In the preview page, select **Import**.
 
-    6.  Click **Yes**.
+7.  In the **Config. Package Card** page, select **Actions**, then select **Functions** and then **Apply Package**.
 
-2.  Post the general journal.
+8.  Click **Yes**.
 
-    1.  On the general journals list page, select the OPENING journal.
+9.  Post the general journal.
 
-    2.  Open the assist edit button to the right of the **Batch Name** field.
+10. On the general journals list page, select the OPENING journal.
 
-        1.  Select the CUST journal batch.
+11. Open the assist edit button to the right of the **Batch Name** field.
 
-        2.  Click **OK**.
+      1.  Select the CUST journal batch.
 
-    3.  Select **Post/Print**, and then select **Post**.
+      2.  Click **OK**.
 
-    4.  Click **Yes**.
+12. Select **Post/Print**, and then select **Post**.
 
-    5.  Open the assist edit button to the right of the **Batch Name** field.
+13. Click **Yes**.
 
-        1.  Select the VEND journal batch.
+14. Open the assist edit button to the right of the **Batch Name** field.
 
-        2.  Click **OK**.
+      1.  Select the VEND journal batch.
 
-    6.  Select **Post/Print**, and then select **Post**.
+      2.  Click **OK**.
 
-    7.  Click **Yes**.
+15. Select **Post/Print**, and then select **Post**.
+
+16. Click **Yes**.
 
 ## Exercise 3: Process vendor payments
 
@@ -258,86 +246,83 @@ using the EUROP payment journal, with a new batch PAY1.
 
 1.  Create a vendor bank account.
 
-    1.  On the **Vendors** list page, select vendor PURE-LOOK.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Vendors** and click the **Vendors** link.
 
-    2.  Select **Manage** and then select **Edit**.
+3.  On the **Vendors** list page, select vendor PURE-LOOK.
 
-    3.  On the vendor card, go to the **Invoicing** Fast Tab.
+4.  Select **Manage** and then select **Edit**.
 
-    4.  In the **Preferred Bank Account Code** field, click on the Look Up Value
-        button and click **New**.
+5.  On the vendor card, go to the **Invoicing** Fast Tab.
 
-    5.  On the opened vendor bank account card, fill in the following fields:
+6.  In the **Preferred Bank Account Code** field, click on the Look Up Value button and click **New**.
 
-        1.  On the **General** FastTab, fill in the following fields:
+7.  On the opened vendor bank account card, fill in the following fields:
 
-            1.  In the **Code** field, enter SNS.
+8.  On the **General** FastTab, fill in the following fields:
 
-            2.  In the **Name** field, enter ‘Pure-Look’.
+      1.  In the **Code** field, enter SNS.
 
-            3.  In the **Country/Region Code** field, enter BE.
+      2.  In the **Name** field, enter ‘Pure-Look’.
 
-            4.  In the **Currency Code** field, enter EUR.
+      3.  In the **Country/Region Code** field, enter BE.
 
-        2.  On the **Transfer** FastTab, fill in the following fields:
+      4.  In the **Currency Code** field, enter EUR.
 
-            1.  In the **SWIFT Code** field, enter BBRUBEBB.
+9.  On the **Transfer** FastTab, fill in the following fields:
 
-            2.  In the **IBAN** field, enter BE67290004614187.
+      1.  In the **SWIFT Code** field, enter BBRUBEBB.
 
-            3.  Select the **Use for Electronic Payments** checkbox.
+      2.  In the **IBAN** field, enter BE67290004614187.
 
-        3.  Click **OK**.
+      3.  Select the **Use for Electronic Payments** checkbox.
 
-    6.  The new vendor bank account is automatically filled in in the
-        **Preferred Bank Account Code** field on the vendor card.
+10. Click **OK**.
 
-2.  Suggest vendor payments.
+11. The new vendor bank account is automatically filled in in the **Preferred Bank Account Code** field on the vendor card.
 
-    1.  On the payment journals list page, select the EUROP journal.
+12. Suggest vendor payments.
 
-    2.  Open the assist edit button to the right of the **Batch Name** field.
+13. On the payment journals list page, select the EUROP journal.
 
-    3.  On the opened **General Journal Batches** page, click **New** and fill
-        in the following fields:
+14. Open the assist edit button to the right of the **Batch Name** field.
 
-        1.  In the **Name** field, enter PAY1.
+15. On the opened **General Journal Batches** page, click **New** and fill in the following fields:
 
-        2.  In the **Description** field, enter ‘Payment January 2021’.
+      1.  In the **Name** field, enter PAY1.
 
-        3.  In the **Bal. Account Type** field, enter Bank Account.
+      2.  In the **Description** field, enter ‘Payment January 2021’.
 
-        4.  In the **Bal. Account No.** field, enter EUROP.
+      3.  In the **Bal. Account Type** field, enter Bank Account.
 
-        5.  In the **No. Series** field, the value GJNL-PMT is automatically
-            filled in.
+      4.  In the **Bal. Account No.** field, enter EUROP.
 
-        6.  Click **OK**.
+      5.  In the **No. Series** field, the value GJNL-PMT is automatically filled in.
 
-    4.  The new batch PAY1, is automatically filled in in the **Batch Name**
-        field on the payment journal.
+      6.  Click **OK**.
 
-    5.  Select **Prepare**, and then select **Suggest Vendor Payments**.
+16. The new batch PAY1, is automatically filled in in the **Batch Name** field on the payment journal.
 
-        1.  On the **Options** FastTab, fill in the following fields:
+17. Select **Prepare**, and then select **Suggest Vendor Payments**.
 
-            1.  In the **Last Payment Date** field, enter 1/31/2021.
+18. On the **Options** FastTab, fill in the following fields:
 
-            2.  Leave the **Check Other Journal Batches** checkbox selected.
+      1.  In the **Last Payment Date** field, enter 1/31/2021.
 
-            3.  Select the **Summarize per Vendor** checkbox.
+      2.  Leave the **Check Other Journal Batches** checkbox selected.
 
-        2.  On the **Filter:Vendor** FastTab, in the **No**. filter, enter
-            V9005.
+      3.  Select the **Summarize per Vendor** checkbox.
 
-        3.  Click **OK** to perform the batch job and automatically fill in the
-            lines in the payment journal.
+19. On the **Filter:Vendor** FastTab, in the **No**. filter, enter
+    V9005.
 
-3.  Process payment journals.
+20. Click **OK** to perform the batch job and automatically fill in the
+    lines in the payment journal.
 
-    1.  Select **Bank**, and then select **Export**.
+21. Process payment journals.
 
-    2.  Select **Post/Print**, and then select **Post**.
+22. Select **Bank**, and then select **Export**.
+
+23. Select **Post/Print**, and then select **Post**.
 
 ## Exercise 4: Process customer payments
 
@@ -367,59 +352,56 @@ invoices.
 
 1.  Review payment registration setup.
 
-    1.  On the **Payment Registration Setup** page, make sure following fields
-        are entered.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Payment Registration Setup** and click the **Payment Registration Setup** link.
 
-        1.  In the **Journal Template Name** field, enter CASHRCPT.
+3.  On the **Payment Registration Setup** page, make sure following fields are entered.
 
-        2.  In the **Journal Batch Name** field, enter GENERAL.
+      1.  In the **Journal Template Name** field, enter CASHRCPT.
 
-        3.  In the **Balancing Account Type** field, enter Bank Account.
+      2.  In the **Journal Batch Name** field, enter GENERAL.
 
-        4.  In the **Balancing Account** field, enter CHECKING.
+      3.  In the **Balancing Account Type** field, enter Bank Account.
 
-        5.  Select the **Use this Account as Default** checkbox.
+      4.  In the **Balancing Account** field, enter CHECKING.
 
-        6.  Deselect the **Automatically Fill Date Received** checkbox.
+      5.  Select the **Use this Account as Default** checkbox.
 
-2.  Process payment registrations.
+      6.  Deselect the **Automatically Fill Date Received** checkbox.
 
-    1.  Click on the **Payment Registrations** task, to open the **Register
-        Customer Payments** page.
+4.  Process payment registrations.
 
-    2.  Select **Settings**, and then select **Personalize**.
+5.  Click on the **Payment Registrations** task, to open the **Register Customer Payments** page.
 
-        1.  Select **+ Field**.
+6.  Select **Settings**, and then select **Personalize**.
 
-        2.  Place the **Document No.** field on the page.
+      1.  Select **+ Field**.
 
-        3.  Click **Done**.
+      2.  Place the **Document No.** field on the page.
 
-    3.  Select the line for document S20/12/0976.
+      3.  Click **Done**.
 
-        1.  Select the **Payment Made** field.
+7.  Select the line for document S20/12/0976.
 
-        2.  In the **Date Received** field, enter 1/24/2021.
+      1.  Select the **Payment Made** field.
 
-        3.  The **Amount Received** field is automatically filled in with
-            1,087.12.
+      2.  In the **Date Received** field, enter 1/24/2021.
 
-    4.  Select the line for document S20/12/1576.
+      3.  The **Amount Received** field is automatically filled in with 1,087.12.
 
-        1.  Select the **Payment Made** field.
+8.  Select the line for document S20/12/1576.
 
-        2.  In the **Date Received** field, enter 1/24/2021.
+      1.  Select the **Payment Made** field.
 
-        3.  The **Amount Received** field is automatically filled in with
-            2,687.68.
+      2.  In the **Date Received** field, enter 1/24/2021.
 
-    5.  Select the line for document S20/12/2687.
+      3.  The **Amount Received** field is automatically filled in with 2,687.68.
 
-        1.  Select the **Payment Made** field.
+9.  Select the line for document S20/12/2687.
 
-        2.  In the **Date Received** field, enter 1/24/2021.
+      1.  Select the **Payment Made** field.
 
-        3.  In the **Amount Received** field, enter 3,000.00.
+      2.  In the **Date Received** field, enter 1/24/2021.
 
-    6.  Select **Posting**, then select **Post** and then select **Post as Lump
-        Payment**.
+      3.  In the **Amount Received** field, enter 3,000.00.
+
+10. Select **Posting**, then select **Post** and then select **Post as Lump Payment**.
