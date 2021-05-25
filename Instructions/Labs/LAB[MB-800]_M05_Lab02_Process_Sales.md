@@ -59,179 +59,171 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 1.  Create a contact.
 
-   1.  In the **Contacts** list page, select **New**.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Contacts** and click the **Contacts** link.
 
-   2.  On the **General** FastTab, fill in the following fields:
+3.  In the **Contacts** list page, select **New**.
 
-       1.  In the **Name** field, enter ‘Francematic’.
+4.  On the **General** FastTab, fill in the following fields:
 
-       2.  In the **Type** field, leave the default value **Company**.
+     1.  In the **Name** field, enter ‘Francematic’.
 
-   3.  On the **Communication** FastTab, fill in the following fields:
+     2.  In the **Type** field, leave the default value **Company**.
 
-       1.  In the **Address** field, enter ‘19 Boulevard Commanderie’.
+5.  On the **Communication** FastTab, fill in the following fields:
 
-       2.  In the **Country/Region Code** field, enter FR.
+     1.  In the **Address** field, enter ‘19 Boulevard Commanderie’.
 
-       3.  In the **ZIP Code** field, enter FR-78370.
+     2.  In the **Country/Region Code** field, enter FR.
 
-       4.  The **City** field is automatically filled in with the value
-            PLAISIR.
+     3.  In the **ZIP Code** field, enter FR-78370.
 
-   4.  On the **Foreign Trade** FastTab, leave the **Currency Code** field
-        blank.
+     4.  The **City** field is automatically filled in with the value PLAISIR.
 
-2.  Create a sales quote for a contact.
+6.  On the **Foreign Trade** FastTab, leave the **Currency Code** field blank.
 
-   1.  On the **Contacts** list page, select the new contact Francematic.
+7.  Create a sales quote for a contact.
 
-   2.  Select **Process** and then select **Create Sales Quote**.
+8.  On the **Contacts** list page, select the new contact Francematic.
 
-   3.  Click **Yes** for selecting a customer template.
+9.  Select **Process** and then select **Create Sales Quote**.
 
-   4.  In the opened **Contact Conversion Templates** page, select **New**.
+10. Click **Yes** for selecting a customer template.
 
-   5.  In the customer template card, fill in the following fields:
+11. In the opened **Contact Conversion Templates** page, select **New**.
 
-       1.  In the **Code** field, enter CUST EU.
+12. In the customer template card, fill in the following fields:
 
-       2.  In the **Description** field, enter ‘Customer EU’.
+      1.  In the **Code** field, enter CUST EU.
 
-       3.  In the **Contact Type** field, leave the default value ‘Company’.
+      2.  In the **Description** field, enter ‘Customer EU’.
 
-       4.  Leave the **Currency Code** field blank.
+      3.  In the **Contact Type** field, leave the default value ‘Company’.
 
-       5.  In the **Gen. Bus. Posting Group** field, enter EU.
+      4.  Leave the **Currency Code** field blank.
 
-       6.  The **VAT Bus. Posting Group** field is automatically filled in with
-            the value EU.
+      5.  In the **Gen. Bus. Posting Group** field, enter EU.
 
-       7.  In the **Customer Posting Group** field, enter FOREIGN.
+      6.  The **VAT Bus. Posting Group** field is automatically filled in with the value EU.
 
-       8.  In the **Customer Price Group** field, enter EU.
+      7.  In the **Customer Posting Group** field, enter FOREIGN.
 
-       9.  In the **Customer Disc. Group** field, enter MEDIUM.
+      8.  In the **Customer Price Group** field, enter EU.
 
-       10. In the **Payment Terms Code** field, enter ‘0 DAYS’.
+      9.  In the **Customer Disc. Group** field, enter MEDIUM.
 
-       11. Select **Dimensions**, and fill in the following fields:
+      10. In the **Payment Terms Code** field, enter ‘0 DAYS’.
 
-          1.  In the **Dimension Code** field, enter CUSTOMERGROUP
+      11. Select **Dimensions**, and fill in the following fields:
 
-          2.  In the **Dimension Value Code** field, enter MEDIUM
+      12. In the **Dimension Code** field, enter CUSTOMERGROUP
 
-       12. Close the customer template card.
+      13. In the **Dimension Value Code** field, enter MEDIUM
 
-   6.  Click **OK** to apply the new customer template card and create a new
-        sales quote.
+      14. Close the customer template card.
 
-   7.  A new sales quote is created.
+13. Click **OK** to apply the new customer template card and create a new sales quote.
 
-   8.  In the **General** FastTab, fill in the following fields:
+14. A new sales quote is created.
 
-       1.  In the **Order Date** and **Document Date** field, enter 1/15/2021.
+15. In the **General** FastTab, fill in the following fields:
 
-       2.  In the **Quote Valid To Date** field, enter 1/25/2021.
+     1.  In the **Order Date** and **Document Date** field, enter 1/15/2021.
 
-       3.  In the **Salesperson Code** field, enter DC.
+     2.  In the **Quote Valid To Date** field, enter 1/25/2021.
 
-   9.  On the **Lines** section, enter a new line by filling in the following
-        fields:
+     3.  In the **Salesperson Code** field, enter DC.
 
-       1.  In the **Type** field, enter **Item**.
+16. On the **Lines** section, enter a new line by filling in the following fields:
 
-       2.  In the **No.** field, enter CHW1002 for the 15” flat panels.
+     1.  In the **Type** field, enter **Item**.
 
-       3.  In the **Location Code** field, enter EUROP.
+     2.  In the **No.** field, enter CHW1002 for the 15” flat panels.
 
-       4.  In the **Unit of Measure Code** field, enter BOX.
+     3.  In the **Location Code** field, enter EUROP.
 
-       5.  In the **Quantity** field, enter 1.
+     4.  In the **Unit of Measure Code** field, enter BOX.
 
-       6.  In the **Unit Price Excl. Tax** field, the value 4,800.00 is
-            automatically filled in.
+     5.  In the **Quantity** field, enter 1.
 
-       7.  In the **Line Discount %** field, the value ‘6’ is automatically
-            filled in.
+     6.  In the **Unit Price Excl. Tax** field, the value 4,800.00 is automatically filled in.
 
-   10. On the **Lines** section, enter a new line by filling in the following
-        fields:
+     7.  In the **Line Discount %** field, the value ‘6’ is automatically filled in.
 
-       1.  In the **Type** field, enter **Item**.
+17. On the **Lines** section, enter a new line by filling in the following fields:
 
-       2.  In the **No.** field, enter CHW1003 for the 17” flat panels.
+     1.  In the **Type** field, enter **Item**.
 
-       3.  In the **Location Code** field, enter EUROP.
+     2.  In the **No.** field, enter CHW1003 for the 17” flat panels.
 
-       4.  In the **Unit of Measure Code** field, leave the default value PCS.
+     3.  In the **Location Code** field, enter EUROP.
 
-       5.  In the **Quantity** field, enter 3.
+     4.  In the **Unit of Measure Code** field, leave the default value PCS.
 
-       6.  In the **Unit Price Excl. Tax** field, the value 700.00 is
-            automatically filled in.
+     5.  In the **Quantity** field, enter 3.
 
-       7.  In the **Line Discount %** field, the value ‘6’ is automatically
-            filled in.
+     6.  In the **Unit Price Excl. Tax** field, the value 700.00 is automatically filled in.
 
-3.  Process the quote into an order.
+     7.  In the **Line Discount %** field, the value ‘6’ is automatically filled in.
 
-   1.  On the **Sales Quote** card page, change the **Order Date** field to
-        1/22/2021.
+18. Process the quote into an order.
 
-   2.  Select **Process** and then select **Make Order**.
+19. On the **Sales Quote** card page, change the **Order Date** field to
+    1/22/2021.
 
-   3.  Click **Yes**.
+20. Select **Process** and then select **Make Order**.
 
-   4.  Click **Yes** to create a customer card for contact Francematic.
+21. Click **Yes**.
 
-   5.  Click **OK**.
+22. Click **Yes** to create a customer card for contact Francematic.
 
-   6.  Click **Yes** to open the sales order.
+23. Click **OK**.
 
-4.  Partially ship items from the order.
+24. Click **Yes** to open the sales order.
 
-   1.  On the **Sales Order** card page, on the **General** FastTab, in the
-        **Posting Date** field, enter 1/25/2021.
+25. Partially ship items from the order.
 
-   2.  On the **Lines** FastTab, select the line for the 17” monitors.
+26. On the **Sales Order** card page, on the **General** FastTab, in the
+    **Posting Date** field, enter 1/25/2021.
 
-   3.  In the **Qty. to Ship** field, remove the value, and leave the field
-        blank.
+27. On the **Lines** FastTab, select the line for the 17” monitors.
 
-   4.  Select **Posting** and then select **Post**.
+28. In the **Qty. to Ship** field, remove the value, and leave the field
+    blank.
 
-   5.  Select the **Ship** option and click **OK**.
+29. Select **Posting** and then select **Post**.
 
-   6.  On the **General** FastTab, in the **Posting Date** field, enter
-        1/27/2021.
+30. Select the **Ship** option and click **OK**.
 
-   7.  Select **Posting** and then select **Post**.
+31. On the **General** FastTab, in the **Posting Date** field, enter
+    1/27/2021.
 
-   8.  Select the **Ship** option and click **OK**.
+32. Select **Posting** and then select **Post**.
 
-5.  Create a posted sales invoice from the sales order.
+33. Select the **Ship** option and click **OK**.
 
-   1.  On the **Sales Order** card page, on the **General** FastTab, in the
-        **Posting Date** field, enter 1/28/2021.
+34. Create a posted sales invoice from the sales order.
 
-   2.  Select **Posting** and then select **Post**.
+35. On the **Sales Order** card page, on the **General** FastTab, in the
+    **Posting Date** field, enter 1/28/2021.
 
-   3.  Select the **Invoice** option and click **OK**.
+36. Select **Posting** and then select **Post**.
 
-6.  Review the posted sales invoice.
+37. Select the **Invoice** option and click **OK**.
 
-   1.  In the **Posted Sales Invoices** list page, select the invoice for
-        customer Francematic.
+38. Review the posted sales invoice.
 
-   2.  Select **Actions** and then select **Find entries**.
+39. In the **Posted Sales Invoices** list page, select the invoice for
+    customer Francematic.
 
-   3.  Select the line for G/L entries sand select **Show Related Entries**.
+40. Select **Actions** and then select **Find entries**.
 
-![General ledger entries](media/lab5_2_general_ledger_entries.png)
+41. Select the line for G/L entries sand select **Show Related Entries**.
 
-7.  Close the **G/L entries** page.
+    ![General ledger entries](media/lab5_2_general_ledger_entries.png)
 
-   1.  Close the **Find Entries** page.
+42. Close the **G/L entries** page.
+
+43. Close the **Find Entries** page.
 
 ## Exercise 2: Process a sales invoice for multiple orders
 
@@ -264,158 +256,143 @@ January.
 
 1.  Create several sales orders and shipments.
 
-   1.  On the **Customers** list page, select the generic EU customer.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
 
-   2.  Select **New Document** and then select **Sales Order**.
+3.  On the **Customers** list page, select the generic EU customer.
 
-   3.  On the opened **Sales Order** card page, on the **General** FastTab,
-        fill in the following fields:
+4.  Select **New Document** and then select **Sales Order**.
 
-       1.  In the **Order Date** field, enter 1/26/2021.
+5.  On the opened **Sales Order** card page, on the **General** FastTab, fill in the following fields:
 
-       2.  In the **Posting Date** field, enter 1/26/2021.
+     1.  In the **Order Date** field, enter 1/26/2021.
 
-       3.  In the **Your Reference** field, enter ‘Private sale DK’.
+     2.  In the **Posting Date** field, enter 1/26/2021.
 
-   4.  On the **Shipping and Billing** FastTab, fill in the following fields:
+     3.  In the **Your Reference** field, enter ‘Private sale DK’.
 
-       1.  In the **Ship-to** field, select the **Alternate Shipping Address**
-            option.
+6.  On the **Shipping and Billing** FastTab, fill in the following fields:
 
-       2.  On the opened **Ship-to Address** List page, select PICK-UP-DK and
-            click **OK**.
+     1.  In the **Ship-to** field, select the **Alternate Shipping Address** option.
 
-       3.  Select the **Combine Shipments** checkbox.
+     2.  On the opened **Ship-to Address** List page, select PICK-UP-DK and click **OK**.
 
-   5.  On the **Lines** section, enter a new line by filling in the following
-        fields:
+     3.  Select the **Combine Shipments** checkbox.
 
-       1.  In the **Type** field, enter **Item**.
+7.  On the **Lines** section, enter a new line by filling in the following fields:
 
-       2.  In the **No.** field, enter CHW1002.
+     1.  In the **Type** field, enter **Item**.
 
-       3.  In the **Location Code** field, the value EUROP is automatically
-            filled in.
+     2.  In the **No.** field, enter CHW1002.
 
-       4.  In the **Unit of Measure Code** field , the value PCS is
-            automatically filled in.
+     3.  In the **Location Code** field, the value EUROP is automatically filled in.
 
-       5.  In the **Quantity** field, enter ‘2’.
+     4.  In the **Unit of Measure Code** field , the value PCS is automatically filled in.
 
-   6.  Select **Posting** and then select **Post**.
+     5.  In the **Quantity** field, enter ‘2’.
 
-   7.  Select the **Ship** option and click **OK**.
+8.  Select **Posting** and then select **Post**.
 
-   8.  Click **OK** for the sales order to be placed in a job queue.
+9.  Select the **Ship** option and click **OK**.
 
-   9.  Close the **Sales Order** page.
+10. Click **OK** for the sales order to be placed in a job queue.
 
-   10. On the **Customers** list page, select the generic EU customer.
+11. Close the **Sales Order** page.
 
-   11. Select **New Document** and then select **Sales Order**.
+12. On the **Customers** list page, select the generic EU customer.
 
-   12. On the opened **Sales Order** card page, on the **General** FastTab,
-        fill in the following fields:
+13. Select **New Document** and then select **Sales Order**.
 
-       1.  In the **Order Date** field, enter 1/28/2021.
+14. On the opened **Sales Order** card page, on the **General** FastTab, fill in the following fields:
 
-       2.  In the **Posting Date** field, enter 1/28/2021.
+     1.  In the **Order Date** field, enter 1/28/2021.
 
-       3.  In the **Your Reference** field, enter ‘Private sale BE’.
+     2.  In the **Posting Date** field, enter 1/28/2021.
 
-   13. On the **Shipping and Billing** FastTab, fill in the following fields:
+     3.  In the **Your Reference** field, enter ‘Private sale BE’.
 
-       1.  In the **Ship-to** field, select the **Alternate Shipping Address**
-            option.
+15. On the **Shipping and Billing** FastTab, fill in the following fields:
 
-       2.  On the opened **Ship-to Address** List page, select PICK-UP-BE and
-            click **OK**.
+     1.  In the **Ship-to** field, select the **Alternate Shipping Address** option.
 
-       3.  Select the **Combine Shipments** checkbox.
+     2.  On the opened **Ship-to Address** List page, select PICK-UP-BE and click **OK**.
 
-   14. On the **Lines** section, enter a new line by filling in the following
-        fields:
+     3.  Select the **Combine Shipments** checkbox.
 
-       1.  In the **Type** field, enter **Item**.
+16. On the **Lines** section, enter a new line by filling in the following fields:
 
-       2.  In the **No.** field, enter CHW1002.
+     1.  In the **Type** field, enter **Item**.
 
-       3.  In the **Location Code** field, the value EUROP is automatically
-            filled in.
+     2.  In the **No.** field, enter CHW1002.
 
-       4.  In the **Unit of Measure Code** field , enter BOX.
+     3.  In the **Location Code** field, the value EUROP is automatically filled in.
 
-       5.  In the **Quantity** field, enter ‘1’.
+     4.  In the **Unit of Measure Code** field , enter BOX.
 
-   15. Select **Posting** and then select **Post**.
+     5.  In the **Quantity** field, enter ‘1’.
 
-   16. Select the **Ship** option and click **OK**.
+17. Select **Posting** and then select **Post**.
 
-   17. Click **OK** for the sales order to be placed in a job queue.
+18. Select the **Ship** option and click **OK**.
 
-   18. Close the **Sales Order** page.
+19. Click **OK** for the sales order to be placed in a job queue.
 
-   19. On the **Customers** list page, select the generic EU customer.
+20. Close the **Sales Order** page.
 
-   20. Select **New Document** and then select **Sales Order**.
+21. On the **Customers** list page, select the generic EU customer.
 
-   21. On the opened **Sales Order** card page, on the **General** FastTab,
-        fill in the following fields:
+22. Select **New Document** and then select **Sales Order**.
 
-       1.  In the **Order Date** field, enter 1/29/2021.
+23. On the opened **Sales Order** card page, on the **General** FastTab, fill in the following fields:
 
-       2.  In the **Posting Date** field, enter 1/29/2021.
+     1.  In the **Order Date** field, enter 1/29/2021.
 
-       3.  In the **Your Reference** field, enter ‘Private sale FR’.
+     2.  In the **Posting Date** field, enter 1/29/2021.
 
-   22. On the **Shipping and Billing** FastTab, fill in the following fields:
+     3.  In the **Your Reference** field, enter ‘Private sale FR’.
 
-       1.  In the **Ship-to** field, select the **Alternate Shipping Address**
-            option.
+24. On the **Shipping and Billing** FastTab, fill in the following fields:
 
-       2.  On the opened **Ship-to Address** List page, select PICK-UP-FR and
-            click **OK**.
+      1.  In the **Ship-to** field, select the **Alternate Shipping Address** option.
 
-        3.  Select the **Combine Shipments** checkbox.
+      2.  On the opened **Ship-to Address** List page, select PICK-UP-FR and click **OK**.
 
-   23. On the **Lines** section, enter a new line by filling in the following
-        fields:
+      3.  Select the **Combine Shipments** checkbox.
 
-       1.  In the **Type** field, enter **Item**.
+25. On the **Lines** section, enter a new line by filling in the following fields:
 
-       2.  In the **No.** field, enter CHW1003.
+     1.  In the **Type** field, enter **Item**.
 
-       3.  In the **Location Code** field, the value EUROP is automatically
-            filled in.
+     2.  In the **No.** field, enter CHW1003.
 
-       4.  In the **Unit of Measure Code** field , the value PCS is
-            automatically filled in.
+     3.  In the **Location Code** field, the value EUROP is automatically filled in.
 
-       5.  In the **Quantity** field, enter ‘5’.
+     4.  In the **Unit of Measure Code** field , the value PCS is automatically filled in.
 
-   24. Select **Posting** and then select **Post**.
+     5.  In the **Quantity** field, enter ‘5’.
 
-   25. Select the **Ship** option and click **OK**.
+26. Select **Posting** and then select **Post**.
 
-   26. Click **OK** for the sales order to be placed in a job queue.
+27. Select the **Ship** option and click **OK**.
 
-   27. Close the **Sales Order** page.
+28. Click **OK** for the sales order to be placed in a job queue.
 
-2.  Use the Combine Shipments function to create sales invoices.
+29. Close the **Sales Order** page.
 
-   1.  Open the **Combine Shipments** task.
+30. Use the Combine Shipments function to create sales invoices.
 
-   2.  In the **Posting Date** and **Document Date** field, enter 1/31/2021.
+31. Open the **Combine Shipments** task.
 
-   3.  Select the **Calc. Inv. Discount** checkbox.
+32. In the **Posting Date** and **Document Date** field, enter 1/31/2021.
 
-   4.  Select the **Post Invoices** checkbox.
+33. Select the **Calc. Inv. Discount** checkbox.
 
-   5.  In the **Sell-to Customer No.** filter, enter CWEB0001.
+34. Select the **Post Invoices** checkbox.
 
-   6.  Click **OK**.
+35. In the **Sell-to Customer No.** filter, enter CWEB0001.
 
-   7.  Click **OK**.
+36. Click **OK**.
+
+37. Click **OK**.
 
 ## Exercise 3: Correct a posted sales invoice
 
@@ -435,22 +412,22 @@ this item.
 
 1.  Correct a posted sales invoice
 
-   1.  On the **Posted Sales Invoices** list page, select the invoice for
-        customer Francematic.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Posted Sales Invoices** and click the **Posted Sales Invoices** link.
 
-   2.  Select **Correct** and then select **Create Corrective Credit Memo**.
+3.  On the **Posted Sales Invoices** list page, select the invoice for customer Francematic.
 
-   3.  On the opened sales credit memo, on the **General** FastTab, in the
-        **Posting Date** field, enter 1/31/20201.
+4.  Select **Correct** and then select **Create Corrective Credit Memo**.
 
-   4.  On the **Lines** section, delete the line for the 15” flat panels.
+5.  On the opened sales credit memo, on the **General** FastTab, in the **Posting Date** field, enter 1/31/20201.
 
-   5.  On the **Lines** section, select the line for the 17” monitors.
+6.  On the **Lines** section, delete the line for the 15” flat panels.
 
-   6.  Change the **Quantity** field from ‘3’ to ‘1’.
+7.  On the **Lines** section, select the line for the 17” monitors.
 
-   7.  Select **Posting** and then select **Post**.
+8.  Change the **Quantity** field from ‘3’ to ‘1’.
 
-   8.  Click **Yes**.
+9.  Select **Posting** and then select **Post**.
 
-   9.  Click **OK**.
+10. Click **Yes**.
+
+11. Click **OK**.
