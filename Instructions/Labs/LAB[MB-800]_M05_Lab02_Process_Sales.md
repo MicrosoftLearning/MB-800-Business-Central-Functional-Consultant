@@ -59,7 +59,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 1.  Create a contact.
 
-   1.  In the **Contacts** list page, select **New**.
+   1.  In the **Contacts** list page, select **+New**.
 
    2.  On the **General** FastTab, fill in the following fields:
 
@@ -89,7 +89,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
    3.  Click **Yes** for selecting a customer template.
 
-   4.  In the opened **Contact Conversion Templates** page, select **New**.
+   4.  In the opened **Contact Conversion Templates** page, select **+New**.
 
    5.  In the customer template card, fill in the following fields:
 
