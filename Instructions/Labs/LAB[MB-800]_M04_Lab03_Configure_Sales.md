@@ -65,7 +65,7 @@ Also don’t forget to assign de SALESPERSON dimension to each sales person.
     3.  In the customer card, select **Related**, then select **Customer** and
         then **Ship-to Addresses**.
 
-    4.  In the opened **Ship-to Address** List page, select **New**.
+    4.  In the opened **Ship-to Address** List page, select **+New**.
 
     5.  In the opened ship-to addresses card, fill in the following fields:
 
@@ -91,7 +91,7 @@ Also don’t forget to assign de SALESPERSON dimension to each sales person.
     7.  In the customer card, select **Related**, then select **Customer** and
         then **Ship-to Addresses**.
 
-    8.  In the opened **Ship-to Address List** page, select **New**.
+    8.  In the opened **Ship-to Address List** page, select **+New**.
 
     9.  In the opened ship-to addresses card, fill in the following fields:
 
@@ -116,7 +116,7 @@ Also don’t forget to assign de SALESPERSON dimension to each sales person.
     11. In the customer card, select **Related**, then select **Customer** and
         then **Ship-to Addresses**.
 
-    12. In the opened **Ship-to Address** List page, select **New**.
+    12. In the opened **Ship-to Address** List page, select **+New**.
 
     13. In the opened ship-to addresses card, fill in the following fields:
 
@@ -163,7 +163,7 @@ Also don’t forget to assign de SALESPERSON dimension to each sales person.
 
     2.  Select **Salesperson** and then select **Dimensions-single**.
 
-    3.  On the opened **Default Dimensions** page, select **New**.
+    3.  On the opened **Default Dimensions** page, select **+New**.
 
     4.  On the new line, fill in the following fields:
 
@@ -252,7 +252,7 @@ You have to set up this sales price structure as provided by Contoso.
 
 1.  Set up customer price groups
 
-    1.  On the **Customers Price Groups** page, select **New**.
+    1.  On the **Customers Price Groups** page, select **+New**.
 
     2.  On the new line, fill in the following fields:
 
@@ -268,7 +268,7 @@ You have to set up this sales price structure as provided by Contoso.
 
 2.  Set up customer discount groups
 
-    1.  On the **Customer Disc. Groups** page, select **New**.
+    1.  On the **Customer Disc. Groups** page, select **+New**.
 
     2.  On the new line, fill in the following fields:
 
@@ -300,7 +300,7 @@ You have to set up this sales price structure as provided by Contoso.
 
 4.  Set up and assign item discount groups
 
-    1.  On the **Item Discount Groups** page, select **New**.
+    1.  On the **Item Discount Groups** page, select **+New**.
 
     2.  On the new line, fill in the following fields:
 
