@@ -30,7 +30,7 @@ data.
 
 1.  Create a new company.
 
-   1.  In the **Companies** page, select **New** and then, **Create New
+   1.  In the **Companies** page, select **+New** and then, **Create New
         Company**
 
    2.  The **Create New Company** wizard opens.
