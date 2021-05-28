@@ -53,7 +53,7 @@ balance to be posted on December 31st, 2020.
 
 2.  Create and export a configuration package including dimension information.
 
-    1.  In the **Configuration Packages** page, click **New** to create a new
+    1.  In the **Configuration Packages** page, click **+New** to create a new
         configuration package.
 
     2.  In the **Code** field, enter OPENING.
@@ -265,7 +265,7 @@ using the EUROP payment journal, with a new batch PAY1.
     3.  On the vendor card, go to the **Invoicing** Fast Tab.
 
     4.  In the **Preferred Bank Account Code** field, click on the Look Up Value
-        button and click **New**.
+        button and click **+New**.
 
     5.  On the opened vendor bank account card, fill in the following fields:
 
@@ -298,7 +298,7 @@ using the EUROP payment journal, with a new batch PAY1.
 
     2.  Open the assist edit button to the right of the **Batch Name** field.
 
-    3.  On the opened **General Journal Batches** page, click **New** and fill
+    3.  On the opened **General Journal Batches** page, click **+New** and fill
         in the following fields:
 
         1.  In the **Name** field, enter PAY1.
