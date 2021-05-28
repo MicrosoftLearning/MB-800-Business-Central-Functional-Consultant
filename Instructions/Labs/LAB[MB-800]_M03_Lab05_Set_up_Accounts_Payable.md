@@ -38,7 +38,7 @@ accounting manager has expressed the following requirements:
         FastTab.
 
    2.  In the **Posted Invoice Nos.** field, click on the Look Up Value button
-        and click **New.**
+        and click **+New.**
 
    3.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -53,7 +53,7 @@ accounting manager has expressed the following requirements:
 
    4.  Select **Navigate** and then select **Lines**.
 
-   5.  In the opened **No. Series Lines** page, select **New**.
+   5.  In the opened **No. Series Lines** page, select **+New**.
 
        1.  In the **Starting Date** field, enter 1/1/2021.
 
@@ -107,7 +107,7 @@ You must set up a separate payment journal for this purpose.
 
 1.  Create a general journal template.
 
-   1.  In the **General Journal Templates** page, select **New**.
+   1.  In the **General Journal Templates** page, select **+New**.
 
    2.  Fill in the following fields:
 
@@ -130,7 +130,7 @@ You must set up a separate payment journal for this purpose.
    2.  Select **Related**, then select **Template** and then select
         **Batches**.
 
-   3.  In the opened **General Journal Batches** page, select **New.**
+   3.  In the opened **General Journal Batches** page, select **+New.**
 
    4.  Fill in the following fields:
 
@@ -172,7 +172,7 @@ posting groups. Then apply these templates to the existing vendors.
 
 1.  Set up a Vendor Posting Group.
 
-   1.  In the **Vendor Posting Groups** page, select **New**.
+   1.  In the **Vendor Posting Groups** page, select **+New**.
 
    2.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
@@ -184,7 +184,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        4.  Close the page.
 
-   3.  In the **Vendor Posting Groups** page, select **New**.
+   3.  In the **Vendor Posting Groups** page, select **+New**.
 
    4.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
@@ -220,7 +220,7 @@ posting groups. Then apply these templates to the existing vendors.
 
 2.  Create Configuration Templates.
 
-   1.  In the **Configuration Templates** page, select **New**.
+   1.  In the **Configuration Templates** page, select **+New**.
 
    2.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -251,7 +251,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        7.  Close the configuration template.
 
-   3.  In the **Configuration Templates** page, select **New**.
+   3.  In the **Configuration Templates** page, select **+New**.
 
    4.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -282,7 +282,7 @@ posting groups. Then apply these templates to the existing vendors.
 
         7.  Close the configuration template.
 
-   5.  In the **Configuration Templates** page, select **New**.
+   5.  In the **Configuration Templates** page, select **+New**.
 
    6.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -313,7 +313,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        7.  Close the configuration template.
 
-   7.  In the **Configuration Templates** page, select **New**.
+   7.  In the **Configuration Templates** page, select **+New**.
 
    8.  In the **Config. Template Header** page, fill in the following fields:
 
