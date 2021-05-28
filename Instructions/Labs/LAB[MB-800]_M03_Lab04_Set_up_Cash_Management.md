@@ -27,7 +27,7 @@ IBAN: BE13 3200 0461 4139 – BIC: BBRUBEBB
 
 1.  Create a bank account.
 
-  1.  In the **Bank Accounts** page, select **New**.
+  1.  In the **Bank Accounts** page, select **+New**.
 
   2.  In the new bank accounts card, fill in the following fields:
 
