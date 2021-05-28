@@ -59,7 +59,7 @@ expressed the following requirements:
 
    4.  Select **Navigate** and then select **Lines**.
 
-   5.  In the opened **No. Series Lines** page, select **New**.
+   5.  In the opened **No. Series Lines** page, select **+New**.
 
        1.  Leave the **Starting Date** field blank.
 
@@ -73,7 +73,7 @@ expressed the following requirements:
 
    8.  Select **Navigate** and then select **Relationships**.
 
-   9.  In the **No. Series Relationships** page, select **New**.
+   9.  In the **No. Series Relationships** page, select **+New**.
 
    10. In the **Series Code** field, enter CUST WEB.
 
@@ -93,7 +93,7 @@ expressed the following requirements:
 
    16. Select **Navigate** and then select **Lines**.
 
-   17. In the opened **No. Series Lines** page, select **New**.
+   17. In the opened **No. Series Lines** page, select **+New**.
 
        1.  In the **Starting Date** field, enter 1/1/2021.
 
@@ -101,7 +101,7 @@ expressed the following requirements:
 
        3.  In the **Increment-by No.** field, leave the value ‘1’.
 
-   18. In the opened **No. Series Lines** page, select **New**.
+   18. In the opened **No. Series Lines** page, select **+New**.
 
        1.  In the **Starting Date** field, enter 2/1/2021.
 
@@ -181,7 +181,7 @@ templates for customers: CUST000001 & CUST000002*
 
 1.  Set up a Customer Posting Group
 
-   1.  In the **Customer Posting Groups** page, select **New**.
+   1.  In the **Customer Posting Groups** page, select **+New**.
 
    2.  In the **Customer Posting Group Card** page, fill in the following
         fields:
@@ -193,7 +193,7 @@ templates for customers: CUST000001 & CUST000002*
 
        4.  Close the page.
 
-   3.  In the **Customer Posting Groups** page, select **New**.
+   3.  In the **Customer Posting Groups** page, select **+New**.
 
    4.  In the **Customer Posting Group Card** page, fill in the following
         fields:
@@ -234,7 +234,7 @@ templates for customers: CUST000001 & CUST000002*
 
 2.  Create and configure a new customer.
 
-   1.  In the **Customers** page, select **New**.
+   1.  In the **Customers** page, select **+New**.
 
    2.  Go to the **General** FastTab.
 
@@ -246,7 +246,7 @@ templates for customers: CUST000001 & CUST000002*
    5.  In the **Name** field, enter ‘Generic EU web shop’.
 
    6.  In the **Document Sending Profile** field, click on the Look Up Value
-       button and click **New**.
+       button and click **+New**.
 
    7.  In the opened **Document Sending Profile** card page, fill in the
         following fields:
@@ -282,7 +282,7 @@ templates for customers: CUST000001 & CUST000002*
    14. In the **Payment Terms Code** field, click on the Look Up Value button
         and click **New**.
 
-   15. In the opened **Payment Terms** page, select **New** and fill in the
+   15. In the opened **Payment Terms** page, select **+New** and fill in the
         following fields:
         
        1.  In the **Code** field, enter 0 DAYS.
@@ -299,7 +299,7 @@ templates for customers: CUST000001 & CUST000002*
    17. In the **Payment Method Code** field, click on the Look Up Value button
         and click **New**.
 
-   18. In the opened **Payment Methods** page, select **New** and fill in the
+   18. In the opened **Payment Methods** page, select **+New** and fill in the
         following fields:
 
        1.  In the **Code** field, enter CREDITCARD.
@@ -320,7 +320,7 @@ templates for customers: CUST000001 & CUST000002*
    20. In the customer card, select **Customer** and then select
         **Dimensions**.
 
-   21. In the opened **Default Dimensions** page, select **New**.
+   21. In the opened **Default Dimensions** page, select **+New**.
 
    22. Fill in the following fields:
 
@@ -367,7 +367,7 @@ user.
 
 1.  Create and export a configuration package.
 
-   1.  In the **Configuration Packages** page, click **New** to create a new
+   1.  In the **Configuration Packages** page, click **+New** to create a new
         configuration package.
 
    2.  In the **Code** field, enter CUST.
@@ -424,7 +424,7 @@ user.
 
    2.  Open the assist edit button to the right of the **Data Template** field.
 
-   3.  In the opened **Configuration Templates** page, select **New**.
+   3.  In the opened **Configuration Templates** page, select **+New**.
 
    4.  In the **Config. Template Header** page, fill in the following fields:
    
