@@ -50,7 +50,7 @@ the ‘cost and freight’ shipment method.
     3.  In the vendor card, select **Related**, then select **Vendor** and then
         **Order Addresses**.
 
-    4.  In the opened **Order Address List** page, select **New**.
+    4.  In the opened **Order Address List** page, select **+New**.
 
     5.  In the opened order address card, fill in the following fields:
 
@@ -73,7 +73,7 @@ the ‘cost and freight’ shipment method.
 
     6.  Close the order address card.
 
-    7.  In the opened **Order Address List** page, select **New**.
+    7.  In the opened **Order Address List** page, select **+New**.
 
     8.  In the opened order address card, fill in the following fields:
 
@@ -150,7 +150,7 @@ You need to set up the replenishment information on the item card.
         3.  In the **Vendor No.** field, enter V9002.
 
         4.  In the **Purch. Unit of Measure** field, the value PCS is already
-            filled in. Click on the Look Up Value button and select **New**.
+            filled in. Click on the Look Up Value button and select **+New**.
 
         5.  In the opened **Item Units of Measure** page, fill in the following
             fields:
@@ -181,7 +181,7 @@ You need to set up the replenishment information on the item card.
         3.  In the **Vendor No.** field, enter V9002.
 
         4.  In the **Purch. Unit of Measure** field, the value PCS is already
-            filled in. Click on the Look Up Value button and select **New**.
+            filled in. Click on the Look Up Value button and select **+New**.
 
         5.  In the opened **Item Units of Measure** page, fill in the following
             fields:
@@ -248,7 +248,7 @@ follows:
     3.  In the item card, select **Related**, then select **Purchases** and then
         **Vendors**.
 
-    4.  On the opened **Item Vendor Catalog** page, select **New**.
+    4.  On the opened **Item Vendor Catalog** page, select **+New**.
 
     5.  On the new line, fill in the following fields:
 
@@ -269,7 +269,7 @@ follows:
     10. In the item card, select **Related**, then select **Purchases** and then
         **Vendors**.
 
-    11. On the opened **Item Vendor Catalog** page, select **New**.
+    11. On the opened **Item Vendor Catalog** page, select **+New**.
 
     12. On the new line, fill in the following fields:
 
@@ -325,12 +325,12 @@ purchase invoice.
     2.  Select **Related**, then **Purchases** and then select **Recurring
         Purchase Lines**.
 
-    3.  On the opened **Recurring Purchase Lines** page, select **New**.
+    3.  On the opened **Recurring Purchase Lines** page, select **+New**.
 
     4.  On the new line, fill in the following fields:
 
         1.  Click on the Look Up Value button in the **Code** field, and select
-            **New**.
+            **+New**.
 
         2.  On the opened **Standard Purchase Code Card** page, fill in the
             following fields:
