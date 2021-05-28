@@ -53,7 +53,7 @@ met:
 
 1.  Setting up approval users.
 
-    1.  On the **Approval User Setup** page, select **New**.
+    1.  On the **Approval User Setup** page, select **+New**.
 
     2.  Fill in the following fields for user 1 (accounting manager):
 
@@ -70,7 +70,7 @@ met:
 
         6.  Select the **Approval Administrator** checkbox.
 
-    3.  On the **Approval User Setup** page, select **New**.
+    3.  On the **Approval User Setup** page, select **+New**.
 
     4.  Fill in the following fields for user 2 (purchasing manager):
 
@@ -87,7 +87,7 @@ met:
 
         6.  Leave the **Approval Administrator** checkbox unselected.
 
-    5.  On the **Approval User Setup** page, select **New**.
+    5.  On the **Approval User Setup** page, select **+New**.
 
     6.  Fill in the following fields for user 3 (purchasing agent):
 
@@ -109,7 +109,7 @@ met:
 
     2.  Select **Notification Setup**.
 
-    3.  On the opened **Notification Setup** page, select **New**.
+    3.  On the opened **Notification Setup** page, select **+New**.
 
         1.  In the **Notification Type** field, enter **Approval.**
 
@@ -235,7 +235,7 @@ The purchasing agent places an order with vendor PURE-LOOK on January 14th,
 
     1.  Log in the database as the purchasing agent.
 
-    2.  On the **Purchase Orders** page, select **New**.
+    2.  On the **Purchase Orders** page, select **+New**.
 
     3.  On the opened purchase order, on the **General** FastTab, fill in the
         following fields.
