@@ -29,7 +29,7 @@ a dimension for sales people as well.
 
 1.  Set up a dimension with dimension values
 
-   1.  In the **Dimensions** page, select **New**.
+   1.  In the **Dimensions** page, select **+New**.
 
    2.  In the **Code** field, enter SALESPERSON.
 
