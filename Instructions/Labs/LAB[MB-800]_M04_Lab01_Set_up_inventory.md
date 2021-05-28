@@ -37,7 +37,7 @@ valuation, Contoso’s account manger has expressed the following requirements:
     1.  In the **Inventory Setup** page, go to the **Numbering** FastTab.
 
     2.  In the **Item Nos.** field, the value ITEM is already filled in. Click
-        on the Look Up Value button and select **New**.
+        on the Look Up Value button and select **+New**.
 
     3.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -49,7 +49,7 @@ valuation, Contoso’s account manger has expressed the following requirements:
 
     4.  Select **Navigate** and then select **Lines**.
 
-    5.  In the opened **No. Series Lines** page, select **New**.
+    5.  In the opened **No. Series Lines** page, select **+New**.
 
         1.  Leave the **Starting Date** field blank.
 
@@ -135,7 +135,7 @@ template.
 
 1.  Create a location.
 
-    1.  In the **Locations** page, select **New**.
+    1.  In the **Locations** page, select **+New**.
 
     2.  In the **Location Card** page, on the **General** FastTab, fill in the
         following fields:
@@ -148,7 +148,7 @@ template.
 
 2.  Set up an Inventory Posting Setup.
 
-    1.  In the **Inventory Posting Groups** page, select **New**.
+    1.  In the **Inventory Posting Groups** page, select **+New**.
 
     2.  In the **Code** field, enter COMPHW.
 
@@ -156,7 +156,7 @@ template.
 
     4.  Select **Setup**.
 
-    5.  In the opened **Inventory Posting Setup** page, select **New**.
+    5.  In the opened **Inventory Posting Setup** page, select **+New**.
 
     6.  In the opened **Inventory Posting Setup Card** page, fill in the
         following fields:
@@ -182,7 +182,7 @@ template.
 
 3.  Set up Item Categories and Item Attributes.
 
-    1.  In the **Item Categories** page, select **New**.
+    1.  In the **Item Categories** page, select **+New**.
 
     2.  In the opened **Item Category Card** page, fill in the following fields:
 
@@ -201,7 +201,7 @@ template.
 
             3.  Click on the **Values** field.
 
-                1.  In the opened **Item Attributes Value** page, click **New**.
+                1.  In the opened **Item Attributes Value** page, click **+New**.
 
                 2.  In the **Value** field, enter ‘Grey’
 
@@ -214,7 +214,7 @@ template.
 
         4.  Close the item category card.
 
-    3.  In the **Item Categories** page, select **New**.
+    3.  In the **Item Categories** page, select **+New**.
 
     4.  In the opened **Item Category Card** page, fill in the following fields:
 
@@ -228,7 +228,7 @@ template.
             following fields:
 
             1.  In the **Attribute** field, click on the Look Up Value button
-                and click **New**.
+                and click **+New**.
 
             2.  In the opened **Item Attributes** page, on the new line, fill in
                 the following fields:
@@ -246,7 +246,7 @@ template.
 
         5.  Close the item category card.
 
-    5.  In the **Item Categories** page, select **New**.
+    5.  In the **Item Categories** page, select **+New**.
 
     6.  In the opened **Item Category Card** page, fill in the following fields:
 
@@ -260,7 +260,7 @@ template.
             following fields:
 
             1.  In the **Attribute** field, click on the Look Up Value button
-                and click **New**.
+                and click **+New**.
 
             2.  In the opened **Item Attributes** page, on the new line, fill in
                 the following fields:
@@ -278,7 +278,7 @@ template.
 
         5.  Close the item category card.
 
-    7.  In the **Item Categories** page, select **New**.
+    7.  In the **Item Categories** page, select **+New**.
 
     8.  In the opened **Item Category Card** page, fill in the following fields:
 
@@ -292,7 +292,7 @@ template.
 
 4.  Create a configuration template.
 
-    1.  In the **Configuration Templates** page, select **New**.
+    1.  In the **Configuration Templates** page, select **+New**.
 
     2.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -325,7 +325,7 @@ template.
 
 5.  Create and configure a new item.
 
-    1.  On the **Items** page, select **New**.
+    1.  On the **Items** page, select **+New**.
 
     2.  Select the template ‘Computer hardware’, select **Actions**, and then
         select **Edit**.
@@ -383,7 +383,7 @@ template.
 
     15. Close the item card.
 
-    16. On the **Items** page, select **New**.
+    16. On the **Items** page, select **+New**.
 
     17. Select the template ‘Computer hardware’ and click **OK**.
 
@@ -408,7 +408,7 @@ template.
 
     21. Close the item card.
 
-    22. On the **Items** page, select **New**.
+    22. On the **Items** page, select **+New**.
 
     23. Select the template ‘Computer hardware’ and click **OK**.
 
@@ -433,7 +433,7 @@ template.
 
     27. Close the item card.
 
-    28. On the **Items** page, select **New**.
+    28. On the **Items** page, select **+New**.
 
     29. Select the template ‘Computer hardware’ and click **OK**.
 
@@ -456,7 +456,7 @@ template.
 
     33. Close the item card.
 
-    34. On the **Items** page, select **New**.
+    34. On the **Items** page, select **+New**.
 
     35. Select the template ‘Computer hardware’ and click **OK**.
 
@@ -479,7 +479,7 @@ template.
 
     39. Close the item card.
 
-    40. On the **Items** page, select **New**.
+    40. On the **Items** page, select **+New**.
 
     41. Select the template ‘Computer hardware’ and click **OK**.
 
