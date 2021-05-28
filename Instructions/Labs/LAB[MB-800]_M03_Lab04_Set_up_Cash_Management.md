@@ -73,7 +73,7 @@ You need to complete the correct bank posting group setup.
 
 1.  Create a bank account posting group.
 
-  1.  In the **Bank Accounts Posting Groups** page, select **New**.
+  1.  In the **Bank Accounts Posting Groups** page, select **+New**.
 
   2.  In the **Code** field, enter EUROP.
 
