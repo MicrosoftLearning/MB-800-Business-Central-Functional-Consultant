@@ -215,7 +215,7 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 
 1.  Create a purchase return order.
 
-    1.  In the **Purchase Return Orders** list page, select **New**.
+    1.  In the **Purchase Return Orders** list page, select **+New**.
 
     2.  On the **General** FastTab, fill in the following fields:
 
@@ -295,7 +295,7 @@ You need to process the invoice.
 
 1.  Process a purchase invoice using recurring purchase lines
 
-    1.  In the **Purchase Invoices** list page, select **New**.
+    1.  In the **Purchase Invoices** list page, select **+New**.
 
     2.  On the **General** FastTab, fill in the following fields:
 
