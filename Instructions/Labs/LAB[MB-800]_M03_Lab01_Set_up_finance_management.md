@@ -143,7 +143,7 @@ opening balance on December 31st 2020.
 
    2.  Close the **General Ledger Setup** page.
 
-   3.  In the **User Setup** page, select **New**.
+   3.  In the **User Setup** page, select **+New**.
 
    4.  In the **User ID** field, enter your own user id.
 
