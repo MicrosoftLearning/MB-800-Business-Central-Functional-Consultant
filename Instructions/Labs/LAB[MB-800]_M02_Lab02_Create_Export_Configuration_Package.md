@@ -98,9 +98,13 @@ The following information is returned to you by Contoso’s super user:
 
 20. Open the exported excel file from the download folder.
 
-21. Enter the information as provided by Contoso.
-
+21. Enter the information as provided by Contoso in the scenario description above, or use the provided Vendor Import.xlsx file.
+   
 22. Save the excel file.
+
+23. Enter the information as provided by Contoso.
+
+24. Save the excel file.
 
 ## Exercise 2: Import and apply a configuration package
 
