@@ -43,13 +43,15 @@ expressed the following requirements:
 
 1.  Set up and assign number series.
 
-   1.  In the **Sales & Receivables Setup** page, go to the **Number Series**
-        FastTab.
+2.  At the top of the Business central main page, click the search icon in the black bar to the right. Then type **Sales & Recievables Setup** and click the **Sales & Recievables Setup** link.
 
-   2.  In the **Customer** field, the value CUST is already filled in. Click on
-        the Look Up Value button and select New.
+3.  In the **Sales & Receivables Setup** page, go to the **Number Series**
+    FastTab.
 
-   3.  In the opened **No. Series List** page, fill in the following fields:
+4.  In the **Customer** field, the value CUST is already filled in. Click on
+    the Look Up Value button and select New.
+
+5.  In the opened **No. Series List** page, fill in the following fields:
 
        1.  In the **Code** field, enter CUST WEB
 
@@ -57,9 +59,10 @@ expressed the following requirements:
 
        3.  Select the **Default Nos.** check box.
 
-   4.  Select **Navigate** and then select **Lines**.
+6.  Select **Navigate** and then select **Lines**.
 
-   5.  In the opened **No. Series Lines** page, select **+New**.
+
+7.  In the opened **No. Series Lines** page, select **New**.
 
        1.  Leave the **Starting Date** field blank.
 
@@ -67,74 +70,73 @@ expressed the following requirements:
 
        3.  In the **Increment-by No.** field, enter the value ‘10’.
 
-   6.  Close the **No. Series Lines** page.
+8.  Close the **No. Series Lines** page.
 
-   7.  In the opened **No. Series List** page, select the number series CUST.
+9.  In the opened **No. Series List** page, select the number series CUST.
 
-   8.  Select **Navigate** and then select **Relationships**.
+10. Select **Navigate** and then select **Relationships**.
 
-   9.  In the **No. Series Relationships** page, select **+New**.
+11. In the **No. Series Relationships** page, select **New**.
 
-   10. In the **Series Code** field, enter CUST WEB.
+12. In the **Series Code** field, enter CUST WEB.
 
-   11. Close the **No. Series Relationships** page.
+13. Close the **No. Series Relationships** page.
 
-   12. Close the **No. Series List** page, by clicking **OK**.
+14. Close the **No. Series List** page, by clicking **OK**.
 
-   13. You are now back in the **Sales & Receivables Setup** page, on the
-        **Number Series** FastTab.
+15. You are now back in the **Sales & Receivables Setup** page, on the
+**Number Series** FastTab.
 
-   14. In the **Posted Invoice Nos.** field, the value S-INV+ is already filled
-        in. Click on the Look Up Value button and then click **Select from full
-        list.**
+16. In the **Posted Invoice Nos.** field, the value S-INV+ is already filled
+in. Click on the Look Up Value button and then click **Select from full
+list.**
 
-   15. In the opened **No. Series List** page, the number series S-INV+ is
-        automatically selected.
+17. In the opened **No. Series List** page, the number series S-INV+ is
+automatically selected.
 
-   16. Select **Navigate** and then select **Lines**.
+18. Select **Navigate** and then select **Lines**.
 
-   17. In the opened **No. Series Lines** page, select **+New**.
+19. In the opened **No. Series Lines** page, select **New**.
 
-       1.  In the **Starting Date** field, enter 1/1/2021.
+      1.  In the **Starting Date** field, enter 1/1/2021.
 
-       2.  In the **Starting No.** field, enter S21/01/0001.
+      2.  In the **Starting No.** field, enter S21/01/0001.
 
-       3.  In the **Increment-by No.** field, leave the value ‘1’.
+      3.  In the **Increment-by No.** field, leave the value ‘1’.
 
-   18. In the opened **No. Series Lines** page, select **+New**.
+20. In the opened **No. Series Lines** page, select **New**.
 
-       1.  In the **Starting Date** field, enter 2/1/2021.
+      1.  In the **Starting Date** field, enter 2/1/2021.
 
-       2.  In the **Starting No.** field, enter S21/02/0001.
+      2.  In the **Starting No.** field, enter S21/02/0001.
 
-       3.  In the **Increment-by No.** field, leave the value ‘1’.
+      3.  In the **Increment-by No.** field, leave the value ‘1’.
 
-   19. Close the **No. Series Lines** page.
+21. Close the **No. Series Lines** page.
 
-   20. Close the **No. Series List** page, by clicking **OK**.
+22. Close the **No. Series List** page, by clicking **OK**.
 
-   21. The number series S-INV+ remains filled in in the **Posted Invoice
-        Nos.** field, in the **Sales & Receivables Setup** page.
+23. The number series S-INV+ remains filled in in the **Posted Invoice
+Nos.** field, in the **Sales & Receivables Setup** page.
 
-2.  Complete discount posting setup.
+24. Complete discount posting setup.
 
-   1.  In the **Sales & Receivables Setup** page, go to the **General**
-        FastTab.
+25. In the **Sales & Receivables Setup** page, go to the **General**
+FastTab.
 
-   2.  In the **Discount Posting** field, select the **Invoice Discounts**
-        option.
+26. In the **Discount Posting** field, select the **Invoice Discounts**
+option.
 
-   3.  In the **General Posting Setup** page, for each possible combination of
-        **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure
-        the **Sales Inv. Disc. Account** field is filled in with the value
-        40300.
+27. In the **General Posting Setup** page, for each possible combination of
+**Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure
+the **Sales Inv. Disc. Account** field is filled in with the value 40300.
 
-3.  Activate credit limit warning
+28. Activate credit limit warning
 
-   1.  In the **Sales & Receivables Setup** page, go to the **General**
-        FastTab.
+29. In the **Sales & Receivables Setup** page, go to the **General**
+FastTab.
 
-   2.  In the **Credit Warnings** field, select the **Credit Limit** option.  
+30. In the **Credit Warnings** field, select the **Credit Limit** option.  
         
 
 ## Exercise 2: Create and configure customers
@@ -181,10 +183,12 @@ templates for customers: CUST000001 & CUST000002*
 
 1.  Set up a Customer Posting Group
 
-   1.  In the **Customer Posting Groups** page, select **+New**.
+2.  At the top of the Business Center main page, click the search icon in the black bar to the right. Then type **Customer Posting Groups** and click the **Customer Posting Groups** link.
 
-   2.  In the **Customer Posting Group Card** page, fill in the following
-        fields:
+3.  In the **Customer Posting Groups** page, select **New**.
+
+4.  In the **Customer Posting Group Card** page, fill in the following fields:
+
        1.  In the **Code** field, fill in FOREIGN.
 
        2.  In the **Description** field, fill in ‘Foreign customers’.
@@ -193,10 +197,9 @@ templates for customers: CUST000001 & CUST000002*
 
        4.  Close the page.
 
-   3.  In the **Customer Posting Groups** page, select **+New**.
+5.  In the **Customer Posting Groups** page, select **New**.
 
-   4.  In the **Customer Posting Group Card** page, fill in the following
-        fields:
+6.  In the **Customer Posting Group Card** page, fill in the following fields:
 
        1.  In the **Code** field, fill in INTERCOMPANY.
 
@@ -206,9 +209,9 @@ templates for customers: CUST000001 & CUST000002*
 
        4.  Close the page.
 
-   5.  From the **Customer Posting Groups** page, copy the other g/l accounts
-        from the DOMESTIC customer posting group to the FOREIGN and INTERCOMPANY
-        customer posting groups using F8. Copy the following fields:
+7.  From the **Customer Posting Groups** page, copy the other g/l accounts
+    from the DOMESTIC customer posting group to the FOREIGN and INTERCOMPANY
+    customer posting groups using F8. Copy the following fields:
 
        1.  Payment Disc. Debit Acc.
 
@@ -232,24 +235,24 @@ templates for customers: CUST000001 & CUST000002*
 
        11. Payment Tolerance Credit Acc.
 
-2.  Create and configure a new customer.
+8.  Create and configure a new customer.
 
-   1.  In the **Customers** page, select **+New**.
+9.  In the **Customers** page, select **New**.
 
-   2.  Go to the **General** FastTab.
+10. Go to the **General** FastTab.
 
-   3.  Open the assist edit button to the right of the **No.** field.
+11. Open the assist edit button to the right of the **No.** field.
 
-   4.  In the window that opens, select the number series for web shop
-        customers CUST WEB and click **OK**.
+12. In the window that opens, select the number series for web shop
+    customers CUST WEB and click **OK**.
 
-   5.  In the **Name** field, enter ‘Generic EU web shop’.
+13. In the **Name** field, enter ‘Generic EU web shop’.
 
-   6.  In the **Document Sending Profile** field, click on the Look Up Value
-       button and click **+New**.
+14. In the **Document Sending Profile** field, click on the Look Up Value
+   button and click **New**.
 
-   7.  In the opened **Document Sending Profile** card page, fill in the
-        following fields:
+15. In the opened **Document Sending Profile** card page, fill in the
+    following fields:
 
        1.  In the **Code** field, enter MAIL&PDF.
 
@@ -265,25 +268,25 @@ templates for customers: CUST000001 & CUST000002*
 
        6.  Click **OK**.
 
-   8.  The new code is now automatically filled in in the **Document Sending
-        Profile** field on the customer card.
+16. The new code is now automatically filled in in the **Document Sending
+    Profile** field on the customer card.
 
-   9.  Go to the **Invoicing** FastTab.
+17. Go to the **Invoicing** FastTab.
 
-   10. In the **Gen. Bus. Posting Group** field, enter EU.
+18. In the **Gen. Bus. Posting Group** field, enter EU.
 
-   11. The **VAT Bus. Posting Group** field is automatically filled in with the
-        value EU.
+19. The **VAT Bus. Posting Group** field is automatically filled in with the
+    value EU.
 
-   12. In the **Customer Posting Group**, enter FOREIGN.
+20. In the **Customer Posting Group**, enter FOREIGN.
 
-   13. Go to the **Payments** FastTab.
+21. Go to the **Payments** FastTab.
 
-   14. In the **Payment Terms Code** field, click on the Look Up Value button
-        and click **New**.
+22. In the **Payment Terms Code** field, click on the Look Up Value button
+    and click **New**.
 
-   15. In the opened **Payment Terms** page, select **+New** and fill in the
-        following fields:
+23. In the opened **Payment Terms** page, select **New** and fill in the
+    following fields:
         
        1.  In the **Code** field, enter 0 DAYS.
 
@@ -293,14 +296,14 @@ templates for customers: CUST000001 & CUST000002*
 
        4.  Click **OK**.
 
-   16. The new code is now automatically filled in in the **Payment Terms
-        Code** field on the customer card.
+24. The new code is now automatically filled in in the **Payment Terms
+    Code** field on the customer card.
 
-   17. In the **Payment Method Code** field, click on the Look Up Value button
-        and click **New**.
+25. In the **Payment Method Code** field, click on the Look Up Value button
+    and click **New**.
 
-   18. In the opened **Payment Methods** page, select **+New** and fill in the
-        following fields:
+26. In the opened **Payment Methods** page, select **New** and fill in the
+    following fields:
 
        1.  In the **Code** field, enter CREDITCARD.
 
@@ -314,15 +317,15 @@ templates for customers: CUST000001 & CUST000002*
 
        5.  Click **OK**.
 
-   19. The new code is now automatically filled in in the Payment Method Code
-        field on the customer card.
+27. The new code is now automatically filled in in the Payment Method Code
+    field on the customer card.
 
-   20. In the customer card, select **Customer** and then select
-        **Dimensions**.
+28. In the customer card, select **Customer** and then select
+    **Dimensions**.
 
-   21. In the opened **Default Dimensions** page, select **+New**.
+29. In the opened **Default Dimensions** page, select **New**.
 
-   22. Fill in the following fields:
+30. Fill in the following fields:
 
        1.  In the **Dimension Code** field, enter CUSTOMERGROUP
        
@@ -330,7 +333,7 @@ templates for customers: CUST000001 & CUST000002*
 
        3.  In the **Value Posting** field, select the **Same Code** option.
 
-   23. Close the **Default Dimensions** page.
+31. Close the **Default Dimensions** page.
 
 ## Exercise 3: Import customers using data templates
 
@@ -367,36 +370,37 @@ user.
 
 1.  Create and export a configuration package.
 
-   1.  In the **Configuration Packages** page, click **+New** to create a new
-        configuration package.
+2.  At the top of the Business Center main page, click the search icon in the black bar at the top of the page to the right. Then type **Configuration Packages** and click the **Configuration Packages** link.
 
-   2.  In the **Code** field, enter CUST.
+3.  In the **Configuration Packages** page, click **New** to create a new configuration package.
 
-   3.  In the **Package Name** field, enter Customer List.
+4.  In the **Code** field, enter CUST.
 
-   4.  On the **Tables** section of the Config. Package Card, enter a new line
-        as follows.
+5.  In the **Package Name** field, enter Customer List.
 
-   5.  Open the assist edit button to the right of the **Table ID** field.
+6.  On the **Tables** section of the Config. Package Card, enter a new line
+    as follows.
 
-   6.  In the window that opens, select the **Customer** table and click
-        **OK**.
+7.  Open the assist edit button to the right of the **Table ID** field.
 
-   7.  Then press ENTER or TAB.
+8.  In the window that opens, select the **Customer** table and click
+    **OK**.
 
-   8.  You will be asked to check related tables, click **No**.
+9.  Then press ENTER or TAB.
 
-   9.  Select the **Dimensions as Columns** check box.
+10. You will be asked to check related tables, click **No**.
 
-   10. Click **Yes** to add the related dimension tables.
+11. Select the **Dimensions as Columns** check box.
 
-   11. Make sure the customer table line is selected, select **Table** and then
-        **Fields**.
+12. Click **Yes** to add the related dimension tables.
 
-   12. On the field list page, first select **Clear Included**, to deselect the
-        **Include Field** checkbox for all the fields.
+13. Make sure the customer table line is selected, select **Table** and then
+    **Fields**.
 
-   13. Then select the **Include Field** checkbox for the following fields:
+14. On the field list page, first select **Clear Included**, to deselect the
+    **Include Field** checkbox for all the fields.
+
+15. Then select the **Include Field** checkbox for the following fields:
 
        1.  Name
 
@@ -408,98 +412,95 @@ user.
 
        5.  Post Code
 
-   14. The **Validate Field** checkbox is automatically selected.
+16. The **Validate Field** checkbox is automatically selected.
 
-   15. Click **Close**.
+17. Click **Close**.
 
-   16. In the **Config. Package Card** page, select **Actions**, then
-        **Package**, and then **Export to Excel**.
+18. In the **Config. Package Card** page, select **Actions**, then
+    **Package**, and then **Export to Excel**.
 
-   17. Click **Yes** to export the configuration package.
+19. Click **Yes** to export the configuration package.
 
-2.  Create and assign data template to the configuration package.
+20. Create and assign data template to the configuration package.
 
-   1.  In the **Tables** section of the Config. Package Card, make sure the
-        customer table line is selected.
+21. In the **Tables** section of the Config. Package Card, make sure the
+    customer table line is selected.
 
-   2.  Open the assist edit button to the right of the **Data Template** field.
+22. Open the assist edit button to the right of the **Data Template** field.
 
-   3.  In the opened **Configuration Templates** page, select **+New**.
+23. In the opened **Configuration Templates** page, select **New**.
 
-   4.  In the **Config. Template Header** page, fill in the following fields:
+24. In the **Config. Template Header** page, fill in the following fields:
    
-       1.  In the **Code** field, enter CUST DOM
+      1.  In the **Code** field, enter CUST DOM
 
-       2.  In the **Description** field, enter ‘Domestic customers’
+      2.  In the **Description** field, enter ‘Domestic customers’
 
-       3.  Open the assist edit button to the right of the **Table ID** field,
-            select the table for customers (ID = 18) and click **OK**.
+      3.  Open the assist edit button to the right of the **Table ID** field, select the table for customers (ID = 18) and click **OK**.
 
-       4.  Select the **Enabled** check box.
+      4.  Select the **Enabled** check box.
 
-       5.  In the **Lines** section on the page, create the following line:
+      5.  In the **Lines** section on the page, create the following line:
 
-          1.  In the **Type** field, enter **Field**.
+      6.  In the **Type** field, enter **Field**.
 
-          2.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
+      7.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
 
-          3.  In the **Default Value** field, enter DOMESTIC
+      8.  In the **Default Value** field, enter DOMESTIC
 
-       6.  In the Lines section on the page, create the following line:
+      9.  In the Lines section on the page, create the following line:
 
-          1.  In the **Type** field, enter **Field**.
+      10. In the **Type** field, enter **Field**.
 
-          2.  In the **Field Name** field, enter **Customer Posting Group**.
+      11. In the **Field Name** field, enter **Customer Posting Group**.
 
-          3.  In the **Default Value** field, enter DOMESTIC
+      12. In the **Default Value** field, enter DOMESTIC
 
-       7.  In the Lines section on the page, create the following line:
+      13. In the Lines section on the page, create the following line:
 
-          1.  In the **Type** field, enter **Field**.
+      14. In the **Type** field, enter **Field**.
 
-          2.  In the **Field Name** field, enter **Document Sending Profile**.
+      15. In the **Field Name** field, enter **Document Sending Profile**.
 
-          3.  In the **Default Value** field, enter MAIL&PDF
+      16. In the **Default Value** field, enter MAIL&PDF
 
-       8.  In the Lines section on the page, create the following line:
+      17. In the Lines section on the page, create the following line:
 
-          1.  In the **Type** field, enter **Field**.
+      18. In the **Type** field, enter **Field**.
 
-          2.  In the **Field Name** field, enter **Payment Terms Code**.
+      19. In the **Field Name** field, enter **Payment Terms Code**.
 
-          3.  In the **Default Value** field, enter 30 DAYS
+      20. In the **Default Value** field, enter 30 DAYS
 
-       9.  Close the configuration template.
+      21. Close the configuration template.
 
-   5.  In the **Configuration Templates** page, make sure the new template for
-        domestic customers is selected, and click **OK**.
+25. In the **Configuration Templates** page, make sure the new template for domestic customers is selected, and click **OK**.
 
-   6.  The new code is now automatically filled in in the **Data Template**
-        field on the configuration package card.
+26. The new code is now automatically filled in in the **Data Template** field on the configuration package card.
 
-3.  Prepare data in excel.
+27. Prepare data in excel.
 
-   1.  Open the exported excel file from the download folder.
+28. Open the exported excel file from the download folder.
 
-   2.  Enter the information as provided by Contoso.
+29. Enter the information as provided by Contoso.
 
-   3.  Save the excel file.
+30. Save the excel file.
 
-4.  Import and apply the configuration package.
+31. Import and apply the configuration package.
 
-   1.  In the **Configuration Packages** page, select the new configuration
-        package for customers and select **Manage** and then **Edit**.
+32. In the **Configuration Packages** page, select the new configuration
+    package for customers and select **Manage** and then **Edit**.
 
-   2.  In the **Config. Package Card** page, select **Actions**, then select
-        **Package**, and then **Import from Excel**.
+33. In the **Config. Package Card** page, select **Actions**, then select
+    **Package**, and then **Import from Excel**.
 
-   3.  Click **Choose…** and select the excel file.
+34. Click **Choose…** and select the excel file.
 
-   4.  Click **Open**.
+35. Click **Open**.
 
-   5.  In the preview page, select **Import**.
+36. In the preview page, select **Import**.
 
-   6.  In the **Config. Package Card** page, select **Actions**, then select
-        **Functions**, and then **Apply Package**.
+37. In the **Config. Package Card** page, select **Actions**, then select
+    **Functions**, and then **Apply Package**.
 
-   7.  Click **Yes**.
+38. Click **Yes**.

@@ -54,146 +54,143 @@ Also don’t forget to assign de SALESPERSON dimension to each sales person.
 
 3.  Set up and assign a salesperson
 
-### Steps
 
-1.  Create a shipping address for the customer.
+### Task 1: Create a shipping address for the customer
 
-    1.  On the **Customers** list page, select the web shop customer (CWEB0001).
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
 
-    2.  To open the customer card, select **Manage** and then select **Edit**.
+2.  On the **Customers** list page, select the web shop customer (CWEB0001).
 
-    3.  In the customer card, select **Related**, then select **Customer** and
-        then **Ship-to Addresses**.
+3.  To open the customer card, select **Manage** and then select **Edit**.
 
-    4.  In the opened **Ship-to Address** List page, select **+New**.
+4.  In the customer card, select **Related**, then select **Customer** and
+    then **Ship-to Addresses**.
 
-    5.  In the opened ship-to addresses card, fill in the following fields:
+5.  In the opened **Ship-to Address** List page, select **New**.
 
-        1.  In the **Code** field, enter PICK-UP DK
+6.  In the opened ship-to addresses card, fill in the following fields:
 
-        2.  In the **Name** field, the value ‘Generic EU web shop’ is
-            automatically filled in. Replace with ‘Pick-up point Denmark’.
+      1.  In the **Code** field, enter PICK-UP DK
 
-        3.  In the **Address** field, enter ‘Carl Blochs Gade 7’.
+      2.  In the **Name** field, the value ‘Generic EU web shop’ is automatically filled in. Replace with ‘Pick-up point Denmark’.
 
-        4.  In the **City** field, enter ‘Arhus C’
+      3.  In the **Address** field, enter ‘Carl Blochs Gade 7’.
 
-        5.  In the **ZIP Code** field, the value ‘DK-8000’ is automatically
-            filled in.
+      4.  In the **City** field, enter ‘Arhus C’
 
-        6.  In the **Country/Region Code** field, the value ‘DK’ is
-            automatically filled in.
+      5.  In the **ZIP Code** field, the value ‘DK-8000’ is automatically
+        filled in.
 
-        7.  In the **Contact** field, enter ‘Hr. Jonathan Mollerup’.
+      6.  In the **Country/Region Code** field, the value ‘DK’ is
+        automatically filled in.
 
-    6.  Close the ship-to address card.
+      7.  In the **Contact** field, enter ‘Hr. Jonathan Mollerup’.
 
-    7.  In the customer card, select **Related**, then select **Customer** and
-        then **Ship-to Addresses**.
+7.  Close the ship-to address card.
 
-    8.  In the opened **Ship-to Address List** page, select **+New**.
+8.  In the customer card, select **Related**, then select **Customer** and
+    then **Ship-to Addresses**.
 
-    9.  In the opened ship-to addresses card, fill in the following fields:
+9.  In the opened **Ship-to Address List** page, select **New**.
 
-        1.  In the **Code** field, enter PICK-UP BE
+10. In the opened ship-to addresses card, fill in the following fields:
 
-        2.  In the **Name** field, the value ‘Generic EU web shop’ is
-            automatically filled in. Replace with ‘Pick-up point Belgium’.
+      1.  In the **Code** field, enter PICK-UP BE
 
-        3.  In the **Address** field, enter ‘Binkkampen 33’.
+      2.  In the **Name** field, the value ‘Generic EU web shop’ is automatically filled in. Replace with ‘Pick-up point Belgium’.
 
-        4.  In the **City** field, enter ‘Brussel’
+      3.  In the **Address** field, enter ‘Binkkampen 33’.
 
-        5.  In the **ZIP Code** field, enter ‘BE-1020’.
+      4.  In the **City** field, enter ‘Brussel’
 
-        6.  In the **Country/Region Code** field, the value ‘BE’ is
-            automatically filled in.
+      5.  In the **ZIP Code** field, enter ‘BE-1020’.
 
-        7.  In the **Contact** field, enter ‘Caroline Pedersen’.
+      6.  In the **Country/Region Code** field, the value ‘BE’ is automatically filled in.
 
-    10. Close the ship-to address card.
+      7.  In the **Contact** field, enter ‘Caroline Pedersen’.
 
-    11. In the customer card, select **Related**, then select **Customer** and
-        then **Ship-to Addresses**.
+11. Close the ship-to address card.
 
-    12. In the opened **Ship-to Address** List page, select **+New**.
+12. In the customer card, select **Related**, then select **Customer** and
+    then **Ship-to Addresses**.
 
-    13. In the opened ship-to addresses card, fill in the following fields:
+13. In the opened **Ship-to Address** List page, select **New**.
 
-        1.  In the **Code** field, enter PICK-UP FR
+14. In the opened ship-to addresses card, fill in the following fields:
 
-        2.  In the **Name** field, the value ‘Generic EU web shop’ is
-            automatically filled in. Replace with ‘Pick-up point France’.
+      1.  In the **Code** field, enter PICK-UP FR
 
-        3.  In the **Address** field, enter ‘34 Avenue Parmentier’.
+      2.  In the **Name** field, the value ‘Generic EU web shop’ is automatically filled in. Replace with ‘Pick-up point France’.
 
-        4.  In the **City** field, enter ‘Paris’
+      3.  In the **Address** field, enter ‘34 Avenue Parmentier’.
 
-        5.  In the **ZIP Code** field, the value ‘FR-75000’ is automatically
-            filled in.
+      4.  In the **City** field, enter ‘Paris’
 
-        6.  In the **Country/Region Code** field, the value ‘FR’ is
-            automatically filled in.
+      5.  In the **ZIP Code** field, the value ‘FR-75000’ is automatically
+        filled in.
 
-        7.  In the **Contact** field, enter ‘M. Jean E. TRENARY’.
+      6.  In the **Country/Region Code** field, the value ‘FR’ is
+        automatically filled in.
 
-    14. Close the ship-to address card.
+      7.  In the **Contact** field, enter ‘M. Jean E. TRENARY’.
 
-    15. Close the **Ship-to Address List** page.
+15. Close the ship-to address card.
 
-2.  Specify shipping information.
+16. Close the **Ship-to Address List** page.
 
-    1.  On the customer card for the generic web shop customer (CWEB0001), go to
-        the **Shipping** FastTab.
+### Task 2: Specify shipping information
 
-    2.  Leave the **Ship-to Code** field blank.
+1.  On the customer card for the generic web shop customer (CWEB0001), go to the **Shipping** FastTab.
 
-    3.  In the **Location Code** field, enter EUROP.
+2.  Leave the **Ship-to Code** field blank.
 
-    4.  In the **Agent** field, enter DHL
+3.  In the **Location Code** field, enter EUROP.
 
-    5.  In the **Agent Service** field, enter STANDARD
+4.  In the **Agent** field, enter DHL
 
-    6.  In the **Shipping Time** field, the value 2D is automatically filled in.
+5.  In the **Agent Service** field, enter STANDARD
 
-3.  Set up and assign a salesperson
+6.  In the **Shipping Time** field, the value 2D is automatically filled in.
 
-    1.  On the **Sales People/Purchasers** list page, select sales person
-        Annette Hill.
+### Task 3: Set up and assign a salesperson
 
-    2.  Select **Salesperson** and then select **Dimensions-single**.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Sales People/Purchasers** and click the **Salespeople/Purchasers** link.
 
-    3.  On the opened **Default Dimensions** page, select **+New**.
+2.  On the **Sales People/Purchasers** list page, select sales person
+    Annette Hill.
 
-    4.  On the new line, fill in the following fields:
+3.  Select **Salesperson** and then select **Dimensions-single**.
 
-        1.  In the **Dimension Code** field, enter SALESPERSON
+4.  On the opened **Default Dimensions** page, select **New**.
 
-        2.  In the **Dimension Value Code** field, enter AH
+5.  On the new line, fill in the following fields:
 
-        3.  In the **Value Posting** field, select the **Same Code** option.
+      1.  In the **Dimension Code** field, enter SALESPERSON
 
-        4.  Close the page.
+      2.  In the **Dimension Value Code** field, enter AH
 
-    5.  Repeat steps a. to d. for salespeople John Roberts and Peter Saddow.
+      3.  In the **Value Posting** field, select the **Same Code** option.
 
-        *(Remark: you also repeat the steps for the other salespeople, but this
-        is not required for further exercises.)*
+      4.  Close the page.
 
-    6.  On the **Customers** list page, select customer Spotsmeyer’s Furnishings
-        (C00010)
+6.  Repeat steps a. to d. for salespeople John Roberts and Peter Saddow.
 
-    7.  To open the customer card, select **Manage** and then select **Edit**.
+    *(Remark: you also repeat the steps for the other salespeople, but this is not required for further exercises.)*
 
-    8.  On the **General** FastTab, in the **Salesperson Code** field, enter AH
+7.  On the **Customers** list page, select customer Spotsmeyer’s Furnishings
+    (C00010)
 
-    9.  Go to the next customer card for customer Progressive Home Furnishings.
+8.  To open the customer card, select **Manage** and then select **Edit**.
 
-    10. On the **General** FastTab, in the **Salesperson Code** field, enter JR
+9.  On the **General** FastTab, in the **Salesperson Code** field, enter AH
 
-    11. Go to the next customer card for customer New Concepts Furniture.
+10. Go to the next customer card for customer Progressive Home Furnishings.
 
-    12. On the **General** FastTab, in the **Salesperson Code** field, enter PS
+11. On the **General** FastTab, in the **Salesperson Code** field, enter JR
+
+12. Go to the next customer card for customer New Concepts Furniture.
+
+13. On the **General** FastTab, in the **Salesperson Code** field, enter PS
 
 ## Exercise 2: Configure sales pricing and discounts
 
@@ -248,212 +245,208 @@ You have to set up this sales price structure as provided by Contoso.
 
 7.  Configure invoice discount
 
-### Steps
 
-1.  Set up customer price groups
+### Task 1: Set up customer price groups
 
-    1.  On the **Customers Price Groups** page, select **+New**.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers Price Groups** and click the **Customers Price Groups** link.
 
-    2.  On the new line, fill in the following fields:
+2.  On the **Customers Price Groups** page, select **New**.
 
-        1.  In the **Code** field, enter EU.
+3.  On the new line, fill in the following fields:
 
-        2.  In the **Description** field, enter ‘EU customers’.
+      1.  In the **Code** field, enter EU.
 
-        3.  Leave the **Allow Line Disc.** and **Allow Invoice Disc.**
-            checkboxes selected.
+      2.  In the **Description** field, enter ‘EU customers’.
 
-    3.  Repeat steps a. and b. to create also a DOMESTIC and EXPORT customer
-        price group.
+      3.  Leave the **Allow Line Disc.** and **Allow Invoice Disc.** checkboxes selected.
 
-2.  Set up customer discount groups
+4.  Repeat steps a. and b. to create also a DOMESTIC and EXPORT customer price group.
 
-    1.  On the **Customer Disc. Groups** page, select **+New**.
+### Task 2: Set up customer discount groups
 
-    2.  On the new line, fill in the following fields:
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customer Disc. Groups** and click the **Customer Disc. Groups** link.
 
-        1.  In the **Code** field, enter SMALL.
+2.  On the **Customer Disc. Groups** page, select **New**.
 
-        2.  In the **Description** field, enter ‘Small business’.
+3.  On the new line, fill in the following fields:
 
-    3.  Repeat steps a. and b. to create also a MEDIUM and LARGE customer
-        discount group.
+      1.  In the **Code** field, enter SMALL.
 
-3.  Assign customer price groups and customer discount groups
+      2.  In the **Description** field, enter ‘Small business’.
 
-    1.  On the **Customers** list page, select the web shop customer (CWEB0001).
+4.  Repeat steps a. and b. to create also a MEDIUM and LARGE customer
+    discount group.
 
-    2.  To open the customer card, select **Manage** and then select **Edit**.
+### Task 3: Assign customer price groups and customer discount groups
 
-    3.  Go to the **Invoicing** FastTab, and fill in the following fields:
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
 
-        1.  In the **Customer Price Group** field, enter EU.
+2.  On the **Customers** list page, select the web shop customer (CWEB0001).
 
-        2.  In the **Customer Disc. Group** field, enter SMALL
+3.  To open the customer card, select **Manage** and then select **Edit**.
 
-        3.  Leave the **Allow Line Disc.** checkbox selected.
+4.  Go to the **Invoicing** FastTab, and fill in the following fields:
 
-    4.  Repeat steps d. to f. to assign the DOMESTIC customer price group to the
-        customers C00010, C00020 and C00030 , and the SMALL customer discount
-        group to customer C00010, the MEDIUM customer discount group to customer
-        C00020 and the LARGE customer discount group to customer C00030.
+      1.  In the **Customer Price Group** field, enter EU.
 
-4.  Set up and assign item discount groups
+      2.  In the **Customer Disc. Group** field, enter SMALL
 
-    1.  On the **Item Discount Groups** page, select **+New**.
+      3.  Leave the **Allow Line Disc.** checkbox selected.
+5.  Repeat steps d. to f. to assign the DOMESTIC customer price group to the
+    customers C00010, C00020 and C00030 , and the SMALL customer discount
+    group to customer C00010, the MEDIUM customer discount group to customer
+    C00020 and the LARGE customer discount group to customer C00030.
 
-    2.  On the new line, fill in the following fields:
+### Task 4: Set up and assign item discount groups
 
-        1.  In the **Code** field, enter COMPUTER
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Item Discount Groups** and click the **Item Discount Groups** link.
 
-        2.  In the **Description** field, enter Computer
+2.  On the **Item Discount Groups** page, select **New**.
 
-    3.  Repeat step a. and b. to create an item discount group for MONITOR and
-        ACCESSORIES
+3.  On the new line, fill in the following fields:
 
-    4.  On the **Items** list page, select the 15” Flat panel (CHW1002)
+      1.  In the **Code** field, enter COMPUTER
 
-    5.  Go to the **Invoicing** FastTab, in the **Item Disc. Group** field,
-        enter MONITOR.
+      2.  In the **Description** field, enter Computer
 
-    6.  On the **Items** list page, select the 15” Flat panel (CHW1002)
+4.  Repeat step a. and b. to create an item discount group for MONITOR and ACCESSORIES
 
-    7.  Go to the **Invoicing** FastTab, in the **Item Disc. Group** field,
-        enter MONITOR.
+5.  On the **Items** list page, select the 15” Flat panel (CHW1002)
 
-5.  Configure sales prices
+6.  Go to the **Invoicing** FastTab, in the **Item Disc. Group** field, enter MONITOR.
 
-    1.  On the **Items** list page, select the 15” flat panel (CHW1002).
+7.  On the **Items** list page, select the 15” Flat panel (CHW1002)
 
-    2.  To open the item card, select **Manage** and then select **Edit**.
+8.  Go to the **Invoicing** FastTab, in the **Item Disc. Group** field, enter MONITOR.
 
-    3.  On the opened item card, select **Special Sales Prices & Discounts** and
-        then select **Set Sales Prices**.
+### Task 5: Configure sales prices
 
-    4.  On the **Sales Prices** page, create a new line as follows:
+1.  On the **Items** list page, select the 15” flat panel (CHW1002).
 
-        1.  In the **Sales Type** field enter **Customer Price Group**.
+2.  To open the item card, select **Manage** and then select **Edit**.
 
-        2.  In the **Sales Code** field, enter **EU**.
+3.  On the opened item card, select **Special Sales Prices & Discounts** and
+    then select **Set Sales Prices**.
 
-        3.  In the **Item No**. field, the value CHW1002 is automatically filled
-            in.
+4.  On the **Sales Prices** page, create a new line as follows:
 
-        4.  In the **Unit of Measure Code** field, the value PCS is
-            automatically filled in.
+      1.  In the **Sales Type** field enter **Customer Price Group**.
 
-        5.  In the **Unit Price** field, enter 499.95.
+      2.  In the **Sales Code** field, enter **EU**.
 
-    5.  On the **Sales Prices** page, create a new line as follows:
+      3.  In the **Item No**. field, the value CHW1002 is automatically filled
+        in.
 
-        1.  In the **Sales Type** field enter **Customer Price Group**.
+      4.  In the **Unit of Measure Code** field, the value PCS is automatically filled in.
 
-        2.  In the **Sales Code** field, enter **EU**.
+      5.  In the **Unit Price** field, enter 499.95.
 
-        3.  In the **Item No**. field, the value CHW1002 is automatically filled
-            in.
+5.  On the **Sales Prices** page, create a new line as follows:
 
-        4.  In the **Unit of Measure Code** field, the value PCS is
-            automatically filled in. Change the value to BOX.
+      1.  In the **Sales Type** field enter **Customer Price Group**.
 
-        5.  In the **Unit Price** field, enter 4800.00.
+      2.  In the **Sales Code** field, enter **EU**.
 
-    6.  Close the sales prices page.
+      3.  In the **Item No**. field, the value CHW1002 is automatically filled in.
 
-    7.  Close the item card.
+      4.  In the **Unit of Measure Code** field, the value PCS is automatically filled in. Change the value to BOX.
 
-    8.  On the Items list page, select the 17” monitor (CHW1003).
+      5.  In the **Unit Price** field, enter 4800.00.
 
-    9.  To open the item card, select **Manage** and then select **Edit**.
+6.  Close the sales prices page.
 
-    10. On the opened item card, select **Special Sales Prices & Discounts** and
-        then select **Set Sales Prices**.
+7.  Close the item card.
 
-    11. On the **Sales Prices** page, create a new line as follows:
+8.  On the Items list page, select the 17” monitor (CHW1003).
 
-        1.  In the **Sales Type** field enter **Customer Price Group**.
+9.  To open the item card, select **Manage** and then select **Edit**.
 
-        2.  In the **Sales Code** field, enter **EU**.
+10. On the opened item card, select **Special Sales Prices & Discounts** and then select **Set Sales Prices**.
 
-        3.  In the **Item No**. field, the value CHW1003 is automatically filled
-            in.
+11. On the **Sales Prices** page, create a new line as follows:
 
-        4.  In the **Unit of Measure Code** field, the value PCS is
-            automatically filled in.
+      1.  In the **Sales Type** field enter **Customer Price Group**.
 
-        5.  In the **Unit Price** field, enter 700.00.
+      2.  In the **Sales Code** field, enter **EU**.
 
-    12. On the **Sales Prices** page, create a new line as follows:
+      3.  In the **Item No**. field, the value CHW1003 is automatically filled in.
 
-        1.  In the **Sales Type** field enter **Customer Price Group**.
+      4.  In the **Unit of Measure Code** field, the value PCS is automatically filled in.
 
-        2.  In the **Sales Code** field, enter **EU**.
+      5.  In the **Unit Price** field, enter 700.00.
 
-        3.  In the **Item No**. field, the value CHW1003 is automatically filled
-            in.
+12. On the **Sales Prices** page, create a new line as follows:
 
-        4.  In the **Unit of Measure Code** field, the value PCS is
-            automatically filled in. Change the value to BOX.
+      1.  In the **Sales Type** field enter **Customer Price Group**.
 
-        5.  In the **Unit Price** field, enter 6,550.00.
+      2.  In the **Sales Code** field, enter **EU**.
 
-6.  Configure line discount
+      3.  In the **Item No**. field, the value CHW1003 is automatically filledin.
 
-    1.  On the **Item Discount Groups** page, select **Sales Lines Discounts**.
+      4.  In the **Unit of Measure Code** field, the value PCS is automatically filled in. Change the value to BOX.
 
-    2.  Remove the value in the **Code Filter** filter.
+      5.  In the **Unit Price** field, enter 6,550.00.
 
-    3.  On the **Sales Discounts** page, create a new line as follows:
+### Task 6: Configure line discount
 
-        1.  In the **Sales Type** field enter **Customer Disc. Group**.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Item Discount Groups** and click the **Item Discount Groups** link.
 
-        2.  In the **Sales Code** field, enter SMALL.
+2.  On the **Item Discount Groups** page, select **Sales Lines Discounts**.
 
-        3.  In the **Type** field, enter **Item Discount Group**
+3.  Remove the value in the **Code Filter** filter.
 
-        4.  In the **Code** field, enter MONITOR.
+4.  On the **Sales Discounts** page, create a new line as follows:
 
-        5.  In the **Line Discount %** field, enter ‘3’.
+      1.  In the **Sales Type** field enter **Customer Disc. Group**.
 
-    4.  On the **Sales Discounts** page, create a new line as follows:
+      2.  In the **Sales Code** field, enter SMALL.
 
-        1.  In the **Sales Type** field enter **Customer Disc. Group**.
+      3.  In the **Type** field, enter **Item Discount Group**
 
-        2.  In the **Sales Code** field, enter MEDIUM.
+      4.  In the **Code** field, enter MONITOR.
 
-        3.  In the **Type** field, enter **Item Discount Group**
+      5.  In the **Line Discount %** field, enter ‘3’.
 
-        4.  In the **Code** field, enter MONITOR.
+5.  On the **Sales Discounts** page, create a new line as follows:
 
-        5.  In the **Line Discount %** field, enter ‘6’.
+      1.  In the **Sales Type** field enter **Customer Disc. Group**.
 
-    5.  On the **Sales Discounts** page, create a new line as follows:
+      2.  In the **Sales Code** field, enter MEDIUM.
 
-        1.  In the **Sales Type** field enter **Customer Disc. Group**.
+      3.  In the **Type** field, enter **Item Discount Group**
 
-        2.  In the **Sales Code** field, enter LARGE.
+      4.  In the **Code** field, enter MONITOR.
 
-        3.  In the **Type** field, enter **Item Discount Group**
+      5.  In the **Line Discount %** field, enter ‘6’.
 
-        4.  In the **Code** field, enter MONITOR.
+6.  On the **Sales Discounts** page, create a new line as follows:
 
-        5.  In the **Line Discount %** field, enter ‘10’.
+      1.  In the **Sales Type** field enter **Customer Disc. Group**.
 
-    6.  Close the **Sales Discounts** page.
+      2.  In the **Sales Code** field, enter LARGE.
 
-7.  Configure invoice discount
+      3.  In the **Type** field, enter **Item Discount Group**
 
-    1.  On the **Customers** list page, select the web shop customer (CWEB0001)
+      4.  In the **Code** field, enter MONITOR.
 
-    2.  To open the customer card, select **Manage** and then select **Edit**.
+      5.  In the **Line Discount %** field, enter ‘10’.
 
-    3.  Select **Related**, then select **Prices and Discounts** and then select
-        **Invoice Discounts**.
+7.  Close the **Sales Discounts** page.
 
-    4.  On a new line, fill in the following fields.
+### Task 7: Configure invoice discount
 
-        1.  In the **Minimum Amount** field, enter 50.00.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
 
-        2.  In the **Discount %** field, enter 5.
+2.  On the **Customers** list page, select the web shop customer (CWEB0001)
 
-    5.  Close the **Cust. Invoice Discounts** page.
+3.  To open the customer card, select **Manage** and then select **Edit**.
+
+4.  Select **Related**, then select **Prices and Discounts** and then select **Invoice Discounts**.
+
+5.  On a new line, fill in the following fields.
+
+      1.  In the **Minimum Amount** field, enter 50.00.
+
+      2.  In the **Discount %** field, enter 5.
+
+6.  Close the **Cust. Invoice Discounts** page.

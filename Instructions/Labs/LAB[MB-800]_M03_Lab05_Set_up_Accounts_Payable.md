@@ -34,13 +34,15 @@ accounting manager has expressed the following requirements:
 
 1.  Set up and assign number series.
 
-   1.  In the **Purchases & Payables Setup** page, go to the **Number Series**
-        FastTab.
+2.  At the top of the Business Center page, click the search icon in the black bar on the right. Then Type **Purchases & Payables Setup** and click the **Purchases & Payables Setup** link. 
 
-   2.  In the **Posted Invoice Nos.** field, click on the Look Up Value button
-        and click **+New.**
+3.  In the **Purchases & Payables Setup** page, go to the **Number Series** FastTab.
+   **Note:** FastTabs are the bold words with aline underneath them that can be expanded. 
 
-   3.  In the opened **No. Series List** page, fill in the following fields:
+4.  In the **Posted Invoice Nos.** field, click on the Look Up Value button
+    and click **New.**
+
+5.  In the opened **No. Series List** page, fill in the following fields:
 
        1.  In the **Code** field, enter PINCN+
 
@@ -51,9 +53,9 @@ accounting manager has expressed the following requirements:
 
        4.  Select the **Date Order** check box.
 
-   4.  Select **Navigate** and then select **Lines**.
+6.  Select **Navigate** and then select **Lines**.
 
-   5.  In the opened **No. Series Lines** page, select **+New**.
+7.  In the opened **No. Series Lines** page, select **New**.
 
        1.  In the **Starting Date** field, enter 1/1/2021.
 
@@ -61,26 +63,22 @@ accounting manager has expressed the following requirements:
 
        3.  In the **Increment-by No.** field, leave the value ‘1’.
         
-   6.  Close the **No. Series Lines** page.
+8.  Close the **No. Series Lines** page.
 
-   7.  Close the **No. Series List** page, by clicking **OK**.
+9.  Close the **No. Series List** page, by clicking **OK**.
 
-   8.  The new number series PINCN+ is now automatically filled in in the
-        **Posted Invoice Nos.** field, in the **Purchases & Payables Setup**
-        page.
+10. The new number series PINCN+ is now automatically filled in in the **Posted Invoice Nos.** field, in the **Purchases & Payables Setup** page.
 
-   9.  In the **Posted Credit Memo Nos**. field, enter PINCN+.
+11. In the **Posted Credit Memo Nos**. field, enter PINCN+.
 
-2.  Complete discount posting setup.
+12. Complete discount posting setup.
 
-   1.  In the **Purchases & Payables Setup** page, go to the **General**
-        FastTab.
+13. In the **Purchases & Payables Setup** page, go to the **General**
+    FastTab.
 
-   2.  In the **Discount Posting** field, select the **All Discounts** option.
+14. In the **Discount Posting** field, select the **All Discounts** option.
 
-   3.  In the **General Posting Setup** page, for each possible combination of
-        **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure
-        the following fields are filled in:
+15. In the **General Posting Setup** page, for each possible combination of **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure the following fields are filled in:
 
        1.  In the **Purch. Line Disc. Account** field, the value 20200 must be
             filled in.
@@ -107,9 +105,11 @@ You must set up a separate payment journal for this purpose.
 
 1.  Create a general journal template.
 
-   1.  In the **General Journal Templates** page, select **+New**.
+2.  At the top of the Business Center page, in the black bar to the right, click the search icon. Then type in **General Journal Templates** and click the **General Journal Templates** link.
 
-   2.  Fill in the following fields:
+3.  In the **General Journal Templates** page, select **New**.
+
+4.  Fill in the following fields:
 
        1.  In the **Name** field, enter EUROP.
 
@@ -122,17 +122,17 @@ You must set up a separate payment journal for this purpose.
 
        5.  In the **No. Series** field, enter GJNL-PMT.
 
-2.  Create a general journal template batch.
+5.  Create a general journal template batch.
 
-   1.  In the **General Journal Templates** page, make sure the EUROP journal
-        is selected.
+6.  In the **General Journal Templates** page, make sure the EUROP journal
+    is selected.
 
-   2.  Select **Related**, then select **Template** and then select
-        **Batches**.
+7.  Select **Related**, then select **Template** and then select
+    **Batches**.
 
-   3.  In the opened **General Journal Batches** page, select **+New.**
+8.  In the opened **General Journal Batches** page, select **New.**
 
-   4.  Fill in the following fields:
+9.  Fill in the following fields:
 
        1.  In the **Name** field, enter EUROP.
 
@@ -172,9 +172,11 @@ posting groups. Then apply these templates to the existing vendors.
 
 1.  Set up a Vendor Posting Group.
 
-   1.  In the **Vendor Posting Groups** page, select **+New**.
+2.  At the top of the Business Center page, in the black bar to the right, click the search icon. Then type **Vendor Posting Groups** and click the **Vendor Posting Groups** link. 
 
-   2.  In the **Vendor Posting Group Card** page, fill in the following fields:
+3.  In the **Vendor Posting Groups** page, select **New**.
+
+4.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
        1.  In the **Code** field, fill in FOREIGN.
 
@@ -184,9 +186,9 @@ posting groups. Then apply these templates to the existing vendors.
 
        4.  Close the page.
 
-   3.  In the **Vendor Posting Groups** page, select **+New**.
+5.  In the **Vendor Posting Groups** page, select **New**.
 
-   4.  In the **Vendor Posting Group Card** page, fill in the following fields:
+6.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
        1.  In the **Code** field, fill in INTERCOMPANY.
 
@@ -196,9 +198,9 @@ posting groups. Then apply these templates to the existing vendors.
 
        4.  Close the page.
 
-   5.  From the **Vendor Posting Groups** page, copy the other g/l accounts
-       from the DOMESTIC vendor posting group to the FOREIGN and INTERCOMPANY
-        vendor posting groups using F8. Copy the following fields:
+7.  From the **Vendor Posting Groups** page, copy the other g/l accounts
+   from the DOMESTIC vendor posting group to the FOREIGN and INTERCOMPANY
+    vendor posting groups using F8. Copy the following fields:
 
        1.  Payment Disc. Debit Acc.
 
@@ -218,151 +220,145 @@ posting groups. Then apply these templates to the existing vendors.
 
        9.  Payment Tolerance Credit Acc.
 
-2.  Create Configuration Templates.
+8.  Create Configuration Templates.
 
-   1.  In the **Configuration Templates** page, select **+New**.
+9.  In the **Configuration Templates** page, select **New**.
 
-   2.  In the **Config. Template Header** page, fill in the following fields:
+10. In the **Config. Template Header** page, fill in the following fields:
 
-       1.  In the **Code** field, enter DOMESTIC
-       
-       2.  In the **Description** field, enter ‘Domestic vendors’
+      1.  In the **Code** field, enter DOMESTIC
 
-       3.  Open the assist edit button to the right of the **Table ID** field,
-            select the table for vendors (ID = 23) and click **OK**.
+      2.  In the **Description** field, enter ‘Domestic vendors’
 
-       4.  Select the **Enabled** check box.
+      3.  Open the assist edit button to the right of the **Table ID** field,
+        select the table for vendors (ID = 23) and click **OK**.
 
-       5.  In the **Lines** section on the page, create the following line:
+      4.  Select the **Enabled** check box.
 
-          1.  In the **Type** field, enter **Field**.
+      5.  In the **Lines** section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
+      6.  In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter DOMESTIC
+      7.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
 
-       6.  In the Lines section on the page, create the following line:
+      8.  In the **Default Value** field, enter DOMESTIC
 
-          1.  In the **Type** field, enter **Field**.
+      9.  In the Lines section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Vendor Posting Group**.
+      10. In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter DOMESTIC
+      11. In the **Field Name** field, enter **Vendor Posting Group**.
 
-       7.  Close the configuration template.
+      12. In the **Default Value** field, enter DOMESTIC
 
-   3.  In the **Configuration Templates** page, select **+New**.
+      13. Close the configuration template.
 
-   4.  In the **Config. Template Header** page, fill in the following fields:
+11. In the **Configuration Templates** page, select **New**.
 
-       1.  In the **Code** field, enter EU
+12. In the **Config. Template Header** page, fill in the following fields:
 
-       2.  In the **Description** field, enter ‘EU vendors’
+      1.  In the **Code** field, enter EU
 
-       3.  Open the assist edit button to the right of the **Table ID** field,
-            select the table for vendors (ID = 23) and click **OK**.
+      2.  In the **Description** field, enter ‘EU vendors’
 
-       4.  Select the **Enabled** check box.
+      3.  Open the assist edit button to the right of the **Table ID** field, select the table for vendors (ID = 23) and click **OK**.
 
-       5.  In the **Lines** section on the page, create the following line:
+      4.  Select the **Enabled** check box.
 
-          1.  In the **Type** field, enter **Field**.
+      5.  In the **Lines** section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
+      6.  In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter EU
+      7.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
 
-       6.  In the Lines section on the page, create the following line:
+      8.  In the **Default Value** field, enter EU
 
-          1.  In the **Type** field, enter **Field**.
+      9.  In the Lines section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Vendor Posting Group**.
+      10. In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter FOREIGN
+      11. In the **Field Name** field, enter **Vendor Posting Group**.
 
-        7.  Close the configuration template.
+      12. In the **Default Value** field, enter FOREIGN
 
-   5.  In the **Configuration Templates** page, select **+New**.
+      13. Close the configuration template.
 
-   6.  In the **Config. Template Header** page, fill in the following fields:
+13. In the **Configuration Templates** page, select **New**.
 
-       1.  In the **Code** field, enter INTERCOMP
+14. In the **Config. Template Header** page, fill in the following fields:
 
-       2.  In the **Description** field, enter ‘Intercompany vendors’
+      1.  In the **Code** field, enter INTERCOMP
 
-       3.  Open the assist edit button to the right of the **Table ID** field,
-            select the table for vendors (ID = 23) and click **OK**.
+      2.  In the **Description** field, enter ‘Intercompany vendors’
 
-       4.  Select the **Enabled** check box.
+      3.  Open the assist edit button to the right of the **Table ID** field, select the table for vendors (ID = 23) and click **OK**.
 
-       5.  In the **Lines** section on the page, create the following line:
+      4.  Select the **Enabled** check box.
 
-          1.  In the **Type** field, enter **Field**.
+      5.  In the **Lines** section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
+      6.  In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter EU
+      7.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
 
-       6.  In the Lines section on the page, create the following line:
+      8.  In the **Default Value** field, enter EU
 
-          1.  In the **Type** field, enter **Field**.
+      9.  In the Lines section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Vendor Posting Group**.
+      10. In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter INTERCOMPANY
+      11. In the **Field Name** field, enter **Vendor Posting Group**.
 
-       7.  Close the configuration template.
+      12. In the **Default Value** field, enter INTERCOMPANY
 
-   7.  In the **Configuration Templates** page, select **+New**.
+      13. Close the configuration template.
 
-   8.  In the **Config. Template Header** page, fill in the following fields:
+15. In the **Configuration Templates** page, select **New**.
 
-       1.  In the **Code** field, enter EXPORT
+16. In the **Config. Template Header** page, fill in the following fields:
 
-       2.  In the **Description** field, enter ‘Export vendors’
+      1.  In the **Code** field, enter EXPORT
 
-       3.  Open the assist edit button to the right of the **Table ID** field,
-            select the table for vendors (ID = 23) and click **OK**.
+      2.  In the **Description** field, enter ‘Export vendors’
 
-       4.  Select the **Enabled** check box.
+      3.  Open the assist edit button to the right of the **Table ID** field, select the table for vendors (ID = 23) and click **OK**.
 
-       5.  In the **Lines** section on the page, create the following line:
+      4.  Select the **Enabled** check box.
 
-          1.  In the **Type** field, enter **Field**.
+      5.  In the **Lines** section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
+      6.  In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter EXPORT
+      7.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
 
-       6.  In the Lines section on the page, create the following line:
+      8.  In the **Default Value** field, enter EXPORT
 
-          1.  In the **Type** field, enter **Field**.
+      9.  In the Lines section on the page, create the following line:
 
-          2.  In the **Field Name** field, enter **Vendor Posting Group**.
+      10. In the **Type** field, enter **Field**.
 
-          3.  In the **Default Value** field, enter FOREIGN
+      11. In the **Field Name** field, enter **Vendor Posting Group**.
 
-       7.  Close the configuration template.
+      12. In the **Default Value** field, enter FOREIGN
 
-3.  Configure vendors.
+      13. Close the configuration template.
 
-   1.  In the **Vendors** list page, multi-select imported vendors V9001, V9003
-        and V9007.
+17. Configure vendors.
 
-   2.  Select **Process**, and then select **Apply Template**.
-   
-   3.  In the vendor templates list, select Domestic vendors, and click **OK.**
+18. In the **Vendors** list page, multi-select imported vendors V9001, V9003 and V9007.
 
-   4.  In the **Vendors** list page, multi-select imported vendors V9002, V9005
-        and V9006.
+19. Select **Process**, and then select **Apply Template**.
 
-   5.  Select **Process**, and then select **Apply Template**.
+20. In the vendor templates list, select Domestic vendors, and click **OK.**
 
-   6.  In the vendor templates list, select EU vendors, and click **OK.**
+21. In the **Vendors** list page, multi-select imported vendors V9002, V9005 and V9006.
 
-   7.  In the **Vendors** list page, multi-select imported vendors V9004 and
-        V9008.
+22. Select **Process**, and then select **Apply Template**.
 
-   8.  Select **Process**, and then select **Apply Template**.
+23. In the vendor templates list, select EU vendors, and click **OK.**
 
-   9.  In the vendor templates list, select Export vendors, and click **OK.**
+24. In the **Vendors** list page, multi-select imported vendors V9004 and V9008.
+
+25. Select **Process**, and then select **Apply Template**.
+
+26. In the vendor templates list, select Export vendors, and click **OK.**

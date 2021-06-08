@@ -38,76 +38,74 @@ the ‘cost and freight’ shipment method.
 
 2.  Specify receiving information
 
-### Steps
 
-1.  Create an order address for the vendor
+### Task 1: Create an order address for the vendor
 
-    1.  On the **Vendors** list page, select vendor Cronus Cardoxy Sales
-        (V9002).
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Vendors** and click the **Vendors** link.
 
-    2.  To open the vendor card, select **Manage** and then select **Edit**.
+2.  In the **Vendors** list page, select vendor Cronus Cardoxy Sales (V9007).
 
-    3.  In the vendor card, select **Related**, then select **Vendor** and then
-        **Order Addresses**.
+3.  To open the vendor card, select **Manage** and then select **Edit**.
 
-    4.  In the opened **Order Address List** page, select **+New**.
+4.  In the vendor card, select **Related**, then select **Vendor** and then
+    **Order Addresses**.
 
-    5.  In the opened order address card, fill in the following fields:
+5.  In the opened **Order Address List** page, select **New**.
 
-        1.  In the **Code** field, enter COMP&MON
+6.  In the opened order address card, fill in the following fields:
 
-        2.  In the **Name** field, the value ‘Cronus Cardoxy Sales’ is
-            automatically filled in.
+      1.  In the **Code** field, enter COMP&MON
 
-        3.  In the **Address** field, enter ‘Nyborgvej 566’.
+      2.  In the **Name** field, the value ‘Cronus Cardoxy Sales’ is automatically filled in.
 
-        4.  In the **City** field, enter ‘ODENSE C’.
+      3.  In the **Address** field, enter ‘Nyborgvej 566’.
 
-        5.  In the **ZIP Code** field, the value ‘DK-5000’ is automatically
-            filled in.
+      4.  In the **City** field, enter ‘ODENSE C’.
 
-        6.  In the **Country/Region Code** field, the value ‘DK’ is
-            automatically filled in.
+      5.  In the **ZIP Code** field, the value ‘DK-5000’ is automatically filled in.
 
-        7.  In the **Contact** field, enter Hr. Allan Vinther-Wahl.
+    1.  In the **Country/Region Code** field, the value ‘DK’ is
+        automatically filled in.
 
-    6.  Close the order address card.
+    2.  In the **Contact** field, enter Hr. Allan Vinther-Wahl.
 
-    7.  In the opened **Order Address List** page, select **+New**.
+7.  Close the order address card.
 
-    8.  In the opened order address card, fill in the following fields:
+8.  In the opened **Order Address List** page, select **New**.
 
-        1.  In the **Code** field, enter ACCESSORIE
+9.  In the opened order address card, fill in the following fields:
 
-        2.  In the **Name** field, the value ‘Cronus Cardoxy Sales’ is
-            automatically filled in.
+     1.  In the **Code** field, enter ACCESSORIE
 
-        3.  In the **Address** field, enter ‘Havnevej 6’.
+     2.  In the **Name** field, the value ‘Cronus Cardoxy Sales’ is
+        automatically filled in.
 
-        4.  In the **City** field, enter ‘KOGE’.
+     3.  In the **Address** field, enter ‘Havnevej 6’.
 
-        5.  In the **ZIP Code** field, the value ‘DK-4600’ is automatically
-            filled in.
+     4.  In the **City** field, enter ‘KOGE’.
 
-        6.  In the **Country/Region Code** field, the value ‘DK’ is
-            automatically filled in.
+     5.  In the **ZIP Code** field, the value ‘DK-4600’ is automatically
+        filled in.
 
-        7.  In the **Contact** field, enter Fr. Karen Friske.
+     6.  In the **Country/Region Code** field, the value ‘DK’ is
+        automatically filled in.
 
-    9.  Close the order address card.
+     7.  In the **Contact** field, enter Fr. Karen Friske.
 
-    10. Close the **Order Address List** page.
+10. Close the order address card.
 
-2.  Specify receiving information
+11. Close the **Order Address List** page.
 
-    1.  On the vendor card for vendor Cronus Cardoxy Sales, go to the
-        **Receiving** FastTab.
+### Task 2: Specify receiving information
 
-    2.  In the **Location Code** field, enter EUROP.
+1.  On the vendor card for vendor Cronus Cardoxy Sales, go to the
+    **Receiving** FastTab.
 
-    3.  In the **Shipment Method Code** field, enter CFR.
+2.  In the **Location Code** field, enter EUROP.
 
-    4.  In the **Lead Time Calculation** field, enter 5D.
+3.  In the **Shipment Method Code** field, enter CFR.
+
+4.  In the **Lead Time Calculation** field, enter 5D.
 
 ## Exercise 2: Complete the item card
 
@@ -131,71 +129,67 @@ You need to set up the replenishment information on the item card.
 
 1.  Specify replenishment information
 
-### Steps
 
-1.  Specify replenishment information
+### Task 1: Specify replenishment information
 
-    1.  On the **Items** list page, select item 15” 1501 FP Flat Panel (CHW1002)
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Items** and click the **Items** link.
 
-    2.  To open the item card, select **Manage** and then select **Edit**.
+2.  In the **Items** list page, select item 15” 1501 FP Flat Panel (CHW1002)
 
-    3.  In the item card, go to the **Replenishment** FastTab and fill in the
-        following fields:
+3.  To open the item card, select **Manage** and then select **Edit**.
 
-        1.  In the **Replenishment System** field, leave the default value
-            **Purchase**.
+4.  In the item card, go to the **Replenishment** FastTab and fill in the following fields:
 
-        2.  In the **Lead Time Calculation** field, enter 5D.
+      1.  In the **Replenishment System** field, leave the default value
+        **Purchase**.
 
-        3.  In the **Vendor No.** field, enter V9002.
+      2.  In the **Lead Time Calculation** field, enter 5D.
 
-        4.  In the **Purch. Unit of Measure** field, the value PCS is already
-            filled in. Click on the Look Up Value button and select **+New**.
+      3.  In the **Vendor No.** field, enter V9002.
 
-        5.  In the opened **Item Units of Measure** page, fill in the following
-            fields:
+      4.  In the **Purch. Unit of Measure** field, the value PCS is already
+        filled in. Click on the Look Up Value button and select **New**.
 
-            1.  In the **Code** field, enter BOX.
+5.  In the opened **Item Units of Measure** page, fill in the following fields:
 
-            2.  In the **Qty. per Unit of Measure** field, enter 10.
+      1.  In the **Code** field, enter BOX.
 
-        6.  Click **OK** to close the page.
+      2.  In the **Qty. per Unit of Measure** field, enter 10.
 
-        7.  The new code is automatically filled in in the **Purch. Unit of
-            Measure** field on the item card.
+      3.  Click **OK** to close the page.
 
-    4.  Close the item card.
+6.  The new code is automatically filled in in the **Purch. Unit of
+    Measure** field on the item card.
 
-    5.  On the **Items** list page, select item 17" M780 Monitor (CHW1003)
+7.  Close the item card.
 
-    6.  To open the item card, select **Manage** and then select **Edit**.
+8.  On the **Items** list page, select item 17" M780 Monitor (CHW1003)
 
-    7.  In the item card, go to the **Replenishment** FastTab and fill in the
-        following fields:
+9.  To open the item card, select **Manage** and then select **Edit**.
 
-        1.  In the **Replenishment System** field, leave the default value
-            **Purchase**.
+10. In the item card, go to the **Replenishment** FastTab and fill in the following fields:
 
-        2.  In the **Lead Time Calculation** field, enter 7D.
+      1.  In the **Replenishment System** field, leave the default value
+        **Purchase**.
 
-        3.  In the **Vendor No.** field, enter V9002.
+      2.  In the **Lead Time Calculation** field, enter 7D.
 
-        4.  In the **Purch. Unit of Measure** field, the value PCS is already
-            filled in. Click on the Look Up Value button and select **+New**.
+      3.  In the **Vendor No.** field, enter V9002.
 
-        5.  In the opened **Item Units of Measure** page, fill in the following
-            fields:
+      4.  In the **Purch. Unit of Measure** field, the value PCS is already filled in. Click on the Look Up Value button and select **New**.
 
-            1.  In the **Code** field, enter BOX.
+11. In the opened **Item Units of Measure** page, fill in the following fields:
 
-            2.  In the **Qty. per Unit of Measure** field, enter 10.
+      1.  In the **Code** field, enter BOX.
 
-        6.  Click **OK** to close the page.
+      2.  In the **Qty. per Unit of Measure** field, enter 10.
 
-        7.  The new code is automatically filled in in the **Purch. Unit of
-            Measure** field on the item card.
+12. Click **OK** to close the page.
 
-    8.  Close the item card.
+13. The new code is automatically filled in in the **Purch. Unit of
+    Measure** field on the item card.
+
+14. Close the item card.
 
 ## Exercise 3: Set up an item vendor catalog
 
@@ -237,51 +231,52 @@ follows:
 
 1.  Set up an item vendor catalog
 
-### Steps
 
-1.  Set up an item vendor catalog
+### Task 1: Set up an item vendor catalog
 
-    1.  On the **Items** list page, select item 15” 1501 FP Flat Panel (CHW1002)
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Items** and click the **Items** list link.
 
-    2.  To open the item card, select **Manage** and then select **Edit**.
+2.  In the **Items** list page, select item 15” 1501 FP Flat Panel (CHW1002)
 
-    3.  In the item card, select **Related**, then select **Purchases** and then
-        **Vendors**.
+3.  To open the item card, select **Manage** and then select **Edit**.
 
-    4.  On the opened **Item Vendor Catalog** page, select **+New**.
+4.  In the item card, select **Related**, then select **Purchases** and then
+    **Vendors**.
 
-    5.  On the new line, fill in the following fields:
+5.  On the opened **Item Vendor Catalog** page, select **New**.
 
-        1.  In the **Vendor No.** field, enter V9005.
+6.  On the new line, fill in the following fields:
 
-        2.  In the **Vendor Item No.** field, enter PLM-345.
+      1.  In the **Vendor No.** field, enter V9005.
 
-        3.  In the **Lead Time Calculation** field, enter 2D.
+      2.  In the **Vendor Item No.** field, enter PLM-345.
 
-    6.  Close the **Item Vendor Catalog** page.
+      3.  In the **Lead Time Calculation** field, enter 2D.
 
-    7.  Close the item card.
+    1.  Close the **Item Vendor Catalog** page.
 
-    8.  On the **Items** list page, select item 17" M780 Monitor (CHW1003)
+7.  Close the item card.
 
-    9.  To open the item card, select **Manage** and then select **Edit**.
+8.  On the **Items** list page, select item 17" M780 Monitor (CHW1003)
 
-    10. In the item card, select **Related**, then select **Purchases** and then
-        **Vendors**.
+9.  To open the item card, select **Manage** and then select **Edit**.
 
-    11. On the opened **Item Vendor Catalog** page, select **+New**.
+10. In the item card, select **Related**, then select **Purchases** and then
+    **Vendors**.
 
-    12. On the new line, fill in the following fields:
+11. On the opened **Item Vendor Catalog** page, select **New**.
 
-        1.  In the **Vendor No.** field, enter V9005.
+12. On the new line, fill in the following fields:
 
-        2.  In the **Vendor Item No.** field, enter PLM-346.
+      1.  In the **Vendor No.** field, enter V9005.
 
-        3.  In the **Lead Time Calculation** field, enter 2D.
+      2.  In the **Vendor Item No.** field, enter PLM-346.
 
-    13. Close the **Item Vendor Catalog** page.
+      3.  In the **Lead Time Calculation** field, enter 2D.
 
-    14. Close the item card.
+13. Close the **Item Vendor Catalog** page.
+
+14. Close the item card.
 
 ## Exercise 4: Configure recurring purchase lines
 
@@ -316,81 +311,80 @@ purchase invoice.
 
 1.  Configure recurring purchase lines
 
-### Steps
 
-1.  Configure recurring purchase lines
+### Task 1: Configure recurring purchase lines
 
-    1.  On the **Vendors** list page, select vendor Oakville World (V9007).
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Vendors List** and click the **Vendors List** link.
 
-    2.  Select **Related**, then **Purchases** and then select **Recurring
-        Purchase Lines**.
+2.  In the **Vendors List** page, select vendor Oakville World (V9007).
 
-    3.  On the opened **Recurring Purchase Lines** page, select **+New**.
+3.  Select **Related**, then **Purchases** and then select **Recurring
+    Purchase Lines**.
 
-    4.  On the new line, fill in the following fields:
+4.  On the opened **Recurring Purchase Lines** page, select **New**.
 
-        1.  Click on the Look Up Value button in the **Code** field, and select
-            **+New**.
+5.  On the new line, fill in the following fields:
 
-        2.  On the opened **Standard Purchase Code Card** page, fill in the
-            following fields:
+      1.  Click on the Look Up Value button in the **Code** field, and select
+        **New**.
 
-            1.  In the **Code** field, enter INSURANCE
+6.  On the opened **Standard Purchase Code Card** page, fill in the
+    following fields:
 
-            2.  In the **Description** field, enter ‘Monthly health insurance’
+      1.  In the **Code** field, enter INSURANCE
 
-            3.  In the **Currency Code** field, enter CAD.
+      2.  In the **Description** field, enter ‘Monthly health insurance’
 
-            4.  In the **Lines** section, create a new line, and fill in the
-                following fields:
+      3.  In the **Currency Code** field, enter CAD.
 
-                1.  In the **Type** field, select the ‘G/L Account’ option.
+7.  In the **Lines** section, create a new line, and fill in the
+    following fields:
 
-                2.  In the **No.** field, enter 61000.
+      1.  In the **Type** field, select the ‘G/L Account’ option.
 
-                3.  In the **Quantity** field, enter 1.
+      2.  In the **No.** field, enter 61000.
 
-                4.  In the Amount excl. Tax field, enter ‘300’. (25% of
-                    1,200.00)
+      3.  In the **Quantity** field, enter 1.
 
-                5.  In the **Department Code** field, enter SALES.
+      4.  In the Amount excl. Tax field, enter ‘300’. (25% of
+        1,200.00)
 
-            5.  In the **Lines** section, create a new line, and fill in the
-                following fields:
+      5.  In the **Department Code** field, enter SALES.
 
-                6.  In the **Type** field, select the ‘G/L Account’ option.
+8.  In the **Lines** section, create a new line, and fill in the
+    following fields:
 
-                7.  In the **No.** field, enter 61000.
+      1.  In the **Type** field, select the ‘G/L Account’ option.
 
-                8.  In the **Quantity** field, enter 1.
+      2.  In the **No.** field, enter 61000.
 
-                9.  In the Amount excl. Tax field, enter ‘420’. (35% of
-                    1,200.00)
+      3.  In the **Quantity** field, enter 1.
 
-                10. In the **Department Code** field, enter ADM.
+      4.  In the Amount excl. Tax field, enter ‘420’. (35% of
+        1,200.00)
 
-            6.  In the **Lines** section, create a new line, and fill in the
-                following fields:
+      5.  In the **Department Code** field, enter ADM.
 
-                11. In the **Type** field, select the ‘G/L Account’ option.
+9.  In the **Lines** section, create a new line, and fill in the
+    following fields:
 
-                12. In the **No.** field, enter 61000.
+      1.  In the **Type** field, select the ‘G/L Account’ option.
 
-                13. In the **Quantity** field, enter 1.
+      2.  In the **No.** field, enter 61000.
 
-                14. In the Amount excl. Tax field, enter ‘480’. (40% of
-                    1,200.00)
+      3.  In the **Quantity** field, enter 1.
 
-                15. In the **Department Code** field, enter PROD.
+      4.  In the Amount excl. Tax field, enter ‘480’. (40% of
+        1,200.00)
 
-            7.  Close the **Standard Purchase Code Card** page.
+      5.  In the **Department Code** field, enter PROD.
 
-            8.  Click **OK** to close the **Recurring Purchase Lines** page.
+10. Close the **Standard Purchase Code Card** page.
 
-        3.  The new code is now automatically filled in in the **Code** field on
-            the **Recurring Purchase Lines** page.
+11. Click **OK** to close the **Recurring Purchase Lines** page.
 
-        4.  In the **Insert Rec. Lines On Invoices** field, select the
-            **Automatic** option.
+12. The new code is now automatically filled in in the **Code** field on the **Recurring Purchase Lines** page.
 
-    5.  Close the **Recurring Purchase Lines** page
+13. In the **Insert Rec. Lines On Invoices** field, select the **Automatic** option.
+
+14. Close the **Recurring Purchase Lines** page

@@ -53,164 +53,149 @@ met:
 
 1.  Setting up approval users.
 
-    1.  On the **Approval User Setup** page, select **+New**.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Approval User Setup** and click the **Approval User Setup** link.
 
-    2.  Fill in the following fields for user 1 (accounting manager):
+3.  On the **Approval User Setup** page, select **New**.
 
-        1.  In the **User ID** field, enter your own user ID.
+4.  Fill in the following fields for user 1 (accounting manager):
 
-        2.  Leave the **Approver ID** field blank.
+      1.  In the **User ID** field, enter your own user ID.
 
-        3.  Select the **Unlimited Purchase Approval** checkbox.
+      2.  Leave the **Approver ID** field blank.
 
-        4.  Leave the **Substitute** field bank.
+      3.  Select the **Unlimited Purchase Approval** checkbox.
 
-        5.  In the **E-mail** field, enter the e-mail for the accounting
-            manager.
+      4.  Leave the **Substitute** field bank.
 
-        6.  Select the **Approval Administrator** checkbox.
+      5.  In the **E-mail** field, enter the e-mail for the accounting manager.
 
-    3.  On the **Approval User Setup** page, select **+New**.
+      6.  Select the **Approval Administrator** checkbox.
 
-    4.  Fill in the following fields for user 2 (purchasing manager):
+5.  On the **Approval User Setup** page, select **New**.
 
-        1.  In the **User ID** field, enter a user ID.
+6.  Fill in the following fields for user 2 (purchasing manager):
 
-        2.  In the **Approver ID** field, enter the accounting manager ID.
+      1.  In the **User ID** field, enter a user ID.
 
-        3.  In the **Purchase Amount Approval Limit** field, enter 10,000.00.
+      2.  In the **Approver ID** field, enter the accounting manager ID.
 
-        4.  Leave the **Substitute** field bank.
+      3.  In the **Purchase Amount Approval Limit** field, enter 10,000.00.
 
-        5.  In the **E-mail** field, enter the e-mail for the purchasing
-            manager.
+      4.  Leave the **Substitute** field bank.
 
-        6.  Leave the **Approval Administrator** checkbox unselected.
+      5.  In the **E-mail** field, enter the e-mail for the purchasing manager.
 
-    5.  On the **Approval User Setup** page, select **+New**.
+      6.  Leave the **Approval Administrator** checkbox unselected.
 
-    6.  Fill in the following fields for user 3 (purchasing agent):
+7.  On the **Approval User Setup** page, select **New**.
 
-        1.  In the **User ID** field, enter a user ID.
+8.  Fill in the following fields for user 3 (purchasing agent):
 
-        2.  In the **Approver ID** field, enter the purchasing manager ID.
+      1.  In the **User ID** field, enter a user ID.
 
-        3.  In the **Purchase Amount Approval Limit** field, enter 5,000.00.
+      2.  In the **Approver ID** field, enter the purchasing manager ID.
 
-        4.  Leave the **Substitute** field bank.
+      3.  In the **Purchase Amount Approval Limit** field, enter 5,000.00.
 
-        5.  In the **E-mail** field, enter the e-mail for the purchasing agent.
+      4.  Leave the **Substitute** field bank.
 
-        6.  Leave the **Approval Administrator** checkbox unselected.
+      5.  In the **E-mail** field, enter the e-mail for the purchasing agent.
 
-2.  Setting up notifications.
+      6.  Leave the **Approval Administrator** checkbox unselected.
 
-    1.  From the **User Approval Setup** page, select the line for user 1.
+9.  Setting up notifications.
 
-    2.  Select **Notification Setup**.
+10. From the **User Approval Setup** page, select the line for user 1.
 
-    3.  On the opened **Notification Setup** page, select **+New**.
+11. Select **Notification Setup**.
 
-        1.  In the **Notification Type** field, enter **Approval.**
+12. On the opened **Notification Setup** page, select **New**.
 
-        2.  In the **Notification Method** field, enter **Note**.
+      1.  In the **Notification Type** field, enter **Approval.**
 
-        3.  Select **Notification Schedule**
+      2.  In the **Notification Method** field, enter **Note**.
 
-            1.  In the **Recurrence** field, enter **Instantly**.
+      3.  Select **Notification Schedule**
 
-            2.  Close the **Notification Schedule** page.
+      4.  In the **Recurrence** field, enter **Instantly**.
 
-        4.  Close the **Notification Setup Page**.
+      5.  Close the **Notification Schedule** page.
 
-    4.  Repeat steps a to c for users 2 and 3.
+      6.  Close the **Notification Setup Page**.
 
-3.  Creating the approval workflow.
+      7.  Repeat steps a to c for users 2 and 3.
 
-    1.  On the **Workflow Templates** page, select **Purchase Order Approval
-        Workflow**.
+13. Creating the approval workflow.
 
-    2.  Select **Actions** and then select **New Workflow from Template**.
+14. On the **Workflow Templates** page, select **Purchase Order Approval Workflow**.
 
-    3.  A workflow is created, in the **Code** field, the value MS-POAPW-01 is
-        automatically filled in.
+15. Select **Actions** and then select **New Workflow from Template**.
 
-    4.  On the **Worflow Steps** FastTab, select the first line where the **When
-        Event** field contains the value ‘Approval of a purchase document is
-        requested’
+16. A workflow is created, in the **Code** field, the value MS-POAPW-01 is automatically filled in.
 
-    5.  Click on the **On Condition** field.
+17. On the **Worflow Steps** FastTab, select the first line where the **When Event** field contains the value ‘Approval of a purchase document is requested’
 
-        1.  Select the **Document Type** filter, and enter ‘Order’.
+18. Click on the **On Condition** field.
 
-        2.  Select the **Status** filter, and enter ‘Open’.
+      1.  Select the **Document Type** filter, and enter ‘Order’.
 
-        3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘EU’.
+      2.  Select the **Status** filter, and enter ‘Open’.
 
-        4.  Click **OK** to close the **Event Conditions** page.
+      3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘EU’.
 
-    6.  Click on the **Then Response** field.
+      4.  Click **OK** to close the **Event Conditions** page.
 
-        1.  Select response ‘Create an approval request for the record using
-            type Approver and approver limit type Approver Chain’.
+19. Click on the **Then Response** field.
 
-            1.  On the **Options for the Selected Response** FastTab, make sure
-                the following fields are filled in:
+20. Select response ‘Create an approval request for the record using type Approver and approver limit type Approver Chain’.
 
-                1.  In the **Approver Type** field, enter **Approver**.
+21. On the **Options for the Selected Response** FastTab, make sure the following fields are filled in:
 
-                2.  In the **Approver Limit Type** field, enter **Approver
-                    Chain**.
+      1.  In the **Approver Type** field, enter **Approver**.
 
-        2.  Click **OK** to close the **Workflow Responses** page.
+      2.  In the **Approver Limit Type** field, enter **Approver Chain**.
 
-    7.  Select the **Enabled** checkbox.
+22. Click **OK** to close the **Workflow Responses** page.
 
-    8.  Close the workflow.
+23. Select the **Enabled** checkbox.
 
-    9.  On the **Workflow Templates** page, select **Purchase Order Approval
-        Workflow**.
+24. Close the workflow.
 
-    10. Select **Actions** and then select **New Workflow from Template**.
+25. On the **Workflow Templates** page, select **Purchase Order Approval Workflow**.
 
-    11. A workflow is created, in the **Code** field, the value MS-POAPW-02 is
-        automatically filled in.
+26. Select **Actions** and then select **New Workflow from Template**.
 
-    12. On the **Worflow Steps** FastTab, select the first line where the **When
-        Event** field contains the value ‘Approval of a purchase document is
-        requested’
+27. A workflow is created, in the **Code** field, the value MS-POAPW-02 is automatically filled in.
 
-    13. Click on the **On Condition** field.
+28. On the **Worflow Steps** FastTab, select the first line where the **When Event** field contains the value ‘Approval of a purchase document is requested’
 
-        1.  Select the **Document Type** filter, and enter ‘Order’.
+29. Click on the **On Condition** field.
 
-        2.  Select the **Status** filter, and enter ‘Open’.
+      1.  Select the **Document Type** filter, and enter ‘Order’.
 
-        3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘\<\>EU’.
+      2.  Select the **Status** filter, and enter ‘Open’.
 
-        4.  Click **OK** to close the **Event Conditions** page.
+      3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘\<\>EU’.
 
-    14. Click on the **Then Response** field.
+      4.  Click **OK** to close the **Event Conditions** page.
 
-        1.  Select response ‘Create an approval request for the record using
-            type Approver and approver limit type Approver Chain’.
+30. Click on the **Then Response** field.
 
-            1.  On the **Options for the Selected Response** FastTab, change the
-                following fields are filled in:
+31. Select response ‘Create an approval request for the record using type Approver and approver limit type Approver Chain’.
 
-                3.  In the **Approver Type** field, enter **Approver**.
+32. On the **Options for the Selected Response** FastTab, change the following fields are filled in:
 
-                4.  In the **Approver Limit Type** field, enter **Specific
-                    Approver**.
+      1.  In the **Approver Type** field, enter **Approver**.
 
-                5.  In the **Approver ID** field, enter your own ID, for the
-                    accounting manager.
+      2.  In the **Approver Limit Type** field, enter **Specific Approver**.
 
-        2.  Click **OK** to close the **Workflow Responses** page.
+      3.  In the **Approver ID** field, enter your own ID, for the accounting manager.
 
-    15. Select the **Enabled** checkbox.
+33. Click **OK** to close the **Workflow Responses** page.
 
-    16. Close the workflow.
+34. Select the **Enabled** checkbox.
+
+35. Close the workflow.
 
 ## Exercise 2: Using a purchase approval workflow
 
@@ -233,59 +218,56 @@ The purchasing agent places an order with vendor PURE-LOOK on January 14th,
 
 1.  Request approval of a purchase order.
 
-    1.  Log in the database as the purchasing agent.
+2.  Log in the database as the purchasing agent.
 
-    2.  On the **Purchase Orders** page, select **+New**.
+3.  At the top of the page, click the search icon in the black bar on the right. Then type **Purchase Orders** and click the **Purchase Orders** link.
 
-    3.  On the opened purchase order, on the **General** FastTab, fill in the
-        following fields.
+4.  On the **Purchase Orders** page, select **New**.
 
-        1.  In the **Vendor No.** field, enter V9005.
+5.  On the opened purchase order, on the **General** FastTab, fill in the following fields.
 
-        2.  In the **Posting Date** and **Order Date** fields, enter 1/14/2021.
+      1.  In the **Vendor No.** field, enter V9005.
 
-    4.  On the **Lines** section, create a new line by filling in the following
-        fields:
+      2.  In the **Posting Date** and **Order Date** fields, enter 1/14/2021.
 
-        1.  In the **Type** field, enter Item.
+6.  On the **Lines** section, create a new line by filling in the following fields:
 
-        2.  In the **No.** field, enter CHW1005 for the quietkey keyboards.
+      1.  In the **Type** field, enter Item.
 
-        3.  In the **Location Code** field, enter MAIN.
+      2.  In the **No.** field, enter CHW1005 for the quietkey keyboards.
 
-        4.  In the **Quantity** field, enter 45.
+      3.  In the **Location Code** field, enter MAIN.
 
-        5.  In the **Direct Unit Cost Excl. Tax** field, enter 50.00.
+      4.  In the **Quantity** field, enter 45.
 
-    5.  On the **Lines** section, create a new line by filling in the following
-        fields:
+      5.  In the **Direct Unit Cost Excl. Tax** field, enter 50.00.
 
-        1.  In the **Type** field, enter Item.
+7.  On the **Lines** section, create a new line by filling in the following fields:
 
-        2.  In the **No.** field, enter CHW1006 for the speakers.
+      1.  In the **Type** field, enter Item.
 
-        3.  In the **Location Code** field, enter MAIN.
+      2.  In the **No.** field, enter CHW1006 for the speakers.
 
-        4.  In the **Quantity** field, enter 75.
+      3.  In the **Location Code** field, enter MAIN.
 
-        5.  In the **Direct Unit Cost Excl. Tax** field, enter 38.00.
+      4.  In the **Quantity** field, enter 75.
 
-    6.  Select **Request Approval** and then select **Send Approval Request**.
+      5.  In the **Direct Unit Cost Excl. Tax** field, enter 38.00.
 
-    7.  Click **OK**.
+8.  Select **Request Approval** and then select **Send Approval Request**.
 
-    8.  In the **Status** field, the value is automatically set to **Pending
-        Approval**.
+9.  Click **OK**.
 
-    9.  On the **Sent Notification Entries** page, a new entry is created.
+10. In the **Status** field, the value is automatically set to **Pending Approval**.
 
-2.  Receiving a notification and approving the request.
+11. On the **Sent Notification Entries** page, a new entry is created.
 
-    1.  Log in the database as the purchasing agent.
+12. Receiving a notification and approving the request.
 
-    2.  On the **Requests to Approve** page, select the line for the purchase
-        order.
+13. Log in the database as the purchasing agent.
 
-    3.  Select **Approve**.
+14. On the **Requests to Approve** page, select the line for the purchase order.
 
-    4.  On the purchase order, the **Status** field is changed to **Released**.
+15. Select **Approve**.
+
+16. On the purchase order, the **Status** field is changed to **Released**.
