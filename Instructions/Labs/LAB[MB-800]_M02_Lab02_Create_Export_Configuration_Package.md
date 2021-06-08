@@ -40,33 +40,32 @@ The following information is returned to you by Contoso’s super user:
 
 1.  Create a configuration package.
 
-   1.  In the **Configuration Packages** page, click **New** to create a new
-        configuration package.
+2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, click **New** to create a new configuration package.
 
-   2.  In the **Code** field, enter VENDOR.
+3.  In the **Code** field, enter VENDOR.
 
-   3.  In the **Package Name** field, enter Vendor List.
+4.  In the **Package Name** field, enter Vendor List.
 
-2.  Assign tables and select fields.
+5.  Assign tables and select fields.
 
-   1.  On the **Tables** section of the Config. Package Card, enter a new line
-        as follows.
+6.  On the **Tables** section of the Config. Package Card, enter a new line
+    as follows.
 
-   2.  Open the assist edit button to the right of the **Table ID** field.
+7.  Open the assist edit button to the right of the **Table ID** field.
 
-   3.  In the window that opens, select the **Vendor** table and click **OK**.
+8.  In the window that opens, select the **Vendor** table and click **OK**.
 
-   4.  Then press ENTER or TAB.
+9.  Then press ENTER or TAB.
 
-   5.  You will be asked to check related tables, click **No**.
+10. You will be asked to check related tables, click **No**.
 
-   6.  Make sure the vendor table line is selected, select **Table** and then
-        **Fields**.
+11. Make sure the vendor table line is selected, select **Table** and then
+    **Fields**.
 
-   7.  On the field list page, first select **Clear Included**, to deselect the
-        **Include Field** checkbox for all the fields.
+12. On the field list page, first select **Clear Included**, to deselect the
+    **Include Field** checkbox for all the fields.
 
-   8.  Then select the **Include Field** checkbox for the following fields:
+13. Then select the **Include Field** checkbox for the following fields:
 
        1.  Name
 
@@ -84,24 +83,28 @@ The following information is returned to you by Contoso’s super user:
 
        8.  Post Code
 
-   9.  The **Validate Field** checkbox is automatically selected.
+14. The **Validate Field** checkbox is automatically selected.
 
-   10. Click **Close**.
+15. Click **Close**.
 
-3.  Export a configuration package to excel.
+16. Export a configuration package to excel.
 
-   1.  In the **Config. Package Card** page, select **Actions**, then
-        **Package**, and then **Export to Excel**.
+17. In the **Config. Package Card** page, select **Actions**, then
+    **Package**, and then **Export to Excel**.
 
-   2.  Click **Yes** to export the configuration package.
+18. Click **Yes** to export the configuration package.
 
-4.  Prepare data in excel.
+19. Prepare data in excel.
 
-   1.  Open the exported excel file from the download folder.
+20. Open the exported excel file from the download folder.
 
-   2.  Enter the information as provided by Contoso in the scenario description above, or use the provided Vendor Import.xlsx file.
+21. Enter the information as provided by Contoso in the scenario description above, or use the provided Vendor Import.xlsx file.
    
-   3.  Save the excel file.
+22. Save the excel file.
+
+23. Enter the information as provided by Contoso.
+
+24. Save the excel file.
 
 ## Exercise 2: Import and apply a configuration package
 
@@ -126,56 +129,55 @@ values.
 
 1.  Import a configuration package from excel.
 
-   1.  In the **Configuration Packages** page, select the new configuration
-        package for vendors and select **Manage** and then **Edit**.
+2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Edit**.
 
-   2.  In the **Config. Package Card** page, select **Actions**, then select
-        **Package**, and then **Import from Excel**.
+3.  In the **Config. Package Card** page, select **Actions**, then select
+    **Package**, and then **Import from Excel**.
 
-   3.  Click **Choose…** and select the Excel file.   
+4.  Click **Choose…** and select the excel file.
 
-   4.  Click **Open**.
+5.  Click **Open**.
 
-   5.  In the preview page, select **Import**.
+6.  In the preview page, select **Import**.
 
-2.  Apply a configuration package.
+7.  Apply a configuration package.
 
-   1.  In the **Config. Package Card** page, select **Actions**, then select
-        **Functions**, and then **Apply Package**.
+8.  In the **Config. Package Card** page, select **Actions**, then select
+    **Functions**, and then **Apply Package**.
 
-   2.  Click **Yes**.
+9.  Click **Yes**.
 
-3.  Resolve package errors.
+10. Resolve package errors.
 
-   1.  In the **Config. Package Card** page, the vendor table line will show a
-        number of errors.
+11. In the **Config. Package Card** page, the vendor table line will show a
+    number of errors.
 
-   2.  Click on the number in the **No. of Package Errors** field.
+12. Click on the number in the **No. of Package Errors** field.
 
-   3.  In the error page, select the first record line and click **Show
-        Error**.
+13. In the error page, select the first record line and click **Show
+    Error**.
 
-   4.  Repeat for all the error records.
+14. Repeat for all the error records.
 
-   5.  Click **OK**.
+15. Click **OK**.
 
-   6.  In the **Config. Package Card** page, select the vendor table line and
-        select **Table** and then select **Fields**.
+16. In the **Config. Package Card** page, select the vendor table line and
+    select **Table** and then select **Fields**.
 
-   7.  Select the **Create Missing Codes** check box, for the following fields:
+17. Select the **Create Missing Codes** check box, for the following fields:
 
        1.  Currency Code
 
        2.  Post Code
 
-   8.  Click **Close**.
+18. Click **Close**.
 
-   9.  In the **Config. Package Card** page, select **Actions**, then select
-        **Functions**, and then **Apply Package**.
+19. In the **Config. Package Card** page, select **Actions**, then select
+    **Functions**, and then **Apply Package**.
 
-   10. Click **Yes**.
+20. Click **Yes**.
 
-   11. Click **OK**.
+21. Click **OK**.
 
 ## Exercise 3: Import and apply a predefined package
 
@@ -192,20 +194,20 @@ from the default CRONUS USA company within the database.
 
 1.  Import and apply a predefined package.
 
-   1.  In the **Configuration Packages** page, select **Actions**, then
-        **Package**, and then select **Import Predefined Package**.
+2.  In the **Configuration Packages** page, select **Actions**, then
+    **Package**, and then select **Import Predefined Package**.
 
-   2.  From the overview list, select the **Evaluation** package, containing
-        the demo data.
+3.  From the overview list, select the **Evaluation** package, containing
+    the demo data.
 
-   3.  Click **OK**.
+4.  Click **OK**.
 
-   4.  Select the imported configuration package, select **Actions**, then
-        **Functions**, and then select **Apply Package**.
+5.  Select the imported configuration package, select **Actions**, then
+    **Functions**, and then select **Apply Package**.
 
-   5.  Click **Yes**.
+6.  Click **Yes**.
 
-   6.  A warning appears, where you select the **I understand, and want to
-        continue** checkbox and click **OK**.
+7.  A warning appears, where you select the **I understand, and want to
+    continue** checkbox and click **OK**.
 
-   7.  Click **No** to any further questions.
+8.  Click **No** to any further questions.

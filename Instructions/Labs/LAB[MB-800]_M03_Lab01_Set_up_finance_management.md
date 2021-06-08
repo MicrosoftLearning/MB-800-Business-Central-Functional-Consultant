@@ -25,23 +25,24 @@ entire fiscal year.
 
 1.  Change the starting date of the fiscal year.
 
-   1.  Open the **Accounting Periods** page.
+2.  Open the **Accounting Periods** page by clicking on the search icon in the black bar at the top of the page, on the right hand side. After clicking on the search icon type **Acounting Periods**, then click the link to the page.
 
-   2.  Select the accounting period with starting date 1/1/2022 and deselect
-        the **New Fiscal Year** checkbox.
+3.  Select the accounting period with starting date 1/1/2022 and deselect
+    the **New Fiscal Year** checkbox.
+    **Note:** You will need to click edit list to deselect the check box.
 
-   3.  Select the accounting period with starting date 7/1/2021 and select the
-        **New Fiscal Year** checkbox.
+4.  Select the accounting period with starting date 7/1/2021 and select the
+    **New Fiscal Year** checkbox.
 
-   4.  Leave the selection on the **New Fiscal Year** checkbox for the
-        accounting period with starting date 1/1/2021.
+5.  Leave the selection on the **New Fiscal Year** checkbox for the
+    accounting period with starting date 1/1/2021.
 
-2.  Create accounting periods in bulk.
+6.  Create accounting periods in bulk.
 
-   1.  In the **Accounting Periods** page, select **Actions** and then select
-        **Create Year**.
+7.  In the **Accounting Periods** page, select **Actions** and then select
+    **Create Year**.
 
-   2.  On the window that opens, fill in the following options:
+8.  On the window that opens, fill in the following options:
 
        1.  In the **Starting Date** field, enter 1/1/2022.
 
@@ -49,11 +50,11 @@ entire fiscal year.
 
        3.  In the **Period Length** field, enter 1M.
 
-   3.  Click **OK**.
+9.  Click **OK**.
 
-   4.  New accounting periods are now created, where the last accounting period
-        has a starting date of 7/1/2022 and the **New Fiscal Year** checkbox is
-        selected.
+10.  New accounting periods are now created, where the last accounting period
+    has a starting date of 7/1/2022 and the **New Fiscal Year** checkbox is
+    selected.
 
 ## Exercise 2: Configure the general ledger setup
 
@@ -93,10 +94,10 @@ opening balance on December 31st 2020.
 
 1.  Determine the local currency.
 
-   1.  Open the **General Ledger Setup** page.
+2.  Open the **General Ledger Setup** page.
 
-   2.  In the **General** FastTab review that the following fields regarding
-        local currency are filled in correctly.
+3.  In the **General** FastTab review that the following fields regarding
+    local currency are filled in correctly.
 
        1.  The **LCY Code** field must be set to USD.
 
@@ -105,19 +106,19 @@ opening balance on December 31st 2020.
        3.  The **Local Currency Description** field must be filled in with ‘US
             dollar’
 
-   3.  In the **General** FastTab review that the following fields regarding
-        local currency rounding are filled in correctly:
+4.  In the **General** FastTab review that the following fields regarding
+    local currency rounding are filled in correctly:
 
        1.  The **Amount Decimal Places (\$)** field must be set to 2:2.
 
        2.  The **Unit-Amount Decimal Places (\$)** field must be set to 2:5.
 
-2.  Set up global and shortcut dimensions.
+5.  Set up global and shortcut dimensions.
 
-   1.  In the **General Ledger Setup** page, select **Actions**, then
-        **Functions** and then **Change Global Dimensions**.
+6.  In the **General Ledger Setup** page, select **Actions**, then
+    **Functions** and then **Change Global Dimensions**.
 
-   2.  In the **Change Global Dimensions** page, fill in the following fields:
+7.  In the **Change Global Dimensions** page, fill in the following fields:
 
        1.  In the **Global Dimension 1 Code** field select the value
             SALESPERSON.
@@ -125,26 +126,26 @@ opening balance on December 31st 2020.
        2.  In the **Global Dimension 2 Code** field leave the value CUSTOMER
             GROUP.
 
-   3.  Select **Sequential** and then click **Start**.
+8.  Select **Sequential** and then click **Start**.
 
-   4.  Close the **Change Global Dimensions** page.
+9.  Close the **Change Global Dimensions** page.
 
-   5.  In the **General Ledger Setup** page, in the **Dimensions** FastTab, in
-        the **Shortcut Dimension 3 Code** field select the value DEPARTMENT.
+10.  In the **General Ledger Setup** page, in the **Dimensions** FastTab, in
+    the **Shortcut Dimension 3 Code** field select the value DEPARTMENT.
 
-3.  Allow posting in the open accounting period.
+11.  Allow posting in the open accounting period.
 
-   1.  In the **General Ledger Setup** page, in the **General** FastTab, fill
-        in the following fields:
+12.  In the **General Ledger Setup** page, in the **General** FastTab, fill
+    in the following fields:
 
        1.  In the **Allow Posting From** field, select 1/1/2021.
 
        2.  In the **Allow Posting To** field, select 1/31/2021.
 
-   2.  Close the **General Ledger Setup** page.
+13.  Close the **General Ledger Setup** page.
 
-   3.  In the **User Setup** page, select **New**.
+14.   In the **User Setup** page, select **+New**.
 
-   4.  In the **User ID** field, enter your own user id.
+15.  In the **User ID** field, enter your own user id.
 
-   5.  In the **Allow Posting From** field, enter 12/31/2020.
+16.  In the **Allow Posting From** field, enter 12/31/2020.
