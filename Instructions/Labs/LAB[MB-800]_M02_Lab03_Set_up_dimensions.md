@@ -33,11 +33,13 @@ a dimension for sales people as well.
 
 3.  In the **Dimensions** page, select **New**.
 
-4.  In the **Code** field, enter SALESPERSON.
+4. In the **Dimensions** page, select **+New**.
 
-5.  Select **Dimension** and then **Dimension Values**.
+5.  In the **Code** field, enter SALESPERSON.
 
-6.  For each sales person, enter the initials in the **Code** field and the full name in the **Name** field.
+6.  Select **Dimension** and then **Dimension Values**.
+
+7.  For each sales person, enter the initials in the **Code** field and the full name in the **Name** field.
 
     -   AH - Annette Hill
 
@@ -53,7 +55,7 @@ a dimension for sales people as well.
 
     -   RL - Richard Lum
 
-7.  For each sales person, set the **Dimension Value Type** field to the
+8.  For each sales person, set the **Dimension Value Type** field to the
     **Standard** value.
 
     **Note:** To save you will need to click into a new field. You can see saved status in the upper right corner.

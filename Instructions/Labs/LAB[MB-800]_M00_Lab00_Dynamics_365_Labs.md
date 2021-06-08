@@ -22,22 +22,6 @@ instructions in this document may be different from what you experience in your
 actual tenant. It is also possible to experience a delay of several
 minutes before the virtual machine has network connectivity to begin the labs.
 
-### Lab Setup
-You must perform these steps prior to the class for Business Central to be loaded on your tenant. 
-
-To load Business Central on your tenant:
-
-1.	Log into your tenant as the admin
-2.	Go to https://signup.microsoft.com/signup?sku=6a4a1628-9b9a-424d-bed5-4118f0ede3fd&ru=https%3A%2F%2Fbusinesscentral.dynamics.com%2F%3FredirectedFromSignup%3D1
-3.	Click ‘Next’
-
- 
-4.	Click ‘Let’s Go’:
- 
-5.	You will be directed to Business Central
-6.	Business Central will load for a few minutes and then you will have access to Business Central
-
-
 Exercise 1 - Access the Dynamics 365 application
 ---------------------------------------------------
 

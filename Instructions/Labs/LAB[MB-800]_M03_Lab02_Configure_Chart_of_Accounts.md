@@ -84,6 +84,7 @@ Code with the NONTAXABLE value.***
 
 7.  Repeat steps c and d for the account ‘10475’.
 
+
 8.  In the **Chart of Accounts** page, select **New**.
 
 9.  In the new general ledger account card, fill in the following fields:
@@ -101,6 +102,7 @@ Code with the NONTAXABLE value.***
       6.  Deselect the **Direct Posting** checkbox.
 
       7.  Close the **G/L Account Card** page.
+
 
 10. In the **Chart of Accounts** page, select **New**.
 

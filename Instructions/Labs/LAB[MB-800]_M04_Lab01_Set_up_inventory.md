@@ -182,6 +182,7 @@ template.
 
       4.  In the **Overhead Applied Account** field, enter 50150.
 
+
 ### Task 3: Set up Item Categories and Item Attributes.
 
 1.  At the top of the page, click the search icon in the black bar on the right. Then type **Item Categories** and click the **Item Categories** link.

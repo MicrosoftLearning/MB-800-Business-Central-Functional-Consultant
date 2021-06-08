@@ -61,6 +61,7 @@ expressed the following requirements:
 
 6.  Select **Navigate** and then select **Lines**.
 
+
 7.  In the opened **No. Series Lines** page, select **New**.
 
        1.  Leave the **Starting Date** field blank.

@@ -292,7 +292,6 @@ You have to set up this sales price structure as provided by Contoso.
       2.  In the **Customer Disc. Group** field, enter SMALL
 
       3.  Leave the **Allow Line Disc.** checkbox selected.
-
 5.  Repeat steps d. to f. to assign the DOMESTIC customer price group to the
     customers C00010, C00020 and C00030 , and the SMALL customer discount
     group to customer C00010, the MEDIUM customer discount group to customer

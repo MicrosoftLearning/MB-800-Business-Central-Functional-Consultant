@@ -58,7 +58,7 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
 7.  Select **Related**, then select **Template** and then select
     **Batches**.
-
+    
 8.  In the opened **General Journal Batches** page, select **New**.
 
 9.  Fill in the following fields:
