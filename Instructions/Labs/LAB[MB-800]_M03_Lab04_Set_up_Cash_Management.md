@@ -25,11 +25,13 @@ IBAN: BE13 3200 0461 4139 – BIC: BBRUBEBB
 
 ### Steps
 
-1.  Create a bank account.
+### Task 1
 
-2.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Bank Accounts** and click the **Bank Accounts** link. 
+Create a bank account.
 
-3.  In the **Bank Accounts** page, select **New**.
+1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Bank Accounts** and click the **Bank Accounts** link. 
+
+3.  In the **Bank Accounts** page, select **+ New**.
 
 4.  In the new bank accounts card, fill in the following fields:
 
@@ -37,19 +39,21 @@ IBAN: BE13 3200 0461 4139 – BIC: BBRUBEBB
 
        2.  In the **No.** field, enter ‘EUROP’.
 
-       3.  In the **Name** filed, enter ‘European bank’
+       3.  In the **Name** field, enter ‘European bank’
 
        4.  On the **Posting** FastTab, in the **Currency Code** field, enter EUR. 
 
-       5.  On the **Transfer** FastTab:
+       5.  On the **Transfer** FastTab (**Note:** You may need to click 'Show more' to expand the fields visible):
 
        6.  In the **SWIFT Code** field, enter BBRUBEBB
 
        7.  In the **IBAN** field, enter BE13 3200 0461 4139
 
-5.  Assign a payment export format.
+### Task 2
 
-6.  On the **Transfer** FastTab, in the **Payment Export Format** field, enter **SEPACT**.
+Assign a payment export format.
+
+1.  On the **Transfer** FastTab, in the **Payment Export Format** field, enter **SEPACT**.
 
 ## Exercise 2: Set up and assign a Bank Account Posting Group
 
@@ -71,17 +75,25 @@ You need to complete the correct bank posting group setup.
 
 ### Steps
 
-1.  Create a bank account posting group.
+### Task 1
 
-2.  In the **Bank Accounts Posting Groups** page, select **New**.
+Create a bank account posting group.
+
+1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Bank Accounts Posting Groups**, and click the **Bank Accounts Posting Groups** page link.
+
+3.    select **+ New**.
 
 3.  In the **Code** field, enter EUROP.
 
 4.  In the **G/L Account No.** field, enter 10250.
-   
-5.  Assign the bank account posting group.
 
-6.  In the **Bank Accounts** page, open the bank account card for the
+### Task 2
+
+Assign the bank account posting group.
+
+1.   At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Bank Accounts** page, , and click the **Bank Accounts** page link.
+
+3.  Select the  the bank account card for the
     European bank.
 
 7.  On the **Posting** FastTab, in the **Bank Acc. Posting Group** field,
