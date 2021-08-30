@@ -29,15 +29,13 @@ a dimension for sales people as well.
 
 1.  Set up a dimension with dimension values.
    
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Dimension**, then select the **Dimension** link.
+2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Dimensions**, then select the **Dimensions** link.
 
-3.  In the **Dimensions** page, select **New**.
-
-4. In the **Dimensions** page, select **+New**.
+4. In the **Dimensions** page, select **+ New**.
 
 5.  In the **Code** field, enter SALESPERSON.
 
-6.  Select **Dimension** and then **Dimension Values**.
+6.  Select **Dimension** in the menu bar and then **Dimension Values** (you may get an error message that this already exists. If this happens, select the SALESPERSON row value to continue).
 
 7.  For each sales person, enter the initials in the **Code** field and the full name in the **Name** field.
 
@@ -83,9 +81,11 @@ different sales people responsible for their customer group.
 
 ### Steps
 
-1.  Assign Account Type Default Dimensions for the customer group.
+### Task 1
 
-2.  Navgate back to the **Dimensions** page using the search function in the black bar at the top of the page on the right hand side.
+Assign Account Type Default Dimensions for the customer group.
+
+1.  Navgate back to the **Dimensions** page using the search function in the black bar at the top of the page on the right hand side.
 
 3.  In the **Dimensions** page, select the CUSTOMERGROUP dimension.
 
@@ -98,9 +98,11 @@ different sales people responsible for their customer group.
 
 7.  In the **Value Posting** field, enter **Code Mandatory**.
 
-8.  Assign Account Type Default Dimensions for the sales people.
+### Task 2
 
-9.  In the **Dimensions** page, select the SALESPERSON dimension.
+Assign Account Type Default Dimensions for the sales people.
+
+1.  In the **Dimensions** page, select the SALESPERSON dimension.
 
 10. Select **Dimension**, and then select **Account Type Default Dim.**.
 
@@ -153,16 +155,19 @@ Make sure the following requirements are met:
 
 ### Steps
 
-1.  Limit a dimension combination.
+### Task 1
 
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Dimension Combinations**, then select the **Dimension Combinations** link.
+Limit a dimension combination.
 
-3.  In the **Dimension Combinations** page, click on the combination of the
-    CUSTOMERGROUP and SALESPERSON dimension in the matrix.
+1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Dimension Combinations**, then select the **Dimension Combinations** link.
+
+3.  In the **Dimension Combinations** page, click to select the CUSTOMERGROUP dimension, and then also click to select the SALESPERSON dimension in the matrix.
 
 4.  In the window that opens, select **Limited**.
 
-5.  Block dimension value combinations.
+### Task 2
+
+1.  Block dimension value combinations.
 
 6.  In the **Dimension Combinations** page, click on the **Limited** value
     of the combination of the CUSTOMERGROUP and SALESPERSON dimension in the
