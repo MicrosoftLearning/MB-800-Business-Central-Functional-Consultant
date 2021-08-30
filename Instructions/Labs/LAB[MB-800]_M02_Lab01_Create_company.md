@@ -102,17 +102,17 @@ You will start by copying the following data from the default CRONUS company:
 
 Complete the configuration worksheet.
 
-  1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon, enter 'Configuration Worksheet', and then choose the related link.
-  2.  Open the **Configuration Worksheet** page.
-  3.  At the bottom of the worksheet, enter a new line.
-  4.  In the **Line Type** field, select **Group**.
-  5.  In the **Name** field, enter ‘General Setup’.
-  6.  Enter a new line.
-  7.  In the **Line Type** field, select **Table**.
-  8.  Open the assist edit button to the right of the **Table ID** field.
-  9.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
+1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon, enter 'Configuration Worksheet', and then choose the related link.
+2.  Open the **Configuration Worksheet** page.
+3.  At the bottom of the worksheet, enter a new line.
+4.  In the **Line Type** field, select **Group**.
+5.  In the **Name** field, enter ‘General Setup’.
+6.  Enter a new line.
+7.  In the **Line Type** field, select **Table**.
+8.  Open the assist edit button to the right of the **Table ID** field.
+9.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
         in the **Table ID** field.
-  9.  Repeat steps e. to h. to enter table 10 Shipment Method.
+9.  Repeat steps e. to h. to enter table 10 Shipment Method.
 
 ### Task 2
 
