@@ -34,8 +34,10 @@ data.
 #### Task 1
 
 Create a new company.
+
 1. In the Get Started section on the screen, click **Start**.
-2.  On the **Company Details** checklist section, click **Setup**.
+
+3.  On the **Company Details** checklist section, click **Setup**.
 
 3.  The **Create New Company** wizard opens.
 
@@ -100,7 +102,7 @@ You will start by copying the following data from the default CRONUS company:
 
 Complete the configuration worksheet.
 
-   1.  Click the search icon (magnifying glass) in the menu bar, enter 'Configuration Worksheet', and then choose the related link.
+   1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon,, enter 'Configuration Worksheet', and then choose the related link.
       3.  Open the **Configuration Worksheet** page.
    2.  At the bottom of the worksheet, enter a new line.
    3.  In the **Line Type** field, select **Group**.
@@ -137,7 +139,7 @@ Copy data from another database company.
 
 1. Create additional reporting currency for Denmark.
 
-   1.  Click the search icon (magnifying glass) in the menu bar, enter 'Currencies', and then choose the related link. Open the **Currencies** page.
+   1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon,, enter 'Currencies', and then choose the related link. Open the **Currencies** page.
    2.  In the menu on the **Currencies** page, select **+ New**.
    3.  In the **Code** field, enter **DKK**.
    4.  In the **Description** field, enter **Denmark**.
