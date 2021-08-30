@@ -23,13 +23,15 @@ entire fiscal year.
 
 ### Steps
 
+### Task 1
+
 1.  Change the starting date of the fiscal year.
 
 2.  Open the **Accounting Periods** page by clicking on the search icon in the black bar at the top of the page, on the right hand side. After clicking on the search icon type **Acounting Periods**, then click the link to the page.
 
 3.  Select the accounting period with starting date 1/1/2022 and deselect
     the **New Fiscal Year** checkbox.
-    **Note:** You will need to click edit list to deselect the check box.
+    **Note:** You will need to click the **Edit list** button to deselect the check box.
 
 4.  Select the accounting period with starting date 7/1/2021 and select the
     **New Fiscal Year** checkbox.
@@ -37,9 +39,11 @@ entire fiscal year.
 5.  Leave the selection on the **New Fiscal Year** checkbox for the
     accounting period with starting date 1/1/2021.
 
-6.  Create accounting periods in bulk.
+### Task 2
 
-7.  In the **Accounting Periods** page, select **Actions** and then select
+1.  Create accounting periods in bulk.
+
+7.  In the **Accounting Periods** page, select **More options**, select **Actions** and then select
     **Create Year**.
 
 8.  On the window that opens, fill in the following options:
@@ -92,16 +96,18 @@ opening balance on December 31st 2020.
 
 ### Steps
 
-1.  Determine the local currency.
+### Task 1
 
-2.  Open the **General Ledger Setup** page.
+Determine the local currency.
+
+1.  Open the **General Ledger Setup** page by clicking on the search icon in the black bar at the top of the page, on the right hand side. After clicking on the search icon type **General Ledger Setup**, then click the link to the page.
 
 3.  In the **General** FastTab review that the following fields regarding
     local currency are filled in correctly.
 
        1.  The **LCY Code** field must be set to USD.
 
-       2.  The **Local Currency Symbol** field must contain the \$ symbol.
+       2.  The **Local Currency Symbol** field must contain the $ symbol.
 
        3.  The **Local Currency Description** field must be filled in with ‘US
             dollar’
@@ -109,13 +115,15 @@ opening balance on December 31st 2020.
 4.  In the **General** FastTab review that the following fields regarding
     local currency rounding are filled in correctly:
 
-       1.  The **Amount Decimal Places (\$)** field must be set to 2:2.
+       1.  The **Amount Decimal Places ($)** field must be set to 2:2.
 
-       2.  The **Unit-Amount Decimal Places (\$)** field must be set to 2:5.
+       2.  The **Unit-Amount Decimal Places ($)** field must be set to 2:5.
 
-5.  Set up global and shortcut dimensions.
+### Task 2
 
-6.  In the **General Ledger Setup** page, select **Actions**, then
+Set up global and shortcut dimensions.
+
+1.  In the **General Ledger Setup** page, select **More options**, then select **Actions**, then
     **Functions** and then **Change Global Dimensions**.
 
 7.  In the **Change Global Dimensions** page, fill in the following fields:
@@ -131,11 +139,13 @@ opening balance on December 31st 2020.
 9.  Close the **Change Global Dimensions** page.
 
 10.  In the **General Ledger Setup** page, in the **Dimensions** FastTab, in
-    the **Shortcut Dimension 3 Code** field select the value DEPARTMENT.
+    the **Shortcut Dimension 3 Code** field select the value DEPARTMENT (**Note:** You may need to click the 'Show more' option to expand the fields visible)
 
-11.  Allow posting in the open accounting period.
+### Task 3
 
-12.  In the **General Ledger Setup** page, in the **General** FastTab, fill
+Allow posting in the open accounting period.
+
+1.  In the **General Ledger Setup** page, in the **General** FastTab, fill
     in the following fields:
 
        1.  In the **Allow Posting From** field, select 1/1/2021.
@@ -144,7 +154,9 @@ opening balance on December 31st 2020.
 
 13.  Close the **General Ledger Setup** page.
 
-14.   In the **User Setup** page, select **+New**.
+14.  Open the **User Setup** page by clicking on the search icon in the black bar at the top of the page, on the right hand side. After clicking on the search icon type **User Setup**, then click the link to the page.
+
+16.  Select **+ New**.
 
 15.  In the **User ID** field, enter your own user id.
 
