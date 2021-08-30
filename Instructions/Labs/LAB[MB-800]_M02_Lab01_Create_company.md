@@ -72,46 +72,6 @@ Create a new company.
   .  
    19.  Click the **Got it** button
 
-#### Task 2
-
-Complete the **Company Setup** wizard.
-
-   1.  To open the new company, click the cog icon in the right of the menu ribbon bar, and select **My Settings** from the options.
-
-   2.  Open the assist edit button to the right of the **Company** textbox.
-
-   3.  In the window that opens, select “Contoso ‘*student name*’ Inc.” by clicking on it.
-
-   4.  Click **OK**.
-
-   5.  The new company opens and the **Company Setup** wizard automatically
-        opens.
-
-   6.  Click **Next**.
-
-   7.  Fill in the company’s address information.
-
-   8.  Click **Next**.
-
-   9.  Specify the company’s contact details.
-
-   10. Click **Next**.
-
-   11. Disable the **Use a bank feed service** option.
-
-   12. Click **Next**.
-
-  
-
-   14. In the **Fiscal Year Start Date** field, enter 1/1/2021.
-
-   15. Click **Next**.
-
-   16. Leave the costing method set to the default value ‘FIFO’.
-
-   17. Click **Next**.
-
-   18. Click **Finish** to start using the company.
 
 ## Exercise 2: Configure a new company
 
@@ -136,30 +96,27 @@ You will start by copying the following data from the default CRONUS company:
 
 ### Steps
 
-1.  Complete the configuration worksheet.
+### Task 1 
 
-   1.  Open the **Configuration Worksheet** page.
+Complete the configuration worksheet.
 
+   1.  Click the search icon (magnifying glass) in the menu bar, enter 'Configuration Worksheet', and then choose the related link.
+      3.  Open the **Configuration Worksheet** page.
    2.  At the bottom of the worksheet, enter a new line.
-
-   3.  In the **Line Type** field, select **Group.**
-
+   3.  In the **Line Type** field, select **Group**.
    4.  In the **Name** field, enter ‘General Setup’.
-
    5.  Enter a new line.
-
    6.  In the **Line Type** field, select **Table**.
-
    7.  Open the assist edit button to the right of the **Table ID** field.
-
    8.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
         in the **Table ID** field.
-
    9.  Repeat steps e. to h. to enter table 10 Shipment Method.
 
-2.  Copy data from another database company.
+### Task 2
 
-   1.  In the menu on the **Configuration Worksheet** page, select **Actions**,
+Copy data from another database company.
+
+   1.  In the menu on the **Configuration Worksheet** page, select **More options**, then **Actions**,
         then **Tools** and then **Copy Data from Company**.
 
    2.  Open the assist edit button to the right of the **Copy from** field.
@@ -171,74 +128,56 @@ You will start by copying the following data from the default CRONUS company:
 
    5.  In the menu select **Copy Data**.
 
-   6.  The data is now copied in the new company.
+6. In the popup, click **Yes** to confirm to copy the data.
 
-3.  Create additional reporting currency for Denmark.
+8. Click **OK** to confirm that the data has been copied successfully
 
-   1.  Open the **Currencies** page.
 
-   2.  In the menu on the **Currencies** page, select **New**.
+### Task 3
 
+1. Create additional reporting currency for Denmark.
+
+   1.  Click the search icon (magnifying glass) in the menu bar, enter 'Currencies', and then choose the related link. Open the **Currencies** page.
+   2.  In the menu on the **Currencies** page, select **+ New**.
    3.  In the **Code** field, enter **DKK**.
-
    4.  In the **Description** field, enter **Denmark**.
-
    5.  In the **ISO Code** field, enter **DKK**.
-
    6.  In the **ISO Numberic Code** field, enter **208**.
+   7.  In the **Realized Gains Acc.** field, enter **40500**.
+   8.  Close the page by clicking the left arrow button in the menu bar.
 
-   7.  In the **Reliazed Gains Acc.** field, enter **40500**.
+2. Create additional reporting currency for Malaysia.
 
-4.  Create additional reporting currency for Malaysia.
+    1.  Click the **+ New** button at the top of the page to enter a new record.
+    3.  In the **Code** field, enter **MYR**.
+    4.  In the **Description** field, enter **Malaysia**.
+    5.  In the **ISO Code** field, enter **MYR**.
+    6.  In the **ISO Numberic Code** field, enter **458**.
+    7.  In the **Symbol** field, enter **RM**.
+    8.  In the **Realized Gains Acc.** field, enter **40500**.
+    9.  Close the page by clicking the left arrow button in the menu bar.
 
-   1.  Open the **Currencies** page.
+ 
+3. Create additional reporting currency for the UK.
 
-   2.  In the menu on the **Currencies** page, select **New**.
-
-   3.  In the **Code** field, enter **MYR**.
-
-   4.  In the **Description** field, enter **Malaysia**.
-
-   5.  In the **ISO Code** field, enter **MYR**.
-
-   6.  In the **ISO Numberic Code** field, enter **458**.
-
-   7.  In the ** Symbol** field, enter **RM**.
-
-   8.  In the **Reliazed Gains Acc.** field, enter **40500**.
-
-5.  Create additional reporting currency for the UK.
-
-   1.  Open the **Currencies** page.
-
-   2.  In the menu on the **Currencies** page, select **New**.
-
+   1.  Click the **+ New** button at the top of the page to enter a new record.
    3.  In the **Code** field, enter **GBP**.
-
    4.  In the **Description** field, enter **United Kingdom**.
-
    5.  In the **ISO Code** field, enter **GBP**.
-
    6.  In the **ISO Numberic Code** field, enter **826**.
+   7.  In the **Realized Gains Acc.** field, enter **40500**.
+   8.  Close the page by clicking the left arrow button in the menu bar.
 
-   7.  In the **Reliazed Gains Acc.** field, enter **40500**.
 
-6.  Create additional reporting currency for South Africa.
+4. Create additional reporting currency for South Africa.
 
-   1.  Open the **Currencies** page.
-
-   2.  In the menu on the **Currencies** page, select **New**.
-
+   1.  Click the **+ New** button at the top of the page to enter a new record.
    3.  In the **Code** field, enter **ZAR**.
-
    4.  In the **Description** field, enter **South Africa**.
-
    5.  In the **ISO Code** field, enter **ZAR**.
-
    6.  In the **ISO Numberic Code** field, enter **710**.
-
-   7.  In the ** Symbol** field, enter **R**
-
-   8.  In the **Reliazed Gains Acc.** field, enter **40500**.
+   7.  In the **Symbol** field, enter **R**
+   8.  In the **Realized Gains Acc.** field, enter **40500**.
+   9.  Close the page by clicking the left arrow button in the menu bar.
 
 
