@@ -30,11 +30,13 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
 ### Steps
 
-1.  Set up a journal for opening entries
+### Task 1
 
-2.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Journal Templates**, and click the the **General Journal Templates** link. 
+Set up a journal for opening entries
 
-3.  In the **General Journal Templates** page, select **New**.
+1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Journal Templates**, and click the the **General Journal Templates** link. 
+
+3.  In the **General Journal Templates** page, click  **+ New**.
 
 4.  Fill in the following fields:
 
@@ -49,17 +51,19 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
        5.  Deselect the **Force Doc. Balance** check box.
 
-       6.  Deselect the **Copy Tax Setup to Jnl.** check box.
+       6.  Deselect the **Copy Tax Setup to Jnl.** check box. Click **Yes** to the popup.
 
-5.  Set up different batches for customer, vendor, balance, and bank.
+### Task 2
 
-6.  In the **General Journal Templates** page, make sure the OPENING journal
+Set up different batches for customer, vendor, balance, and bank.
+
+1.  In the **General Journal Templates** page, make sure the OPENING journal
     is selected.
 
-7.  Select **Related**, then select **Template** and then select
+7.  Select **More options**, then select **Related**, then select **Template** and then select
     **Batches**.
     
-8.  In the opened **General Journal Batches** page, select **New**.
+8.  In the opened **General Journal Batches** page, select **+ New**.
 
 9.  Fill in the following fields:
 
@@ -67,7 +71,7 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
        2.  In the **Description** field, enter ‘opening g/l balance account’.
 
-10. In the opened **General Journal Batches** page, select **New**.
+10. In the opened **General Journal Batches** page, select **+ New**.
 
 11. Fill in the following fields:
 
@@ -75,7 +79,7 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
        2.  In the **Description** field, enter ‘opening bank balance’.
 
-12. In the opened **General Journal Batches** page, select **New**.
+12. In the opened **General Journal Batches** page, select **+ New**.
 
 13. Fill in the following fields:
 
@@ -86,7 +90,7 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
        3.  In the **Bal. Account No.** field, enter 10400
 
-14. In the opened **General Journal Batches** page, select **New**.
+14. In the opened **General Journal Batches** page, select **+ New**.
 
 15. Fill in the following fields:
 
