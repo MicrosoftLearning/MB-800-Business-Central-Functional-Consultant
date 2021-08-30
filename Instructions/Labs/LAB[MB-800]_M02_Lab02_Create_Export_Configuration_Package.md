@@ -42,7 +42,7 @@ The following information is returned to you by Contoso’s super user:
 
 Create a configuration package.
 
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, click **+ New** to create a new configuration package.
+1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, click **+ New** to create a new configuration package.
 
 3.  In the **Code** field, enter VENDOR.
 
@@ -52,7 +52,7 @@ Create a configuration package.
 
 Assign tables and select fields.
 
-6.  On the **Tables** section of the Config. Package Card, enter a new line
+1.  On the **Tables** section of the Config. Package Card, enter a new line
     as follows.
 
 7.  Open the assist edit button to the right of the **Table ID** field.
@@ -95,7 +95,7 @@ Assign tables and select fields.
 
 Export a configuration package to excel.
 
-17. In the **Config. Package Card** page, select **Actions**, then
+1. In the **Config. Package Card** page, select **Actions**, then
     **Package**, and then **Export to Excel**.
 
 18. Click **Yes** to export the configuration package.
@@ -104,7 +104,7 @@ Export a configuration package to excel.
 
 Prepare data in excel.
 
-20. Open the exported excel file from the download folder.
+1. Open the exported excel file from the download folder.
 
 21. Enter the information as provided by Contoso in the scenario description above, or use the provided Vendor Import.xlsx file.
    
@@ -139,7 +139,7 @@ values.
 
 Import a configuration package from Excel.
 
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Open in Excel**.
+1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Open in Excel**.
 
 3.  In the **Config. Package Card** page, select **Actions**, then select
     **Package**, and then **Import from Excel**.
@@ -154,16 +154,18 @@ Import a configuration package from Excel.
 
 Apply a configuration package.
 
-8.  In the **Config. Package Card** page, select **Actions**, then select
+1.  In the **Config. Package Card** page, select **Actions**, then select
     **Functions**, and then **Apply Package**.
 
 9.  Click **Yes**.
+
+10. Click **OK** to close the confirmation window.
 
 ### Task 3
 
 Resolve package errors.
 
-11. In the **Config. Package Card** page, the vendor table line will show a
+1. In the **Config. Package Card** page, the vendor table line will show a
     number of errors.
 
 12. Click on the number in the **No. of Package Errors** field.
@@ -208,13 +210,11 @@ from the default CRONUS USA company within the database.
 
 1.  Import and apply a predefined package.
 
-2.  In the **Configuration Packages** page, select **Actions**, then
+2.  In the **Configuration Packages** page, select **More options**, then **Actions**, then
     **Package**, and then select **Import Predefined Package**.
 
 3.  From the overview list, select the **Evaluation** package, containing
-    the demo data.
-
-4.  Click **OK**.
+    the demo data. Wait for the import to complete.
 
 5.  Select the imported configuration package, select **Actions**, then
     **Functions**, and then select **Apply Package**.
