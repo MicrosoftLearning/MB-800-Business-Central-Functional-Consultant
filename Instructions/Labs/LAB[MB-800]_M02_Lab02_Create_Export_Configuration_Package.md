@@ -38,15 +38,19 @@ The following information is returned to you by Contoso’s super user:
 
 ### Steps
 
-1.  Create a configuration package.
+### Task 1
 
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, click **New** to create a new configuration package.
+Create a configuration package.
+
+2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, click **+ New** to create a new configuration package.
 
 3.  In the **Code** field, enter VENDOR.
 
 4.  In the **Package Name** field, enter Vendor List.
 
-5.  Assign tables and select fields.
+### Task 2
+
+Assign tables and select fields.
 
 6.  On the **Tables** section of the Config. Package Card, enter a new line
     as follows.
@@ -59,13 +63,13 @@ The following information is returned to you by Contoso’s super user:
 
 10. You will be asked to check related tables, click **No**.
 
-11. Make sure the vendor table line is selected, select **Table** and then
+11. Make sure the vendor table line is selected, click **More options** in the menu bar, select **Table** and then
     **Fields**.
 
 12. On the field list page, first select **Clear Included**, to deselect the
     **Include Field** checkbox for all the fields.
 
-13. Then select the **Include Field** checkbox for the following fields:
+13. Then select the **Include Field** checkbox for the following fields (you will need to click into each line Field Name to be able to select it):
 
        1.  Name
 
@@ -87,14 +91,18 @@ The following information is returned to you by Contoso’s super user:
 
 15. Click **Close**.
 
-16. Export a configuration package to excel.
+### Task 3
+
+Export a configuration package to excel.
 
 17. In the **Config. Package Card** page, select **Actions**, then
     **Package**, and then **Export to Excel**.
 
 18. Click **Yes** to export the configuration package.
 
-19. Prepare data in excel.
+### Task 4
+
+Prepare data in excel.
 
 20. Open the exported excel file from the download folder.
 
@@ -119,7 +127,7 @@ values.
 
 ### Tasks
 
-1.  Import a configuration package from excel.
+1.  Import a configuration package from Excel.
 
 2.  Apply a configuration package.
 
@@ -127,9 +135,11 @@ values.
 
 ### Steps
 
-1.  Import a configuration package from excel.
+### Task 1
 
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Edit**.
+Import a configuration package from Excel.
+
+2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Open in Excel**.
 
 3.  In the **Config. Package Card** page, select **Actions**, then select
     **Package**, and then **Import from Excel**.
@@ -140,14 +150,18 @@ values.
 
 6.  In the preview page, select **Import**.
 
-7.  Apply a configuration package.
+### Task 2
+
+Apply a configuration package.
 
 8.  In the **Config. Package Card** page, select **Actions**, then select
     **Functions**, and then **Apply Package**.
 
 9.  Click **Yes**.
 
-10. Resolve package errors.
+### Task 3
+
+Resolve package errors.
 
 11. In the **Config. Package Card** page, the vendor table line will show a
     number of errors.
