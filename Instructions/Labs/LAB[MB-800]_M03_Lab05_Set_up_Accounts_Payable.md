@@ -33,13 +33,14 @@ accounting manager has expressed the following requirements:
 
 ### Steps
 
-1.  Set up and assign number series.
+### Task 1
 
-   1.  In the **Purchases & Payables Setup** page, go to the **Number Series**
-        FastTab.
+Set up and assign number series.
 
-   2.  In the **Posted Invoice Nos.** field, click on the Look Up Value button
-        and click **New.**
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Purchases & Payables Setup**, and click the  **Purchases & Payables Setup**.
+   
+   3.  Scroll down to the **Number Series** FastTab, and in the **Posted Invoice Nos.** field, click on the Look Up Value button
+        and click **+ New**.
 
    3.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -52,9 +53,9 @@ accounting manager has expressed the following requirements:
 
        4.  Select the **Date Order** check box.
 
-   4.  Select **Navigate** and then select **Lines**.
+   4.  Click the ellipse in the menubar, select **Navigate** and then select **Lines**.
 
-   5.  In the opened **No. Series Lines** page, select **New**.
+   5.  In the opened **No. Series Lines** page, select **+ New**.
 
        1.  In the **Starting Date** field, enter 1/1/2021.
 
@@ -72,16 +73,16 @@ accounting manager has expressed the following requirements:
 
    9.  In the **Posted Credit Memo Nos**. field, enter PINCN+.
 
-2.  Complete discount posting setup.
+### Task 2
+
+Complete discount posting setup.
 
    1.  In the **Purchases & Payables Setup** page, go to the **General**
         FastTab.
 
    2.  In the **Discount Posting** field, select the **All Discounts** option.
 
-   3.  In the **General Posting Setup** page, for each possible combination of
-        **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure
-        the following fields are filled in:
+   3.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Posting Setup** , and click the  **General Posting Setup** link. On the page, for each possible combination of **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure  the following fields are filled in:
 
        1.  In the **Purch. Line Disc. Account** field, the value 20200 must be
             filled in.
@@ -106,9 +107,13 @@ You must set up a separate payment journal for this purpose.
 
 ### Steps
 
-1.  Create a general journal template.
+### Task 1
 
-   1.  In the **General Journal Templates** page, select **New**.
+Create a general journal template.
+
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Journal Templates** , and click the  **General Journal Templates** link.
+   
+   3.  In the **General Journal Templates** page, select **+ New**.
 
    2.  Fill in the following fields:
 
@@ -123,15 +128,17 @@ You must set up a separate payment journal for this purpose.
 
        5.  In the **No. Series** field, enter GJNL-PMT.
 
-2.  Create a general journal template batch.
+### Task 2
+
+Create a general journal template batch.
 
    1.  In the **General Journal Templates** page, make sure the EUROP journal
         is selected.
 
-   2.  Select **Related**, then select **Template** and then select
+   2.  Select **More options** on the menu bar, then select **Related**, then select **Template** and then select
         **Batches**.
 
-   3.  In the opened **General Journal Batches** page, select **New.**
+   3.  In the opened **General Journal Batches** page, select **+ New**.
 
    4.  Fill in the following fields:
 
@@ -171,9 +178,13 @@ posting groups. Then apply these templates to the existing vendors.
 
 ### Steps
 
-1.  Set up a Vendor Posting Group.
+### Task 1
 
-   1.  In the **Vendor Posting Groups** page, select **New**.
+Set up a Vendor Posting Group.
+
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Vendor Posting Groups** , and click the **Vendor Posting Groups** link.
+   
+   3.  In the **Vendor Posting Groups** page, select **+ New**.
 
    2.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
@@ -185,7 +196,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        4.  Close the page.
 
-   3.  In the **Vendor Posting Groups** page, select **New**.
+   3.  In the **Vendor Posting Groups** page, select **+ New**.
 
    4.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
@@ -199,7 +210,7 @@ posting groups. Then apply these templates to the existing vendors.
 
    5.  From the **Vendor Posting Groups** page, copy the other g/l accounts
        from the DOMESTIC vendor posting group to the FOREIGN and INTERCOMPANY
-        vendor posting groups using F8. Copy the following fields:
+        vendor posting groups using the F8 key. Copy the following fields:
 
        1.  Payment Disc. Debit Acc.
 
@@ -219,9 +230,13 @@ posting groups. Then apply these templates to the existing vendors.
 
        9.  Payment Tolerance Credit Acc.
 
-2.  Create Configuration Templates.
+### Task 2
 
-   1.  In the **Configuration Templates** page, select **New**.
+Create Configuration Templates.
+
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type   **Configuration Templates** , and click the  **Configuration Templates** link.
+   2.  
+   3.  In the **Configuration Templates** page, select **+ New**.
 
    2.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -252,7 +267,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        7.  Close the configuration template.
 
-   3.  In the **Configuration Templates** page, select **New**.
+   3.  Go back to the **Configuration Templates** page, select **+ New**.
 
    4.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -283,7 +298,7 @@ posting groups. Then apply these templates to the existing vendors.
 
         7.  Close the configuration template.
 
-   5.  In the **Configuration Templates** page, select **New**.
+   5.  In the **Configuration Templates** page, select **+ New**.
 
    6.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -314,7 +329,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        7.  Close the configuration template.
 
-   7.  In the **Configuration Templates** page, select **New**.
+   7.  In the **Configuration Templates** page, select **+ New**.
 
    8.  In the **Config. Template Header** page, fill in the following fields:
 
@@ -345,7 +360,9 @@ posting groups. Then apply these templates to the existing vendors.
 
        7.  Close the configuration template.
 
-3.  Configure vendors.
+### Task 3
+
+Configure vendors.
 
    1.  In the **Vendors** list page, multi-select imported vendors V9001, V9003
         and V9007.
@@ -410,7 +427,7 @@ accounting manager has expressed the following requirements:
    **Note:** FastTabs are the bold words with aline underneath them that can be expanded. 
 
 4.  In the **Posted Invoice Nos.** field, click on the Look Up Value button
-    and click **New.**
+    and click **+ New**.
 
 5.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -425,7 +442,7 @@ accounting manager has expressed the following requirements:
 
 6.  Select **Navigate** and then select **Lines**.
 
-7.  In the opened **No. Series Lines** page, select **New**.
+7.  In the opened **No. Series Lines** page, select **+ New**.
 
        1.  In the **Starting Date** field, enter 1/1/2021.
 
@@ -477,7 +494,7 @@ You must set up a separate payment journal for this purpose.
 
 2.  At the top of the Business Center page, in the black bar to the right, click the search icon. Then type in **General Journal Templates** and click the **General Journal Templates** link.
 
-3.  In the **General Journal Templates** page, select **New**.
+3.  In the **General Journal Templates** page, select **+ New**.
 
 4.  Fill in the following fields:
 
@@ -500,7 +517,7 @@ You must set up a separate payment journal for this purpose.
 7.  Select **Related**, then select **Template** and then select
     **Batches**.
 
-8.  In the opened **General Journal Batches** page, select **New.**
+8.  In the opened **General Journal Batches** page, select **+ New**
 
 9.  Fill in the following fields:
 
@@ -544,7 +561,7 @@ posting groups. Then apply these templates to the existing vendors.
 
 2.  At the top of the Business Center page, in the black bar to the right, click the search icon. Then type **Vendor Posting Groups** and click the **Vendor Posting Groups** link. 
 
-3.  In the **Vendor Posting Groups** page, select **New**.
+3.  In the **Vendor Posting Groups** page, select **+ New**.
 
 4.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
@@ -556,7 +573,7 @@ posting groups. Then apply these templates to the existing vendors.
 
        4.  Close the page.
 
-5.  In the **Vendor Posting Groups** page, select **New**.
+5.  In the **Vendor Posting Groups** page, select **+ New**.
 
 6.  In the **Vendor Posting Group Card** page, fill in the following fields:
 
@@ -592,7 +609,7 @@ posting groups. Then apply these templates to the existing vendors.
 
 8.  Create Configuration Templates.
 
-9.  In the **Configuration Templates** page, select **New**.
+9.  In the **Configuration Templates** page, select **+ New**.
 
 10. In the **Config. Template Header** page, fill in the following fields:
 
@@ -623,7 +640,7 @@ posting groups. Then apply these templates to the existing vendors.
 
       13. Close the configuration template.
 
-11. In the **Configuration Templates** page, select **New**.
+11. In the **Configuration Templates** page, select **+ New**.
 
 12. In the **Config. Template Header** page, fill in the following fields:
 
@@ -653,7 +670,7 @@ posting groups. Then apply these templates to the existing vendors.
 
       13. Close the configuration template.
 
-13. In the **Configuration Templates** page, select **New**.
+13. In the **Configuration Templates** page, select **+ New**.
 
 14. In the **Config. Template Header** page, fill in the following fields:
 
@@ -683,7 +700,7 @@ posting groups. Then apply these templates to the existing vendors.
 
       13. Close the configuration template.
 
-15. In the **Configuration Templates** page, select **New**.
+15. In the **Configuration Templates** page, select **+ New**.
 
 16. In the **Config. Template Header** page, fill in the following fields:
 
@@ -719,7 +736,7 @@ posting groups. Then apply these templates to the existing vendors.
 
 19. Select **Process**, and then select **Apply Template**.
 
-20. In the vendor templates list, select Domestic vendors, and click **OK.**
+20. In the vendor templates list, select Domestic vendors, and click **OK**.
 
 21. In the **Vendors** list page, multi-select imported vendors V9002, V9005 and V9006.
 
