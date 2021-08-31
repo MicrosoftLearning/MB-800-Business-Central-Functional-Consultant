@@ -23,11 +23,7 @@ IBAN: BE13 3200 0461 4139 – BIC: BBRUBEBB
 
 2.  Assign a payment export format.
 
-### Steps
-
-### Task 1
-
-Create a bank account.
+### Task 1: Create a bank account.
 
 1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Bank Accounts** and click the **Bank Accounts** link. 
 
@@ -49,9 +45,7 @@ Create a bank account.
 
        7.  In the **IBAN** field, enter BE13 3200 0461 4139
 
-### Task 2
-
-Assign a payment export format.
+### Task 2: Assign a payment export format.
 
 1.  On the **Transfer** FastTab, in the **Payment Export Format** field, enter **SEPACT**.
 
@@ -73,11 +67,7 @@ You need to complete the correct bank posting group setup.
 
 2.  Assign the bank account posting group.
 
-### Steps
-
-### Task 1
-
-Create a bank account posting group.
+### Task 1: Create a bank account posting group.
 
 1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Bank Accounts Posting Groups**, and click the **Bank Accounts Posting Groups** page link.
 
@@ -87,9 +77,7 @@ Create a bank account posting group.
 
 4.  In the **G/L Account No.** field, enter 10250.
 
-### Task 2
-
-Assign the bank account posting group.
+### Task 2: Assign the bank account posting group.
 
 1.   At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Bank Accounts** page, , and click the **Bank Accounts** page link.
 
