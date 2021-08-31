@@ -113,7 +113,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 ### Task 3: Receive items on the purchase order.
 
-    1.  On the **General** FastTab, fill in the following fields:
+1.  On the **General** FastTab, fill in the following fields:
 
     1.  In the **Posting Date** field, enter 1/23/2021.
 
@@ -171,7 +171,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 ![Item ledger entries](media/lab5_1_item_ledger_entries.png)
 
-    1.  Close the **General Ledger Entries** page.
+6.  Close the **General Ledger Entries** page.
 
     1.  Close the **Find Entries** page.
 
@@ -186,9 +186,9 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 ![General ledger entries](media/lab5_1_general_ledger_entries.png)
 
-    6.  Close the **General Ledger Entries** page.
+6.  Close the **General Ledger Entries** page.
 
-    7.  Close the **Find Entries** page.
+7.  Close the **Find Entries** page.
 
 ## Exercise 2: Process the return of a purchase from return order to credit memo
 
