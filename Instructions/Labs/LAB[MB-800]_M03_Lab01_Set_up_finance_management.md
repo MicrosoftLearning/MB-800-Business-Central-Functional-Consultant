@@ -21,11 +21,7 @@ entire fiscal year.
 
 2.  Create accounting periods in bulk.
 
-### Steps
-
-### Task 1
-
-1.  Change the starting date of the fiscal year.
+### Task 1: Change the starting date of the fiscal year.
 
 2.  Open the **Accounting Periods** page by clicking on the search icon in the black bar at the top of the page, on the right hand side. After clicking on the search icon type **Acounting Periods**, then click the link to the page.
 
@@ -39,9 +35,7 @@ entire fiscal year.
 5.  Leave the selection on the **New Fiscal Year** checkbox for the
     accounting period with starting date 1/1/2021.
 
-### Task 2
-
-1.  Create accounting periods in bulk.
+### Task 2: Create accounting periods in bulk.
 
 7.  In the **Accounting Periods** page, select **More options**, select **Actions** and then select
     **Create Year**.
@@ -94,11 +88,7 @@ opening balance on December 31st 2020.
 
 3.  Allow posting in the open accounting period.
 
-### Steps
-
-### Task 1
-
-Determine the local currency.
+### Task 1: Determine the local currency.
 
 1.  Open the **General Ledger Setup** page by clicking on the search icon in the black bar at the top of the page, on the right hand side. After clicking on the search icon type **General Ledger Setup**, then click the link to the page.
 
@@ -119,9 +109,7 @@ Determine the local currency.
 
        2.  The **Unit-Amount Decimal Places ($)** field must be set to 2:5.
 
-### Task 2
-
-Set up global and shortcut dimensions.
+### Task 2: Set up global and shortcut dimensions.
 
 1.  In the **General Ledger Setup** page, select **More options**, then select **Actions**, then
     **Functions** and then **Change Global Dimensions**.
@@ -141,9 +129,7 @@ Set up global and shortcut dimensions.
 10.  In the **General Ledger Setup** page, in the **Dimensions** FastTab, in
     the **Shortcut Dimension 3 Code** field select the value DEPARTMENT (**Note:** You may need to click the 'Show more' option to expand the fields visible)
 
-### Task 3
-
-Allow posting in the open accounting period.
+### Task 3: Allow posting in the open accounting period.
 
 1.  In the **General Ledger Setup** page, in the **General** FastTab, fill
     in the following fields:
