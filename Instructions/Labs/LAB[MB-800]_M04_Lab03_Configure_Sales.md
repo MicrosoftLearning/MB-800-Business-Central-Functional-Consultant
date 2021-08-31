@@ -57,7 +57,9 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
 
 ### Task 1: Create a shipping address for the customer.
 
-1.  On the **Customers** list page, select the web shop customer (CWEB0001).
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
+
+2.  On the **Customers** list page, select the web shop customer (CWEB0001).
 
 2.  To open the customer card, select **Manage** and then select **Edit**.
 
@@ -157,7 +159,9 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
 
 ### Task 3: Set up and assign a salesperson
 
-1.  On the **Sales People/Purchasers** list page, select sales person
+1. At the top of the page, click the search icon in the black bar on the right. Then type **Sales People/Purchasers** and click the **Sales People/Purchasers** link.
+
+2.   On the **Sales People/Purchasers** list page, select sales person
         Annette Hill.
 
 2.  Select **Salesperson** and then select **Dimensions-single**.
@@ -248,7 +252,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 ### Task 1: Set up customer price groups
 
-1.  On the **Customers Price Groups** page, select **+ New**.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers Price Groups** and click the **Customers Price Groups** link.
+
+2.  On the **Customers Price Groups** page, select **+ New**.
 
 2.  On the new line, fill in the following fields:
 
@@ -264,7 +270,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 ### Task 2: Set up customer discount groups
 
-1.  On the **Customer Disc. Groups** page, select **+ New**.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customer Disc. Groups** and click the **Customer Disc. Groups** link.
+
+2.  On the **Customer Disc. Groups** page, select **+ New**.
 
 2.  On the new line, fill in the following fields:
 
@@ -277,7 +285,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 ### Task 3: Assign customer price groups and customer discount groups
 
-1.  On the **Customers** list page, select the web shop customer (CWEB0001).
+1. At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
+
+2.   On the **Customers** list page, select the web shop customer (CWEB0001).
 
 2.  To open the customer card, select **Manage** and then select **Edit**.
 
@@ -296,7 +306,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 ### Task 4: Set up and assign item discount groups
 
-1.  On the **Item Discount Groups** page, select **+ New**.
+1. At the top of the page, click the search icon in the black bar on the right. Then type **Item Discount Groups** and click the **Item Discount Groups** link.
+
+2.   On the **Item Discount Groups** page, select **+ New**.
 
 2.  On the new line, fill in the following fields:
 
@@ -319,7 +331,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 ### Task 5: Configure sales prices
 
-1.  On the **Items** list page, select the 15” flat panel (CHW1002).
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Items** and click the **Items** link.
+
+2.  On the **Items** list page, select the 15” flat panel (CHW1002).
 
 2.  To open the item card, select **Manage** and then select **Edit**.
 
@@ -395,7 +409,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 ### Task 6: Configure line discount
 
-1.  On the **Item Discount Groups** page, select **Sales Lines Discounts**.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Item Discount Groups** and click the **Item Discount Groups** link.
+
+2.  On the **Item Discount Groups** page, select **Sales Lines Discounts**.
 
 2.  Remove the value in the **Code Filter** filter.
 
@@ -439,7 +455,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 ### Task 7:  Configure invoice discount
 
-1.  On the **Customers** list page, select the web shop customer (CWEB0001)
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
+
+2.  On the **Customers** list page, select the web shop customer (CWEB0001)
 
 2.  To open the customer card, select **Manage** and then select **Edit**.
 
