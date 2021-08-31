@@ -24,7 +24,7 @@ webshop customer (CWEB0001):
 -   PICK-UP DK: Carl Blochs Gade 7, DK-8000 Arhus C – contact: Hr. Jonathan
     Mollerup
 
--   PICK-UP BE: Binkkampen 33, BE-1020 BRUSSEL – contact: Dhr. Luc van Vugt
+-   PICK-UP BE: Binkkampen 33, BE-2050 ANTWERPEN – contact: Dhr. Luc van Vugt
 
 -   PICK-UP FR: 34 Avenue Parmentier, FR-75000 PARIS – contact: M. Jean E.
     TRENARY
@@ -103,9 +103,9 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
 
     3.  In the **Address** field, enter ‘Binkkampen 33’.
 
-    4.  In the **City** field, enter ‘Brussel’
+    4.  In the **City** field, enter ‘Antwerpen’
 
-    5.  In the **ZIP Code** field, enter ‘BE-1020’.
+    5.  In the **ZIP Code** field, enter ‘BE-2050’.
 
     6.  In the **Country/Region Code** field, the value ‘BE’ is
            automatically filled in.
@@ -151,7 +151,7 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
 
 3.  In the **Location Code** field, enter EUROP.
 
-4.  In the **Agent** field, enter DHL
+4.  Click **Show more**, and then in the **Agent** field, enter DHL
 
 5.  In the **Agent Service** field, enter STANDARD
 
@@ -164,7 +164,7 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
 2.   On the **Sales People/Purchasers** list page, select sales person
         Annette Hill.
 
-2.  Select **Salesperson** and then select **Dimensions-single**.
+2.  Select **Salesperson** and then select **Dimensions**.
 
 3.  On the opened **Default Dimensions** page, select **+ New**.
 
@@ -182,7 +182,9 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
         *(Remark: you also repeat the steps for the other salespeople, but this
         is not required for further exercises.)*
 
-6.  On the **Customers** list page, select customer Spotsmeyer’s Furnishings
+6.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
+
+7.  On the **Customers** list page, select customer Spotsmeyer’s Furnishings
         (C00010)
 
 7.  To open the customer card, select **Manage** and then select **Edit**.
