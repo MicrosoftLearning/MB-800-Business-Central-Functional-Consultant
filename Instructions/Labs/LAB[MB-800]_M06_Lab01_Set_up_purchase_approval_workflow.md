@@ -52,7 +52,9 @@ met:
 
 ### Task 1: Setting up approval users.
 
-1.  On the **Approval User Setup** page, select **+ New**.
+1. At the top of the page, click the search icon in the black bar on the right. Then type **Approval User Setup** and click the **Approval User Setup** link.
+
+2.   On the **Approval User Setup** page, select **+ New**.
 
 2.  Fill in the following fields for user 1 (accounting manager):
 
@@ -104,7 +106,7 @@ met:
 
 ### Task 2: Setting up notifications.
 
-1.  From the **User Approval Setup** page, select the line for user 1.
+1.  From the **Approval User Setup** page, select the line for user 1.
 
 2.  Select **Notification Setup**.
 
@@ -126,7 +128,9 @@ met:
 
 ### Task 3: Creating the approval workflow.
 
-1.  On the **Workflow Templates** page, select **Purchase Order Approval
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Workflow Templates** and click the **Workflow Templates** link.
+
+2.  On the **Workflow Templates** page, select **Purchase Order Approval
         Workflow**.
 
 2.  Select **Actions** and then select **New Workflow from Template**.
@@ -232,7 +236,9 @@ The purchasing agent places an order with vendor PURE-LOOK on January 14th,
 
 1.  Log in the database as the purchasing agent.
 
-2.  On the **Purchase Orders** page, select **+ New**.
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Purchase Orders** and click the **Purchase Orders** link.
+
+3.  On the **Purchase Orders** page, select **+ New**.
 
 3.  On the opened purchase order, on the **General** FastTab, fill in the
         following fields.
@@ -280,7 +286,9 @@ The purchasing agent places an order with vendor PURE-LOOK on January 14th,
 
 1.  Log in the database as the purchasing agent.
 
-2.  On the **Requests to Approve** page, select the line for the purchase
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **Requests to Approve** and click the **Requests to Approve** link.
+
+3.  On the **Requests to Approve** page, select the line for the purchase
         order.
 
 3.  Select **Approve**.
