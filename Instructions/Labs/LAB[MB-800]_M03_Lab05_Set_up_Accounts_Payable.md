@@ -235,7 +235,7 @@ Set up a Vendor Posting Group.
 Create Configuration Templates.
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type   **Configuration Templates** , and click the  **Configuration Templates** link.
-   2.  
+  
    3.  In the **Configuration Templates** page, select **+ New**.
 
    2.  In the **Config. Template Header** page, fill in the following fields:
