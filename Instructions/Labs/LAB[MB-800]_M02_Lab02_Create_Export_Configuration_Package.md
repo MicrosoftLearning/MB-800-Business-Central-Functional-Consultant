@@ -36,11 +36,7 @@ The following information is returned to you by Contoso’s super user:
 
 4.  Prepare data in excel.
 
-### Steps
-
-### Task 1
-
-Create a configuration package.
+### Task 1: Create a configuration package.
 
 1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, click **+ New** to create a new configuration package.
 
@@ -48,9 +44,7 @@ Create a configuration package.
 
 4.  In the **Package Name** field, enter Vendor List.
 
-### Task 2
-
-Assign tables and select fields.
+### Task 2: Assign tables and select fields.
 
 1.  On the **Tables** section of the Config. Package Card, enter a new line
     as follows.
@@ -91,18 +85,14 @@ Assign tables and select fields.
 
 15. Click **Close**.
 
-### Task 3
-
-Export a configuration package to excel.
+### Task 3: Export a configuration package to excel.
 
 1. In the **Config. Package Card** page, select **Actions**, then
     **Package**, and then **Export to Excel**.
 
 18. Click **Yes** to export the configuration package.
 
-### Task 4
-
-Prepare data in excel.
+### Task 4: Prepare data in excel.
 
 1. Open the exported excel file from the download folder.
 
@@ -133,11 +123,7 @@ values.
 
 3.  Resolve package errors.
 
-### Steps
-
-### Task 1
-
-Import a configuration package from Excel.
+### Task 1: Import a configuration package from Excel.
 
 1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Open in Excel**.
 
@@ -150,9 +136,7 @@ Import a configuration package from Excel.
 
 6.  In the preview page, select **Import**.
 
-### Task 2
-
-Apply a configuration package.
+### Task 2: Apply a configuration package.
 
 1.  In the **Config. Package Card** page, select **Actions**, then select
     **Functions**, and then **Apply Package**.
@@ -161,9 +145,7 @@ Apply a configuration package.
 
 10. Click **OK** to close the confirmation window.
 
-### Task 3
-
-Resolve package errors.
+### Task 3: Resolve package errors.
 
 1. In the **Config. Package Card** page, the vendor table line will show a
     number of errors.
@@ -206,9 +188,7 @@ from the default CRONUS USA company within the database.
 
 1.  Import and apply a predefined package.
 
-### Steps
-
-1.  Import and apply a predefined package.
+### Task 1: Import and apply a predefined package.
 
 2.  In the **Configuration Packages** page, select **More options**, then **Actions**, then
     **Package**, and then select **Import Predefined Package**.
