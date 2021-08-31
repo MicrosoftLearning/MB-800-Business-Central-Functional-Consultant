@@ -25,9 +25,7 @@ a dimension for sales people as well.
 
 1.  Set up a dimension with dimension values
 
-### Steps
-
-1.  Set up a dimension with dimension values.
+### Task 1: Set up a dimension with dimension values.
    
 2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Dimensions**, then select the **Dimensions** link.
 
@@ -79,11 +77,7 @@ different sales people responsible for their customer group.
 
 2.  Assign Account Type Default Dimensions for the sales people.
 
-### Steps
-
-### Task 1
-
-Assign Account Type Default Dimensions for the customer group.
+### Task 1: Assign Account Type Default Dimensions for the customer group.
 
 1.  Navgate back to the **Dimensions** page using the search function in the black bar at the top of the page on the right hand side.
 
@@ -98,9 +92,7 @@ Assign Account Type Default Dimensions for the customer group.
 
 7.  In the **Value Posting** field, enter **Code Mandatory**.
 
-### Task 2
-
-Assign Account Type Default Dimensions for the sales people.
+### Task 2: Assign Account Type Default Dimensions for the sales people.
 
 1.  In the **Dimensions** page, select the SALESPERSON dimension.
 
@@ -153,11 +145,7 @@ Make sure the following requirements are met:
 
 2.  Block dimension value combinations.
 
-### Steps
-
-### Task 1
-
-Limit a dimension combination.
+### Task 1: Limit a dimension combination.
 
 1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Dimension Combinations**, then select the **Dimension Combinations** link.
 
@@ -165,9 +153,7 @@ Limit a dimension combination.
 
 4.  In the window that opens, select **Limited**.
 
-### Task 2
-
-1.  Block dimension value combinations.
+### Task 2: Block dimension value combinations.
 
 6.  In the **Dimension Combinations** page, click on the **Limited** value
     of the combination of the CUSTOMERGROUP and SALESPERSON dimension in the
