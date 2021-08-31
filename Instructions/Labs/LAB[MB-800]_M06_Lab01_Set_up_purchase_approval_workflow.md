@@ -133,7 +133,7 @@ met:
 2.  On the **Workflow Templates** page, select **Purchase Order Approval
         Workflow**.
 
-2.  Select **Actions** and then select **New Workflow from Template**.
+2.  Select **More options**, then **Actions** and then select **New Workflow from Template**.
 
 3.  A workflow is created, in the **Code** field, the value MS-POAPW-01 is
        automatically filled in.
@@ -148,7 +148,7 @@ met:
 
     2.  Select the **Status** filter, and enter ‘Open’.
 
-    3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘EU’.
+    3.  Click the **+ Filter**, select the **Gen. Bus. Posting Group** filter, and enter ‘EU’.
 
     4.  Click **OK** to close the **Event Conditions** page.
 
@@ -189,7 +189,7 @@ met:
 
     2.  Select the **Status** filter, and enter ‘Open’.
 
-    3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘\<\>EU’.
+    3.  Click the **+ Filter**, select the **Gen. Bus. Posting Group** filter, and enter ‘\<\>EU’.
 
     4.  Click **OK** to close the **Event Conditions** page.
 
