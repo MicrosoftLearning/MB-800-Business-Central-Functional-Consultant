@@ -42,7 +42,8 @@ expressed the following requirements:
 
 ### Steps
 
-1.  Set up and assign number series.
+### Task 1
+Set up and assign number series.
 
    1.  In the **Sales & Receivables Setup** page, go to the **Number Series**
         FastTab.
@@ -117,7 +118,9 @@ expressed the following requirements:
    21. The number series S-INV+ remains filled in in the **Posted Invoice
         Nos.** field, in the **Sales & Receivables Setup** page.
 
-2.  Complete discount posting setup.
+### Task 2
+
+Complete discount posting setup.
 
    1.  In the **Sales & Receivables Setup** page, go to the **General**
         FastTab.
@@ -130,7 +133,9 @@ expressed the following requirements:
         the **Sales Inv. Disc. Account** field is filled in with the value
         40300.
 
-3.  Activate credit limit warning
+### Task 3
+
+Activate credit limit warning
 
    1.  In the **Sales & Receivables Setup** page, go to the **General**
         FastTab.
@@ -180,7 +185,9 @@ templates for customers: CUST000001 & CUST000002*
 
 ### Steps
 
-1.  Set up a Customer Posting Group
+### Task 1
+
+Set up a Customer Posting Group
 
    1.  In the **Customer Posting Groups** page, select **New**.
 
@@ -233,7 +240,9 @@ templates for customers: CUST000001 & CUST000002*
 
        11. Payment Tolerance Credit Acc.
 
-2.  Create and configure a new customer.
+### Task 2
+
+Create and configure a new customer.
 
    1.  In the **Customers** page, select **New**.
 
@@ -366,7 +375,9 @@ user.
 
 ### Steps
 
-1.  Create and export a configuration package.
+### Task 1
+
+Create and export a configuration package.
 
    1.  In the **Configuration Packages** page, click **New** to create a new
         configuration package.
@@ -418,7 +429,9 @@ user.
 
    17. Click **Yes** to export the configuration package.
 
-2.  Create and assign data template to the configuration package.
+### Task 2
+
+Create and assign data template to the configuration package.
 
    1.  In the **Tables** section of the Config. Package Card, make sure the
         customer table line is selected.
@@ -478,7 +491,9 @@ user.
    6.  The new code is now automatically filled in in the **Data Template**
         field on the configuration package card.
 
-3.  Prepare data in excel.
+### Task 3
+
+Prepare data in excel.
 
    1.  Open the exported excel file from the download folder.
 
@@ -486,7 +501,9 @@ user.
 
    3.  Save the excel file.
 
-4.  Import and apply the configuration package.
+### Task 4
+
+Import and apply the configuration package.
 
    1.  In the **Configuration Packages** page, select the new configuration
         package for customers and select **Manage** and then **Edit**.
