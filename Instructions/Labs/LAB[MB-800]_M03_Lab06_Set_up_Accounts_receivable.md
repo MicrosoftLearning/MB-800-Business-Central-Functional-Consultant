@@ -40,10 +40,7 @@ expressed the following requirements:
 
 3.  Activate credit limit warning
 
-### Steps
-
-### Task 1
-Set up and assign number series.
+### Task 1: Set up and assign number series.
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Sales & Receivables Setup**, and click the **Sales & Receivables Setup** link.
   
@@ -120,9 +117,7 @@ Set up and assign number series.
    21. The number series S-INV+ remains filled in in the **Posted Invoice
         Nos.** field, in the **Sales & Receivables Setup** page.
 
-### Task 2
-
-Complete discount posting setup.
+### Task 2: Complete discount posting setup.
 
    1.  In the **Sales & Receivables Setup** page, go to the **General**
         FastTab.
@@ -137,9 +132,7 @@ Complete discount posting setup.
         the **Sales Inv. Disc. Account** field is filled in with the value
         40300.
 
-### Task 3
-
-Activate credit limit warning
+### Task 3: Activate credit limit warning
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Sales & Receivables Setup**, and click the **Sales & Receivables Setup** link.
    
@@ -189,11 +182,7 @@ templates for customers: CUST000001 & CUST000002*
 
 2.  Create and configure a new customer.
 
-### Steps
-
-### Task 1
-
-Set up a Customer Posting Group
+### Task 1: Set up a Customer Posting Group
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Customer Posting Groups**, and click the **Customer Posting Groups** link.
    
@@ -248,9 +237,7 @@ Set up a Customer Posting Group
 
        11. Payment Tolerance Credit Acc.
 
-### Task 2
-
-Create and configure a new customer.
+### Task 2: Create and configure a new customer.
 
    1.   At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Customers**, and click the **Customers** link.
    
@@ -382,11 +369,7 @@ user.
 
 4.  Import and apply the configuration package.
 
-### Steps
-
-### Task 1
-
-Create and export a configuration package.
+### Task 1: Create and export a configuration package.
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Configuration Packages**, and click the *Configuration Packages** link.
    
@@ -440,9 +423,7 @@ Create and export a configuration package.
 
    17. Click **Yes** to export the configuration package.
 
-### Task 2
-
-Create and assign data template to the configuration package.
+### Task 2: Create and assign data template to the configuration package.
 
    1.  In the **Tables** section of the Config. Package Card, make sure the
         customer table line is selected.
@@ -502,9 +483,7 @@ Create and assign data template to the configuration package.
    6.  The new code is now automatically filled in in the **Data Template**
         field on the configuration package card.
 
-### Task 3
-
-Prepare data in excel.
+### Task 3: Prepare data in excel.
 
    1.  Open the exported Excel file from the download folder.
 
@@ -512,9 +491,7 @@ Prepare data in excel.
 
    3.  Save the Excel file.
 
-### Task 4
-
-Import and apply the configuration package.
+### Task 4: Import and apply the configuration package.
 
    1.  In the **Configuration Packages** page, select the new configuration
         package for customers and select **Manage** and then **Edit**.
