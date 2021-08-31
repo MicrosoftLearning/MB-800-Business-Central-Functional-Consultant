@@ -234,7 +234,7 @@ Set up a Vendor Posting Group.
 
 Create Configuration Templates.
 
-   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type   **Configuration Templates** , and click the  **Configuration Templates** link.
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Configuration Templates**, and click the  **Configuration Templates** link.
   
    3.  In the **Configuration Templates** page, select **+ New**.
 
@@ -364,19 +364,21 @@ Create Configuration Templates.
 
 Configure vendors.
 
-   1.  In the **Vendors** list page, multi-select imported vendors V9001, V9003
+   1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Vendors**, and click the **Vendors** link.
+   
+   3.   In the **Vendors** list page, multi-select imported vendors V9001, V9003
         and V9007.
 
    2.  Select **Process**, and then select **Apply Template**.
    
-   3.  In the vendor templates list, select Domestic vendors, and click **OK.**
+   3.  In the vendor templates list, select Domestic vendors, and click **OK**.
 
    4.  In the **Vendors** list page, multi-select imported vendors V9002, V9005
         and V9006.
 
    5.  Select **Process**, and then select **Apply Template**.
 
-   6.  In the vendor templates list, select EU vendors, and click **OK.**
+   6.  In the vendor templates list, select EU vendors, and click **OK**.
 
    7.  In the **Vendors** list page, multi-select imported vendors V9004 and
         V9008.
