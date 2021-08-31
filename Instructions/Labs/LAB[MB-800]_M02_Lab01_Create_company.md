@@ -29,11 +29,8 @@ data.
 
 3.  Configure the new company.
 
-### Steps
 
-#### Task 1
-
-Create a new company.
+#### Task 1: Create a new company
 
 1. In the Get Started section on the screen, click **Start**.
 
@@ -96,27 +93,30 @@ You will start by copying the following data from the default CRONUS company:
 
 3.  Create additional reporting currencies.
 
-### Steps
-
-### Task 1 
-
-Complete the configuration worksheet.
+### Task 1: Complete the configuration worksheet.
 
 1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon, enter 'Configuration Worksheet', and then choose the related link.
-2.  Open the **Configuration Worksheet** page.
-3.  At the bottom of the worksheet, enter a new line.
-4.  In the **Line Type** field, select **Group**.
-5.  In the **Name** field, enter ‘General Setup’.
-6.  Enter a new line.
-7.  In the **Line Type** field, select **Table**.
-8.  Open the assist edit button to the right of the **Table ID** field.
-9.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
+
+3.  Open the **Configuration Worksheet** page.
+
+4.  At the bottom of the worksheet, enter a new line.
+
+5.  In the **Line Type** field, select **Group**.
+
+6.  In the **Name** field, enter ‘General Setup’.
+
+7.  Enter a new line.
+
+8.  In the **Line Type** field, select **Table**.
+
+9.  Open the assist edit button to the right of the **Table ID** field.
+
+10.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
         in the **Table ID** field.
+
 9.  Repeat steps e. to h. to enter table 10 Shipment Method.
 
-### Task 2
-
-Copy data from another database company.
+### Task 2: Copy data from another database company.
 
    1.  In the menu on the **Configuration Worksheet** page, select **More options**, then **Actions**,
         then **Tools** and then **Copy Data from Company**.
@@ -135,51 +135,77 @@ Copy data from another database company.
 8. Click **OK** to confirm that the data has been copied successfully
 
 
-### Task 3
+### Task 3: Create additional reporting currencies
 
 1. Create additional reporting currency for Denmark.
 
    1.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon,, enter 'Currencies', and then choose the related link. Open the **Currencies** page.
+   
    2.  In the menu on the **Currencies** page, select **+ New**.
+   
    3.  In the **Code** field, enter **DKK**.
+   
    4.  In the **Description** field, enter **Denmark**.
+   
    5.  In the **ISO Code** field, enter **DKK**.
+   
    6.  In the **ISO Numberic Code** field, enter **208**.
+   
    7.  In the **Realized Gains Acc.** field, enter **40500**.
+   
    8.  Close the page by clicking the left arrow button in the menu bar.
 
 2. Create additional reporting currency for Malaysia.
 
-    1.  Click the **+ New** button at the top of the page to enter a new record.
-    3.  In the **Code** field, enter **MYR**.
-    4.  In the **Description** field, enter **Malaysia**.
-    5.  In the **ISO Code** field, enter **MYR**.
-    6.  In the **ISO Numberic Code** field, enter **458**.
-    7.  In the **Symbol** field, enter **RM**.
-    8.  In the **Realized Gains Acc.** field, enter **40500**.
-    9.  Close the page by clicking the left arrow button in the menu bar.
+   
+   1.  Click the **+ New** button at the top of the page to enter a new record.
+   
+   3.  In the **Code** field, enter **MYR**.
+   
+   4.  In the **Description** field, enter **Malaysia**.
+   
+   5.  In the **ISO Code** field, enter **MYR**.
+   
+   6.  In the **ISO Numberic Code** field, enter **458**.
+   
+   7.  In the **Symbol** field, enter **RM**.
+   
+   8.  In the **Realized Gains Acc.** field, enter **40500**.
+   
+   9.  Close the page by clicking the left arrow button in the menu bar.
 
  
 3. Create additional reporting currency for the UK.
 
    1.  Click the **+ New** button at the top of the page to enter a new record.
+   
    3.  In the **Code** field, enter **GBP**.
+   
    4.  In the **Description** field, enter **United Kingdom**.
+   
    5.  In the **ISO Code** field, enter **GBP**.
+   
    6.  In the **ISO Numberic Code** field, enter **826**.
+   
    7.  In the **Realized Gains Acc.** field, enter **40500**.
+   
    8.  Close the page by clicking the left arrow button in the menu bar.
 
 
 4. Create additional reporting currency for South Africa.
 
    1.  Click the **+ New** button at the top of the page to enter a new record.
+   
    3.  In the **Code** field, enter **ZAR**.
+   
    4.  In the **Description** field, enter **South Africa**.
+   
    5.  In the **ISO Code** field, enter **ZAR**.
+   
    6.  In the **ISO Numberic Code** field, enter **710**.
+   
    7.  In the **Symbol** field, enter **R**
+   
    8.  In the **Realized Gains Acc.** field, enter **40500**.
+   
    9.  Close the page by clicking the left arrow button in the menu bar.
-
-
