@@ -31,11 +31,7 @@ valuation, Contoso’s account manger has expressed the following requirements:
 
 3.  Make location mandatory and prevent negative inventory.
 
-### Steps
-
-### Task 1
-
-Set up and assign number series
+### Task 1: Set up and assign number series
 
 1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Inventory Setup**, and click the **Inventory Setup** link
 2. In the **Inventory Setup** page, go to the **Numbering** FastTab.
@@ -68,9 +64,7 @@ Set up and assign number series
 13. The number series ITEM remains filled in in the **Item Nos.** field, in
         the **Inventory Setup** page.
 
-### Task 2
-
-Complete inventory costing setup.
+### Task 2: Complete inventory costing setup.
 
 1. In the **Inventory Setup** page, go to the **General** FastTab.
 2. Select the **Automatic Cost Posting** checkbox to enable it.
@@ -79,9 +73,7 @@ Complete inventory costing setup.
 4. In the **Automatic Cost Adjustment** field, leave the **Always** option
         selected.
 
-### Task 3
-
-Make location mandatory and prevent negative inventory.
+### Task 3: Make location mandatory and prevent negative inventory.
 
 1. In the **Inventory Setup** page, go to the **General** FastTab.
 2. Select the **Prevent Negative Inventory** checkbox to enable it.
@@ -127,11 +119,7 @@ template.
 
 4.  Create and configure a new item.
 
-### Steps
-
-### Task 1
-
-Create a location.
+### Task 1: Create a location.
 
 1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Locations**, and click the **Locations** link
 
@@ -144,9 +132,7 @@ Create a location.
 	
 	3. On the **Warehouse** FastTab, leave all the checkboxes deselected.
 
-### Task 2
-
-Set up an Inventory Posting Setup.
+### Task 2: Set up an Inventory Posting Setup.
 
 1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Inventory Posting Groups**, and click the **Inventory Posting Groups** link.
 
@@ -179,9 +165,7 @@ Set up an Inventory Posting Setup.
 	
 	4. In the **Overhead Applied Account** field, enter 50150.
 
-### Task 3
-
-Set up Item Categories and Item Attributes.
+### Task 3: Set up Item Categories and Item Attributes.
 
 1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Item Categories**, and click the **Item Categories** link.
 
@@ -285,9 +269,7 @@ Set up Item Categories and Item Attributes.
 
         4.  Close the item category card.
 
-### Task 4
-
-Create a configuration template.
+### Task 4: Create a configuration template.
 
 1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Configuration Templates**, and click the **Configuration Templates** link.
 
@@ -320,9 +302,7 @@ Create a configuration template.
 		
 		4. Close the configuration template.
 
-### Task 5
-
-Create and configure a new item.
+### Task 5: Create and configure a new item.
 
 1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Items**, and click the **Items** link.
 
