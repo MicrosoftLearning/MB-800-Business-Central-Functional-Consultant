@@ -31,11 +31,7 @@ accounting manager has expressed the following requirements:
 
 2.  Complete discount posting setup.
 
-### Steps
-
-### Task 1
-
-Set up and assign number series.
+### Task 1: Set up and assign number series.
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Purchases & Payables Setup**, and click the  **Purchases & Payables Setup**.
    
@@ -73,9 +69,7 @@ Set up and assign number series.
 
    9.  In the **Posted Credit Memo Nos**. field, enter PINCN+.
 
-### Task 2
-
-Complete discount posting setup.
+### Task 2: Complete discount posting setup.
 
    1.  In the **Purchases & Payables Setup** page, go to the **General**
         FastTab.
@@ -105,11 +99,7 @@ You must set up a separate payment journal for this purpose.
 
 2.  Create a general journal template batch.
 
-### Steps
-
-### Task 1
-
-Create a general journal template.
+### Task 1: Create a general journal template.
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Journal Templates** , and click the  **General Journal Templates** link.
    
@@ -128,9 +118,7 @@ Create a general journal template.
 
        5.  In the **No. Series** field, enter GJNL-PMT.
 
-### Task 2
-
-Create a general journal template batch.
+### Task 2: Create a general journal template batch.
 
    1.  In the **General Journal Templates** page, make sure the EUROP journal
         is selected.
@@ -176,11 +164,7 @@ posting groups. Then apply these templates to the existing vendors.
 
 3.  Configure vendors.
 
-### Steps
-
-### Task 1
-
-Set up a Vendor Posting Group.
+### Task 1: Set up a Vendor Posting Group.
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Vendor Posting Groups** , and click the **Vendor Posting Groups** link.
    
@@ -230,9 +214,7 @@ Set up a Vendor Posting Group.
 
        9.  Payment Tolerance Credit Acc.
 
-### Task 2
-
-Create Configuration Templates.
+### Task 2: Create Configuration Templates.
 
    1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Configuration Templates**, and click the  **Configuration Templates** link.
   
@@ -360,9 +342,7 @@ Create Configuration Templates.
 
        7.  Close the configuration template.
 
-### Task 3
-
-Configure vendors.
+### Task 3: Configure vendors.
 
    1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Vendors**, and click the **Vendors** link.
    
