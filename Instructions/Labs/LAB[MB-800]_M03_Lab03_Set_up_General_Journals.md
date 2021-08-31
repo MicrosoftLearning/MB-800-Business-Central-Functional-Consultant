@@ -28,11 +28,7 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
 2.  Set up different batches for customer, vendor, balance
 
-### Steps
-
-### Task 1
-
-Set up a journal for opening entries
+### Task 1: Set up a journal for opening entries
 
 1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Journal Templates**, and click the the **General Journal Templates** link. 
 
@@ -53,9 +49,7 @@ Set up a journal for opening entries
 
        6.  Deselect the **Copy Tax Setup to Jnl.** check box. Click **Yes** to the popup.
 
-### Task 2
-
-Set up different batches for customer, vendor, balance, and bank.
+### Task 2: Set up different batches for customer, vendor, balance, and bank.
 
 1.  In the **General Journal Templates** page, make sure the OPENING journal
     is selected.
