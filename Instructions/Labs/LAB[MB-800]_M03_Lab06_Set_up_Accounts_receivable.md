@@ -45,11 +45,13 @@ expressed the following requirements:
 ### Task 1
 Set up and assign number series.
 
-   1.  In the **Sales & Receivables Setup** page, go to the **Number Series**
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Sales & Receivables Setup**, and click the **Sales & Receivables Setup** link.
+  
+   3.  In the **Sales & Receivables Setup** page, go to the **Number Series**
         FastTab.
 
    2.  In the **Customer** field, the value CUST is already filled in. Click on
-        the Look Up Value button and select New.
+        the Look Up Value button and select **+ New**.
 
    3.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -59,9 +61,9 @@ Set up and assign number series.
 
        3.  Select the **Default Nos.** check box.
 
-   4.  Select **Navigate** and then select **Lines**.
+   4.  Select the ellipse at the top of the page, then select **Navigate** and then select **Lines**.
 
-   5.  In the opened **No. Series Lines** page, select **New**.
+   5.  In the opened **No. Series Lines** page, select **+ New**.
 
        1.  Leave the **Starting Date** field blank.
 
@@ -73,9 +75,9 @@ Set up and assign number series.
 
    7.  In the opened **No. Series List** page, select the number series CUST.
 
-   8.  Select **Navigate** and then select **Relationships**.
+   8.   Select the ellipse at the top of the page, then select **Navigate** and then select **Relationships**.
 
-   9.  In the **No. Series Relationships** page, select **New**.
+   9.  In the **No. Series Relationships** page, select **+ New**.
 
    10. In the **Series Code** field, enter CUST WEB.
 
@@ -93,9 +95,9 @@ Set up and assign number series.
    15. In the opened **No. Series List** page, the number series S-INV+ is
         automatically selected.
 
-   16. Select **Navigate** and then select **Lines**.
+   16. Select the ellipse at the top of the page, then select **Navigate** and then select **Lines**.
 
-   17. In the opened **No. Series Lines** page, select **New**.
+   17. In the opened **No. Series Lines** page, select **+ New**.
 
        1.  In the **Starting Date** field, enter 1/1/2021.
 
@@ -103,7 +105,7 @@ Set up and assign number series.
 
        3.  In the **Increment-by No.** field, leave the value ‘1’.
 
-   18. In the opened **No. Series Lines** page, select **New**.
+   18. In the opened **No. Series Lines** page, select **+ New**.
 
        1.  In the **Starting Date** field, enter 2/1/2021.
 
@@ -128,7 +130,9 @@ Complete discount posting setup.
    2.  In the **Discount Posting** field, select the **Invoice Discounts**
         option.
 
-   3.  In the **General Posting Setup** page, for each possible combination of
+   3.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Posting Setup**, and click the **General Posting Setup** link.
+   
+   5.  In the **General Posting Setup** page, for each possible combination of
         **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure
         the **Sales Inv. Disc. Account** field is filled in with the value
         40300.
@@ -137,7 +141,9 @@ Complete discount posting setup.
 
 Activate credit limit warning
 
-   1.  In the **Sales & Receivables Setup** page, go to the **General**
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Sales & Receivables Setup**, and click the **Sales & Receivables Setup** link.
+   
+   3.  In the **Sales & Receivables Setup** page, go to the **General**
         FastTab.
 
    2.  In the **Credit Warnings** field, select the **Credit Limit** option.  
@@ -189,7 +195,9 @@ templates for customers: CUST000001 & CUST000002*
 
 Set up a Customer Posting Group
 
-   1.  In the **Customer Posting Groups** page, select **New**.
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Customer Posting Groups**, and click the **Customer Posting Groups** link.
+   
+   3.  In the **Customer Posting Groups** page, select **+ New**.
 
    2.  In the **Customer Posting Group Card** page, fill in the following
         fields:
@@ -201,7 +209,7 @@ Set up a Customer Posting Group
 
        4.  Close the page.
 
-   3.  In the **Customer Posting Groups** page, select **New**.
+   3.  In the **Customer Posting Groups** page, select **+ New**.
 
    4.  In the **Customer Posting Group Card** page, fill in the following
         fields:
@@ -216,7 +224,7 @@ Set up a Customer Posting Group
 
    5.  From the **Customer Posting Groups** page, copy the other g/l accounts
         from the DOMESTIC customer posting group to the FOREIGN and INTERCOMPANY
-        customer posting groups using F8. Copy the following fields:
+        customer posting groups using the F8 key. Copy the following fields:
 
        1.  Payment Disc. Debit Acc.
 
@@ -244,7 +252,11 @@ Set up a Customer Posting Group
 
 Create and configure a new customer.
 
-   1.  In the **Customers** page, select **New**.
+   1.   At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Customers**, and click the **Customers** link.
+   
+   3.   In the **Customers** page, select **+ New**.
+   
+   5.   Select the **Business-toBusiness Customer (Bank)** option and click **OK**.
 
    2.  Go to the **General** FastTab.
 
@@ -255,8 +267,8 @@ Create and configure a new customer.
 
    5.  In the **Name** field, enter ‘Generic EU web shop’.
 
-   6.  In the **Document Sending Profile** field, click on the Look Up Value
-       button and click **New**.
+   6.  Click **Show more** on the 'General' section, and n the **Document Sending Profile** field, click on the Look Up Value
+       button and click **+ New**.
 
    7.  In the opened **Document Sending Profile** card page, fill in the
         following fields:
@@ -282,9 +294,6 @@ Create and configure a new customer.
 
    10. In the **Gen. Bus. Posting Group** field, enter EU.
 
-   11. The **VAT Bus. Posting Group** field is automatically filled in with the
-        value EU.
-
    12. In the **Customer Posting Group**, enter FOREIGN.
 
    13. Go to the **Payments** FastTab.
@@ -292,7 +301,7 @@ Create and configure a new customer.
    14. In the **Payment Terms Code** field, click on the Look Up Value button
         and click **New**.
 
-   15. In the opened **Payment Terms** page, select **New** and fill in the
+   15. In the opened **Payment Terms** page, select *+ *New** and fill in the
         following fields:
         
        1.  In the **Code** field, enter 0 DAYS.
@@ -306,7 +315,7 @@ Create and configure a new customer.
    16. The new code is now automatically filled in in the **Payment Terms
         Code** field on the customer card.
 
-   17. In the **Payment Method Code** field, click on the Look Up Value button
+   17. Click **Show more**, and in the **Payment Method Code** field, click on the Look Up Value button
         and click **New**.
 
    18. In the opened **Payment Methods** page, select **New** and fill in the
@@ -320,7 +329,7 @@ Create and configure a new customer.
             option.
 
        4.  In the **Bal. Account No.** field, enter 20500. (*Make sure the*
-            **Direct Posting** *check box is selected on the g/l account card)*
+            **Direct Posting** *check box is selected on the g/l account card. If you receive an error, click **Select from full list** in the lookup, find the entry, and edit the **Direct Posting** field value within it)*
 
        5.  Click **OK**.
 
@@ -330,7 +339,7 @@ Create and configure a new customer.
    20. In the customer card, select **Customer** and then select
         **Dimensions**.
 
-   21. In the opened **Default Dimensions** page, select **New**.
+   21. In the opened **Default Dimensions** page, select **+ New**.
 
    22. Fill in the following fields:
 
@@ -379,7 +388,9 @@ user.
 
 Create and export a configuration package.
 
-   1.  In the **Configuration Packages** page, click **New** to create a new
+   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Configuration Packages**, and click the *Configuration Packages** link.
+   
+   3.    In the **Configuration Packages** page, click **+ New** to create a new
         configuration package.
 
    2.  In the **Code** field, enter CUST.
@@ -400,7 +411,7 @@ Create and export a configuration package.
 
    9.  Click **Yes** to add the related dimension tables.
 
-   10. Make sure the customer table line is selected, select **Table** and then
+   10. Make sure the customer table line is selected, click **More options**, then select **Table** and then
         **Fields**.
 
    11.  You will be asked to check related tables, click **No**.
@@ -438,7 +449,7 @@ Create and assign data template to the configuration package.
 
    2.  Open the assist edit button to the right of the **Data Template** field.
 
-   3.  In the opened **Configuration Templates** page, select **New**.
+   3.  In the opened **Configuration Templates** page, select **+ New**.
 
    4.  In the **Config. Template Header** page, fill in the following fields:
    
@@ -495,11 +506,11 @@ Create and assign data template to the configuration package.
 
 Prepare data in excel.
 
-   1.  Open the exported excel file from the download folder.
+   1.  Open the exported Excel file from the download folder.
 
    2.  Enter the information as provided by Contoso.
 
-   3.  Save the excel file.
+   3.  Save the Excel file.
 
 ### Task 4
 
@@ -511,7 +522,7 @@ Import and apply the configuration package.
    2.  In the **Config. Package Card** page, select **Actions**, then select
         **Package**, and then **Import from Excel**.
 
-   3.  Click **Choose…** and select the excel file.
+   3.  Click **Choose…** and select the Excel file.
 
    4.  Click **Open**.
 
