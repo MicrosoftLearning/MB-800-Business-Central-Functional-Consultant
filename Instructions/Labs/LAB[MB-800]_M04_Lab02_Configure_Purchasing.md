@@ -47,10 +47,10 @@ the ‘cost and freight’ shipment method.
 
 3.  To open the vendor card, select **Manage** and then select **Edit**.
 
-4.  In the vendor card, select **Related**, then select **Vendor** and then
+4.  In the vendor card, select **More options**, select **Related**, then select **Vendor** and then
     **Order Addresses**.
 
-5.  In the opened **Order Address List** page, select **New**.
+5.  In the opened **Order Address List** page, select **+ New**.
 
 6.  In the opened order address card, fill in the following fields:
 
@@ -67,11 +67,11 @@ the ‘cost and freight’ shipment method.
     1.  In the **Country/Region Code** field, the value ‘DK’ is
         automatically filled in.
 
-    2.  In the **Contact** field, enter Hr. Allan Vinther-Wahl.
+    2.  In the **Contact** field, enter 'Hr. Allan Vinther-Wahl'.
 
 7.  Close the order address card.
 
-8.  In the opened **Order Address List** page, select **New**.
+8.  In the opened **Order Address List** page, select **+ New**.
 
 9.  In the opened order address card, fill in the following fields:
 
@@ -90,7 +90,7 @@ the ‘cost and freight’ shipment method.
      6.  In the **Country/Region Code** field, the value ‘DK’ is
         automatically filled in.
 
-     7.  In the **Contact** field, enter Fr. Karen Friske.
+     7.  In the **Contact** field, enter 'Fr. Karen Friske'.
 
 10. Close the order address card.
 
@@ -148,7 +148,7 @@ You need to set up the replenishment information on the item card.
       3.  In the **Vendor No.** field, enter V9002.
 
       4.  In the **Purch. Unit of Measure** field, the value PCS is already
-        filled in. Click on the Look Up Value button and select **New**.
+        filled in. Click on the Look Up Value button and select **+ New**.
 
 5.  In the opened **Item Units of Measure** page, fill in the following fields:
 
@@ -176,7 +176,7 @@ You need to set up the replenishment information on the item card.
 
       3.  In the **Vendor No.** field, enter V9002.
 
-      4.  In the **Purch. Unit of Measure** field, the value PCS is already filled in. Click on the Look Up Value button and select **New**.
+      4.  In the **Purch. Unit of Measure** field, the value PCS is already filled in. Click on the Look Up Value button and select **+ New**.
 
 11. In the opened **Item Units of Measure** page, fill in the following fields:
 
@@ -243,7 +243,7 @@ follows:
 4.  In the item card, select **Related**, then select **Purchases** and then
     **Vendors**.
 
-5.  On the opened **Item Vendor Catalog** page, select **New**.
+5.  On the opened **Item Vendor Catalog** page, select **+ New**.
 
 6.  On the new line, fill in the following fields:
 
@@ -264,7 +264,7 @@ follows:
 10. In the item card, select **Related**, then select **Purchases** and then
     **Vendors**.
 
-11. On the opened **Item Vendor Catalog** page, select **New**.
+11. On the opened **Item Vendor Catalog** page, select **+ New**.
 
 12. On the new line, fill in the following fields:
 
@@ -314,19 +314,19 @@ purchase invoice.
 
 ### Task 1: Configure recurring purchase lines
 
-1.  At the top of the page, click the search icon in the black bar on the right. Then type **Vendors List** and click the **Vendors List** link.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Vendors** and click the **Vendors** link.
 
 2.  In the **Vendors List** page, select vendor Oakville World (V9007).
 
 3.  Select **Related**, then **Purchases** and then select **Recurring
     Purchase Lines**.
 
-4.  On the opened **Recurring Purchase Lines** page, select **New**.
+4.  On the opened **Recurring Purchase Lines** page, select **+ New**.
 
 5.  On the new line, fill in the following fields:
 
       1.  Click on the Look Up Value button in the **Code** field, and select
-        **New**.
+        **+ New**.
 
 6.  On the opened **Standard Purchase Code Card** page, fill in the
     following fields:
@@ -346,9 +346,6 @@ purchase invoice.
 
       3.  In the **Quantity** field, enter 1.
 
-      4.  In the Amount excl. Tax field, enter ‘300’. (25% of
-        1,200.00)
-
       5.  In the **Department Code** field, enter SALES.
 
 8.  In the **Lines** section, create a new line, and fill in the
@@ -360,9 +357,6 @@ purchase invoice.
 
       3.  In the **Quantity** field, enter 1.
 
-      4.  In the Amount excl. Tax field, enter ‘420’. (35% of
-        1,200.00)
-
       5.  In the **Department Code** field, enter ADM.
 
 9.  In the **Lines** section, create a new line, and fill in the
@@ -373,9 +367,6 @@ purchase invoice.
       2.  In the **No.** field, enter 61000.
 
       3.  In the **Quantity** field, enter 1.
-
-      4.  In the Amount excl. Tax field, enter ‘480’. (40% of
-        1,200.00)
 
       5.  In the **Department Code** field, enter PROD.
 
