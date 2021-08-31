@@ -40,11 +40,7 @@ Code with the NONTAXABLE value.*
 
 2.  Assign default dimensions to multiple G/L Accounts.
 
-### Steps
-
-### Task 1
-
-Create a G/L Account card.
+### Task 1: Create a G/L Account card.
 
   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Chart of Accounts**, and click the **Chart of Accounts** link.
   
@@ -216,9 +212,7 @@ Create a G/L Account card.
 
   20. Click **Yes**.
 
-### Task 2
-
-Assign default dimensions to multiple G/L Accounts.
+### Task 2: Assign default dimensions to multiple G/L Accounts.
 
   1.  In the **Chart of Accounts** page, select general ledger accounts 60700
         until 61100.
@@ -267,11 +261,7 @@ Posting Setup.
 
 6.  Complete the General Posting Setup.
 
-### Steps
-
-### Task 1
-
-Create a VAT Product Posting Group.
+### Task 1: Create a VAT Product Posting Group.
 
   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **VAT Product Posting Groups**, and click the **VAT Product Posting Groups** link.
  
@@ -281,9 +271,7 @@ Create a VAT Product Posting Group.
   
   3.  In the **Description** field, enter ‘Goods 15%’.
 
-### Task 2
-
-Create a VAT Business Posting Group.
+### Task 2: Create a VAT Business Posting Group.
 
   1.  In the **VAT Business Posting Groups** page, select **+ New**.
 
@@ -291,9 +279,7 @@ Create a VAT Business Posting Group.
 
   3.  In the **Description** field, enter ‘EU’.
 
-### Task 3
-
-Complete the Tax Posting Setup.
+### Task 3: Complete the Tax Posting Setup.
 
   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Tax Posting Setup**, and click the **Tax Posting Setup** link.
 
@@ -313,9 +299,7 @@ Complete the Tax Posting Setup.
 
       7.  In the Sales Tax Account field, enter 61850.
 
-### Task 4 
-
-Create a Product Posting Group.
+### Task 4: Create a Product Posting Group.
 
   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Product Posting Groups**, and click the **General Product Posting Groups** link.
   
@@ -327,9 +311,7 @@ Create a Product Posting Group.
 
   4.  In the **Def. VAT Prod. Posting Group** field, enter G15.
 
-### Task 5
-
-Create a Business Posting Group
+### Task 5: Create a Business Posting Group
 
   1. At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Gen. Business Posting Groups**, and click the **Gen. Business Posting Groups** link.
   
@@ -349,9 +331,7 @@ Create a Business Posting Group
 
   8.  Leave the **Def. VAT Bus. Posting Group** field blank.
 
-### Task 6
-
-Complete the General Posting Setup.
+### Task 6: Complete the General Posting Setup.
 
   1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Posting Setup**, and click the **General Posting Setup** link.
   
