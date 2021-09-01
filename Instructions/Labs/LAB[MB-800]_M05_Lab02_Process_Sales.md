@@ -252,7 +252,7 @@ January.
 
 ### Task 1: Create several sales orders and shipments.
 
-2.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
 
 3.  On the **Customers** list page, select the generic EU customer.
 
@@ -376,7 +376,7 @@ January.
 
 ### Task 2: Use the Combine Shipments function to create sales invoices.
 
-31. At the top of the page, click the search icon in the black bar on the right. Then type **Combine Shipments** and click the **Combine Shipments** link.
+1. At the top of the page, click the search icon in the black bar on the right. Then type **Combine Shipments** and click the **Combine Shipments** link.
 
 32. Open the **Combine Shipments** task.
 
@@ -408,7 +408,7 @@ this item.
 
 ### Task 1: Correct a posted sales invoice
 
-2.  At the top of the page, click the search icon in the black bar on the right. Then type **Posted Sales Invoices** and click the **Posted Sales Invoices** link.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Posted Sales Invoices** and click the **Posted Sales Invoices** link.
 
 3.  On the **Posted Sales Invoices** list page, select the invoice for customer Francematic.
 
