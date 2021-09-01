@@ -162,9 +162,9 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
 1. At the top of the page, click the search icon in the black bar on the right. Then type **Sales People/Purchasers** and click the **Sales People/Purchasers** link.
 
 2.   On the **Sales People/Purchasers** list page, select sales person
-        Annette Hill.
+        Jim Olive.
 
-2.  Select **Salesperson** and then select **Dimensions**.
+2.  Select **Salesperson** and then select **Dimensions-Single**.
 
 3.  On the opened **Default Dimensions** page, select **+ New**.
 
@@ -172,30 +172,30 @@ Also don’t forget to assign the SALESPERSON dimension to each sales person.
 
     1.  In the **Dimension Code** field, enter SALESPERSON
 
-    2.  In the **Dimension Value Code** field, enter AH
+    2.  In the **Dimension Value Code** field, enter JO
 
     3.  In the **Value Posting** field, select the **Same Code** option.
 
     4.  Close the page.
 
-5.  Repeat steps a. to d. for salespeople John Roberts and Peter Saddow.
+5.  Repeat steps a. to d. for salespeople Line Townsend and Otis Falls.
         *(Remark: you also repeat the steps for the other salespeople, but this
         is not required for further exercises.)*
 
 6.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
 
-7.  On the **Customers** list page, select customer Spotsmeyer’s Furnishings
-        (C00010)
+7.  On the **Customers** list page, select customer Trey Research
+        (20000)
 
 7.  To open the customer card, select **Manage** and then select **Edit**.
 
-8.  On the **General** FastTab, in the **Salesperson Code** field, enter AH
+8.  On the **General** FastTab, in the **Salesperson Code** field, enter JO
 
 9.  Go to the next customer card for customer Progressive Home Furnishings.
 
-10. On the **General** FastTab, in the **Salesperson Code** field, enter JR
+10. On the **General** FastTab, click **Show more**, and in the **Salesperson Code** field, enter JR
 
-11. Go to the next customer card for customer New Concepts Furniture.
+11. Go to the next customer card for customer School of Fine Art.
 
 12. On the **General** FastTab, in the **Salesperson Code** field, enter PS
 
@@ -301,11 +301,6 @@ You have to set up this sales price structure as provided by Contoso.
 
     3.  Leave the **Allow Line Disc.** checkbox selected.
 
-4.  Repeat steps d. to f. to assign the DOMESTIC customer price group to the
-        customers C00010, C00020 and C00030 , and the SMALL customer discount
-        group to customer C00010, the MEDIUM customer discount group to customer
-        C00020 and the LARGE customer discount group to customer C00030.
-
 ### Task 4: Set up and assign item discount groups
 
 1. At the top of the page, click the search icon in the black bar on the right. Then type **Item Discount Groups** and click the **Item Discount Groups** link.
@@ -321,15 +316,15 @@ You have to set up this sales price structure as provided by Contoso.
 3.  Repeat step a. and b. to create an item discount group for MONITOR and
        ACCESSORIES
 
-4.  On the **Items** list page, select the 15” Flat panel (CHW1002)
+4.  At the top of the page, click the search icon in the black bar on the right. Then type **Items** and click the **Items** link.
 
-5.  Go to the **Invoicing** FastTab, in the **Item Disc. Group** field,
+5.    On the **Items** list page, select the 15” Flat panel (CHW1002)
+
+5.  To open the item card, select **Manage** and then select **Edit**.
+
+6.  Go to the **Price & Sales** FastTab, in the **Item Disc. Group** field,
        enter MONITOR.
 
-6.  On the **Items** list page, select the 15” Flat panel (CHW1002)
-
-7.  Go to the **Invoicing** FastTab, in the **Item Disc. Group** field,
-        enter MONITOR.
 
 ### Task 5: Configure sales prices
 
@@ -339,8 +334,8 @@ You have to set up this sales price structure as provided by Contoso.
 
 2.  To open the item card, select **Manage** and then select **Edit**.
 
-3.  On the opened item card, select **Special Sales Prices & Discounts** and
-       then select **Set Sales Prices**.
+3.  On the opened item card, select **Prices & Discounts** and
+       then select **Sales Prices**.
 
 4.  On the **Sales Prices** page, create a new line as follows:
 
@@ -378,8 +373,8 @@ You have to set up this sales price structure as provided by Contoso.
 
 9.  To open the item card, select **Manage** and then select **Edit**.
 
-10. On the opened item card, select **Special Sales Prices & Discounts** and
-       then select **Set Sales Prices**.
+10. On the opened item card, select **Sales Prices & Discounts** and
+       then select **Sales Prices**.
 
 11. On the **Sales Prices** page, create a new line as follows:
 
@@ -413,7 +408,7 @@ You have to set up this sales price structure as provided by Contoso.
 
 1.  At the top of the page, click the search icon in the black bar on the right. Then type **Item Discount Groups** and click the **Item Discount Groups** link.
 
-2.  On the **Item Discount Groups** page, select **Sales Lines Discounts**.
+2.  On the **Item Discount Groups** page, select **Prices & Discounts** and then select **Sales Lines Discounts**.
 
 2.  Remove the value in the **Code Filter** filter.
 
@@ -461,9 +456,9 @@ You have to set up this sales price structure as provided by Contoso.
 
 2.  On the **Customers** list page, select the web shop customer (CWEB0001)
 
-2.  To open the customer card, select **Manage** and then select **Edit**.
+2.  To open the customer card,select **Manage** and then select **Edit**.
 
-3.  Select **Related**, then select **Prices and Discounts** and then select
+3.  Select  **More options**, then select **Related**, then select **Prices and Discounts** and then select
        **Invoice Discounts**.
 
 4.  On a new line, fill in the following fields.
