@@ -37,27 +37,39 @@ balance to be posted on December 31st, 2020.
 
 1.  First make sure your work date is set to 31/12/2020.
 
+2.  At the top of the page, click the search icon in the black bar on the right. Then type **General Journals** and click the **General Journals** link.
+
 2.  On the general journals list page, select the OPENING journal.
 
 3.  Open the assist edit button to the right of the **Batch Name** field.
 
-    1.  Select the BALANCE journal batch.
+    1.  Click the **+ New** button. Enter the following information
+        
+        2. In the **Name** field, enter 'Balance'
+        
+        3. In the **Description** field, enter 'Balance Journal'
+    
+    2.  Select the BALANCE journal batch.
 
     2.  Click **OK**.
 
-    4.  Select **Actions**, then select **Opening Balance**, then select
+    4.  Select **More actions**, then **Actions**, then select **Opening Balance**, then select
         **Prepare journal** and then select **G/L Accounts Opening Balance**.
 
     5.  The journal lines are automatically filled in for all balance accounts.
+    
+    6.  Click **OK**.
 
 ### Task 2: Create and export a configuration package including dimension information.
 
-1.  In the **Configuration Packages** page, click **New** to create a new
+1. At the top of the page, click the search icon in the black bar on the right. Then type **Configuration Packages** and click the **Configuration Packages** link.
+
+2.   In the **Configuration Packages** page, click **+ New** to create a new
         configuration package.
 
 2.  In the **Code** field, enter OPENING.
 
-3.  In the **Package Name** field, enter Opening Balances.
+3.  In the **Package Name** field, enter 'Opening Balances'.
 
 4.  On the **Tables** section of the Config. Package Card, enter a new line
         as follows.
@@ -69,15 +81,13 @@ balance to be posted on December 31st, 2020.
 
 7.  Then press ENTER or TAB.
 
-8.  You will be asked to check related tables, click **No**.
-
 9.  Make sure the general journal line table line is selected.
 
 10. Select the **Dimensions as Columns** checkbox.
 
 11. Select the **Delete Table Records Before Processing** checkbox.
 
-12. Select **Table** and then **Fields**.
+12. Select **More options**, select **Table** and then **Fields**.
 
 13. On the field list page, first select **Clear Included**, to deselect the
        **Include Field** checkbox for all the fields.
@@ -110,7 +120,7 @@ balance to be posted on December 31st, 2020.
 
 16. Click **Close**.
 
-17. In the **Config. Package Card** page, select **Actions**, then
+17. In the **Config. Package Card** page, select **More options**, then **Actions**, then
         **Package**, and then **Export to Excel**.
 
 18. Click **Yes** to export the configuration package.
@@ -128,7 +138,9 @@ balance to be posted on December 31st, 2020.
 
 ### Task 4: Import and apply the configuration package.
 
-1.  In the **Configuration Packages** page, select the new configuration
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Configuration Packages** and click the **Configuration Packages** link.
+
+2.   In the **Configuration Packages** page, select the new configuration
         package for opening balances and select **Manage** and then **Edit**.
 
 2.  In the **Config. Package Card** page, select **Actions**, then select
@@ -147,10 +159,15 @@ balance to be posted on December 31st, 2020.
 
 ### Task 5: Post the general journal.
 
-1.  Make sure the **Allow Posting From** field, on the **General Ledger
+1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **General Ledger
+        Setup**, and click the **General Ledger Setup** link.
+
+2.  Make sure the **Allow Posting From** field, on the **General Ledger
         Setup** page, is set to 12/31/2020.
 
-2.  On the general journals list page, select the OPENING journal.
+2. At the top of the page, click the search icon in the black bar on the right. Then type **General Journals** and click the **General Journals** link.
+
+3.   On the general journals list page, select the OPENING journal.
 
 3.  Open the assist edit button to the right of the **Batch Name** field.
 
@@ -189,7 +206,9 @@ these opening ledger entries)*
 
 ### Task 1: Import and apply a predefined package containing historical data (customer and vendor open entries).
 
-1.  On the **Configuration Packages** page, select **Process** and then
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Configuration Packages** and click the **Configuration Packages** link.
+
+2.   On the **Configuration Packages** page, select **Process** and then
         select **Import Package**.
 
 2.  Click **Choose…** and select the RapidStart package for Lab 5.3.
@@ -205,7 +224,9 @@ these opening ledger entries)*
 
 ### Task 2: Post the general journal.
 
-1.  On the general journals list page, select the OPENING journal.
+1. At the top of the page, click the search icon in the black bar on the right. Then type **General Journals** and click the **General Journals** link.
+
+2.   On the general journals list page, select the OPENING journal.
 
 2.  Open the assist edit button to the right of the **Batch Name** field.
 
@@ -256,14 +277,16 @@ using the EUROP payment journal, with a new batch PAY1.
 
 ### Task 1: Create a vendor bank account.
 
-1.  On the **Vendors** list page, select vendor PURE-LOOK.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Vendors** and click the **Vendors** link.
+
+2.  On the **Vendors** list page, select vendor PURE-LOOK.
 
 2.  Select **Manage** and then select **Edit**.
 
 3.  On the vendor card, go to the **Invoicing** Fast Tab.
 
 4.  In the **Preferred Bank Account Code** field, click on the Look Up Value
-        button and click **New**.
+        button and click **+ New**.
 
 5.  On the opened vendor bank account card, fill in the following fields:
 
@@ -292,11 +315,13 @@ using the EUROP payment journal, with a new batch PAY1.
 
 ### Task 2: Suggest vendor payments.
 
-1.  On the payment journals list page, select the EUROP journal.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Payments Journals** and click the **Payments Journals** link.
+
+2.  On the payment journals list page, select the EUROP journal.
 
 2.  Open the assist edit button to the right of the **Batch Name** field.
 
-3.  On the opened **General Journal Batches** page, click **New** and fill
+3.  On the opened **General Journal Batches** page, click **+ New** and fill
         in the following fields:
 
     1.  In the **Name** field, enter PAY1.
@@ -333,9 +358,9 @@ using the EUROP payment journal, with a new batch PAY1.
 
 ### Task 3: Process payment journals.
 
-    1.  Select **Bank**, and then select **Export**.
+1.  Select **Bank**, and then select **Export**.
 
-    2.  Select **Post/Print**, and then select **Post**.
+2.  Select **Post/Print**, and then select **Post**.
 
 ## Exercise 4: Process customer payments
 
@@ -365,7 +390,9 @@ invoices.
 
 ### Task 1: Review payment registration setup.
 
-1.  On the **Payment Registration Setup** page, make sure following fields
+1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Payment Registration Setup**, and click the **Payment Registration Setup** link.
+
+2.  On the **Payment Registration Setup** page, make sure following fields
         are entered.
 
     1.  In the **Journal Template Name** field, enter CASHRCPT.
