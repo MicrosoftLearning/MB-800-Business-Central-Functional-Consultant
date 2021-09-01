@@ -272,7 +272,7 @@ January.
 
      2.  On the opened **Ship-to Address** List page, select PICK-UP-DK and click **OK**.
 
-     3.  Select the **Combine Shipments** checkbox.
+     3.  Click **SHow more**, and select the **Combine Shipments** checkbox.
 
 7.  On the **Lines** section, enter a new line by filling in the following fields:
 
@@ -376,7 +376,9 @@ January.
 
 ### Task 2: Use the Combine Shipments function to create sales invoices.
 
-31. Open the **Combine Shipments** task.
+31. At the top of the page, click the search icon in the black bar on the right. Then type **Combine Shipments** and click the **Combine Shipments** link.
+
+32. Open the **Combine Shipments** task.
 
 32. In the **Posting Date** and **Document Date** field, enter 1/31/2021.
 
@@ -412,9 +414,13 @@ this item.
 
 4.  Select **Correct** and then select **Create Corrective Credit Memo**.
 
-5.  On the opened sales credit memo, on the **General** FastTab, in the **Posting Date** field, enter 1/31/20201.
+5.  On the opened sales credit memo, on the **General** FastTab, in the **Posting Date** field, enter 1/31/2021.
 
-6.  On the **Lines** section, delete the line for the 15” flat panels.
+6.  On the **Lines** section, select the the line for the 15” flat panels.
+
+7.  Click **Manage**, and then select **Delete Line**.
+
+8.  Click **Yes** to confirm the line deletion.
 
 7.  On the **Lines** section, select the line for the 17” monitors.
 
