@@ -55,9 +55,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 5.  Create a posted sales invoice from the sales order.
 
-### Steps
-
-1.  Create a contact.
+### Task 1: Create a contact.
 
 2.  At the top of the page, click the search icon in the black bar on the right. Then type **Contacts** and click the **Contacts** link.
 
@@ -81,7 +79,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 6.  On the **Foreign Trade** FastTab, leave the **Currency Code** field blank.
 
-7.  Create a sales quote for a contact.
+### Task 2: Create a sales quote for a contact.
 
 8.  On the **Contacts** list page, select the new contact Francematic.
 
@@ -165,7 +163,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
      7.  In the **Line Discount %** field, the value ‘6’ is automatically filled in.
 
-18. Process the quote into an order.
+### Task 3: Process the quote into an order.
 
 19. On the **Sales Quote** card page, change the **Order Date** field to
     1/22/2021.
@@ -180,7 +178,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 24. Click **Yes** to open the sales order.
 
-25. Partially ship items from the order.
+### Task 4: Partially ship items from the order.
 
 26. On the **Sales Order** card page, on the **General** FastTab, in the
     **Posting Date** field, enter 1/25/2021.
@@ -201,7 +199,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 33. Select the **Ship** option and click **OK**.
 
-34. Create a posted sales invoice from the sales order.
+### Task 5: Create a posted sales invoice from the sales order.
 
 35. On the **Sales Order** card page, on the **General** FastTab, in the
     **Posting Date** field, enter 1/28/2021.
@@ -252,9 +250,7 @@ January.
 
 2.  Use the Combine Shipments function to create sales invoices.
 
-### Steps
-
-1.  Create several sales orders and shipments.
+### Task 1: Create several sales orders and shipments.
 
 2.  At the top of the page, click the search icon in the black bar on the right. Then type **Customers** and click the **Customers** link.
 
@@ -378,7 +374,7 @@ January.
 
 29. Close the **Sales Order** page.
 
-30. Use the Combine Shipments function to create sales invoices.
+### Task 2: Use the Combine Shipments function to create sales invoices.
 
 31. Open the **Combine Shipments** task.
 
@@ -408,9 +404,7 @@ this item.
 
 1.  Correct a posted sales invoice
 
-### Steps
-
-1.  Correct a posted sales invoice
+### Task 1: Correct a posted sales invoice
 
 2.  At the top of the page, click the search icon in the black bar on the right. Then type **Posted Sales Invoices** and click the **Posted Sales Invoices** link.
 
