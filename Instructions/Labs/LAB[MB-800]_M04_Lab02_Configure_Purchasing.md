@@ -303,8 +303,8 @@ be processed per department, as follows:
 
 -   40% of the cost is for the production department.
 
-You need to set up the recurring purchase lines for vendor OakvilleWorld
-(V9007), so that these lines are automatically filled in when creating a new
+You need to set up the recurring purchase lines for vendor Cronus Cardoxy Sales
+(V9002), so that these lines are automatically filled in when creating a new
 purchase invoice.
 
 ### Tasks
@@ -316,7 +316,7 @@ purchase invoice.
 
 1.  At the top of the page, click the search icon in the black bar on the right. Then type **Vendors** and click the **Vendors** link.
 
-2.  In the **Vendors List** page, select vendor Oakville World (V9007).
+2.  In the **Vendors List** page, select vendor Cronus Cardoxy Sales (V9002).
 
 3.  Select **Related**, then **Purchases** and then select **Recurring
     Purchase Lines**.
