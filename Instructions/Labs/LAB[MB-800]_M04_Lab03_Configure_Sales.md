@@ -456,7 +456,7 @@ You have to set up this sales price structure as provided by Contoso.
 
 2.  On the **Customers** list page, select the web shop customer (CWEB0001)
 
-2.  To open the customer card,select **Manage** and then select **Edit**.
+2.  To open the customer card, select **Manage** and then select **Edit**.
 
 3.  Select  **More options**, then select **Related**, then select **Prices and Discounts** and then select
        **Invoice Discounts**.
