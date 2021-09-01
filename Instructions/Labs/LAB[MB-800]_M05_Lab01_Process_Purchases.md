@@ -49,11 +49,13 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 ### Task 1: Change the currency code on the vendor.
 
-1.  On the **Vendors** list page, select vendor Cronus Cardoxy Sales
+1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Vendors**, and click the **Vendors** link.
+
+2.  On the **Vendors** list page, select vendor Cronus Cardoxy Sales
 
 2.  Select **Manage** and then select **Edit**.
 
-3.  On the opened vendor card, go to the **Invoicing** FastTab, and in the
+3.  On the opened vendor card, go to the **Invoicing** FastTab, click **Show more**, and in the
         **Currency Code** field remove the value DKK and leave the field blank.
 
 ### Task 2: Create a purchase order.
@@ -63,7 +65,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 2.  On the **General** FastTab, fill in the following fields:
 
-    1.  In the **Document Date** and **Order Date** fields, enter 1/14/2021.
+    1.  Click **Show more**, and in the **Document Date** and **Order Date** fields, enter 1/14/2021.
 
     2.  In the **Alternate Vendor Address Code** field, enter COMP&MON.
 
@@ -108,8 +110,8 @@ the delivery delay. The invoice needs to be paid within 30 days.
     5.  In the **Quantity** field, enter ‘5’.
 
     6.  In the **Direct Unit Cost Excl. Tax** field, enter ‘5,348.56’.
-
-    6.  Select **Release**.
+    
+    6.  Click **Release** on the menu bar, and select **Release**.
 
 ### Task 3: Receive items on the purchase order.
 
