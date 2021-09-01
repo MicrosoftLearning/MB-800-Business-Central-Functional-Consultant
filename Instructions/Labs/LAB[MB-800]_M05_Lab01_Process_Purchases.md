@@ -111,7 +111,15 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
     6.  In the **Direct Unit Cost Excl. Tax** field, enter ‘5,348.56’.
     
-    6.  Click **Release** on the menu bar, and select **Release**.
+    6.  Click **Release** on the menu bar, and select **Release**. Click **OK** in the message that comes up
+    
+    7.  Click **Request Approval**, then select **Send Approval Request**.
+    
+    8.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Approvals**, and click the **Approvals** link.
+    
+    9.  Confirm that the purchase order that you just entered is showed a status of 'Approved'. If it isn't, wait a few seconds, then refresh the page.
+
+    11.  Click the **Record** button to go to the purchase order record.
 
 ### Task 3: Receive items on the purchase order.
 
@@ -150,11 +158,6 @@ the delivery delay. The invoice needs to be paid within 30 days.
 3.  On the **Invoice Details** FastTab, in the **Payment Terms Code** field,
         enter ’30 DAYS’.
 
-4.  On the **Lines** section, select the line for item CHW1002, and fill in
-        the following fields:
-
-    1.  In the **Line Discount%** field, enter ‘5’.
-
 5.  Select **Posting**, and then select **Post**.
 
 6.  Select the **Invoice** option, and click **OK**.
@@ -166,7 +169,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 2.  In the page, select the posted purchase receipt.
 
-3.  Select **Actions**, and then select **Find Entries**.
+3.  Select **More options**, then **Actions**, and then select **Find Entries**.
 
 4.  Select the line for **Item Ledger Entry** and select **Show Related
         Entries**.
@@ -214,7 +217,9 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 
 ### Task 1: Create a purchase return order.
 
-1.  In the **Purchase Return Orders** list page, select **New**.
+1.  At the top of the main Business Center page, click the search icon in the black bar on the right. Then type **Purchase Return Orders**, and click the **Purchase Return Orders** link.
+
+2.  In the **Purchase Return Orders** list page, select **+ New**.
 
 2.  On the **General** FastTab, fill in the following fields:
 
@@ -230,7 +235,7 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 
 5.  In the opened page, fill in the following options:
 
-    1.  Select the **Show Reversible Lines Only** checkbox
+    1.  Select the **Show Reversible Lines Only** checkbox to enable it
 
     2.  In the **Document Type Filter** field, enter the **Posted Invoices**
             option.
@@ -242,13 +247,13 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 6.  On the **Lines** section on the purchase return order, change the
         **Quantity** field to the value ‘1’.
 
-7.  Select **Release**.
+7.  Select **Release**, and then select **Release**
 
 ### Task 2: Ship the items.
 
 1.  On the **General** FastTab, fill in the following fields:
 
-    1.  In the **Posting Date** field, enter 1/31/2021.
+    1.  Click **Show more**, then in the **Posting Date** field, enter 1/31/2021.
 
     2.  In the **Vendor Cr. Memo No.** field, enter ‘20-CN0747’.
 
@@ -292,7 +297,9 @@ You need to process the invoice.
 
 ### Task 1: Process a purchase invoice using recurring purchase lines
 
-1.  In the **Purchase Invoices** list page, select **New**.
+1.  At the top of the page, click the search icon in the black bar on the right. Then type **Purchase Invoices** and click the **Purchase Invoices** link.
+
+2.  In the **Purchase Invoices** list page, select **+ New**.
 
 2.  On the **General** FastTab, fill in the following fields:
 
@@ -305,7 +312,11 @@ You need to process the invoice.
 3.  On the **Invoice Details** FastTab, in the **Payment Terms Code** field
        enter ‘15 DAYS’.
 
-4.  On the **Lines** section, the invoice lines for the health insurance per
+4. Click **Actions**, select **Functions**, then select **Get Recurring Purchase Lines**
+
+5.  Select the 'Insurance' record row, and click **OK**.
+
+5.    On the **Lines** section, the invoice lines for the health insurance per
         department are automatically filled in.
 
 5.  Select **Posting** and then select **Post**.
