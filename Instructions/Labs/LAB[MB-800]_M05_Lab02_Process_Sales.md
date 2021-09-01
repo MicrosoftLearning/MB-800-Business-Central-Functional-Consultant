@@ -81,7 +81,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 ### Task 2: Create a sales quote for a contact.
 
-8.  On the **Contacts** list page, select the new contact Francematic.
+1.  On the **Contacts** list page, select the new contact Francematic.
 
 9.  Select **Process** and then select **Create Sales Quote**.
 
@@ -123,13 +123,13 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 14. A new sales quote is created.
 
-15. In the **General** FastTab, fill in the following fields:
+15. In the **General** FastTab, fill in the following fields (you may need to click **Show more**:
 
      1.  In the **Order Date** and **Document Date** field, enter 1/15/2021.
 
      2.  In the **Quote Valid To Date** field, enter 1/25/2021.
 
-     3.  In the **Salesperson Code** field, enter DC.
+     3.  In the **Salesperson Code** field, enter JO.
 
 16. On the **Lines** section, enter a new line by filling in the following fields:
 
@@ -165,8 +165,8 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 ### Task 3: Process the quote into an order.
 
-19. On the **Sales Quote** card page, change the **Order Date** field to
-    1/22/2021.
+1. On the **Sales Quote** card page, change the **Order Date** field to
+    1/22/2021. Click **OK**.
 
 20. Select **Process** and then select **Make Order**.
 
@@ -180,7 +180,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 ### Task 4: Partially ship items from the order.
 
-26. On the **Sales Order** card page, on the **General** FastTab, in the
+1. On the **Sales Order** card page, on the **General** FastTab, in the
     **Posting Date** field, enter 1/25/2021.
 
 27. On the **Lines** FastTab, select the line for the 17” monitors.
@@ -201,7 +201,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 
 ### Task 5: Create a posted sales invoice from the sales order.
 
-35. On the **Sales Order** card page, on the **General** FastTab, in the
+1. On the **Sales Order** card page, on the **General** FastTab, in the
     **Posting Date** field, enter 1/28/2021.
 
 36. Select **Posting** and then select **Post**.
@@ -213,7 +213,7 @@ On January 28th, 2021, the sales invoice is created and send to the customer.
 39. In the **Posted Sales Invoices** list page, select the invoice for
     customer Francematic.
 
-40. Select **Actions** and then select **Find entries**.
+40. Select **More options**, select **Actions** and then select **Find entries**.
 
 41. Select the line for G/L entries sand select **Show Related Entries**.
 
