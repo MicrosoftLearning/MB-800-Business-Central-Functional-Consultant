@@ -39,6 +39,6 @@ Exercise 1 - Access the Dynamics 365 application
 
 1.  Expand the grid button at the top left of the screen, directly to the left of **Power Platform admin center.** Select **Dynamics 365.**
 
-2.  Under **My apps**, select **Business Central**
+2.  Select **Business Central**
 
 3.  Spend a few minutes exploring the application.
