@@ -1,7 +1,7 @@
 ---
 lab:
-    title: 'Lab: Set up dimensions'
-    module: 'Module 2: Application Setup'
+    title: 'Lab: Set up Finance Maanagement'
+    module: 'Module 3: Configure Financials'
 ---
 
 ## Exercise 1: Set up a dimension with dimension values
