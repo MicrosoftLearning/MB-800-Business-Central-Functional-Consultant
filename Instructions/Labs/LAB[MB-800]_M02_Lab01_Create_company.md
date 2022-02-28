@@ -121,7 +121,7 @@ You will start by copying the following data from the default CRONUS company:
     8.  Search for ‘ZIP Code’, select table 225 and click **OK** to enter the ID
         in the **Table ID** field.
 
-    9.  Repeat steps e. to h. to enter table 10 Shipment Method.
+    9. Repeat steps e. to h. to enter another new line with type **Table** and ID **10 Shipment Method**.
 
 2.  Copy data from another database company.
 
