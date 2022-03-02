@@ -362,7 +362,7 @@ are filled in and that the following requirements are met:
 The following list of domestic customers is returned to you by Contoso’s super
 user.
 
-![](media/2a7b700da7f90314e6a5766ec1e41a29.png)
+![](media/lab3_6_domestic_customers.png)
 
 ### Tasks
 
