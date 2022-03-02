@@ -39,7 +39,7 @@ entire fiscal year.
 
 2.  Create accounting periods in bulk.
 
-    1.  In the **Accounting Periods** page, select **Actions** and then select
+    1.  In the **Accounting Periods** page, select **More Options**, then select **Actions** and then select
         **Create Year**.
 
     2.  On the window that opens, fill in the following options:
