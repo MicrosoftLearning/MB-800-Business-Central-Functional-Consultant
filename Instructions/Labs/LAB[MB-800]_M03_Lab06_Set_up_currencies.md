@@ -118,7 +118,7 @@ used and a separate lab for updating the currency exchange rate is created.*
 
     5.  In the **Currencies** page, select the Canadian dollar currency.
 
-    6.  Select **Actions**, and then select **Exch. Rates**.
+    6. Select **More options**, select **Actions**, and then select **Exch. Rates**.
 
     7.  In the opened **Currency Exchange Rates** page, select **New** and fill
         in the following fields:
