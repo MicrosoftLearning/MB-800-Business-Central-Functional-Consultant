@@ -260,7 +260,7 @@ created for the monitors.
 
         5.  In the **Line Discount %** field, enter ‘3’.
 
-    5.  On the **Sales Discounts** page, create a new line as follows:
+    5. On the **Sales Line Discounts** page, create a new line as follows:
 
         1.  In the **Sales Type** field enter Customer Disc. Group.
 
@@ -272,7 +272,7 @@ created for the monitors.
 
         5.  In the **Line Discount %** field, enter ‘6’.
 
-    6.  On the **Sales Discounts** page, create a new line as follows:
+    6. On the **Sales Line Discounts** page, create a new line as follows:
 
         1.  In the **Sales Type** field enter Customer Disc. Group.
 
