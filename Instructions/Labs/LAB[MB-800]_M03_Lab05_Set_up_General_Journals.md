@@ -60,7 +60,7 @@ You also want to avoid any tax postings while entering the opening g/l balances.
     1.  In the **General Journal Templates** page, make sure the OPENING journal
         is selected.
 
-    2.  Select **Related**, then select **Template** and then select
+    2.  Select **More options**, then **Related**, then select **Template** and then select
         **Batches**.
 
     3.  In the opened **General Journal Batches** page, select **New**.
