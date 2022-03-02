@@ -43,7 +43,7 @@ IBAN: BE13 3200 0461 4139 – BIC: BBRUBEBB
             2.  In the **Name** filed, enter ‘European bank’
 
         2.  On the **Posting** FastTab, in the **Currency Code** field, enter
-            EUR.
+            **EUR**.
 
         3.  On the **Transfer** FastTab:
 
