@@ -357,7 +357,7 @@ Then you can manually enter the computer hardware items, using item templates.
 
         1.  In the **Description** field, enter ‘Computer III 600 MHz’.
 
-        2.  In the **Item Category Code** field, enter ‘COMPUTER’.
+        2. In the **Item Category Code** field, enter ‘COMPHW’.
 
         3.  The **Base Unit of Measure** field, is filled in with the default
             value PCS.
