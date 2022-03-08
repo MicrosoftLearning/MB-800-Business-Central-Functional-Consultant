@@ -105,7 +105,7 @@ exercise 4 needs to be completed*
 
         2.  One for the unrealized gain.
 
-![Afbeelding met tafel Automatisch gegenereerde beschrijving](media/722fea6184a56a28d6ed4f6e520d3876.png)
+![](media/MB800_2021_Lab 5.5_detailed_customer_ledger_entries.png)
 
 1.  Close the **Detailed Ledger Entries** page.
 
