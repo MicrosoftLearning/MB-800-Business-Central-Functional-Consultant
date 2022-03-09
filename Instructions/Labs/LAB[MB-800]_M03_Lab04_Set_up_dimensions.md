@@ -19,7 +19,7 @@ on the sales transactions.
 From the general ledger they would like to analyze their sales by sales person
 and customer group, using the following pivot-table:
 
-![](media/MB800_2021_Lab 3.4_pivot_table.png)
+![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%203.4_pivot_table.png)
 
 They want to see both the income and the granted discounts for each sales
 person.
