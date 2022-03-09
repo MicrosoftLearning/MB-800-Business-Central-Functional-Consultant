@@ -62,7 +62,7 @@ containing dimension information.
 The accounting manager at Contoso has provided you with the following opening
 balance to be posted on December 31st, 2021.
 
-![](media/MB800_2021_Lab 5.4_opening_general_journal_balance.png)
+![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%205.4_opening_general_journal_balance.png)
 
 ### Tasks
 
@@ -215,7 +215,7 @@ vendor ledger entries.
 You receive the configuration package, that you can import into the correct
 general journals, review and post.
 
-![](media/MB800_2021_Lab 5.4_opening_general_journal_customer_vendor_ledger_entries.png)
+![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%205.4_opening_general_journal_customer_vendor_ledger_entries.png)
 
 *(Remark: if you do not have the configuration package for this lab, you can use
 the configuration package from exercise 1 and use the excel sheet to import
