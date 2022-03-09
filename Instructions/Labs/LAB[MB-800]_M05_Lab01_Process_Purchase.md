@@ -284,7 +284,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
     4.  Select the line for **Item Ledger Entry** and select **Show Related
         Entries**.
 
-![Afbeelding met tafel Automatisch gegenereerde beschrijving](media/9041487a73d85b0488a1b033d4c81917.png)
+![Afbeelding met tafel Automatisch gegenereerde beschrijving](media/lab5_2_general_ledger_entries.png)
 
 1.  Close the **Item Ledger Entries** page, the **Find Entries** page and the
     **Posted Purchase Receipts** page.
