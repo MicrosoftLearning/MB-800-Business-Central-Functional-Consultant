@@ -30,7 +30,7 @@ to the g/l accounts 60700 until 61100, where it is obligated to indicate a
 specific department each time an expense is made. These departments will be
 setup as a dimension, which will be done later on.
 
-![](media/MB800_2021_Lab 3.2_chart_of_accounts.png)
+![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%203.2_chart_of_accounts.png)
 
 Your first job is to make sure the g/l accounts are created correctly.
 
