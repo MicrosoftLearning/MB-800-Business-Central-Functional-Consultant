@@ -105,7 +105,7 @@ exercise 4 needs to be completed*
 
         2.  One for the unrealized gain.
 
-![](media/MB800_2021_Lab 5.5_detailed_customer_ledger_entries.png)
+![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%205.5_detailed_customer_ledger_entries.png)
 
 1.  Close the **Detailed Ledger Entries** page.
 
