@@ -242,8 +242,7 @@ these opening ledger entries)*
 
     4.  In the preview page, select **Import**.
 
-    5.  In the **Config. Package Card** page, select **Actions**, then select
-        **Functions** and then **Apply Package**.
+    5. In the **Config. Package Card** page, select **Apply Package**.
 
     6.  Click **Yes**.
 
