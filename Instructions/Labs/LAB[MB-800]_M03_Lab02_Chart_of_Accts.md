@@ -121,8 +121,6 @@ Code with the NONTAXABLE value. This is due to the use of a US-database.*
 
         7.  Close the **G/L Account Card** page.
 
-    10. Repeat steps h and i for the account ‘20175’.
-
     11. In the **Chart of Accounts** page, select **New**.
 
     12. In the new general ledger account card, fill in the following fields:
