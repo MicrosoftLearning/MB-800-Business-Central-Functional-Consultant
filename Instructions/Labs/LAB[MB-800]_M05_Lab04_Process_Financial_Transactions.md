@@ -233,8 +233,7 @@ these opening ledger entries)*
 1.  Import and apply a predefined package containing historical data (customer
     and vendor open entries).
 
-    1.  On the **Configuation Packages** page, select **Process** and then
-        select **Import Package**.
+    1. On the **Configuation Packages** page, select **Import Package**.
 
     2.  Click **Choose…** and select the rapidstart package for Lab 5.3.
 
