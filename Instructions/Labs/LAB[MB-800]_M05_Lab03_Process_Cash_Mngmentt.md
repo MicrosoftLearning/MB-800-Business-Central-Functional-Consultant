@@ -341,17 +341,9 @@ On January 28th, 2022, the sales invoice is created and send to the customer.
 
     2.  Select **Process** and then select **Create Sales Quote**.
 
-    3.  Click **Yes** for selecting a customer template.
+    3.  A new sales quote is created.
 
-    4.  In the opened **Select a template for a new customer** page, select the
-        template for EU customers.
-
-    5.  Click **OK** to apply the new customer template card and create a new
-        sales quote.
-
-    6.  A new sales quote is created.
-
-    7.  In the **General** FastTab, fill in the following fields:
+    4.  In the **General** FastTab, fill in the following fields:
 
         1.  In the **Order Date** and **Document Date** field, enter 1/15/2022.
 
@@ -359,7 +351,7 @@ On January 28th, 2022, the sales invoice is created and send to the customer.
 
         3.  In the **Salesperson Code** field, enter DC.
 
-    8.  On the **Lines** section, enter a new line by filling in the following
+    5.  On the **Lines** section, enter a new line by filling in the following
         fields:
 
         1.  In the **Type** field, enter **Item**.
@@ -378,7 +370,7 @@ On January 28th, 2022, the sales invoice is created and send to the customer.
         7.  In the **Line Discount %** field, the value ‘6’ is automatically
             filled in.
 
-    9.  On the **Lines** section, enter a new line by filling in the following
+    6.  On the **Lines** section, enter a new line by filling in the following
         fields:
 
         1.  In the **Type** field, enter **Item**.
