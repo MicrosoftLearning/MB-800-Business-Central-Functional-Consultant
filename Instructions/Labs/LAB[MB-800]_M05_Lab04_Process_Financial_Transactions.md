@@ -440,15 +440,7 @@ invoices.
     1.  Click on the **Payment Registrations** task, to open the **Register
         Customer Payments** page.
 
-    2.  Select **Settings**, and then select **Personalize**.
-
-        1.  Select **+ Field**.
-
-        2.  Place the **Document No.** field on the page.
-
-        3.  Click **Done**.
-
-    3.  Select the line for document S21/12/0976.
+    2.  Select the line for document S21/12/0976.
 
         1.  Select the **Payment Made** field.
 
@@ -457,7 +449,7 @@ invoices.
         3.  The **Amount Received** field is automatically filled in with
             1,087.12.
 
-    4.  Select the line for document S21/12/1576.
+    3.  Select the line for document S21/12/1576.
 
         1.  Select the **Payment Made** field.
 
@@ -466,7 +458,7 @@ invoices.
         3.  The **Amount Received** field is automatically filled in with
             2,687.68.
 
-    5.  Select the line for document S21/12/2676.
+    4.  Select the line for document S21/12/2676.
 
         1.  Select the **Payment Made** field.
 
@@ -474,6 +466,6 @@ invoices.
 
         3.  In the **Amount Received** field, enter 3,000.00.
 
-    6.  Select **Posting**, and then select **Post as Lump Payment**.
+    5.  Select **Posting**, and then select **Post as Lump Payment**.
 
-    7.  Click **Yes**.
+    6.  Click **Yes**.
