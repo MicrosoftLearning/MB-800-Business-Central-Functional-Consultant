@@ -130,12 +130,9 @@ SALESPEOPLE dimension to each sales person.
 
     9.  Close the ship-to address card.
 
-    10. In the customer card, select **Related**, then select **Customer** and
-        then **Ship-to Addresses**.
+    10. In the opened **Ship-to Address** List page, select **New**.
 
-    11. In the opened **Ship-to Address** List page, select **New**.
-
-    12. In the opened ship-to addresses card, fill in the following fields:
+    11. In the opened ship-to addresses card, fill in the following fields:
 
         1.  In the **Code** field, enter PICK-UP FR
 
@@ -154,9 +151,9 @@ SALESPEOPLE dimension to each sales person.
 
         7.  In the **Contact** field, enter ‘M. Jean E. TRENARY’.
 
-    13. Close the ship-to address card.
+    12. Close the ship-to address card.
 
-    14. Close the **Ship-to Address List** page.
+    13. Close the **Ship-to Address List** page.
 
 2.  Specify shipping information.
 
