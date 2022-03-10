@@ -255,7 +255,7 @@ generated and the a promised delivery date must calculated.
 
 2.  Use order promising on the sales order.
 
-    1.  On the created sales order, select **Actions**, then select **Plan** and
+    1.  On the created sales order, select **More options**, select **Actions**, then select **Plan** and
         then **Order Promising**.
 
     2.  In the **Availability** field, you will see a value of -10.
