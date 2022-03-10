@@ -51,7 +51,7 @@ the ‘cost and freight’ shipment method.
 
     2.  To open the vendor card, select **Manage** and then select **Edit**.
 
-    3.  In the vendor card, select **Related**, then select **Vendor** and then
+    3.  In the vendor card, select **More options**, select **Related**, then select **Vendor** and then
         **Order Addresses**.
 
     4.  In the opened **Order Address List** page, select **New**.
