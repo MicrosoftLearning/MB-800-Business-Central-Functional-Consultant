@@ -140,8 +140,7 @@ values.
 
 7.  Apply a configuration package.
 
-8.  In the **Config. Package Card** page, select **Actions**, then select
-    **Functions**, and then **Apply Package**.
+8. In the **Config. Package Card** page, select **Apply Package**.
 
 9.  Click **Yes**.
 
