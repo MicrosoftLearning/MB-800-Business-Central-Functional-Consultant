@@ -197,8 +197,7 @@ from the default CRONUS USA company within the database.
 
 4.  Click **OK**.
 
-5.  Select the imported configuration package, select **Actions**, then
-    **Functions**, and then select **Apply Package**.
+5. Select the imported configuration package, select **Apply Package**.
 
 6.  Click **Yes**.
 
