@@ -82,8 +82,6 @@ Code with the NONTAXABLE value. This is due to the use of a US-database.*
 
         7.  Close the **G/L Account Card** page.
 
-    5.  Repeat steps c and d for the account ‘10475’.
-
     6.  In the **Chart of Accounts** page, select **New**.
 
     7.  In the new general ledger account card, fill in the following fields:
