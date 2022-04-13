@@ -42,7 +42,7 @@ You also want to avoid any tax postings while entering the opening g/l balances.
 
         1. In the **Name** field, enter **OPENING**
 
-        2.  In the **Description** field, enter ‘conversion opening balances’.
+        2. In the **Description** field, enter **conversion opening balances**.
 
         3.  In the **Type** field, select the **General** option.
 
