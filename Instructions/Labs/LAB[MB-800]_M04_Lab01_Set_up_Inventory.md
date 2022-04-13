@@ -324,8 +324,8 @@ Then you can manually enter the computer hardware items, using item templates.
 5.  Create and configure a new item.
 
     1.  On the **Items** page, select **New**.
-
-    2.  Select the template ‘Computer hardware’, select **Actions**, and click
+    
+    2.  Select the template ‘Computer hardware’, and click
         **OK**.
 
     3.  A new item card is created with number CHW1000.
