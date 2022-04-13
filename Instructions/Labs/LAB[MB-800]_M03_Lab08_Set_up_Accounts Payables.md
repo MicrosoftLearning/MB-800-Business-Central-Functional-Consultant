@@ -324,6 +324,6 @@ posting groups. Then apply these templates to the existing vendors.
     7.  In the **Vendors** list page, multi-select imported vendors V9004 and
         V9008.
 
-    8.  Select **Actions**, and then select **Apply Template**.
+    8. Select **More options**, select **Actions**, and then select **Apply Template**.
 
     9.  In the vendor templates list, select Export vendors, and click **OK.**
