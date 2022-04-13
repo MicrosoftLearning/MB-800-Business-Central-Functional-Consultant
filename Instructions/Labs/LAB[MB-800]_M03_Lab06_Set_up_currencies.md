@@ -93,8 +93,8 @@ used and a separate lab for updating the currency exchange rate is created.*
 2.  Determine currency exchange rates.
 
     1.  In the **Currencies** page, select the Euro currency.
-
-    2.  Select **Actions**, and then select **Exch. Rates**.
+    
+    2. Select **More options**, select **Actions**, and then select **Exch. Rates**.
 
     3.  In the opened **Currency Exchange Rates** page, select **New** and fill
         in the following fields:
