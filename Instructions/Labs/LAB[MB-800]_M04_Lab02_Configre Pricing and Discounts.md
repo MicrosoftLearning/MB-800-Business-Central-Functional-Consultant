@@ -5,7 +5,7 @@ lab:
     module: 'Module 4: Configure Sales and Purchasing'
 ---
 
-HHands-on-Lab 4.2: Configure Sales Pricing and Discounts
+Hands-on-Lab 4.2: Configure Sales Pricing and Discounts
 =======================================================
 
 Exercise 1: Configure sales pricing and discounts
