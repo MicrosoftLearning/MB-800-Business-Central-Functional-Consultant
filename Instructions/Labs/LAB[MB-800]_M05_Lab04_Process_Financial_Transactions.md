@@ -89,8 +89,8 @@ balance to be posted on December 31st, 2021.
         1.  Select the BALANCE journal batch.
 
         2.  Click **OK**.
-
-    4.  Select **Actions**, then select **Opening Balance**, then select
+    
+    4.  Select **More options**, select **Actions**, then select **Opening Balance**, then select
         **Prepare journal** and then select **G/L Accounts Opening Balance**.
 
     5.  The journal lines are automatically filled in for all balance accounts.
