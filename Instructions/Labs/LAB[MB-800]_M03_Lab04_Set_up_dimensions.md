@@ -49,7 +49,7 @@ this will be disregarded and a new dimension will be created*
 
     2.  In the **Dimensions** page, select **New**.
 
-    3.  In the **Code** field, enter SALESPEOPLE.
+    3. In the **Code** field, enter **SALESPEOPLE**.
 
     4.  Select **Dimension** and then **Dimension Values**.
 
