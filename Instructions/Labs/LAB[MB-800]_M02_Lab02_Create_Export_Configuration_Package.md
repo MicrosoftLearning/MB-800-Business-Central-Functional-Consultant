@@ -130,8 +130,7 @@ values.
 
 2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Edit**.
 
-3.  In the **Config. Package Card** page, select **Actions**, then select
-    **Package**, and then **Import from Excel**.
+3. In the **Config. Package Card** page select **Import from Excel**.
 
 4.  Click **Choose…** and select the excel file.
 
