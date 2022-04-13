@@ -310,7 +310,7 @@ posting groups. Then apply these templates to the existing vendors.
     1.  In the **Vendors** list page, multi-select imported vendors V9001, V9003
         and V9007.
 
-    2.  Select **Actions**, and then select **Apply Template**.
+    2. Select **More options**, select **Actions**, and then select **Apply Template**.
 
     3.  In the vendor templates list, select Domestic vendors, and click **OK.**
 
