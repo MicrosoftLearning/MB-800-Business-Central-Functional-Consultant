@@ -180,3 +180,5 @@ a blank VAT Product Posting Group and a blank VAT Business Posting Group.*
         4.  Leave all the checkboxes selected.
 
         5.  Click **OK**.
+
+        6. Click **Yes**.
