@@ -274,7 +274,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
 5.  Review the posted purchase receipt and invoice.
 
-    1.  Select **Related**, then select **Documents**, and then select
+    1.  Select **More options**, select **Related**, then select **Documents**, and then select
         **Receipts**.
 
     2.  In the page, select the posted purchase receipt.
