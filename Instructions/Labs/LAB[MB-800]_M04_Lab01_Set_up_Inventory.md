@@ -135,6 +135,8 @@ Then you can manually enter the computer hardware items, using item templates.
 
 3.  Set up Item Categories and Item Attributes.
 
+4.  Create an item template
+
 4.  Create and configure a new item.
 
 ### Steps
