@@ -169,8 +169,7 @@ values.
 
 18. Click **Close**.
 
-19. In the **Config. Package Card** page, select **Actions**, then select
-    **Functions**, and then **Apply Package**.
+19. In the **Config. Package Card** page, select **Apply Package**.
 
 20. Click **Yes**.
 
