@@ -137,7 +137,7 @@ Code with the NONTAXABLE value. This is due to the use of a US-database.*
 
         6.  Deselect the **Direct Posting** checkbox.
 
-        7.  *In the Tax Group Code field, enter NONTAXABLE.*
+        7.  In the **Tax Group Code** field under the **Posting**, enter **NONTAXABLE**.
 
         8.  Close the **G/L Account Card** page.
 
