@@ -104,9 +104,9 @@ You will start by copying the following data from the default CRONUS company:
 
 1.  Complete the configuration worksheet.
 
-    1.  Open the **Configuration Worksheet** page.
+    1.  From the main Business Central page in the menu bar at the top of the page to the right, click the search icon. Type **Configuration Worksheet**, then select the **Configuration Worksheet** link.
 
-    2.  At the bottom of the worksheet, enter a new line.
+    2.  In the **Configuration Worksheet** page at the bottom of the worksheet, enter a new line.
 
     3.  In the **Line Type** field, select **Group.**
 
