@@ -59,8 +59,7 @@ data.
 
     2.  Open the assist edit button to the right of the **Company** textbox.
 
-    3.  In the window that opens, select “Contoso ‘*your alias’* Inc.” and click
-        **OK**.
+    3.  In the window that opens, select “Contoso ‘*your alias’* Inc.” 
 
     4.  Click **OK**.
 
