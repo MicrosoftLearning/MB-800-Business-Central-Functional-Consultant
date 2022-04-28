@@ -191,7 +191,7 @@ met:
 
         2.  Select the **Status** filter, and enter ‘Open’.
 
-        3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘\<\>EU’.
+        3.  Select the **Gen. Bus. Posting Group** filter, and enter ‘EU’.
 
         4.  Click **OK** to close the **Event Conditions** page.
 
