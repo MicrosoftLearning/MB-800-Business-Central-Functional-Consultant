@@ -63,7 +63,7 @@ data.
 
     4.  Click **OK**.
 
-    5.  Go to the **Assisted Setup** page, and select **Enter Company Details**
+    5.  Go to the **Assisted Setup** page under the **My Settings**, and select **Enter Company Details** under the **Set up your company**
         to open the **Company Setup** wizard.
 
     6.  Click **Next**.
