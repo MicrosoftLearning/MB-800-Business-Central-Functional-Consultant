@@ -33,8 +33,7 @@ data.
 
 1.  Create a new company.
 
-    1.  In the **Companies** page, select **New** and then, **Create New
-        Company**
+    1.  From the main Business Central page in the menu bar at the top of the page to the right, click the search icon. Type **Companies**, then select the **Companies** link. In the **Companies** page, select **New** and then, **Create New Company**
 
     2.  The **Create New Company** wizard opens.
 
