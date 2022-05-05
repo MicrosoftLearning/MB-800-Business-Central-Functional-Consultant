@@ -80,7 +80,7 @@ used and a separate lab for updating the currency exchange rate is created.*
 
         3.  The **ISO Code** must be filled in with CAD.
 
-        4.  The **Symbol** field must contain the \$ symbol.
+        4.  The **Symbol** field must contain the $ symbol.
 
         5.  The **Realized Gains Acc.**, **Realized Losses Acc.**, **Unrealized
             Gains Acc.** and **Unrealized Losses Acc.** fields must all be
