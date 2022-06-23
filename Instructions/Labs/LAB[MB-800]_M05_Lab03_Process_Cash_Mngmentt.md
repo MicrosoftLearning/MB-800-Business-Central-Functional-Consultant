@@ -440,7 +440,7 @@ On January 28th, 2022, the sales invoice is created and send to the customer.
 
     2.  Select the line for G/L entries sand select **Show Related Entries**.
 
-![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%205.2_general_ledger_entries.png)
+![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%205.2_general_ledger_entries%20(1).png)
 
 1.  Close the **G/L entries** page.
 
