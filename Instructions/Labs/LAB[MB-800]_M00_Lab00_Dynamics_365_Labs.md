@@ -25,46 +25,25 @@ necessities or your own teaching preferences, you may choose to move these
 slides to different parts of the course and teach the labs at different points.
 
 Lab Credentials
+1.  Log in the Admin.microsoft.com
 
-Almost all steps in the labs are performed in the CE + E5 tenants that learners
-acquire through the lab hosting agent. Since the labs are tenant-based and those
-tenants update each month, it is possible that some of the lab instructions
-become out of sync with the updated tenant. While we try to update the lab
-instructions regularly, be aware of this possibility.
+2.  Inside the **Microsoft 365 Admin center**, Select the **Billing** section on
+    the left hand side **Navigation menu**
 
-Each student should be supplied with the following through the hosting agent:
+3.  inside the **Billing **section, Select **Purchase services.**
 
--   A blank virtual machine (if they choose to, they can forgo the virtual
-    machine after acquiring the credentials and work in a browser on their local
-    machine)
+4.  From the **Purchase services** screen, locate** Dynamics 365** in the View
+    by category section then select **Dynamics 365**.
 
--   A D365 credential, which they will use to access Business Central
+5.  From the **Dynamics 365** section, scroll and locate the See all **Dynamics
+    365 products **hypertext and select it.
 
-Students should record these credentials upon their receipt and continue using
-the same credentials throughout the duration of the course.
+6.  Locate the **Dynamics 365 Customer Engagement Plan Trial** from
+    the **Dynamics 365 products page** and select **details.**
 
-Lab Setup
+7.  Inside the **Dynamics 365 Customer Engagement Plan Trial Page** select
+    the** Start free trial **button.
 
-**You must perform these steps prior to the class for Business Central to be
-loaded on your tenant**.
+8.  Select **Try now**.
 
-To load Business Central on your tenant:
-
-1.  Log into your tenant as the admin
-
-2.  Go to
-    [https://signup.microsoft.com/signup?sku=6a4a1628-9b9a-424d-bed5-4118f0ede3fd&ru=https%3A%2F%2Fbusinesscentral.dynamics.com%2F%3FredirectedFromSignup%3D1](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsignup.microsoft.com%2Fsignup%3Fsku%3D6a4a1628-9b9a-424d-bed5-4118f0ede3fd%26ru%3Dhttps%253A%252F%252Fbusinesscentral.dynamics.com%252F%253FredirectedFromSignup%253D1&data=04%7C01%7Chakimm%40microsoft.com%7C21f26d6954b74f87cbca08d8a11af9a5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637436484516895811%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=b493hDrLlqsO1XFavus8uGimsNfTkT4Shs4ENmQ9AA0%3D&reserved=0)
-
-3.  Click ‘Next’
-
-![](media/BC_labsetup1.png)
-
-1.  Click ‘Let’s Go’:
-
-![](media/BC_labsetup2.png)
-
-1.  You will be directed to Business Central
-
-2.  Business Central will load for a few minutes and then you will have access
-    to Business Central
-
+9.  Select** Continue**.
