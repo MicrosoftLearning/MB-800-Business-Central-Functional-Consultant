@@ -59,7 +59,7 @@ The following information is returned to you by Contoso’s super user:
 
 10. You will be asked to check related tables, click **No**.
 
-11. Make sure the vendor table line is selected, select **Table** and then
+11. Make sure the vendor table line is selected, select **More options**, select **Table** and then
     **Fields**.
 
 12. On the field list page, first select **Clear Included**, to deselect the
