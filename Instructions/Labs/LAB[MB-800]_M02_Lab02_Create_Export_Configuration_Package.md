@@ -89,7 +89,7 @@ The following information is returned to you by Contoso’s super user:
 
 16. Export a configuration package to excel.
 
-17. In the **Config. Package Card** page, select **Export to Excel**.
+17. In the **Config. Package Card** page, select the ellipses then select **Export to Excel**.
 
 18. Click **Yes** to export the configuration package.
 
