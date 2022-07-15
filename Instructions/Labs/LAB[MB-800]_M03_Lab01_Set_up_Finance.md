@@ -92,7 +92,7 @@ opening balance on December 31st 2021.
 
         1.  The **LCY Code** field must be set to USD.
 
-        2.  The **Local Currency Symbol** field must contain the \$ symbol.
+        2.  The **Local Currency Symbol** field must contain the $ symbol.
 
         3.  The **Local Currency Description** field must be filled in with ‘US
             dollar’
