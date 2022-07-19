@@ -542,7 +542,7 @@ will be handled in a separate lab.*
 
     2.  To open the item card, select **Manage** and then select **Edit**.
 
-    3.  In the item card, select **Related**, then select **Purchases** and then
+    3.  In the item card, select **More options**, select **Related**, then select **Purchases** and then
         **Vendors**.
 
     4.  On the opened **Item Vendor Catalog** page, select **New**.
