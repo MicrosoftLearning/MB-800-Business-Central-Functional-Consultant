@@ -156,7 +156,7 @@ created for the monitors.
 
         2.  In the **Qty. per Unit of Measure** field, enter 10.
 
-    5.  Click **OK** to close the page.
+    5.  Click **Back Arrow** to close the page.
 
     6.  Close the item card.
 
