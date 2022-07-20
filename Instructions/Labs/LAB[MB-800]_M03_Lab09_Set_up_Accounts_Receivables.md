@@ -95,7 +95,7 @@ expressed the following requirements:
     15. In the opened **No. Series List** page, the number series S-INV+ is
         automatically selected.
 
-    16. Select **Navigate** and then select **Lines**.
+    16. Select the ellipses, select **Navigate** and then select **Lines**.
 
     17. In the opened **No. Series Lines** page, select **New**.
 
