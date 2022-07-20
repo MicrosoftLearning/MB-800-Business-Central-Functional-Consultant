@@ -175,7 +175,7 @@ balance to be posted on December 31st, 2021.
     1.  In the **Configuration Packages** page, select the new configuration
         package for opening balances and select **Manage** and then **Edit**.
 
-    2.  In the **Config. Package Card** page, select **Import from Excel**.
+    2.  In the **Config. Package Card** page, select the ellipses, select **Import from Excel**.
 
     3.  Click **Choose…** and select the excel file.
 
