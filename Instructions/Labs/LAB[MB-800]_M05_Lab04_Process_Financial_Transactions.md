@@ -158,7 +158,7 @@ balance to be posted on December 31st, 2021.
 
     17. Click **Close**.
 
-    18. In the **Config. Package Card** page, select **Export to Excel**.
+    18. In the **Config. Package Card** page, select the ellipses, select **Export to Excel**.
 
     19. Click **Yes** to export the configuration package.
 
