@@ -52,7 +52,7 @@ valuation, Contoso’s account manger has expressed the following requirements:
 
         3.  Select the **Default Nos.** check box.
 
-    4.  Select **Navigate** and then select **Lines**.
+    4.  Select the ellipses, select **Navigate** and then select **Lines**.
 
     5.  In the opened **No. Series Lines** page, select **New**.
 
