@@ -61,7 +61,7 @@ exercise 4 needs to be completed*
 
 2.  Run the Adjust Exchange Rates batch job.
 
-    1.  In the **Currencies** page, select **Actions** and then select **Adjust
+    1.  In the **Currencies** page, select the ellipses, select **Actions** and then select **Adjust
         Exchange Rate.**
 
     2.  On the **Options** FastTab, fill in the following fields:
