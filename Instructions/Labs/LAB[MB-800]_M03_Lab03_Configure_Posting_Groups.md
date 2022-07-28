@@ -85,8 +85,6 @@ a blank VAT Product Posting Group and a blank VAT Business Posting Group.*
 
         8.  In the **Purchase Tax Account** field, enter 61850.
 
-        9.  Click **Yes** to update existing records.
-
 4.  Create a Product Posting Group.
 
     1.  In the **General Product Posting Groups** page, select **New**.
