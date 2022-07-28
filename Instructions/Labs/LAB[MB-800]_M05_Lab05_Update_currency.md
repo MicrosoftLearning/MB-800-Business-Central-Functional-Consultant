@@ -37,7 +37,7 @@ exercise 4 needs to be completed*
 
     1.  In the **Currencies** page, select the CAD currency.
 
-    2.  Select **Actions**, and then select **Exch. Rates**.
+    2.  Select the ellipses, select **Actions**, and then select **Exch. Rates**.
 
     3.  In the opened **Currency Exchange Rates** page, select **New** and fill
         in the following fields:
