@@ -211,7 +211,7 @@ Then you can manually enter the computer hardware items, using item templates.
 
                 1.  In the opened **Item Attributes Value - Color** page, click **New**.
 
-                2.  In the **Value** field, enter ‘Grey’
+                2.  In the **Default Value** field, enter ‘Grey’
 
                 3.  Close the **Item Attributes Value** page.
 
