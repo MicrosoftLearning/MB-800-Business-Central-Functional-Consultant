@@ -102,7 +102,7 @@ opening balance on December 31st 2021.
 
         1.  The **Amount Decimal Places (\$)** field must be set to 2:2.
 
-        2.  The **Unit-Amount Decimal Places (\$)** field must be set to 2:5.
+        2.  The **Unit-Amount Decimal Places ($)** field must be set to 2:5.
 
 2.  Allow posting in the open accounting period.
 
