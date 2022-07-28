@@ -194,7 +194,7 @@ expense is made.
     1.  In the **Chart of Accounts** page, select general ledger accounts 60700
         until 61100.
 
-    2.  Select **Account**, and then select **Dimensions – Multiple**.
+    2.  Select the ellipses then **Account**, and then select **Dimensions – Multiple**.
 
     3.  In the **Default Dimensions-Multiple** page, select **New**.
 
