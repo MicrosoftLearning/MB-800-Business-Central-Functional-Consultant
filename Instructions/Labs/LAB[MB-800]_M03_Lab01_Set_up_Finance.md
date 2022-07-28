@@ -100,7 +100,7 @@ opening balance on December 31st 2021.
     3.  In the **General** FastTab review that the following fields regarding
         local currency rounding are filled in correctly:
 
-        1.  The **Amount Decimal Places (\$)** field must be set to 2:2.
+        1.  The **Amount Decimal Places ($)** field must be set to 2:2.
 
         2.  The **Unit-Amount Decimal Places ($)** field must be set to 2:5.
 
