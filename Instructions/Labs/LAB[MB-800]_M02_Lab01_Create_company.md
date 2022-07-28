@@ -132,6 +132,6 @@ You will start by copying the following data from the default CRONUS company:
 
     4.  Select the lines with the tables for ZIP codes and shipment methods.
 
-    5.  In the menu select **Copy Data**.
+    5.  In the menu select **Copy Data**, then select **Yes**.
 
     6.  The data is now copied in the new company.
