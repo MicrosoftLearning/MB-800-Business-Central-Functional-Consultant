@@ -76,7 +76,7 @@ Code with the NONTAXABLE value. This is due to the use of a US-database.*
         4.  In the **Account Category** field, enter the value **Assets**
 
         5.  In the **Account Subcategory** field, enter the value **Accounts
-            Receivables**.
+            Receivable**.
 
         6.  Deselect the **Direct Posting** checkbox.
 
