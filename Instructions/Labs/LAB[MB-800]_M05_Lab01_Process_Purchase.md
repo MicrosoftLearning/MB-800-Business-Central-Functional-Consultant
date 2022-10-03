@@ -463,7 +463,7 @@ You need to process the invoice.
                 4.  In the **Amount excl. Tax** field, enter ‘300’. (25% of
                     1,200.00)
 
-                    *(Make this field visible by using Personalization.)*
+                    *(Make this field visible by using **Personalization**. To access the personalization select the (cogwheel) **settings** icon on the top right corner of the D365 main menu and select **Personalize**. Drag the necessary fields in to the Standard Purchase Code card. select the **Done** once completed.)*
 
                 5.  In the **Department Code** field, enter SALES.
 
