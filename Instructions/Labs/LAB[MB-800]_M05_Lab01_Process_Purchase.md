@@ -279,7 +279,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
     2.  In the page, select the posted purchase receipt.
 
-    3. Select **More options, select **Actions**, and then select **Find Entries**.
+    3. Select **More options**, select **Actions**, and then select **Find Entries**.
 
     4.  Select the line for **Item Ledger Entry** and select **Show Related
         Entries**.
