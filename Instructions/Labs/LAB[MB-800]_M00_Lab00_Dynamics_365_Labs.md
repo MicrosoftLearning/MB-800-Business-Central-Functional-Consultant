@@ -32,11 +32,11 @@ Lab Credentials
 
 3.  inside the **Billing **section, Select **Purchase services.**
 
-4.  From the **Purchase services** screen, locate** Dynamics 365** in the View
+4.  From the **Purchase services** screen, locate **Dynamics 365** in the View
     by category section then select **Dynamics 365**.
 
 5.  From the **Dynamics 365** section, scroll and locate the See all **Dynamics
-    365 products **hypertext and select it.
+    365 products** hypertext and select it.
 
 6.  Locate the **Dynamics 365 Customer Engagement Plan Trial** from
     the **Dynamics 365 products page** and select **details.**
@@ -46,4 +46,4 @@ Lab Credentials
 
 8.  Select **Try now**.
 
-9.  Select** Continue**.
+9.  Select**Continue**.
