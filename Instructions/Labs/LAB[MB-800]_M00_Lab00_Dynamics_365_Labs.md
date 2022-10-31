@@ -30,7 +30,7 @@ Lab Credentials
 2.  Inside the **Microsoft 365 Admin center**, Select the **Billing** section on
     the left hand side **Navigation menu**
 
-3.  inside the **Billing **section, Select **Purchase services.**
+3.  inside the **Billing** section, Select **Purchase services.**
 
 4.  From the **Purchase services** screen, locate **Dynamics 365** in the View
     by category section then select **Dynamics 365**.
