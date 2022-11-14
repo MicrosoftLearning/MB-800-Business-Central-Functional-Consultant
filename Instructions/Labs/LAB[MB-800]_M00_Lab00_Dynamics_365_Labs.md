@@ -42,7 +42,7 @@ Lab Credentials
     the **Dynamics 365 products page** and select **details.**
 
 7.  Inside the **Dynamics 365 Customer Engagement Plan Trial Page** select
-    the** Start free trial **button.
+    the **Start free trial** button.
 
 8.  Select **Try now**.
 
