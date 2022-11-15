@@ -98,7 +98,7 @@ determined later on.
 1.  Set up global dimensions.
 
     1.  In the **General Ledger Setup** page, select **More options**, then **Actions**, then
-        **Functions** and then **Change Global Dimensions**.
+        **Functions >> Other** and then **Change Global Dimensions**.
 
     2.  In the **Change Global Dimensions** page, fill in the following fields:
 
