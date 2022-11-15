@@ -123,7 +123,7 @@ You will start by copying the following data from the default CRONUS company:
 
 2.  Copy data from another database company.
 
-    1.  In the menu on the **Configuration Worksheet** page, select **More Options**, **Actions**, then **Tools** and then **Copy Data from Company**.
+    1.  In the menu on the **Configuration Worksheet** page, select **Prepare** and then **Copy Data from Company**.
 
     2.  Open the assist edit button to the right of the **Copy from** field.
 
