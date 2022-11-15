@@ -94,7 +94,7 @@ used and a separate lab for updating the currency exchange rate is created.*
 
     1.  In the **Currencies** page, select the Euro currency.
     
-    2. Select the ellipses, select **More options**, select **Actions**, and then select **Exch. Rates**.
+    2. Select the ellipses, select **Exchange Rate Services >> Exchange Rate Services**.
 
     3.  In the opened **Currency Exchange Rates** page, select **New** and fill
         in the following fields:
