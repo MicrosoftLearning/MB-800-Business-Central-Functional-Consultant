@@ -207,7 +207,7 @@ Code with the NONTAXABLE value. This is due to the use of a US-database.*
 
         8.  Close the **G/L Account Card** page.
 
-    19. In the **Chart of Accounts** page, select **Process** and then select
+    19. In the **Chart of Accounts** page, select
         **Indent Chart of Accounts**.
 
     20. Click **Yes**.
