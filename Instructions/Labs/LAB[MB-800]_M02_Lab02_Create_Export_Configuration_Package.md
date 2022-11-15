@@ -190,7 +190,7 @@ from the default CRONUS USA company within the database.
 
 1.  Import and apply a predefined package.
 
-2. In the **Configuration Packages**, select the **Import Packages** and from the drop-down menu select **Import Predefined Package**.
+2. In the **Configuration Packages** page, select the **Import Packages** and from the drop-down menu select **Import Predefined Package**.
 
 3.  From the overview list, select the **Evaluation** package, containing
     the demo data.
