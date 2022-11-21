@@ -112,10 +112,10 @@ created for the monitors.
 
         3.  Leave the **Allow Line Disc.** checkbox selected.
 
-    4.  Repeat steps d. to f. to assign the DOMESTIC customer price group to the
-        customers C00010, C00020 and C00030 , and the SMALL customer discount
-        group to customer C00010, the MEDIUM customer discount group to customer
-        C00020 and the LARGE customer discount group to customer C00030.
+    4.  Repeat the above 3 steps **Assign customer price groups and customer discount groups** to assign the **DOMESTIC** customer price group to the
+        customers **C00010, C00020, and C00030** and the **SMALL** customer discount
+        group to customer **C00010**, the **MEDIUM** customer discount group to customer
+        **C00020** and the **LARGE** customer discount group to customer **C00030**.
 
 4.  Set up and assign item discount groups
 
