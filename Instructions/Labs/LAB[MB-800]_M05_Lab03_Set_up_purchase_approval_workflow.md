@@ -76,7 +76,7 @@ calculations need to be set up:
 
     5.  On the **Shipping Agents** list page, select DHL.
 
-    6.  Select **Related**, then select **Line** and then **Shipping Agent
+    6.  Select **Shipping Agent** and then select **Shipping Agent
         Services**.
 
     7.  On the **Shipping Agent Services** page, select the line for the
