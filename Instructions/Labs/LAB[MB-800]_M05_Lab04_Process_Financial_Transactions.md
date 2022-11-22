@@ -80,7 +80,7 @@ balance to be posted on December 31st, 2021.
 
 1.  Prepare the journal for the G/L opening balance.
 
-    1.  First make sure your work date is set to 31/12/2021.
+    1.  First make sure your work date is set to 12/31/2021.
 
     2.  On the general journals list page, select the OPENING journal.
 
