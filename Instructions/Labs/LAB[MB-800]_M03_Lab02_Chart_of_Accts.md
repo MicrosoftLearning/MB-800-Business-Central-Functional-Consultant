@@ -132,8 +132,7 @@ Code with the NONTAXABLE value. This is due to the use of a US-database.*
 
         4.  In the **Account Category** field, enter the value **Income**
 
-        5.  In the **Account Subcategory** field, enter the value **Income
-            Product Sales**.
+        5.  In the **Account Subcategory** field, enter the value **Income, Product Sales**.
 
         6.  Deselect the **Direct Posting** checkbox.
 
