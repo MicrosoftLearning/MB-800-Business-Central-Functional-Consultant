@@ -46,4 +46,4 @@ Lab Credentials
 
 8.  Select **Try now**.
 
-9.  Select**Continue**.
+9.  Select **Continue**.
