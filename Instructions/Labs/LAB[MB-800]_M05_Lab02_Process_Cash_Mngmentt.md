@@ -336,7 +336,7 @@ On January 28th, 2022, the sales invoice is created and send to the customer.
 
     1.  On the **Contacts** list page, select the new contact Francematic.
 
-    2.  Select **Process** and then select **Create Sales Quote**.
+    2.  Select **Create Sales Quote**.
 
     3.  A new sales quote is created.
 
