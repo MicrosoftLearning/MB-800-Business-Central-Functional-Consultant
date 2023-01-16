@@ -25,21 +25,22 @@ necessities or your own teaching preferences, you may choose to move these
 slides to different parts of the course and teach the labs at different points.
 
 Lab Credentials
-1.  Log in the Admin.microsoft.com
 
-2.  Inside the **Microsoft 365 Admin center**, Select the **Billing** section on
-    the left hand side **Navigation menu**
+1.  Log in to +++https://admin.microsoft.com/+++ in a new browser tab.
 
-3.  inside the **Billing** section, Select **Purchase services.**
+2.  In the **Microsoft 365 admin center**, expand the **Billing** section on
+    the left hand side **Navigation menu**.
+
+3.  Under the expanded **Billing** section, select **Purchase services**.
 
 4.  From the **Purchase services** screen, locate **Dynamics 365** in the View
-    by category section then select **Dynamics 365**.
+    by category section then select **Dynamics 365**. 
 
 5.  From the **Dynamics 365** section, scroll and locate the **See all Dynamics
     365 products** hypertext and select it.
 
 6.  Locate the **Dynamics 365 Customer Engagement Plan Trial** from
-    the **Dynamics 365 products page** and select **details.**
+    the **Dynamics 365 products page** and select **Details**.
 
 7.  Inside the **Dynamics 365 Customer Engagement Plan Trial Page** select
     the **Start free trial** button.
