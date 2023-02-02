@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab: Create and export a configuration package'
+    title: 'Lab: Migrate master data to a new company'
     module: 'Module 2: Application Setup'
 ---
 
