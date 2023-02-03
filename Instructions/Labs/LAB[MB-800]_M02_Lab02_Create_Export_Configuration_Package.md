@@ -1,10 +1,11 @@
 ---
 lab:
-    title: 'Lab: Create and export a configuration package'
+    title: 'Lab: Migrate master data to a new company'
     module: 'Module 2: Application Setup'
 ---
 
-## Exercise 1: Create and export a configuration package
+Exercise 1: Create and export a configuration package
+-----------------------------------------------------
 
 ### Scenario
 
@@ -20,11 +21,7 @@ You will start with the vendor list, including contact information. To make sure
 the users know how to complete the required information, you prepare the
 following example.
 
-![Vendor info 01](media/vendor-info-01.png)
-
 The following information is returned to you by Contoso’s super user:
-
-![Vendor info 02](media/lab2_2_vendor_info_02.png)
 
 ### Tasks
 
@@ -40,72 +37,73 @@ The following information is returned to you by Contoso’s super user:
 
 1.  Create a configuration package.
 
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, click **New** to create a new configuration package.
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **Configuration Packages**, and then choose the related link.
 
-3.  In the **Code** field, enter VENDOR.
+    2.  In the **Configuration Packages** page, click **+ New** to create a new
+        configuration package.
 
-4.  In the **Package Name** field, enter Vendor List.
+    3.  In the **Code** field, enter **VENDOR**.
 
-5.  Assign tables and select fields.
+    4.  In the **Package Name** field, enter **Vendor List**.
 
-6.  On the **Tables** section of the Config. Package Card, enter a new line
-    as follows.
+2.  Assign tables and select fields.
 
-7.  Open the assist edit button to the right of the **Table ID** field.
+    1.  On the **Tables** section of the Config. Package Card, enter a new line
+        as follows.
 
-8.  In the window that opens, select the **Vendor** table and click **OK**.
+    2.  Open the assist edit button to the right of the **Table ID** field.
 
-9.  Then press ENTER or TAB.
+    3.  In the window that opens, select the **Vendor** table and click **OK**.
 
-10. You will be asked to check related tables, click **No**.
+    4.  Then press ENTER or TAB.
 
-11. Make sure the vendor table line is selected, select **More options**, select **Table** and then
-    **Fields**.
+    5.  You will be asked to check related tables, click **No**.
 
-12. On the field list page, first select **Clear Included**, to deselect the
-    **Include Field** checkbox for all the fields.
+    6.  Make sure the vendor table line is selected, select **Table** and then
+        **Fields**.
 
-13. Then select the **Include Field** checkbox for the following fields:
+    7.  On the field list page, first select **Clear Included**, to deselect the
+        **Include Field** checkbox for all the fields.
 
-       1.  Name
+    8.  Then select the **Include Field** checkbox for the following fields:
 
-       2.  Address
+        1.  Name
 
-       3.  City
+        2.  Address
 
-       4.  Phone No.
+        3.  City
 
-       5.  Currency Code
+        4.  Phone No.
 
-       6.  Language Code
+        5.  Currency Code
 
-       7.  Country/Region Code
+        6.  Language Code
 
-       8.  Post Code
+        7.  Country/Region Code
 
-14. The **Validate Field** checkbox is automatically selected.
+        8.  Post Code
 
-15. Click **Close**.
+    9.  The **Validate Field** checkbox is automatically selected.
 
-16. Export a configuration package to excel.
+    10. Click **Close**.
 
-17. In the **Config. Package Card** page, select the ellipses then select **Export to Excel**.
+3.  Export a configuration package to excel.
 
-18. Click **Yes** to export the configuration package.
+    1.  In the **Config. Package Card** page, select **Export to Excel**.
 
-19. Prepare data in excel.
+    2.  Click **Yes** to export the configuration package.
 
-20. Open the exported excel file from the download folder.
+4.  Prepare data in excel.
 
-21. Enter the information as provided by Contoso in the scenario description above, or use the provided Vendor Import.xlsx file.
-   
-22. Save the excel file.
+    1.  Open the exported excel file from the **Downloads** folder.
 
-23. Enter the information as provided by Contoso.
+    2.  Enter the information as provided by Contoso.
 
-24. Save the excel file.
+    3.  Save the excel file.
 
-## Exercise 2: Import and apply a configuration package
+Exercise 2: Import and apply a configuration package
+----------------------------------------------------
 
 ### Scenario
 
@@ -128,54 +126,60 @@ values.
 
 1.  Import a configuration package from excel.
 
-2.  From the main Business Central page in the black bar at the top of the page to the right, click the search icon. Type **Configuration Package**, then select the **Configuration Package** link. In the **Configuration Packages** page, select the new configuration package for vendors and select **Manage** and then **Edit**.
+    1.  In the **Configuration Packages** page, select the new configuration
+        package for vendors and select **Manage** and then **Edit**.
 
-3. In the **Config. Package Card** page select **Import from Excel**.
+    2.  In the **Config. Package Card** page, select **Import from Excel**.
 
-4.  Click **Choose…** and select the excel file.
+    3.  Click **Choose…** and select the excel file.
 
-5.  Click **Open**.
+    4.  Click **Open**.
 
-6.  In the preview page, select **Import**.
+    5.  In the preview page, select **Import**.
 
-7.  Apply a configuration package.
+2.  Apply a configuration package.
 
-8. In the **Config. Package Card** page, select **Apply Package**.
+    1.  In the **Config. Package Card** page, select **Apply Package**.
 
-9.  Click **Yes**.
+    2.  Click **Yes**.
 
-10. Resolve package errors.
+    3.  Click **OK**.
 
-11. In the **Config. Package Card** page, the vendor table line will show a
-    number of errors.
+3.  Resolve package errors.
 
-12. Click on the number in the **No. of Package Errors** field.
+    1.  In the **Config. Package Card** page, the vendor table line will show a
+        number of errors.
 
-13. In the error page, select the first record line and click **Show
-    Error**.
+    2.  Click on the number in the **No. of Package Errors** field.
 
-14. Repeat for all the error records.
+    3.  In the error page, select the first record line and click **Show
+        Error**.
 
-15. Click **OK**.
+    4.  Click **Close**.
 
-16. In the **Config. Package Card** page, select the vendor table line and
-    select **Table** and then select **Fields**.
+    5.  Repeat for all the error records.
 
-17. Select the **Create Missing Codes** check box, for the following fields:
+    6.  Click **OK**.
 
-       1.  Currency Code
+    7.  In the **Config. Package Card** page, select the vendor table line and
+        select **Table** and then select **Fields**.
 
-       2.  Post Code
+    8.  Select the **Create Missing Codes** check box, for the following fields:
 
-18. Click **Close**.
+        1.  Currency Code
 
-19. In the **Config. Package Card** page, select **Apply Package**.
+        2.  Post Code
 
-20. Click **Yes**.
+    9.  Click **Close**.
 
-21. Click **OK**.
+    10. In the **Config. Package Card** page, select **Apply Package**.
 
-## Exercise 3: Import and apply a predefined package
+    11. Click **Yes**.
+
+    12. Click **OK**.
+
+Exercise 3: Import and apply a predefined package
+-------------------------------------------------
 
 ### Scenario
 
@@ -190,18 +194,30 @@ from the default CRONUS USA company within the database.
 
 1.  Import and apply a predefined package.
 
-2. In the **Configuration Packages** page, select the **Import Packages** and from the drop-down menu select **Import Predefined Package**.
+    1.  In the **Configuration Packages** page, click the dropdown next to
+        **Import Package**, and then select **Import Predefined Package**.
 
-3.  From the overview list, select the **Evaluation** package, containing
-    the demo data.
+    2.  From the overview list, select the **Evaluation** package, containing
+        the demo data.
 
-4.  Click **OK**.
+    3.  Click **OK**.
 
-5. Select the imported configuration package, select the ellipses then select **Apply Package**.
+    4.  Select the imported configuration package, select **Package**, and then
+        select **Apply Package**.
 
-6.  Click **Yes**.
+    5.  Click **Yes**.
 
-7.  A warning appears, where you select the **I understand, and want to
-    continue** checkbox and click **OK**.
+    6.  A warning appears, where you select the **I understand, and want to
+        continue** checkbox and click **OK**.
 
-8.  Click **No** to any further questions.
+    7.  Click **No** to any further questions.
+
+    8.  Select **Create new customer card for School of Fine Art** and click
+        **OK**.
+
+    9.  Select **Create new customer card for Adatum Corporation** and click
+        **OK**.
+
+    10. Select **Create new customer card for Trey Research** and click **OK**.
+
+    11. Click **OK**.
