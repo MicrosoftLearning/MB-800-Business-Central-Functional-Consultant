@@ -1,4 +1,3 @@
-
 ---
 lab:
     title: 'Lab: Set up Accounts Payable'
