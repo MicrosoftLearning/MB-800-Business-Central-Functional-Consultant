@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab: Set up General Journals'
+    title: 'Lab: Set up Cash Management'
     module: 'Module 3: Configure Financials'
 ---
 
