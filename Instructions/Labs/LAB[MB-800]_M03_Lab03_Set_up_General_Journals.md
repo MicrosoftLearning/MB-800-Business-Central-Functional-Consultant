@@ -1,11 +1,10 @@
-
 ---
 lab:
     title: 'Lab: Set up General Journals'
     module: 'Module 3: Configure Financials'
 ---
 
-Hands-on-Lab 3.3: Configure Financials
+Hands-on-Lab 3.3: Set up General Journals
 ==========================================
 
 Exercise 1: Set up General Journals
