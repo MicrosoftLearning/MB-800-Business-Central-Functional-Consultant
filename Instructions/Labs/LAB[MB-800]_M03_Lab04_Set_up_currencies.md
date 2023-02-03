@@ -1,11 +1,10 @@
-
 ---
 lab:
     title: 'Lab: Set up Cash Management'
     module: 'Module 3: Configure Financials'
 ---
 
-Hands-on-Lab 3.4: Set up currencies
+Hands-on-Lab 3.4: Set up Cash Management
 ===================================
 
 Exercise 1: Create a bank account
