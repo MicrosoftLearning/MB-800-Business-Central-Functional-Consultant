@@ -1,7 +1,6 @@
-
 ---
 lab:
-    title: 'Lab: Set up Accounts Payables'
+    title: 'Lab: Set up Accounts Receivables'
     module: 'Module 3: Configure Financials'
 ---
 
