@@ -26,25 +26,24 @@ slides to different parts of the course and teach the labs at different points.
 
 Lab Credentials
 
-1.  Log in to +++https://admin.microsoft.com/+++ in a new browser tab.
+1.  Open your browser and browse to the **Dynamics 365 Business Central**
+    homepage using the link
+    <https://dynamics.microsoft.com/en-us/business-central/overview/>
 
-2.  In the **Microsoft 365 admin center**, expand the **Billing** section on
-    the left hand side **Navigation menu**.
+2.  Click **Try for free** tab on the **Dynamics 365 Business Central**
+    homepage.
 
-3.  Under the expanded **Billing** section, select **Purchase services**.
+3.  Enter your **Office 365 tenant credentials** and click **Next**.
 
-4.  From the **Purchase services** screen, locate **Dynamics 365** in the View
-    by category section then select **Dynamics 365**. 
+4.  Click on **Sign in** and then enter the password provided to you.
 
-5.  From the **Dynamics 365** section, scroll and locate the **See all Dynamics
-    365 products** hypertext and select it.
+5.  Click on **Get started**.
 
-6.  Locate the **Dynamics 365 Customer Engagement Plan Trial** from
-    the **Dynamics 365 products page** and select **Details**.
+6.  Click on **Skip and go to Dynamics 365 Business Central**.
 
-7.  Inside the **Dynamics 365 Customer Engagement Plan Trial Page** select
-    the **Start free trial** button.
+7.  Click on **Get started**.
 
-8.  Select **Try now**.
+8.  It may take up to 1-2 mins to set up the **Dynamics 365 Business Central**
+    environment.
 
-9.  Select **Continue**.
+9.  You should now be able to see the **Dynamics 365 Business Central** portal.
