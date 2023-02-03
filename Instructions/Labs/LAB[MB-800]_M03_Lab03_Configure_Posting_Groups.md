@@ -1,182 +1,105 @@
 
 ---
 lab:
-    title: 'Lab: Configure Posting Groups'
+    title: 'Lab: Set up General Journals'
     module: 'Module 3: Configure Financials'
 ---
 
-Hands-on-Lab 3.3: Configure Posting Groups
+Hands-on-Lab 3.3: Configure Financials
 ==========================================
 
-Exercise 1: Set up posting groups
----------------------------------
+Exercise 1: Set up General Journals
+-----------------------------------
 
 ### Scenario
 
-Contoso recently decided to start selling computer hardware through their
-European web shop. To keep track of these new line of product, they will record
-these sales on a separate income statement account 40210, apart from the other
-retail activities. They will have to comply to European legislation and
-calculate 15% VAT on all their web shop sales. This VAT amount will be posted to
-the general ledger account 61850. *(Remark: this is just for exercise purposes
-and not based on actual legislation.)*
+Part of the implementation process is the conversion of opening balances. For
+these specific transactions, a separate general journal OPENING will be created.
 
-The products are mainly purchased with export vendors, no VAT needs to be paid
-in these countries. Purchase with EU vendors is however also possible.
+Separate batches are set up for the entry of the opening g/l balance accounts,
+the open customer ledger entries, the open vendor ledger entries, and the
+opening bank balance.
 
-The necessary general ledger accounts were already created in the previous
-exercise. It is now up to you to complete the General Posting Setup and the VAT
-Posting Setup.
+For customers and vendors, the detailed open ledger entries will be entered
+using the existing document no. given by the previous system. The total amount
+will be balanced by the regular g/l accounts for accounts receivables (10400)
+and accounts payable (20100).
 
-*Remark: For exercise purposes, also create a Tax Posting Setup combination with
-a blank VAT Product Posting Group and a blank VAT Business Posting Group.*
+You also want to avoid any tax postings while entering the opening g/l balances.
 
 ### Tasks
 
-1.  Create a VAT Product Posting Group.
+1.  Set up a journal for opening entries
 
-2.  Create a VAT Business Posting Group.
-
-3.  Complete the Tax Posting Setup.
-
-4.  Create a Product Posting Group.
-
-5.  Create a Business Posting Group.
-
-6.  Complete the General Posting Setup.
+2.  Set up different batches for customer, vendor, balance
 
 ### Steps
 
-1.  Create a VAT Product Posting Group.
+1.  Set up a journal for opening entries
 
-    1.  In the **VAT Product Posting Groups** page, select **New**.
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **General Journal Templates**, and then choose the related link.
 
-    2.  In the **Code** field, enter G15.
+    2.  In the **General Journal Templates** page, select **+ New**.
 
-    3.  In the **Description** field, enter ‘Goods 15%’.
+    3.  Fill in the following fields:
 
-2.  Create a VAT Business Posting Group.
+        1.  In the **Name** field, enter **OPENING**
 
-    1.  In the **VAT Business Posting Groups** page, select **New**.
+        2.  In the **Description** field, enter **conversion opening balances**.
 
-    2.  In the **Code** field, enter EU.
+        3.  In the **Type** field, select the **General** option.
 
-    3.  In the **Description** field, enter ‘EU’.
+        4.  In the **Bal. Account Type** field, select the **G/L Account**
+            option.
 
-3.  Complete the Tax Posting Setup.
+        5.  Deselect the **Force Doc. Balance** check box.
 
-    1.  In the **Tax Posting Setup** page, select **New**.
+        6.  Deselect the **Copy Tax Setup to Jnl.** check box.
 
-    2.  In the new tax posting setup card, fill in the following fields:
+2.  Set up different batches for customer, vendor, balance, and bank.
 
-        1.  In the **VAT Bus. Posting Group** field, enter EU.
+    1.  In the **General Journal Templates** page, make sure the **OPENING**
+        journal is selected.
 
-        2.  In the **VAT Prod. Posting Group** field, enter G15.
+    2.  Select **Related**, then select **Template** and then select
+        **Batches**.
 
-        3.  In the **VAT Calculation Type** field, enter Normal Tax.
+    3.  In the opened **General Journal Batches** page, select **+ New**.
 
-        4.  In the **Description** field, enter ‘web shop sales’.
+    4.  Fill in the following fields:
 
-        5.  In the **Tax%** field, enter 15.
+        1.  In the **Name** field, enter **BALANCE**.
 
-        6.  In the **Tax Identifier** field, enter G15.
+        2.  In the **Description** field, enter **opening g/l balance account**.
 
-        7.  In the **Sales Tax Account** field, enter 61850.
+    5.  In the opened **General Journal Batches** page, select **+ New**.
 
-        8.  In the **Purchase Tax Account** field, enter 61850.
+    6.  Fill in the following fields:
 
-4.  Create a Product Posting Group.
+        1.  In the **Name** field, enter **BANK**.
 
-    1.  In the **General Product Posting Groups** page, select **New**.
+        2.  In the **Description** field, enter **opening bank balance**.
 
-    2.  In the **Code** field, enter COMPUTERHW.
+    7.  In the opened **General Journal Batches** page, select **+ New**.
 
-    3.  In the **Description** field, enter ‘computer hardware’.
+    8.  Fill in the following fields:
 
-    4.  In the **Def. VAT Prod. Posting Group** field, enter G15.
+        1.  In the **Name** field, enter **CUST**.
 
-5.  Create a Business Posting Group
+        2.  In the **Description** field, enter **opening customer ledger
+            entries**.
 
-    1.  In the **Gen. Business Posting Groups** page, select **New**.
+        3.  In the **Bal. Account No.** field, enter **10400**
 
-    2.  In the **Code** field, enter EU.
+    9.  In the opened **General Journal Batches** page, select **+ New**.
 
-    3.  In the **Description** field, enter ‘EU customers and vendors’.
+    10. Fill in the following fields:
 
-    4.  In the **Def. VAT Bus. Posting Group** field, enter EU.
+        1.  In the **Name** field, enter **VEND**.
 
-    5.  Click **Yes** to update existing records.
+        2.  In the **Description** field, enter **opening vendor ledger
+            entries**.
 
-    6.  In the **Gen. Business Posting Groups** page, select **New**.
+        3.  In the **Bal. Account No.** field, enter **20100.**
 
-    7.  In the **Code** field, enter EXPORT.
-
-    8.  In the **Description** field, enter ‘Export customer and vendors’.
-
-    9.  Leave the **Def. VAT Bus. Posting Group** field blank.
-
-6.  Complete the General Posting Setup.
-
-    1.  In the **General Posting Setup** page, select **New**.
-
-    2.  In the new general posting setup card, in the **General** FastTab, fill
-        in the following fields:
-
-        1.  In the **Gen. Bus. Posting Group** field, fill in EU.
-
-        2.  In the **Gen. Prod. Posting Group** field, fill in COMPUTERHW.
-
-    3.  Select **Copy**.
-
-    4.  In the page that opens, fill in the following fields:
-
-        1.  In the **Gen. Bus. Posting Group** field, fill in DOMESTIC.
-
-        2.  In the **Gen. Prod. Posting Group** field, fill in RETAIL.
-
-        3.  In the **Copy** field, select the **All fields** option.
-
-        4.  Leave all the checkboxes selected.
-
-        5.  Click **OK**.
-
-        6.  Click **Yes**.
-
-    5.  In the new general posting setup card, in the **Sales** FastTab, change
-        the following fields:
-
-        1.  In the **Sales Account** field, change 40200 to 40210
-
-        2.  In the **Sales Credit Memo Account** field, change 40200 to 40210
-
-    6.  In the new general posting setup card, in the **Purchases** FastTab,
-        change the following fields:
-
-        1.  In the **Purch. Account** field, change 10700 to 50150.
-
-        2.  In the **Purch. Credit Memo Account** field, change 10700 to 50150.
-
-    7.  In the **General Posting Setup** page, select **New**.
-
-    8.  In the new general posting setup card, in the **General** FastTab, fill
-        in the following fields:
-
-        1.  In the **Gen. Bus. Posting Group** field, fill in EXPORT.
-
-        2.  In the **Gen. Prod. Posting Group** field, fill in COMPUTERHW.
-
-    9.  Select **Copy**.
-
-    10. In the page that opens, fill in the following fields:
-
-        1.  In the **Gen. Bus. Posting Group** field, fill in EU.
-
-        2.  In the **Gen. Prod. Posting Group** field, fill in COMPUTERHW.
-
-        3.  In the **Copy** field, select the **All fields** option.
-
-        4.  Leave all the checkboxes selected.
-
-        5.  Click **OK**.
-
-        6. Click **Yes**.
