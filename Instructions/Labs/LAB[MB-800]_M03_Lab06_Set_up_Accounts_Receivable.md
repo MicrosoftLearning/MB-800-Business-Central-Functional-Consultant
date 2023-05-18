@@ -7,6 +7,12 @@ lab:
 Exercise 1: Configure the Sales & Receivables Setup
 ---------------------------------------------------
 
+Hands-on-Lab 3.6: Set Up Accounts Receivable
+============================================
+
+Exercise 1: Configure the Sales & Receivables Setup
+---------------------------------------------------
+
 ### Scenario
 
 Concerning the processing of sales transactions, Contoso’s account manager has
@@ -50,8 +56,8 @@ expressed the following requirements:
     2.  In the **Sales & Receivables Setup** page, go to the **Number Series**
         FastTab.
 
-    3.  In the **Customer** field, the value CUST is already filled in. Click on
-        the Look Up Value button and select **+ New**.
+    3.  In the **Customer No’s** field, the value CUST is already filled in.
+        Click on the drop-down and select **+ New**.
 
     4.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -92,8 +98,8 @@ expressed the following requirements:
         **Number Series** FastTab.
 
     15. In the **Posted Invoice Nos.** field, the value **S-INV+** is already
-        filled in. Click on the Look Up Value button and then click **Select
-        from full list.**
+        filled in. Click on the drop-down and then click **Select from full
+        list.**
 
     16. In the opened **No. Series List** page, the number series **S-INV+** is
         automatically selected.
@@ -129,7 +135,7 @@ expressed the following requirements:
         FastTab.
 
     2.  In the **Discount Posting** field, select the **Invoice Discounts**
-        option.
+        option. Close the page.
 
     3.  Select the search for page icon in the top-right corner of the page,
         enter **General Posting Setup**, and then choose the related link.
@@ -216,14 +222,13 @@ templates for customers: CUST000001 & CUST000002*
 
         2.  In the **Description** field, fill in **Intercompany customers**.
 
-        3.  In the **Payables Account** field, fill in **10475**.
+        3.  In the **Receivable Account** field, fill in **10475**.
 
         4.  Close the page.
 
     6.  From the **Customer Posting Groups** page, copy the other g/l accounts
         from the DOMESTIC customer posting group to the **FOREIGN** and
-        **INTERCOMPANY** customer posting groups using F8. Copy the following
-        fields:
+        **INTERCOMPANY** customer posting groups. Copy the following fields:
 
         1.  Payment Disc. Debit Acc.
 
@@ -269,8 +274,8 @@ templates for customers: CUST000001 & CUST000002*
 
     9.  Click **Show more**.
 
-    10. In the **Document Sending Profile** field, click on the Look Up Value
-        button and click **+ New**.
+    10. In the **Document Sending Profile** field, click on the drop-down and
+        click **+ New**.
 
     11. In the opened **Document Sending Profile** card page, fill in the
         following fields:
@@ -300,8 +305,8 @@ templates for customers: CUST000001 & CUST000002*
 
     16. Go to the **Payments** FastTab.
 
-    17. In the **Payment Terms Code** field, click on the Look Up Value button
-        and click **+ New**.
+    17. In the **Payment Terms Code** field, click on the drop-down and click
+        **+ New**.
 
     18. In the opened **Payment Terms** page, select **+ New** and fill in the
         following fields:
@@ -341,7 +346,7 @@ templates for customers: CUST000001 & CUST000002*
         6.  On the **G/L Account Card** of **20500**, enable **Direct Posting**
             toggle.
 
-        7.  Close the **G/L Account Card**.
+        7.  Close the **G/L Account Card**. Click on **OK.**
 
         8.  The account number **20500** is automatically filled in the **Bal.
             Account No.** field.
@@ -382,9 +387,6 @@ are filled in and that the following requirements are met:
 
 -   The CUSTOMERGROUP dimension needs to be set up as a fixed default on the
     customer card.
-
-The following list of domestic customers is returned to you by Contoso’s super
-user.
 
 ### Tasks
 
@@ -519,9 +521,15 @@ user.
 
     2.  Enter the information as provided by Contoso.
 
-    3.  Save the excel file.
+| No     | Name                         | Address                   | City    | Country | Zip code     |
+|--------|------------------------------|---------------------------|---------|---------|--------------|
+| C00010 | Spotsmeyer's Furnishings     | 612 South Sunset Drive    | Miami   | US      | US-FL-37125  |
+| C00020 | Progressive Home Furnishings | 3000 Roosevelt Blvd.      | Chicago | US      | US-IL 616236 |
+| C00030 | New Concepts Furniture       | 705 West Peachtree Street | Atlanta | US      | US-GA 31772  |
 
-4.  Import and apply the configuration package.
+4.  Save the excel file.
+
+5.  Import and apply the configuration package.
 
     1.  In the **Configuration Packages** page, select the new configuration
         package for customers and select **Manage** and then **Edit**.
