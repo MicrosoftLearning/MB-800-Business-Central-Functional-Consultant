@@ -70,8 +70,7 @@ Also don’t forget to assign de SALESPERSON dimension to each salesperson.
 
     3.  To open the customer card, select **Manage** and then select **Edit**.
 
-    4.  In the customer card, select **Related**, then select **Customer** and
-        then **Ship-to Addresses**.
+    4.  Select **Customer** and then **Ship-to Addresses**.
 
     5.  In the opened **Ship-to Address** List page, select **+ New**.
 
@@ -96,12 +95,9 @@ Also don’t forget to assign de SALESPERSON dimension to each salesperson.
 
     7.  Close the ship-to address card.
 
-    8.  In the customer card, select **Related**, then select **Customer** and
-        then **Ship-to Addresses**.
+    8.  Select **+ New** again.
 
-    9.  In the opened **Ship-to Address List** page, select **+ New**.
-
-    10. In the opened ship-to addresses card, fill in the following fields:
+    9.  In the opened ship-to addresses card, fill in the following fields:
 
         1.  In the **Code** field, enter **PICK-UP BE**
 
@@ -119,14 +115,11 @@ Also don’t forget to assign de SALESPERSON dimension to each salesperson.
 
         7.  In the **Contact** field, enter **Caroline Pedersen**.
 
-    11. Close the ship-to address card.
+    10. Close the ship-to address card.
 
-    12. In the customer card, select **Related**, then select **Customer** and
-        then **Ship-to Addresses**.
+    11. select **+ New** again
 
-    13. In the opened **Ship-to Address** List page, select **+ New**.
-
-    14. In the opened ship-to addresses card, fill in the following fields:
+    12. In the opened ship-to addresses card, fill in the following fields:
 
         1.  In the **Code** field, enter **PICK-UP FR**
 
@@ -145,9 +138,9 @@ Also don’t forget to assign de SALESPERSON dimension to each salesperson.
 
         7.  In the **Contact** field, enter **M. Jean E. TRENARY**.
 
-    15. Close the ship-to address card.
+    13. Close the ship-to address card.
 
-    16. Close the **Ship-to Address List** page.
+    14. Close the **Ship-to Address List** page.
 
 2.  Specify shipping information.
 
@@ -181,7 +174,7 @@ Also don’t forget to assign de SALESPERSON dimension to each salesperson.
 
     5.  On the **Salespeople/Purchaser** page, make sure that you have selected
         **Annette Hill**. Click on **Salesperson** and then select
-        **Dimensions-single** from the dropdown.
+        **Dimensions-single** under **Dimension-multiple** dropdown.
 
     6.  On the opened **Default Dimensions** page, select **+ New**.
 
@@ -195,32 +188,35 @@ Also don’t forget to assign de SALESPERSON dimension to each salesperson.
 
         4.  Close the page.
 
-    8.  Repeat steps b. to g. for salespeople **John Roberts** and **Peter
-        Saddow**.
+    8.  Repeat steps b. to g. for salespeople **John Roberts(JR)** and **Peter
+        Saddow(PS)**
 
         *(Remark: you also repeat the steps for the other salespeople, but this
         is not required for further exercises.)*
 
-    9.  Select the search for page icon in the top-right corner of the page,
-        enter **Customers**, and then choose the related link.
+>   **Note** – If you do not find the Dimension code and Value code. Please open
+>   a duplicate tab of the current Business Central tab. From the home page.
+>   Search for **Dimensions** and click on the related link. Create a new
+>   Dimension code with the name **SALESPERSON_NEWLIST**. Click on Dimension on
+>   the same page and create a new **Dimension Value code** with the name
+>   **AH.** Then come back to the original tab and perform the steps
 
-    10. On the **Customers** list page, select **Trey Research (20000)**.
+1.  Select the search for page icon in the top-right corner of the page, enter
+    **Customers**, and then choose the related link.
 
-    11. To open the customer card, select **Manage** and then select **Edit**.
+2.  On the **Customers** list page, select **Trey Research (20000)**.
 
-    12. On the **General** FastTab, in the **Salesperson Code** field, enter
-        **AH**
+3.  To open the customer card, select **Manage** and then select **Edit**.
 
-    13. Go to the next customer card for customer **Relecloud (50000)**.
+4.  On the **General** FastTab, in the **Salesperson Code** field, enter **AH**
 
-    14. On the **General** FastTab, in the **Salesperson Code** field, enter
-        **JR**
+5.  Go to the next customer card for customer **Relecloud (50000)**.
 
-    15. Go to the next customer card for customer **School of Fine Art
-        (30000)**.
+6.  On the **General** FastTab, in the **Salesperson Code** field, enter **JR**
 
-    16. On the **General** FastTab, in the **Salesperson Code** field, enter
-        **PS**
+7.  Go to the next customer card for customer **School of Fine Art (30000)**.
+
+8.  On the **General** FastTab, in the **Salesperson Code** field, enter **PS**
 
 Exercise 2: Configure sales pricing and discounts
 -------------------------------------------------
@@ -511,4 +507,3 @@ You must set up this sales price structure as provided by Contoso.
         2.  In the **Discount %** field, enter **5**.
 
     6.  Close the **Cust. Invoice Discounts** page.
-
