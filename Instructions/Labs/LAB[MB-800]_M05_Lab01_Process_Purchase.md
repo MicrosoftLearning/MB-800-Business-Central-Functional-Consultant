@@ -10,6 +10,12 @@ Hands-on-Lab 5.1: Process Purchase
 Exercise 1: Process a purchase from order to invoice and review the posted documents
 ------------------------------------------------------------------------------------
 
+Hands-on-Lab 5.1: Process Purchase
+==================================
+
+Exercise 1: Process a purchase from order to invoice and review the posted documents
+------------------------------------------------------------------------------------
+
 ### Scenario
 
 As the purchasing agent you are replenishing the stock for the European
@@ -64,41 +70,61 @@ the delivery delay. The invoice needs to be paid within 30 days.
     4.  On the opened vendor card, go to the **Invoicing** FastTab, and click
         **Show more**.
 
-    5.  Leave the **Currency Code** field blank.
+    5.  If you find no values under **Posting details** for **Gen.Bus.Posting
+        Group** and **Vendor Posting Group**. Please select **EU** and
+        **FOREIGN** respectively by filling in all the details)
+
+        Note- If you do not find the values in respective lists, please create
+        one and select accordingly.
+
+    6.  Leave the **Currency Code** field blank.
 
 2.  Create a purchase order.
 
-    1.  On the vendor card, select **New Document** and then select **Purchase
+    1.  Click on the search icon, Enter **General Posting Setup** and click on
+        the related link.
+
+    2.  Select EU under **Gen.Bus.Posting Group** for all the combination of
+        **Gen.Prod.Posting Group** that doesn’t have the value. Enter the
+        details same as the existing values for all the fields present.
+
+    3.  On the vendor card, select **New Document** and then select **Purchase
         Order**.
 
-    2.  On the **General** FastTab, fill in the following fields:
+    4.  On the **General** FastTab, Click on Show more. Fill in the following
+        fields:
 
         1.  In the **Document Date** and **Order Date** fields, enter
             **1/1/2023**.
 
         2.  In the **Alternate Vendor Address Code** field, enter **COMP&MON**.
+            If you don’t find in the list, please create new with **COMP&MON.**
 
         3.  In the **Vendor Order No.** field, enter **OC15-479**.
 
-    3.  On the **Invoice Details** FastTab, click **Show more** and then fill in
+    5.  On the **Invoice Details** FastTab, click **Show more** and then fill in
         the following fields:
 
         1.  In the **Requested Receipt Date** field, enter **1/05/2023**.
 
         2.  In the **Promised Receipt Date** field, enter **1/12/2023**.
 
-    4.  On the **Lines** section, enter a new line by filling in the following
+    6.  On the **Lines** section, enter a new line by filling in the following
         field:
 
         1.  In the **Type** field, enter **Item**.
 
-        2.  In the **No.** field, enter **CHW1002** for the **15” flat panels**.
+        2.  In the **No.** field, enter **CHW1002** for the **15”1501 FP flat
+            panels** (If you do not find the item, create a new one with the
+            name and description accordingly.)
 
         3.  In the **Location Code** field, the value **EUROP** is automatically
-            filled in.
+            filled in. (If the value is not automatically populated, please
+            select/create the value accordingly)
 
         4.  In the **Unit of Measure Code** field, the value **BOX** is
-            automatically filled in.
+            automatically filled in. If the value is not automatically
+            populated, please select/create the value accordingly)
 
         5.  In the **Quantity** field, enter **10**.
 
@@ -106,18 +132,19 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
         7.  In the **Tax Group Code**, enter **NONTAXABLE**.
 
-    5.  On the **Lines** section, enter a new line by filling in the following
+    7.  On the **Lines** section, enter a new line by filling in the following
         field:
 
         1.  In the **Type** field, enter **Item**.
 
-        2.  In the **No.** field, enter **CHW1003** for the **17” flat panels**.
+        2.  In the **No.** field, create a new item with name **CHW1003** and
+            description **17” M780 Monitor.**
 
-        3.  In the **Location Code** field, the value **EUROP** is automatically
-            filled in.
+        3.  In the **Location Code** field, Select the value **EUROP**.
 
-        4.  In the **Unit of Measure Code** field, the value **BOX** is
-            automatically filled in.
+        4.  In the **Unit of Measure Code** field, Select the value **BOX**. (If
+            the value is not automatically populated, please select/create the
+            value accordingly)
 
         5.  In the **Quantity** field, enter **5**.
 
@@ -125,13 +152,13 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
         7.  In the **Tax Group Code**, enter **NONTAXABLE**.
 
-    6.  Select **Release**.
+    8.  Select **Release**.
 
 3.  Receive items on the purchase order.
 
     1.  On the **General** FastTab, fill in the following fields:
 
-        1.  In the **Posting Date** field, enter **1/16/2022**.
+        1.  In the **Posting Date** field, enter **1/16/2023**.
 
         2.  In the **Vendor Shipment No.** field, enter **DN01-47**.
 
@@ -177,7 +204,8 @@ the delivery delay. The invoice needs to be paid within 30 days.
     8.  An **Add field to page** pane will appear on the right side.
 
     9.  Select **Line Discount %** from the **Add Field to Page** pane and drag
-        it to the right of **Quantity** column in the **Lines** area.
+        it to the right of **Quantity** column in the **Lines** area. Click on
+        **Done.**
 
     10. fill in the following fields:
 
@@ -241,7 +269,8 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 
     2.  In the **Purchase Return Orders** list page, select **+ New**.
 
-    3.  On the **General** FastTab, fill in the following fields:
+    3.  On the **General** FastTab, Click on Show more. Fill in the following
+        fields:
 
         1.  In the **Vendor Name** field, enter **Robert Townes (V9002)**.
 
@@ -251,12 +280,12 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
     4.  On the **Invoice Details** FastTab, in the **Payment Terms Code** field
         enter **30 DAYS**.
 
-    5.  Select **Prepare**, and then select **Get Posted Document Lines to
+    5.  Click on **Prepare** tab, and then select **Get Posted Document Lines to
         Reverse**…
 
     6.  In the opened page, fill in the following options:
 
-        1.  Select the **Show Reversible Lines Only** checkbox
+        1.  Select the **Show Reversible Lines Only** slider.
 
         2.  In the **Document Type Filter** field, enter the **Posted Invoices**
             option.
@@ -269,12 +298,11 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
         for **CHW1003** and then change the **Quantity** field to the value
         **1**.
 
-    8.  Select **Release**.
+    8.  Select **Release** under **Home** tab.
 
 2.  Ship the items.
 
-    1.  On the **General** FastTab, click **Show more** and then fill in the
-        following fields:
+    1.  On the **General** FastTab, fill in the following fields:
 
         1.  In the **Posting Date** field, enter **1/31/2023**.
 
@@ -296,7 +324,7 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 
     3.  Select the **Invoice** option and click **OK**.
 
-    4.  Click **No** to opening the posted purchase credit memo.
+    4.  Click **No** to open the posted purchase credit memo.
 
 Exercise 3: Process a purchase invoice for costs
 ------------------------------------------------
