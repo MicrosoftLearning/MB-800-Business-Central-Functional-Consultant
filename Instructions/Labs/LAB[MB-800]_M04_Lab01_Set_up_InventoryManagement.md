@@ -44,7 +44,7 @@ valuation, Contoso’s account manager has expressed the following requirements:
     2.  In the **Inventory Setup** page, go to the **Numbering** FastTab.
 
     3.  In the **Item Nos.** field, the value **ITEM** is already filled in.
-        Click on the Look Up Value button and select **+ New**.
+        Click on the drop-down and select **+ New**.
 
     4.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -159,6 +159,8 @@ template.
 
     4.  On the **Warehouse** FastTab, leave all the checkboxes deselected.
 
+    5.  Close the page until you are at Home page.
+
 2.  Set up an Inventory Posting Setup.
 
     1.  Select the search for page icon in the top-right corner of the page,
@@ -200,6 +202,11 @@ template.
         3.  In the **Direct Cost Applied Account** field, enter **50150**.
 
         4.  In the **Overhead Applied Account** field, enter **50150**.
+
+            **Note** – If you do not find the **COMPUTERHW**, you can create
+            from **the General Posting group** page by clicking on the empty
+            cell with values **DOMESTIC** and **COMPUTERHW** respectively under
+            Gen.Bus.Posting.Group and **Gen.Prod.Posting.Group.**
 
 3.  Set up Item Categories and Item Attributes.
 
@@ -515,4 +522,3 @@ template.
         2.  Click **OK** to close the FactBox.
 
     44. Close the item card.
-
