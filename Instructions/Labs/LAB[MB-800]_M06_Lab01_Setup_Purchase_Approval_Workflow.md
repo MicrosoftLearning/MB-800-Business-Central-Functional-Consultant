@@ -1,9 +1,8 @@
 ---
 lab:
     title: 'Lab: Setting up and using a purchase approval workflow'
-    module: 'Module 5: Integration and Automation'
+    module: 'Module 6: Integration and Automation'
 ---
-
 Hands-on-Lab 6.1: Setting up and using a purchase approval workflow
 ===================================================================
 
@@ -85,7 +84,8 @@ met:
         2.  Sign in with your **Office 365 Admin Tenant** credentials.
 
         3.  Select **Users \> Active users** from the left navigation pane. On
-            the **Active users** page, select **Add a user**.
+            the **Active users** page, select **Add a user**. (You can add as
+            many users as you want from this admin site)
 
         4.  On the **Set up basics** page, add the following details.
 
