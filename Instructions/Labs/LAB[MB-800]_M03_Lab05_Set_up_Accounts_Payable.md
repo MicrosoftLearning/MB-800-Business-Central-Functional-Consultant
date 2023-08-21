@@ -323,27 +323,40 @@ posting groups. Then apply these templates to the existing vendors.
 
 14. Select **Apply Template**.
 
-15. In the **Vendor Templates** list, select **Domestic vendors**, and click
+Note – If you do not find the vendors, you need to create the vendors
+accordingly and proceed with the next step. In the search area, type in Vendors
+and select the option accordingly.
+
+Select **New** and select Vendor Company. Enter the details: Vendor no –
+**V9001**, Name – **Adatum Corporation**, Under Invoicing select Tax Area Code –
+**Chicago**.
+
+Repeat the process for below Vendors
+
+1. V9003 - Try Research
+
+2. V9007 - Alphine Ski House
+
+1.  In the **Vendor Templates** list, select **Domestic vendors**, and click
     **OK.**
 
-16. Click **Yes**.
+2.  Click **Yes**.
 
-17. In the **Vendors** list page, multi-select imported vendors **V9002**,
+3.  In the **Vendors** list page, multi-select imported vendors **V9002**,
     **V9005** and **V9006**.
 
-18. Select **Apply Template**.
+4.  Select **Apply Template**.
 
-19. In the **Vendor Templates** list, select **EU vendors**, and click **OK.**
+5.  In the **Vendor Templates** list, select **EU vendors**, and click **OK.**
 
-20. Click **Yes**.
+6.  Click **Yes**.
 
-21. In the **Vendors** list page, multi-select imported vendors **V9004** and
+7.  In the **Vendors** list page, multi-select imported vendors **V9004** and
     **V9008**.
 
-22. Select **Apply Template**.
+8.  Select **Apply Template**.
 
-23. In the **Vendor Templates** list, select **Export vendors**, and click
+9.  In the **Vendor Templates** list, select **Export vendors**, and click
     **OK.**
 
-24. Click **Yes**.
-
+10. Click **Yes**.
