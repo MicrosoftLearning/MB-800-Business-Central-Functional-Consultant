@@ -58,7 +58,7 @@ accounting manager has expressed the following requirements:
 
         4.  Select the **Date Order** check box.
 
-    5.  Click the ellipses (…), select **Navigate** and then select **Lines**.
+    5.  Select the ellipsis (...) menu and select **Navigate**, then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
