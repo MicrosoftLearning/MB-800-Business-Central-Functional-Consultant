@@ -22,7 +22,7 @@ You initiate the process by creating a new company within the customers
 database, including some predefined setup information but without any business
 data.
 
-### Tasks
+### Task 1
 
 1.  Create a new company.
 
@@ -30,87 +30,90 @@ data.
 
 ### Steps
 
-1.  Create a new company.
+Create a new company.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Companies**, and then choose the related link.
+1.  Select the **Search** icon in the top-right corner of the page,
+        enter `Companies` and then choose the related link.
 
-    2.  In the **Companies** page, select **New** and then, **Create New
-        Company**
+2.  In the **Companies** page, select **New** and then, **Create New
+        Company**.
 
-    3.  The **Create New Company** wizard opens.
+3.  The **Create New Company** wizard opens.
 
-    4.  Click **Next**.
+4.  Select **Next**.
 
-    5.  As the company name, enter Contoso ‘*student name*’ Inc. (Replace
-        ‘*student name’* with your name so that each student has its own company
+5.  As the company name, enter `Contoso ‘student name’ Inc.` (Replace
+        ‘*student name’* with your name so that each student has their own company
         within the training database.)
 
-    6.  Select the option **Production – Setup Data Only**.
+6.  Select the option **Production – Setup Data Only**.
 
-    7.  Click **Next**.
+7.  Select **Next**.
 
-    8.  Skip the **Manage Users** option by clicking **Next**.
+8.  Skip the **Manage Users** option by selecting **Next**.
 
-    9.  Click **Finish** to create the company.
+9.  Select **Finish** to create the company.
 
-    10. Wait approximately 10 minutes for the company creation to complete.
+10. Wait approximately 10 minutes for the company creation to complete.
 
-    11. Refresh the **Companies** page to check the **Setup status**.
+11. Refresh the **Companies** page to check the **Setup status**.
 
-2.  Complete the **Company Setup** wizard.
+### Task 2
 
-    1.  Once the **Setup status** is changed to **Completed**, go to the
+Complete the **Company Setup** wizard.
+
+1.  Once the **Setup status** is changed to **Completed**, go to the
         **Settings** icon on the top-right corner.
 
-    2.  Select **My Settings**, to open the new company.
+2.  Select **My Settings**, to open the new company.
 
-    3.  Open the assist edit button (…) to the right of the **Company** textbox.
+3.  Open the assist edit button (…) to the right of the **Company** textbox.
 
-    4.  In the window that opens, select **Contoso Ltd** and click **OK**.
+4.  In the window that opens, select **Contoso Ltd** and select **OK**.
 
-    5.  Click **OK**.
+5.  Select **OK**.
 
-    6.  The new company opens and the **Company Setup** wizard automatically
+6.  The new company opens and the **Company Setup** wizard automatically
         opens.
 
-    7.  Click **Next**.
+7.  Select **Next**.
 
-    8.  Turn on the toggle to accept **Terms and Conditions**.
+8.  Turn on the toggle to accept **Terms and Conditions**.
 
-    9.  Select **Get started**.
+9.  Select **Get started**.
 
-    10. Select **My Settings** on the top-right corner, and then select
+10. Select **My Settings** on the top-right corner, and then select
         **Company information**.
 
-    11. On the **Company Information** page, enter the following information on
+11. On the **Company Information** page, enter the following information on
         the **General** tab.
 
-| Setting             | Value                 |
-|---------------------|-----------------------|
-| Name                | Contoso Ltd           |
-| Address             | 1432, Hamilton Street |
-| Address 2           | Westminster           |
-| City                | Atlanta               |
-| State               | GA                    |
-| Zip Code            | 31772                 |
-| Country/Region Code | US                    |
-| Contact Name        | Alex Brown            |
-| Phone Number        | \+14255550101         |
+| Setting             | Value                   |
+|---------------------|-------------------------|
+| Name                | `Contoso Ltd`           |
+| Address             | `1432, Hamilton Street` |
+| Address 2           | `Westminster`           |
+| City                | `Atlanta`               |
+| State               | `GA`                    |
+| Zip Code            | `31772`                 |
+| Country/Region Code | `US`                    |
+| Contact Name        | `Alex Brown`            |
+| Phone Number        | `\+14255550101`         |
 
-3.  Select the search for page icon in the top-right corner of the page, enter
-    **Accounting periods**, and then choose the related link.
+3.  Select the **Search** icon in the top-right corner of the page, enter
+    `Accounting periods` and then choose the related link.
 
 4.  On the **Accounting Periods** page, select **Create Year**.
 
 5.  On the **Create Fiscal Year** page, select **1/1/2022** in the **Starting
     Date** field.
 
-6.  Click **OK**.
+6.  Select **OK**.
 
 7.  A new **Fiscal Year** will be displayed on the **Accounting Periods** page.
 
 8.  Close all the pages.
+
 
 Exercise 3: Configure a new company
 -----------------------------------
@@ -136,12 +139,12 @@ You will start by copying the following data from the default CRONUS company:
 
 1.  Complete the configuration worksheet.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Configuration Worksheet**, and then choose the related link.
+    1.  Select the **Search** icon in the top-right corner of the page,
+        enter `Configuration Worksheet` and then choose the related link.
 
     2.  At the bottom of the worksheet, enter a new line.
 
-    3.  In the **Line Type** field, select **Group.**
+    3.  In the **Line Type** field, select **Group**.
 
     4.  In the **Name** field, enter **General Setup**.
 
@@ -151,7 +154,7 @@ You will start by copying the following data from the default CRONUS company:
 
     7.  Open the assist edit button to the right of the **Table ID** field.
 
-    8.  Search for **ZIP Code**, select table 225 and click **OK** to enter the
+    8.  Search for **ZIP Code**, select table 225 and select **OK** to enter the
         ID in the **Table ID** field.
 
     9.  Repeat steps e. to h. to enter table **10 Shipment Method**.
@@ -163,13 +166,13 @@ You will start by copying the following data from the default CRONUS company:
 
     2.  Open the assist edit button (…) to the right of the **Copy from** field.
 
-    3.  Select **Cronus USA Inc.** and click **OK** to enter the company in the
+    3.  Select **Cronus USA Inc.** and select **OK** to enter the company in the
         **Copy from** field.
 
     4.  Select the lines with the tables for ZIP codes and shipment methods.
 
     5.  In the menu select **Copy Data**.
 
-    6.  Click **Yes**.
+    6.  Select **Yes**.
 
-    7.  The data is now copied in the **Contoso Ltd company**. Click **OK**.
+    7.  The data is now copied in the **Contoso Ltd company**. Select **OK**.
