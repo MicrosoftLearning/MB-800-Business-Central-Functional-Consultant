@@ -48,3 +48,5 @@ Lab Credentials
 
 9.  You should now be able to see the **Dynamics 365 Business Central** portal.
 
+10. If necessary, select **Skip survey**.
+
