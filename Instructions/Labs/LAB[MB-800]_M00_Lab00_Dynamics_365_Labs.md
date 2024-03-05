@@ -26,24 +26,25 @@ slides to different parts of the course and teach the labs at different points.
 
 Lab Credentials
 
-1.  Open your browser and browse to the **Dynamics 365 Business Central**
-    homepage using the link
-    <https://dynamics.microsoft.com/en-us/business-central/overview/>
+1.  Open a new browser tab and navigate to the **Dynamics 365 Business Central**
+    homepage:
+    `https://dynamics.microsoft.com/en-us/business-central/overview`
 
-2.  Click **Try for free** tab on the **Dynamics 365 Business Central**
+2.  Select **Try for free** on the **Dynamics 365 Business Central**
     homepage.
 
-3.  Enter your **Office 365 tenant credentials** and click **Next**.
+3.  Enter your **Office 365 tenant credentials** and select **Next**.
 
-4.  Click on **Sign in** and then enter the password provided to you.
+4.  Select **Sign in** and then enter the password provided to you.
 
-5.  Click on **Get started**.
+5.  Select **Get started**.
 
-6.  Click on **Skip and go to Dynamics 365 Business Central**.
+6.  Select **Skip & go to Dynamics 365 Business Central**.
 
-7.  Click on **Get started**.
+7.  Select **Get started**.
 
-8.  It may take up to 1-2 mins to set up the **Dynamics 365 Business Central**
+8.  It may take up to 1-2 minutes to set up the **Dynamics 365 Business Central**
     environment.
 
 9.  You should now be able to see the **Dynamics 365 Business Central** portal.
+
