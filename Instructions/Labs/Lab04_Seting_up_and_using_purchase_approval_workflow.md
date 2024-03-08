@@ -1,15 +1,5 @@
----
-lab:
-    title: 'Lab: Set up Finance Management'
-    module: 'Module 3: Configure Financials'
----
-
-Hands-on-Lab 3.1: Set Up Finance Management
+Hands-on-Lab 04: Setting up and using a purchase approval workflow
 ===========================================
-
-Exercise 1: Create a new fiscal year
-------------------------------------
-
 ### Scenario
 
 When setting up the company you were misinformed about Contoso’s fiscal year.
