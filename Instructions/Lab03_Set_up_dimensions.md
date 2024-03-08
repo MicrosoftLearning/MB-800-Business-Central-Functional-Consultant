@@ -1,14 +1,8 @@
----
-lab:
-    title: 'Lab: Set up dimensions'
-    module: 'Module 2: Application Setup'
----
+Exercise 3 : Set up dimensions
+==============================
 
-Hands-on-Lab 2.3: Set up dimensions
-===================================
-
-Exercise 1: Set up a dimension with dimension values
-----------------------------------------------------
+Task 1: Set up a dimension with dimension values
+------------------------------------------------
 
 ### Scenario
 
@@ -17,13 +11,13 @@ Contoso has expressed their requirements regarding reporting goals.
 From the general ledger they would like to analyze their sales by sales person
 and customer group, using the following pivot-table:
 
-They want to see both the income and the granted discounts for each sales
+They want to see both the income and the discounts granted for each sales
 person.
 
 A dimension for the customer group already exists, but it is up to you to create
 a dimension for sales people as well.
 
-### Tasks
+You will perform -
 
 1.  Set up a dimension with dimension values
 
@@ -69,14 +63,14 @@ To keep their analytical information as consistent as possible they would like
 to make sure that Business Central obligates the user to enter dimension
 information when posting sales transactions.
 
-Every time a sales transactions is registered the customer’s group should be
-added and the sales person’s code should be entered.
+Every time a sales transaction is registered the customer’s group should be
+added and the salesperson’s code should be entered.
 
-When a new customer is created they are categorized to a certain group, which
-will be evaluated on a yearly basis. The customer however can be serviced by
-different sales people responsible for their customer group.
+When a new customer is created, they are categorized to a certain group, which
+will be evaluated on a yearly basis. The customer, however, can be serviced by
+different salespeople responsible for their customer group.
 
-### Tasks
+You will perform -
 
 1.  Assign Account Type Default Dimensions for the customer group.
 
@@ -145,7 +139,7 @@ Make sure the following requirements are met:
 
     -   Richard Lum
 
-### Tasks
+You will perform -
 
 1.  Limit a dimension combination.
 
@@ -171,7 +165,7 @@ Make sure the following requirements are met:
         of the combination of the CUSTOMERGROUP and SALESPERSON_NEWLIST
         dimension in the matrix.
 
-    2.  Click **Yes**.
+    2.  Click **Yes** to view the list of values.
 
     3.  Click on the combination of the AH and MEDIUM dimension values in the
         matrix.
