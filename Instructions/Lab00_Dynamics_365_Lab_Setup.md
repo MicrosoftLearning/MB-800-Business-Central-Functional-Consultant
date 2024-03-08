@@ -1,10 +1,3 @@
----
-lab:
-    title: 'Lab: Validate lab environment'
-    module: 'Module 0: Course introduction'
----
-
-
 Module 0: Course introduction
 ========================
 
