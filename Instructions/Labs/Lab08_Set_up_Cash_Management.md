@@ -1,14 +1,8 @@
----
-lab:
-    title: 'Lab: Set up Cash Management'
-    module: 'Module 3: Configure Financials'
----
+Exercise 8: Set Up Cash Management
+==================================
 
-Hands-on-Lab 3.4: Set Up Cash Management
-========================================
-
-Exercise 1: Create a bank account
----------------------------------
+Task 1: Create a bank account
+-----------------------------
 
 ### Scenario
 
@@ -21,7 +15,7 @@ Details of this bank account are:
 
 IBAN: BE13 3200 0461 4139 – BIC: BBRUBEBB
 
-### **Tasks**
+You will perform:
 
 1.  Create a bank account.
 
@@ -73,7 +67,7 @@ exercise 1. If not, complete this first.)*
 
 You need to complete the correct bank posting group setup.
 
-### Tasks
+You will perform:
 
 1.  Create a bank account posting group.
 
@@ -92,7 +86,10 @@ You need to complete the correct bank posting group setup.
 
     4.  In the **G/L Account No.** field, enter **10250**.
 
-2.  Assign the bank account posting group.
+Note – If you do not find the G/L Account No. – Please proceed with creating a
+new.
+
+1.  Assign the bank account posting group.
 
     1.  Select the search for page icon in the top-right corner of the page,
         enter **Bank Accounts**, and then choose the related link.
@@ -102,3 +99,4 @@ You need to complete the correct bank posting group setup.
 
     3.  On the **Posting** FastTab, in the **Bank Acc. Posting Group** field,
         enter the new bank account posting group **EUROP**.
+
