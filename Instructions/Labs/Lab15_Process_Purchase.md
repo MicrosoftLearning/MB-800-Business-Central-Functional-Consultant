@@ -1,20 +1,8 @@
----
-lab:
-    title: 'Lab: Process Purchase'
-    module: 'Module 5: Process Operations'
----
+Exercise 15: Process Purchase
+=============================
 
-Hands-on-Lab 5.1: Process Purchase
-==================================
-
-Exercise 1: Process a purchase from order to invoice and review the posted documents
-------------------------------------------------------------------------------------
-
-Hands-on-Lab 5.1: Process Purchase
-==================================
-
-Exercise 1: Process a purchase from order to invoice and review the posted documents
-------------------------------------------------------------------------------------
+Task 1: Process a purchase from order to invoice and review the posted documents
+--------------------------------------------------------------------------------
 
 ### Scenario
 
@@ -29,22 +17,22 @@ delivered on January 5th, 2023:
 
 -   50 pieces of the 17” monitor at \$ 5,348.56 a box, containing 10 pieces
 
-The purchase request is confirmed by the vendor on January 8th, 2023 with order
+The purchase request is confirmed by the vendor on January 8th, 2023, with order
 confirmation OC15-479. They mention a delivery delay of a couple of days,
 expecting to be able to deliver the entire order on January 12th, 2023.
 
-Eventually the goods are delivered with delivery note DN01-47 on January 16th,
-2023 as follows:
+Eventually the goods are delivered with delivery notes DN01-47 on January 16th,
+2023, as follows:
 
 -   11 boxes of the 15” flat panel – this is 1 box more than ordered
 
 -   4 boxes of the 17” monitor – this is 1 box less than ordered
 
 The purchase invoice with number 20-0747 is received by mail on January 20th,
-2023 where a 5% discount is granted on the 15” monitors as a compensation for
+2023, where a 5% discount is granted on the 15” monitors as a compensation for
 the delivery delay. The invoice needs to be paid within 30 days.
 
-### Tasks
+You will perform-
 
 1.  Change the currency code on the vendor.
 
@@ -70,61 +58,41 @@ the delivery delay. The invoice needs to be paid within 30 days.
     4.  On the opened vendor card, go to the **Invoicing** FastTab, and click
         **Show more**.
 
-    5.  If you find no values under **Posting details** for **Gen.Bus.Posting
-        Group** and **Vendor Posting Group**. Please select **EU** and
-        **FOREIGN** respectively by filling in all the details)
-
-        Note- If you do not find the values in respective lists, please create
-        one and select accordingly.
-
-    6.  Leave the **Currency Code** field blank.
+    5.  Leave the **Currency Code** field blank.
 
 2.  Create a purchase order.
 
-    1.  Click on the search icon, Enter **General Posting Setup** and click on
-        the related link.
-
-    2.  Select EU under **Gen.Bus.Posting Group** for all the combination of
-        **Gen.Prod.Posting Group** that doesn’t have the value. Enter the
-        details same as the existing values for all the fields present.
-
-    3.  On the vendor card, select **New Document** and then select **Purchase
+    1.  On the vendor card, select **New Document** and then select **Purchase
         Order**.
 
-    4.  On the **General** FastTab, Click on Show more. Fill in the following
-        fields:
+    2.  On the **General** FastTab, fill in the following fields:
 
         1.  In the **Document Date** and **Order Date** fields, enter
             **1/1/2023**.
 
         2.  In the **Alternate Vendor Address Code** field, enter **COMP&MON**.
-            If you don’t find in the list, please create new with **COMP&MON.**
 
         3.  In the **Vendor Order No.** field, enter **OC15-479**.
 
-    5.  On the **Invoice Details** FastTab, click **Show more** and then fill in
+    3.  On the **Invoice Details** FastTab, click **Show more** and then fill in
         the following fields:
 
         1.  In the **Requested Receipt Date** field, enter **1/05/2023**.
 
         2.  In the **Promised Receipt Date** field, enter **1/12/2023**.
 
-    6.  On the **Lines** section, enter a new line by filling in the following
+    4.  On the **Lines** section, enter a new line by filling in the following
         field:
 
         1.  In the **Type** field, enter **Item**.
 
-        2.  In the **No.** field, enter **CHW1002** for the **15”1501 FP flat
-            panels** (If you do not find the item, create a new one with the
-            name and description accordingly.)
+        2.  In the **No.** field, enter **CHW1002** for the **15” flat panels**.
 
         3.  In the **Location Code** field, the value **EUROP** is automatically
-            filled in. (If the value is not automatically populated, please
-            select/create the value accordingly)
+            filled in.
 
         4.  In the **Unit of Measure Code** field, the value **BOX** is
-            automatically filled in. If the value is not automatically
-            populated, please select/create the value accordingly)
+            automatically filled in.
 
         5.  In the **Quantity** field, enter **10**.
 
@@ -132,19 +100,18 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
         7.  In the **Tax Group Code**, enter **NONTAXABLE**.
 
-    7.  On the **Lines** section, enter a new line by filling in the following
+    5.  On the **Lines** section, enter a new line by filling in the following
         field:
 
         1.  In the **Type** field, enter **Item**.
 
-        2.  In the **No.** field, create a new item with name **CHW1003** and
-            description **17” M780 Monitor.**
+        2.  In the **No.** field, enter **CHW1003** for the **17” flat panels**.
 
-        3.  In the **Location Code** field, Select the value **EUROP**.
+        3.  In the **Location Code** field, the value **EUROP** is automatically
+            filled in.
 
-        4.  In the **Unit of Measure Code** field, Select the value **BOX**. (If
-            the value is not automatically populated, please select/create the
-            value accordingly)
+        4.  In the **Unit of Measure Code** field, the value **BOX** is
+            automatically filled in.
 
         5.  In the **Quantity** field, enter **5**.
 
@@ -152,13 +119,13 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
         7.  In the **Tax Group Code**, enter **NONTAXABLE**.
 
-    8.  Select **Release**.
+    6.  Select **Release**.
 
 3.  Receive items on the purchase order.
 
     1.  On the **General** FastTab, fill in the following fields:
 
-        1.  In the **Posting Date** field, enter **1/16/2023**.
+        1.  In the **Posting Date** field, enter **1/16/2022**.
 
         2.  In the **Vendor Shipment No.** field, enter **DN01-47**.
 
@@ -204,8 +171,7 @@ the delivery delay. The invoice needs to be paid within 30 days.
     8.  An **Add field to page** pane will appear on the right side.
 
     9.  Select **Line Discount %** from the **Add Field to Page** pane and drag
-        it to the right of **Quantity** column in the **Lines** area. Click on
-        **Done.**
+        it to the right of **Quantity** column in the **Lines** area.
 
     10. fill in the following fields:
 
@@ -239,8 +205,8 @@ the delivery delay. The invoice needs to be paid within 30 days.
 
     10. Close the **Find Entries** page.
 
-Exercise 2: Process the return of a purchase from return order to credit memo
------------------------------------------------------------------------------
+Task 2: Process the return of a purchase from return order to credit memo
+-------------------------------------------------------------------------
 
 ### Scenario
 
@@ -252,7 +218,7 @@ The purchase credit memo, with the same payment conditions as the invoice, and
 with number 20-CN0747, is received by mail on February 3rd, 2023. The correct
 amount of \$ 4,999.89 a box will be repaid to Contoso.
 
-### Tasks
+You will perform -
 
 1.  Create a purchase return order
 
@@ -269,8 +235,7 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 
     2.  In the **Purchase Return Orders** list page, select **+ New**.
 
-    3.  On the **General** FastTab, Click on Show more. Fill in the following
-        fields:
+    3.  On the **General** FastTab, fill in the following fields:
 
         1.  In the **Vendor Name** field, enter **Robert Townes (V9002)**.
 
@@ -280,12 +245,12 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
     4.  On the **Invoice Details** FastTab, in the **Payment Terms Code** field
         enter **30 DAYS**.
 
-    5.  Click on **Prepare** tab, and then select **Get Posted Document Lines to
+    5.  Select **Prepare**, and then select **Get Posted Document Lines to
         Reverse**…
 
     6.  In the opened page, fill in the following options:
 
-        1.  Select the **Show Reversible Lines Only** slider.
+        1.  Select the **Show Reversible Lines Only** checkbox
 
         2.  In the **Document Type Filter** field, enter the **Posted Invoices**
             option.
@@ -298,11 +263,12 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
         for **CHW1003** and then change the **Quantity** field to the value
         **1**.
 
-    8.  Select **Release** under **Home** tab.
+    8.  Select **Release**.
 
 2.  Ship the items.
 
-    1.  On the **General** FastTab, fill in the following fields:
+    1.  On the **General** FastTab, click **Show more** and then fill in the
+        following fields:
 
         1.  In the **Posting Date** field, enter **1/31/2023**.
 
@@ -326,12 +292,12 @@ amount of \$ 4,999.89 a box will be repaid to Contoso.
 
     4.  Click **No** to open the posted purchase credit memo.
 
-Exercise 3: Process a purchase invoice for costs
-------------------------------------------------
+Task 3: Process a purchase invoice for costs
+--------------------------------------------
 
 ### Scenario
 
-The accounting department at Contoso, receives a cost invoice from vendor Robert
+The accounting department at Contoso receives a cost invoice from vendor Robert
 Townes, with an invoice date 3/6/2023 and invoice number OW-21-M2458. The
 invoice needs to be paid within 15 days.
 
@@ -343,7 +309,7 @@ vendor (see Lab 4.2 exercise 4).
 
 You need to process the invoice.
 
-### Tasks
+You will perform
 
 1.  Process a purchase invoice using recurring purchase lines
 
@@ -381,4 +347,4 @@ You need to process the invoice.
 
     7.  Click **Yes** to post.
 
-    8.  Click **No** to opening the posted invoice.
+    8.  Click **No** to open the posted invoice.
