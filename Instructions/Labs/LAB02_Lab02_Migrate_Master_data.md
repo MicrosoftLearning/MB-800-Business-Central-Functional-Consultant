@@ -1,11 +1,8 @@
----
-lab:
-    title: 'Lab: Migrate master data to a new company'
-    module: 'Module 2: Application Setup'
----
+Exercise 2 - Migrate master data to a new company
+=================================================
 
-Exercise 1: Create and export a configuration package
------------------------------------------------------
+Task 1: Create and export a configuration package
+-------------------------------------------------
 
 ### Scenario
 
@@ -23,7 +20,7 @@ following example.
 
 The following information is returned to you by Contoso’s super user:
 
-### Tasks
+You will perform -
 
 1.  Create a configuration package.
 
@@ -58,13 +55,14 @@ The following information is returned to you by Contoso’s super user:
 
     4.  Then press ENTER or TAB.
 
-    5.  You will be asked to check related tables, click **No**.
-
-    6.  Make sure the vendor table line is selected, select **Table** and then
+    5.  Make sure the vendor table line is selected, select **Table** and then
         **Fields**.
 
-    7.  On the field list page, first select **Clear Included**, to deselect the
-        **Include Field** checkbox for all the fields.
+    6.  You will be asked to check related tables, click **No**.
+
+    7.  Click on fields again. On the field list page, first select **Clear
+        Included**, to deselect the **Include Field** checkbox for all the
+        fields.
 
     8.  Then select the **Include Field** checkbox for the following fields:
 
@@ -98,12 +96,13 @@ The following information is returned to you by Contoso’s super user:
 
     1.  Open the exported excel file from the **Downloads** folder.
 
-    2.  Enter the information as provided by Contoso.
+    2.  Navigate to the Vendors List File. Copy and paste the information as
+        provided by Contoso.
 
     3.  Save the excel file.
 
-Exercise 2: Import and apply a configuration package
-----------------------------------------------------
+Task 2: Import and apply a configuration package
+------------------------------------------------
 
 ### Scenario
 
@@ -114,7 +113,7 @@ During this process, you want to make sure the data is validated and when
 missing, the related tables will be automatically updated with newly provided
 values.
 
-### Tasks
+You will perform -
 
 1.  Import a configuration package from excel.
 
@@ -131,17 +130,18 @@ values.
 
     2.  In the **Config. Package Card** page, select **Import from Excel**.
 
-    3.  Click **Choose…** and select the excel file.
+    3.  Click on **Click here to browse…** and select the excel file that you
+        updated in previous exercise.
 
     4.  Click **Open**.
 
-    5.  In the preview page, select **Import**.
+    5.  Select **Import**.
 
 2.  Apply a configuration package.
 
     1.  In the **Config. Package Card** page, select **Apply Package**.
 
-    2.  Click **Yes**.
+    2.  Click **Yes** to confirm.
 
     3.  Click **OK**.
 
@@ -174,19 +174,19 @@ values.
 
     10. In the **Config. Package Card** page, select **Apply Package**.
 
-    11. Click **Yes**.
+    11. Click **Yes** to confirm.
 
     12. Click **OK**.
 
-Exercise 3: Import and apply a predefined package
--------------------------------------------------
+Task 3: Import and apply a predefined package
+---------------------------------------------
 
 ### Scenario
 
 For the further ease of the labs during the course, you will migrate the data
 from the default CRONUS USA company within the database.
 
-### Tasks
+You will perform -
 
 1.  Import and apply a predefined package.
 
@@ -205,7 +205,7 @@ from the default CRONUS USA company within the database.
     4.  Select the imported configuration package, select **Package**, and then
         select **Apply Package**.
 
-    5.  Click **Yes**.
+    5.  Click **Yes** to confirm.
 
     6.  A warning appears, where you select the **I understand, and want to
         continue** checkbox and click **OK**.
