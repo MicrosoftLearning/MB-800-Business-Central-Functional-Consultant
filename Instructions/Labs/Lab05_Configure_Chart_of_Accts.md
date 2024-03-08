@@ -1,19 +1,8 @@
----
-lab:
-    title: 'Lab: Configure Chart of Accounts'
-    module: 'Module 3: Configure Financials'
----
+Exercise 5: Configure Chart of Accounts and Posting Groups
+==========================================================
 
-Hands-on-Lab 3.2: Configure Chart of Accounts
-=============================================
-
-Exercise 1: Configure the Chart of Accounts
--------------------------------------------
-
-### Scenario
-
-Exercise 1: Configure the Chart of Accounts
--------------------------------------------
+Task 1: Configure the Chart of Accounts
+---------------------------------------
 
 ### Scenario
 
@@ -34,16 +23,13 @@ staff-related expenses and other expenses. All staff-related expenses are posted
 to the g/l accounts 60700 until 61100, where it is obligated to indicate a
 specific department each time an expense is made.
 
-
-![](https://github.com/MicrosoftLearning/MB-800-Business-Central-Functional-Consultant/blob/master/Instructions/Labs/media/MB800_2021_Lab%203.2_chart_of_accounts.png)
-
 Your first job is to make sure the g/l accounts are created correctly and that
 the necessary dimensions are connected.
 
 *Remark: for the income statement accounts, make sure to fill in the Tax Group
 Code with the NONTAXABLE value.*
 
-### Tasks
+You will perform
 
 1.  Create a G/L Account card.
 
@@ -93,7 +79,7 @@ Code with the NONTAXABLE value.*
 
         7.  Close the **G/L Account Card** page.
 
-    6.  Repeat steps c and d for account **10475**.
+    6.  Repeat steps c for account **10475**.
 
     7.  In the **Chart of Accounts** page, select **+ New**.
 
@@ -132,7 +118,7 @@ Code with the NONTAXABLE value.*
 
         7.  Close the **G/L Account Card** page.
 
-    11. Repeat steps h and i for the account **20175**.
+    11. Repeat steps h for the account **20175**.
 
     12. In the **Chart of Accounts** page, select **+ New**.
 
@@ -147,7 +133,7 @@ Code with the NONTAXABLE value.*
 
         4.  In the **Account Category** field, enter the value **Income**
 
-        5.  In the **Account Subcategory** field, enter the value **Income
+        5.  In the **Account Subcategory** field, enter the value **Income,
             Product Sales**.
 
         6.  Deselect the **Direct Posting** checkbox.
@@ -226,15 +212,15 @@ Code with the NONTAXABLE value.*
 
         8.  Close the **G/L Account Card** page.
 
-    20. In the **Chart of Accounts** page, select **Process** and then select
+    20. In the **Chart of Accounts** page, select **Home** and then select
         **Indent Chart of Accounts**.
 
     21. Click **Yes**.
 
 2.  Assign default dimensions to multiple G/L Accounts.
 
-    1.  In the **Chart of Accounts** page, select general ledger accounts 60700
-        until 61100.
+    1.  In the **Chart of Accounts** page, select general ledger accounts 60110
+        until 61170.
 
     2.  Select **Account**, then **Dimensions-Multiple**, and then select
         **Dimensions – Multiple**.
@@ -246,3 +232,191 @@ Code with the NONTAXABLE value.*
     5.  In the **Value Posting** field, enter the value **Code Mandatory**.
 
     6.  Click **OK**.
+
+Task 2: Set up posting groups
+-----------------------------
+
+### Scenario
+
+Contoso recently decided to start selling computer hardware through their
+European web shop. To keep track of these new line of product, they will record
+these sales on a separate income statement account 40210, apart from the other
+retail activities. They will have to comply to European legislation and
+calculate 15% VAT on all their web shop sales. This VAT amount will be posted to
+the general ledger account 61850. *(Remark: this is just for exercise purposes
+and not based on actual legislation.)*
+
+The products are mainly purchased with export vendors, no VAT needs to be paid
+in these countries. Purchase with EU vendors is however also possible.
+
+The necessary general ledger accounts were already created in the previous
+exercise. It is now up to you to complete the General Posting Setup and the VAT
+Posting Setup.
+
+You will perform
+
+1.  Create a VAT Product Posting Group.
+
+2.  Create a VAT Business Posting Group.
+
+3.  Complete the Tax Posting Setup.
+
+4.  Create a Product Posting Group.
+
+5.  Create a Business Posting Group.
+
+6.  Complete the General Posting Setup.
+
+### Steps
+
+1.  Create a VAT Product Posting Group.
+
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **VAT Product Posting Groups**, and then choose the related link.
+
+    2.  In the **VAT Product Posting Groups** page, select **+ New**.
+
+    3.  In the **Code** field, enter **G15**.
+
+    4.  In the **Description** field, enter **Goods 15%.**
+
+2.  Create a VAT Business Posting Group.
+
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **VAT Business Posting Groups**, and then choose the related link.
+
+    2.  In the **VAT Business Posting Groups** page, select **+ New**.
+
+    3.  In the **Code** field, enter **EU**.
+
+    4.  In the **Description** field, enter **EU**.
+
+3.  Complete the Tax Posting Setup.
+
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **Tax Posting Setup**, and then choose the related link.
+
+    2.  In the **Tax Posting Setup** page, select **+ New**.
+
+    3.  In the new tax posting setup card, fill in the following fields:
+
+        1.  In the **VAT Bus. Posting Group** field, enter **EU**.
+
+        2.  In the **VAT Prod. Posting Group** field, enter **G15**.
+
+        3.  In the **VAT Calculation Type** field, enter **Normal Tax**.
+
+        4.  In the **Description** field, enter **web shop sales**.
+
+        5.  In the **Tax%** field, enter **15**.
+
+        6.  In the **Tax Identifier** field, enter **G15**.
+
+        7.  In the **Sales Tax Account** field, enter **61850**.
+
+4.  Create a Product Posting Group.
+
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **General Product Posting Groups**, and then choose the related
+        link.
+
+    2.  In the **General Product Posting Groups** page, select **+ New**.
+
+    3.  In the **Code** field, enter **COMPUTERHW**.
+
+    4.  In the **Description** field, enter **computer hardware**.
+
+    5.  In the **Def. VAT Prod. Posting Group** field, enter **G15**.
+
+5.  Create a Business Posting Group
+
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **Gen. Business Posting Groups**, and then choose the related
+        link.
+
+    2.  In the **Gen. Business Posting Groups** page, select **+ New**.
+
+    3.  In the **Code** field, enter **EU**.
+
+    4.  In the **Description** field, enter **EU customer and vendors**.
+
+    5.  In the **Def. VAT Bus. Posting Group** field, enter **EU**.
+
+    6.  In the **Gen. Business Posting Groups** page, select **+ New**.
+
+    7.  In the **Code** field, enter **EXPORT**.
+
+    8.  In the **Description** field, enter **Export customer and vendors**.
+
+    9.  Leave the **Def. VAT Bus. Posting Group** field blank.
+
+6.  Complete the General Posting Setup.
+
+    1.  Select the search for page icon in the top-right corner of the page,
+        enter **General Posting Setup**, and then choose the related link.
+
+    2.  In the **General Posting Setup** page, select **+ New**.
+
+    3.  In the new general posting setup card, in the **General** FastTab, fill
+        in the following fields:
+
+        1.  In the **Gen. Bus. Posting Group** field, fill in **EU**.
+
+        2.  In the **Gen. Prod. Posting Group** field, fill in **COMPUTERHW**.
+
+    4.  Select **Copy**.
+
+    5.  In the page that opens, fill in the following fields:
+
+        1.  In the **Gen. Bus. Posting Group** field, fill in **DOMESTIC**.
+
+        2.  In the **Gen. Prod. Posting Group** field, fill in **RETAIL**.
+
+        3.  In the **Copy** field, select the **All fields** option.
+
+        4.  Leave all the checkboxes selected.
+
+        5.  Click **OK**.
+
+        6.  Click **Yes**.
+
+    6.  In the new general posting setup card, in the **Sales** FastTab, change
+        the following fields:
+
+        1.  In the **Sales Account** field, update the value to 40210
+
+        2.  In the **Sales Credit Memo Account** field, update the value to
+            40210
+
+    7.  In the new general posting setup card, in the **Purchases** FastTab,
+        change the following fields:
+
+        1.  In the **Purch. Account** field, update the value to 50150.
+
+        2.  In the **Purch. Credit Memo Account** field, update the value to
+            50150.
+
+    8.  In the **General Posting Setup** page, select **+ New**.
+
+    9.  In the new general posting setup card, in the **General** FastTab, fill
+        in the following fields:
+
+        1.  In the **Gen. Bus. Posting Group** field, fill in **EXPORT**.
+
+        2.  In the **Gen. Prod. Posting Group** field, fill in **COMPUTERHW**.
+
+    10. Select **Copy**.
+
+    11. In the page that opens, fill in the following fields:
+
+        1.  In the **Gen. Bus. Posting Group** field, fill in **EU**.
+
+        2.  In the **Gen. Prod. Posting Group** field, fill in **COMPUTERHW**.
+
+        3.  In the **Copy** field, select the **All fields** option.
+
+        4.  Leave all the checkboxes selected.
+
+        5.  Click **OK**.
+
+        6.  Click **Yes**.
