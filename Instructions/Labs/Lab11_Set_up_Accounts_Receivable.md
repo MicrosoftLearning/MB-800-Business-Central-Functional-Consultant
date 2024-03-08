@@ -1,17 +1,8 @@
----
-lab:
-    title: 'Lab: Set up Accounts Receivables'
-    module: 'Module 3: Configure Financials'
----
+Exercise 11: Set Up Accounts Receivable
+=======================================
 
-Exercise 1: Configure the Sales & Receivables Setup
----------------------------------------------------
-
-Hands-on-Lab 3.6: Set Up Accounts Receivable
-============================================
-
-Exercise 1: Configure the Sales & Receivables Setup
----------------------------------------------------
+Task 1: Configure the Sales & Receivables Setup
+-----------------------------------------------
 
 ### Scenario
 
@@ -26,7 +17,7 @@ expressed the following requirements:
     and assigned in the Sales & Receivables Setup)*
 
 -   Posted sales invoices are numbered based on the year and month in which they
-    are posted. The first sales invoice, as of January 1st 2022, will be posted
+    are posted. The first sales invoice, as of January 1st, 2024, will be posted
     with the number S22/01/0001. The next month will be S22/02/0001 and so on.
 
 -   A separate g/l account 40300 is setup to record invoice discounts only that
@@ -38,7 +29,7 @@ expressed the following requirements:
     customer. When this limit is reached, salespeople have to communicate with
     the finance department before going ahead with the sale.
 
-### Tasks
+You will perform
 
 1.  Set up and assign number series
 
@@ -56,8 +47,8 @@ expressed the following requirements:
     2.  In the **Sales & Receivables Setup** page, go to the **Number Series**
         FastTab.
 
-    3.  In the **Customer No’s** field, the value CUST is already filled in.
-        Click on the drop-down and select **+ New**.
+    3.  In the **Customer** field, the value CUST is already filled in. Click on
+        the Look Up Value button and select **+ New**.
 
     4.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -92,14 +83,14 @@ expressed the following requirements:
 
     12. Close the **No. Series Relationships** page.
 
-    13. Close the **No. Series List** page, by clicking **OK**.
+    13. Close the **No. Series List** page by clicking **OK**.
 
     14. You are now back in the **Sales & Receivables Setup** page, on the
         **Number Series** FastTab.
 
     15. In the **Posted Invoice Nos.** field, the value **S-INV+** is already
-        filled in. Click on the drop-down and then click **Select from full
-        list.**
+        filled in. Click on the Look Up Value button and then click **Select
+        from full list.**
 
     16. In the opened **No. Series List** page, the number series **S-INV+** is
         automatically selected.
@@ -108,7 +99,7 @@ expressed the following requirements:
 
     18. In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **1/1/2022**.
+        1.  In the **Starting Date** field, enter **1/1/2023**.
 
         2.  In the **Starting No.** field, enter **S22/01/0001**.
 
@@ -116,7 +107,7 @@ expressed the following requirements:
 
     19. In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **2/1/2022**.
+        1.  In the **Starting Date** field, enter **2/1/2023**.
 
         2.  In the **Starting No.** field, enter **S22/02/0001**.
 
@@ -124,7 +115,7 @@ expressed the following requirements:
 
     20. Close the **No. Series Lines** page.
 
-    21. Close the **No. Series List** page, by clicking **OK**.
+    21. Close the **No. Series List** page by clicking **OK**.
 
     22. The number series **S-INV+** remains filled in in the **Posted Invoice
         Nos.** field, in the **Sales & Receivables Setup** page.
@@ -135,7 +126,7 @@ expressed the following requirements:
         FastTab.
 
     2.  In the **Discount Posting** field, select the **Invoice Discounts**
-        option. Close the page.
+        option.
 
     3.  Select the search for page icon in the top-right corner of the page,
         enter **General Posting Setup**, and then choose the related link.
@@ -143,7 +134,8 @@ expressed the following requirements:
     4.  In the **General Posting Setup** page, for each possible combination of
         **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure
         the **Sales Inv. Disc. Account** field is filled in with the value
-        **40300**.
+        **40301**. If you are unable to see, please proceed with the creating a
+        new.
 
 3.  Activate credit limit warning
 
@@ -152,8 +144,8 @@ expressed the following requirements:
 
     2.  In the **Credit Warnings** field, select the **Credit Limit** option.
 
-Exercise 2: Create and configure customers
-------------------------------------------
+Task 2: Create and configure customers
+--------------------------------------
 
 ### Scenario
 
@@ -187,11 +179,11 @@ You need to create this customer manually.
 *Remark: before starting this exercise, first disable the existing configuration
 templates for customers: CUST000001 & CUST000002*
 
-### Tasks
+You will perform
 
 1.  Set up a Customer Posting Group.
 
-2.  Create and configure a new customer.
+2.  Create and configure a new customer
 
 ### Steps
 
@@ -222,13 +214,14 @@ templates for customers: CUST000001 & CUST000002*
 
         2.  In the **Description** field, fill in **Intercompany customers**.
 
-        3.  In the **Receivable Account** field, fill in **10475**.
+        3.  In the **Payables Account** field fill in **10475**.
 
         4.  Close the page.
 
     6.  From the **Customer Posting Groups** page, copy the other g/l accounts
         from the DOMESTIC customer posting group to the **FOREIGN** and
-        **INTERCOMPANY** customer posting groups. Copy the following fields:
+        **INTERCOMPANY** customer posting groups using F8. Copy the following
+        fields:
 
         1.  Payment Disc. Debit Acc.
 
@@ -274,8 +267,8 @@ templates for customers: CUST000001 & CUST000002*
 
     9.  Click **Show more**.
 
-    10. In the **Document Sending Profile** field, click on the drop-down and
-        click **+ New**.
+    10. In the **Document Sending Profile** field, click on the Look Up Value
+        button and click **+ New**.
 
     11. In the opened **Document Sending Profile** card page, fill in the
         following fields:
@@ -305,8 +298,8 @@ templates for customers: CUST000001 & CUST000002*
 
     16. Go to the **Payments** FastTab.
 
-    17. In the **Payment Terms Code** field, click on the drop-down and click
-        **+ New**.
+    17. In the **Payment Terms Code** field, click on the Look Up Value button
+        and click **+ New**.
 
     18. In the opened **Payment Terms** page, select **+ New** and fill in the
         following fields:
@@ -340,13 +333,14 @@ templates for customers: CUST000001 & CUST000002*
         4.  Click the **Bal. Account No.** field, and then click **Select from
             full list**.
 
-        5.  On the **G/L Account list** page, select account number **20500**
-            and click **Edit**.
+        5.  On the **G/L Account list** page, select account number
+            **20500/Credit Cards** and click **Edit**. Create a new account if
+            you do not find it from the list.
 
         6.  On the **G/L Account Card** of **20500**, enable **Direct Posting**
             toggle.
 
-        7.  Close the **G/L Account Card**. Click on **OK.**
+        7.  Close the **G/L Account Card**.
 
         8.  The account number **20500** is automatically filled in the **Bal.
             Account No.** field.
@@ -371,8 +365,8 @@ templates for customers: CUST000001 & CUST000002*
 
     27. Close the **Default Dimensions** page.
 
-Exercise 3: Import customers using data templates
--------------------------------------------------
+Task 3: Import customers using data templates
+---------------------------------------------
 
 ### Scenario
 
@@ -388,7 +382,10 @@ are filled in and that the following requirements are met:
 -   The CUSTOMERGROUP dimension needs to be set up as a fixed default on the
     customer card.
 
-### Tasks
+The following list of domestic customers is returned to you by Contoso’s super
+user.
+
+You will perform
 
 1.  Create and export a configuration package.
 
@@ -422,17 +419,18 @@ are filled in and that the following requirements are met:
 
     8.  Then press **ENTER** or **TAB**.
 
-    9.  You will be asked to check related tables, click **No**.
+    9.  Select the **Dimensions as Columns** check box.
 
-    10. Select the **Dimensions as Columns** check box.
+    10. Click **Yes** to add the related dimension tables.
 
-    11. Click **Yes** to add the related dimension tables.
-
-    12. Make sure the customer table line is selected, select **Table** and then
+    11. Make sure the customer table line is selected, select **Table** and then
         **Fields**.
 
-    13. On the field list page, first select **Clear Included**, to deselect the
-        **Include Field** checkbox for all the fields.
+    12. Click on **No.**
+
+    13. Click on **Fields** again. On the field list page, first select **Clear
+        Included**, to deselect the **Include Field** checkbox for all the
+        fields.
 
     14. Then select the **Include Field** checkbox for the following fields:
 
@@ -479,7 +477,8 @@ are filled in and that the following requirements are met:
 
             1.  In the **Type** field, enter **Field**.
 
-            2.  In the **Field Name** field, enter **Gen. Bus. Posting Group**.
+            2.  In the **Field Name** field, enter **Gen. Bus. Posting
+                Group**.(ID=88)
 
             3.  In the **Default Value** field, enter **DOMESTIC**
 
@@ -487,7 +486,8 @@ are filled in and that the following requirements are met:
 
             1.  In the **Type** field, enter **Field**.
 
-            2.  In the **Field Name** field, enter **Customer Posting Group**.
+            2.  In the **Field Name** field, enter **Customer Posting
+                Group**.(ID=21)
 
             3.  In the **Default Value** field, enter **DOMESTIC**
 
@@ -495,7 +495,8 @@ are filled in and that the following requirements are met:
 
             1.  In the **Type** field, enter **Field**.
 
-            2.  In the **Field Name** field, enter **Document Sending Profile**.
+            2.  In the **Field Name** field, enter **Document Sending
+                Profile**.(ID=11)
 
             3.  In the **Default Value** field, enter **MAIL&PDF**
 
@@ -503,7 +504,8 @@ are filled in and that the following requirements are met:
 
             1.  In the **Type** field, enter **Field**.
 
-            2.  In the **Field Name** field, enter **Payment Terms Code**.
+            2.  In the **Field Name** field, enter **Payment Terms
+                Code**.(ID=27)
 
             3.  In the **Default Value** field, enter **30 DAYS**
 
@@ -521,22 +523,16 @@ are filled in and that the following requirements are met:
 
     2.  Enter the information as provided by Contoso.
 
-| No     | Name                         | Address                   | City    | Country | Zip code     |
-|--------|------------------------------|---------------------------|---------|---------|--------------|
-| C00010 | Spotsmeyer's Furnishings     | 612 South Sunset Drive    | Miami   | US      | US-FL-37125  |
-| C00020 | Progressive Home Furnishings | 3000 Roosevelt Blvd.      | Chicago | US      | US-IL 616236 |
-| C00030 | New Concepts Furniture       | 705 West Peachtree Street | Atlanta | US      | US-GA 31772  |
+    3.  Save the excel file.
 
-4.  Save the excel file.
-
-5.  Import and apply the configuration package.
+4.  Import and apply the configuration package.
 
     1.  In the **Configuration Packages** page, select the new configuration
         package for customers and select **Manage** and then **Edit**.
 
     2.  In the **Config. Package Card** page, select **Import from Excel**.
 
-    3.  Click **Choose…** and select the excel file.
+    3.  Select Click here to browse and select the excel file.
 
     4.  Click **Open**.
 
@@ -546,6 +542,4 @@ are filled in and that the following requirements are met:
 
     7.  Click **Yes**.
 
-    8.  Click **Yes**.
-
-    9.  Click **OK**.
+    8.  Click **OK**.
