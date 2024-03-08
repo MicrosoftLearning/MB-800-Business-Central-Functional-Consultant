@@ -1,11 +1,30 @@
----
-lab:
-    title: 'Lab: Create and configure a new company'
-    module: 'Module 2: Application Setup'
----
-
-Hands-on-Lab 2.1: Create and configure a new company
+Hands-on-Lab 1: Create and configure a new company
 ====================================================
+
+Exercise 1: Sign into Dynamics 365 Business Central
+---------------------------------------------------
+
+1.  Open your browser and browse to the **Dynamics 365 Business Central**
+    homepage using the link
+    <https://dynamics.microsoft.com/en-us/business-central/overview/>
+
+2.  Click **Try for free** tab on the **Dynamics 365 Business Central**
+    homepage.
+
+3.  Enter your **Office 365 tenant credentials** and click **Next**.
+
+4.  Click on **Sign in** and then enter the password provided to you.
+
+5.  Click on **Get started**.
+
+6.  Click on **Skip and go to Dynamics 365 Business Central**.
+
+7.  Click on **Get started**.
+
+8.  It may take up to 1-2 mins to set up the **Dynamics 365 Business Central**
+    environment.
+
+9.  You should now be able to see the **Dynamics 365 Business Central** portal.
 
 Exercise 2: Create a new company
 --------------------------------
@@ -16,7 +35,7 @@ You are a functional consultant assigned to a new project, where you are
 responsible for the analysis of your customers business processes. Your customer
 is Contoso Inc., situated in Redmond Washington. They will start to use
 Microsoft Dynamics 365 Business Central as of their new fiscal year, January 1st
-2022.
+2024.
 
 You initiate the process by creating a new company within the customers
 database, including some predefined setup information but without any business
@@ -71,20 +90,11 @@ data.
 
     5.  Click **OK**.
 
-    6.  The new company opens and the **Company Setup** wizard automatically
-        opens.
-
-    7.  Click **Next**.
-
-    8.  Turn on the toggle to accept **Terms and Conditions**.
-
-    9.  Select **Get started**.
-
-    10. Select **My Settings** on the top-right corner, and then select
+    6.  Select **My Settings** on the top-right corner, and then select
         **Company information**.
 
-    11. On the **Company Information** page, enter the following information on
-        the **General** tab.
+    7.  On the **Company Information** page, enter the following information on
+        the **General** tab. Once completed, Click on the back arrow.
 
 | Setting             | Value                 |
 |---------------------|-----------------------|
@@ -108,9 +118,11 @@ data.
 
 6.  Click **OK**.
 
-7.  A new **Fiscal Year** will be displayed on the **Accounting Periods** page.
+Click on **Yes** if you receive a pop-up asking you to confirm.
 
-8.  Close all the pages.
+1.  A new **Fiscal Year** will be displayed on the **Accounting Periods** page.
+
+2.  Close all the pages.
 
 Exercise 3: Configure a new company
 -----------------------------------
@@ -172,4 +184,6 @@ You will start by copying the following data from the default CRONUS company:
 
     6.  Click **Yes**.
 
-    7.  The data is now copied in the **Contoso Ltd company**. Click **OK**.
+    7.  The data is now copied to the **Contoso Ltd** company. Click **OK**.
+
+Close the configuration worksheet
