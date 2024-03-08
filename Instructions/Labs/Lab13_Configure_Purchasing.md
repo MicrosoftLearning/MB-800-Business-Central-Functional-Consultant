@@ -1,13 +1,8 @@
----
-lab:
-    title: 'Lab: Set up Inventory'
-    module: 'Module 4: Configure Sales and Purchasing'
----
-Hands-on-Lab 4.2: Configure Purchasing
-======================================
+Exercise 13: Configure Purchasing
+=================================
 
-Exercise 1: Complete the vendor card
-------------------------------------
+Task 1: Complete the vendor card
+--------------------------------
 
 ### Scenario
 
@@ -35,7 +30,7 @@ They have different locations from where to order:
 Robert Townes guarantees to deliver all goods within 5 days, according to the
 ‘cost and freight’ shipment method.
 
-### Tasks
+You will perform -
 
 1.  Create an order address for the vendor
 
@@ -114,8 +109,8 @@ Robert Townes guarantees to deliver all goods within 5 days, according to the
 
     4.  In the **Lead Time Calculation** field, enter **5D**.
 
-Exercise 2: Complete the item card
-----------------------------------
+Task 2: Complete the item card
+------------------------------
 
 ### Scenario
 
@@ -132,7 +127,7 @@ You need to set up the replenishment information on the item card.
 
 *Remark: For exercise purposes, only set up the catalog for the monitors.*
 
-### Tasks
+You will perform
 
 1.  Specify replenishment information
 
@@ -208,8 +203,8 @@ You need to set up the replenishment information on the item card.
 
     9.  Close the item card.
 
-Exercise 3: Set up an item vendor catalog
------------------------------------------
+Task 3: Set up an item vendor catalog
+-------------------------------------
 
 ### Scenario
 
@@ -245,7 +240,7 @@ follows:
 
 *Remark: For exercise purposes, only set up the catalog for the monitors.*
 
-### Tasks
+You will perform
 
 1.  Set up an item vendor catalog
 
@@ -296,8 +291,8 @@ follows:
 
     14. Close the item card.
 
-Exercise 4: Configure recurring purchase lines
-----------------------------------------------
+Task 4: Configure recurring purchase lines
+------------------------------------------
 
 ### Scenario
 
@@ -309,9 +304,9 @@ To reduce the processing time, you explain the configuration of ‘recurring
 purchase lines’ and together with the accounting manager, you set up the
 following example:
 
-Contoso has to pay a ‘health& dental insurance’ for each employee at the
-company. They receive a monthly invoice with a fixed amount. These costs need to
-be processed per department, as follows:
+Contoso has to pay health and dental insurance for each employee at the company.
+They receive a monthly invoice with a fixed amount. These costs need to be
+processed per department, as follows:
 
 -   The total amount of the invoice is CAD 1,200.00, which is processed on the
     610000 income statement account.
@@ -326,7 +321,7 @@ You need to set up the recurring purchase lines for vendor Alpine Ski House
 (V9007), so that these lines are automatically filled in when creating a new
 purchase invoice.
 
-### Tasks
+You will perform
 
 1.  Configure recurring purchase lines
 
@@ -382,7 +377,7 @@ purchase invoice.
                         side.
 
                     5.  Select the **Amount Excl. Tax** field and drag it to the
-                        right of **Quantity** column in the **Lines** area.
+                        right of **Quantity** column in the **Lines** area
 
                     6.  Click **Done** to close **Personalization**.
 
