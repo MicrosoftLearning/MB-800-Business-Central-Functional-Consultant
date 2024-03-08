@@ -1,14 +1,8 @@
----
-lab:
-    title: 'Lab: Process Sales'
-    module: 'Module 5: Process Operations'
----
+Exercise 16: Process Sales
+==========================
 
-Hands-on-Lab 5.2: Process Sales
-===============================
-
-Exercise 1: Process a sales from quote to invoice
--------------------------------------------------
+Task 1: Process a sales from quote to invoice
+---------------------------------------------
 
 ### Scenario
 
@@ -36,7 +30,7 @@ items:
 The potential customer now has 10 days to either accept or turn down the
 proposal.
 
-On February 22nd, 2023 Francematic accepts the sales quote and the quote is
+On February 22nd, 2023, Francematic accepts the sales quote and the quote is
 turned into an order.
 
 The items are shipped to the customer on 2 different dates:
@@ -47,7 +41,7 @@ The items are shipped to the customer on 2 different dates:
 
 On March 1st, 2023, the sales invoice is created and send to the customer.
 
-### Tasks
+You will perform
 
 1.  Create a contact.
 
@@ -216,8 +210,8 @@ On March 1st, 2023, the sales invoice is created and send to the customer.
 
     6.  Close the **Find Entries** page.
 
-Exercise 2: Process a sales invoice for multiple orders
--------------------------------------------------------
+Task 2: Process a sales invoice for multiple orders
+---------------------------------------------------
 
 ### Scenario
 
@@ -238,7 +232,7 @@ You must now create this sales invoice for the Generic EU web shop customers,
 containing all shipments of January, including the 5% web shop discount for the
 month January.
 
-### Tasks
+You will perform
 
 1.  Create several sales orders and shipments.
 
@@ -416,8 +410,8 @@ month January.
 
     8.  Click **OK**.
 
-Exercise 3: Correct a posted sales invoice
-------------------------------------------
+Task 3: Correct a posted sales invoice
+--------------------------------------
 
 ### Scenario
 
@@ -427,7 +421,7 @@ delivered.
 You need to make a sales credit memo on March 6th, 2023, to refund 1 piece of
 this item.
 
-### Tasks
+You will perform
 
 1.  Correct a posted sales invoice
 
