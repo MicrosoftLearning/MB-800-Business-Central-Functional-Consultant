@@ -1,14 +1,8 @@
----
-lab:
-    title: 'Lab: Set up Accounts Receivable'
-    module: 'Module 3: Configure Financials'
----
+Exercise 12: Set up Inventory 
+==============================
 
-Hands-on-Lab 4.1: Set up Inventory
-==================================
-
-Exercise 1: Configure the Inventory Setup
------------------------------------------
+Task 1: Configure the Inventory Setup
+-------------------------------------
 
 ### Scenario
 
@@ -26,7 +20,7 @@ valuation, Contoso’s account manager has expressed the following requirements:
 -   To improve the inventory value process, negative inventory must be
     prohibited.
 
-### Tasks
+You will perform
 
 1.  Set up and assign number series.
 
@@ -44,7 +38,7 @@ valuation, Contoso’s account manager has expressed the following requirements:
     2.  In the **Inventory Setup** page, go to the **Numbering** FastTab.
 
     3.  In the **Item Nos.** field, the value **ITEM** is already filled in.
-        Click on the drop-down and select **+ New**.
+        Click on the Look Up Value button and select **+ New**.
 
     4.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -54,7 +48,8 @@ valuation, Contoso’s account manager has expressed the following requirements:
 
         3.  Select the **Default Nos.** check box.
 
-    5.  Click the ellipses (…), select **Navigate** and then select **Lines**.
+    5.  Click on the Lookup again and Click on View Details. Click the ellipses
+        (…), select **Navigate** and then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
@@ -78,7 +73,7 @@ valuation, Contoso’s account manager has expressed the following requirements:
 
     12. Close the **No. Series Relationships** page.
 
-    13. Close the **No. Series List** page, by clicking **OK**.
+    13. Close the **No. Series List** page by clicking **OK**.
 
     14. The number series **ITEM** remains filled in in the **Item Nos.** field,
         in the **Inventory Setup** page.
@@ -104,8 +99,8 @@ valuation, Contoso’s account manager has expressed the following requirements:
 
     3.  In the **Location** FastTab, select the **Location Mandatory** checkbox.
 
-Exercise 2: Create and configure items
---------------------------------------
+Task 2: Create and configure items
+----------------------------------
 
 ### Scenario
 
@@ -131,7 +126,7 @@ You need to set up new item categories and configure the correct attributes.
 Then you can manually enter the computer hardware items, using a configuration
 template.
 
-### Tasks
+You will perform
 
 1.  Create a location.
 
@@ -148,7 +143,7 @@ template.
     1.  Select the search for page icon in the top-right corner of the page,
         enter **Locations**, and then choose the related link.
 
-    2.  In the **Locations** page, select **New** and then select **+ New**.
+    2.  In the **Locations** page, select **+New**
 
     3.  In the **Location Card** page, on the **General** FastTab, fill in the
         following fields:
@@ -158,8 +153,6 @@ template.
         2.  In the **Name** field, enter **European warehouse**.
 
     4.  On the **Warehouse** FastTab, leave all the checkboxes deselected.
-
-    5.  Close the page until you are at Home page.
 
 2.  Set up an Inventory Posting Setup.
 
@@ -203,11 +196,6 @@ template.
 
         4.  In the **Overhead Applied Account** field, enter **50150**.
 
-            **Note** – If you do not find the **COMPUTERHW**, you can create
-            from **the General Posting group** page by clicking on the empty
-            cell with values **DOMESTIC** and **COMPUTERHW** respectively under
-            Gen.Bus.Posting.Group and **Gen.Prod.Posting.Group.**
-
 3.  Set up Item Categories and Item Attributes.
 
     1.  Select the search for page icon in the top-right corner of the page,
@@ -230,7 +218,7 @@ template.
             2.  In the opened **Item Attributes** page, select the **Color**
                 attribute.
 
-            3.  Click on the **Item Attributes Values** field.
+            3.  Click on the **Values** of **Color**.
 
                 1.  In the opened **Item Attributes Value** page, click **+
                     New**.
@@ -351,16 +339,13 @@ template.
     1.  Select the search for page icon in the top-right corner of the page,
         enter **Items**, and then choose the related link.
 
-    2.  On the **Items** page, select **+ New**.
+    2.  On the **Items** page, select **New** and +New
 
     3.  Select the template **Computer hardware** and click **OK**.
 
-    4.  On the opened template card, in the **No. Series** field, enter
-        **COMPHW**.
+    4.  A new item card is created with number **CHW1000**.
 
-    5.  A new item card is created with number **CHW1000**.
-
-    6.  On the **Item** FastTab, fill in the following fields:
+    5.  On the **Item** FastTab, fill in the following fields:
 
         1.  In the **Description** field, enter **Computer III 533 MHz**.
 
@@ -369,7 +354,7 @@ template.
         3.  The **Base Unit of Measure** field is filled in with the default
             value **PCS**.
 
-    7.  On the **Item Attribute** FactBox in the right side, select **Edit**.
+    6.  On the **Item Attribute** FactBox in the right side, select **Edit**.
 
         1.  For the attribute **Color**, select the value **black**.
 
@@ -377,24 +362,24 @@ template.
 
         3.  Click **OK** to close the FactBox.
 
-    8.  Close the item card.
+    7.  Close the item card.
 
-    9.  On the **Items** page, select **+ New**.
+    8.  On the **Items** page, select **+ New**.
 
-    10. Select the template **Computer hardware** and click **OK**.
+    9.  Select the template **Computer hardware** and click **OK**.
 
-    11. A new item card is created with number **CHW1001**.
+    10. A new item card is created with number **CHW1001**.
 
-    12. On the **Item** FastTab, fill in the following fields:
+    11. On the **Item** FastTab, fill in the following fields:
 
-        1.  In the **Description** field, enter **Computer III 600 MHz**.
+        1.  In the **Description** field enter **Computer III 600 MHz**.
 
         2.  In the **Item Category Code** field, enter **COMPUTER**.
 
         3.  The **Base Unit of Measure** field is filled in with the default
             value **PCS**.
 
-    13. On the **Item Attribute** FactBox, select **Edit**.
+    12. On the **Item Attribute** FactBox, select **Edit**.
 
         1.  For the attribute **Color**, select the value **black**.
 
@@ -402,15 +387,15 @@ template.
 
         3.  Click **OK** to close the FactBox.
 
-    14. Close the item card.
+    13. Close the item card.
 
-    15. On the **Items** page, select **+ New**.
+    14. On the **Items** page, select **+ New**.
 
-    16. Select the template **Computer hardware** and click **OK**.
+    15. Select the template **Computer hardware** and click **OK**.
 
-    17. A new item card is created with number **CHW1002**.
+    16. A new item card is created with number **CHW1002**.
 
-    18. On the **Item** FastTab, fill in the following fields:
+    17. On the **Item** FastTab, fill in the following fields:
 
         1.  In the **Description** field, enter **15" 1501 FP Flat Panel**.
 
@@ -419,7 +404,7 @@ template.
         3.  The **Base Unit of Measure** field is filled in with the default
             value **PCS**.
 
-    19. On the **Item Attribute** FactBox, select **Edit**.
+    18. On the **Item Attribute** FactBox, select **Edit**.
 
         1.  For the attribute **Color**, select the value **black**.
 
@@ -427,15 +412,15 @@ template.
 
         3.  Click **OK** to close the FactBox.
 
-    20. Close the item card.
+    19. Close the item card.
 
-    21. On the **Items** page, select **+ New**.
+    20. On the **Items** page, select **+ New**.
 
-    22. Select the template **Computer hardware** and click **OK**.
+    21. Select the template **Computer hardware** and click **OK**.
 
-    23. A new item card is created with number **CHW1003**.
+    22. A new item card is created with number **CHW1003**.
 
-    24. On the **Item** FastTab, fill in the following fields:
+    23. On the **Item** FastTab, fill in the following fields:
 
         1.  In the **Description** field, enter **17" M780 Monitor**.
 
@@ -444,7 +429,7 @@ template.
         3.  The **Base Unit of Measure** field is filled in with the default
             value **PCS**.
 
-    25. On the **Item Attribute** FactBox, select **Edit**.
+    24. On the **Item Attribute** FactBox, select **Edit**.
 
         1.  For the attribute **Color**, select the value **black**.
 
@@ -452,15 +437,15 @@ template.
 
         3.  Click **OK** to close the FactBox.
 
-    26. Close the item card.
+    25. Close the item card.
 
-    27. On the **Items** page, select **+ New**.
+    26. On the **Items** page, select **+ New**.
 
-    28. Select the template **Computer hardware** and click **OK**.
+    27. Select the template **Computer hardware** and click **OK**.
 
-    29. A new item card is created with number **CHW1004**.
+    28. A new item card is created with number **CHW1004**.
 
-    30. On the **Item** FastTab, fill in the following fields:
+    29. On the **Item** FastTab, fill in the following fields:
 
         1.  In the **Description** field, enter **Advanced Mouse**.
 
@@ -469,21 +454,21 @@ template.
         3.  The **Base Unit of Measure** field is filled in with the default
             value **PCS**.
 
-    31. On the **Item Attribute** FactBox, select **Edit**.
+    30. On the **Item Attribute** FactBox, select **Edit**.
 
         1.  For the attribute **Color**, select the value **grey**.
 
         2.  Click **OK** to close the FactBox.
 
-    32. Close the item card.
+    31. Close the item card.
 
-    33. On the **Items** page, select **+ New**.
+    32. On the **Items** page, select **+ New**.
 
-    34. Select the template **Computer hardware** and click **OK**.
+    33. Select the template **Computer hardware** and click **OK**.
 
-    35. A new item card is created with number **CHW1005**.
+    34. A new item card is created with number **CHW1005**.
 
-    36. On the **Item** FastTab, fill in the following fields:
+    35. On the **Item** FastTab, fill in the following fields:
 
         1.  In the **Description** field, enter **Quietkey keyboard**.
 
@@ -492,21 +477,21 @@ template.
         3.  The **Base Unit of Measure** field is filled in with the default
             value **PCS**.
 
-    37. On the **Item Attribute** FactBox, select **Edit**.
+    36. On the **Item Attribute** FactBox, select **Edit**.
 
         1.  For the attribute **Color**, select the value **grey**.
 
         2.  Click **OK** to close the FactBox.
 
-    38. Close the item card.
+    37. Close the item card.
 
-    39. On the **Items** page, select **+ New**.
+    38. On the **Items** page, select **+ New**.
 
-    40. Select the template **Computer hardware** and click **OK**.
+    39. Select the template **Computer hardware** and click **OK**.
 
-    41. A new item card is created with number **CHW1006**.
+    40. A new item card is created with number **CHW1006**.
 
-    42. On the **Item** FastTab, fill in the following fields:
+    41. On the **Item** FastTab, fill in the following fields:
 
         1.  In the **Description** field, enter **Speakers**.
 
@@ -515,10 +500,10 @@ template.
         3.  The **Base Unit of Measure** field is filled in with the default
             value **PCS**. Change the value to **BOX**.
 
-    43. On the **Item Attribute** FactBox, select **Edit**.
+    42. On the **Item Attribute** FactBox, select **Edit**.
 
         1.  For the attribute **Color**, select the value **white**.
 
         2.  Click **OK** to close the FactBox.
 
-    44. Close the item card.
+    43. Close the item card.
