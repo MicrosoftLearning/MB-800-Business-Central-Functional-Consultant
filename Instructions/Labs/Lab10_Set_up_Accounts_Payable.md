@@ -1,14 +1,8 @@
----
-lab:
-    title: 'Lab: Set up Accounts Payable'
-    module: 'Module 3: Configure Financials'
----
+Exercise 10: Set Up Accounts Payable
+====================================
 
-Hands-on-Lab 3.5: Set Up Accounts Payable
-=========================================
-
-Exercise 1: Configure the Purchases & Payables Setup
-----------------------------------------------------
+Task 1: Configure the Purchases & Payables Setup
+------------------------------------------------
 
 ### Scenario
 
@@ -19,8 +13,8 @@ accounting manager has expressed the following requirements:
     they follow the same numbering. This number will include the year and will
     start from 1 each year as follows:
 
-    The first purchase document, as of January 1st 2022, will be posted with the
-    number P22/0001. The next year will be P23/0001 and so on.
+    The first purchase document, as of January 1st, 2022, will be posted with
+    the number P22/0001. The next year will be P23/0001 and so on.
 
     These numbering should be respected in a chronological order and cannot be
     entered manually.
@@ -28,7 +22,7 @@ accounting manager has expressed the following requirements:
 -   A separate g/l account 20200 is setup to record any discounts that were
     given by the vendors.
 
-### Tasks
+You will perform
 
 1.  Set up and assign number series.
 
@@ -58,11 +52,11 @@ accounting manager has expressed the following requirements:
 
         4.  Select the **Date Order** check box.
 
-    5.  Select the ellipsis (...) menu and select **Navigate**, then select **Lines**.
+    5.  Click the ellipses (…), select **Navigate** and then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **1/1/2022**.
+        1.  In the **Starting Date** field, enter **1/1/2023**.
 
         2.  In the **Starting No.** field, enter **P22/0001**.
 
@@ -98,8 +92,10 @@ accounting manager has expressed the following requirements:
         2.  In the **Purch. Inv. Disc. Account** field, the value **20200** must
             be filled in.
 
-Exercise 2: Create a payment journal template and batch
--------------------------------------------------------
+Note – If you do not find the value – Please proceed with creating a new.
+
+Task 2: Create a payment journal template and batch
+---------------------------------------------------
 
 ### Scenario
 
@@ -108,7 +104,7 @@ account to make payment files.
 
 You must set up a separate payment journal for this purpose.
 
-### Tasks
+You will perform
 
 1.  Create a general journal template.
 
@@ -141,8 +137,7 @@ You must set up a separate payment journal for this purpose.
     1.  In the **General Journal Templates** page, make sure the **EUROP**
         journal is selected.
 
-    2.  Select **Related**, then select **Template** and then select
-        **Batches**.
+    2.  Select **Batches**.
 
     3.  In the opened **General Journal Batches** page, select **+ New.**
 
@@ -154,8 +149,8 @@ You must set up a separate payment journal for this purpose.
 
         3.  Select the **Allow Payment Export** check box.
 
-Exercise 3: Create and configure vendors
-----------------------------------------
+Task 3: Create and configure vendors
+------------------------------------
 
 ### Scenario
 
@@ -175,7 +170,7 @@ already imported. These vendors will now have to be configured correctly by
 adding the correct posting groups. First create templates based on the different
 posting groups. Then apply these templates to the existing vendors.
 
-### Tasks
+You will perform
 
 1.  Set up a Vendor Posting Group.
 
@@ -216,8 +211,7 @@ posting groups. Then apply these templates to the existing vendors.
 
     6.  From the **Vendor Posting Groups** page, copy the other g/l accounts
         from the **DOMESTIC** vendor posting group to the **FOREIGN** and
-        **INTERCOMPANY** vendor posting groups using F8. Copy the following
-        fields:
+        **INTERCOMPANY** vendor posting groups. Copy the following fields:
 
         1.  Payment Disc. Debit Acc.
 
@@ -323,40 +317,26 @@ posting groups. Then apply these templates to the existing vendors.
 
 14. Select **Apply Template**.
 
-Note – If you do not find the vendors, you need to create the vendors
-accordingly and proceed with the next step. In the search area, type in Vendors
-and select the option accordingly.
-
-Select **New** and select Vendor Company. Enter the details: Vendor no –
-**V9001**, Name – **Adatum Corporation**, Under Invoicing select Tax Area Code –
-**Chicago**.
-
-Repeat the process for below Vendors
-
-1. V9003 - Try Research
-
-2. V9007 - Alphine Ski House
-
-1.  In the **Vendor Templates** list, select **Domestic vendors**, and click
+15. In the **Vendor Templates** list, select **Domestic vendors**, and click
     **OK.**
 
-2.  Click **Yes**.
+16. Click **Yes**.
 
-3.  In the **Vendors** list page, multi-select imported vendors **V9002**,
+17. In the **Vendors** list page, multi-select imported vendors **V9002**,
     **V9005** and **V9006**.
 
-4.  Select **Apply Template**.
+18. Select **Apply Template**.
 
-5.  In the **Vendor Templates** list, select **EU vendors**, and click **OK.**
+19. In the **Vendor Templates** list, select **EU vendors**, and click **OK.**
 
-6.  Click **Yes**.
+20. Click **Yes**.
 
-7.  In the **Vendors** list page, multi-select imported vendors **V9004** and
+21. In the **Vendors** list page, multi-select imported vendors **V9004** and
     **V9008**.
 
-8.  Select **Apply Template**.
+22. Select **Apply Template**.
 
-9.  In the **Vendor Templates** list, select **Export vendors**, and click
+23. In the **Vendor Templates** list, select **Export vendors**, and click
     **OK.**
 
-10. Click **Yes**.
+24. Click **Yes**.
