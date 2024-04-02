@@ -37,16 +37,14 @@ Lab Credentials
 
 4.  Select **Sign in** and then enter the password provided to you.
 
-5.  Select **Get started**.
+5.  If prompted, enter `0123456789` for **Business phone number**. Select **Get Started**.
 
 6.  Select **Skip & go to Dynamics 365 Business Central**.
 
-7.  Select **Get started**.
+7.  Select **Get Started**.
 
 8.  It may take up to 1-2 minutes to set up the **Dynamics 365 Business Central**
-    environment.
+    environment. If necessary, select **Skip survey**.
 
 9.  You should now be able to see the **Dynamics 365 Business Central** portal.
-
-10. If necessary, select **Skip survey**.
-
+ 
