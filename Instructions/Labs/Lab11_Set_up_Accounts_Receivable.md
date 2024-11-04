@@ -17,7 +17,7 @@ expressed the following requirements:
     and assigned in the Sales & Receivables Setup)*
 
 -   Posted sales invoices are numbered based on the year and month in which they
-    are posted. The first sales invoice, as of January 1st, 2024, will be posted
+    are posted. The first sales invoice, as of January 1st, 2022, will be posted
     with the number S22/01/0001. The next month will be S22/02/0001 and so on.
 
 -   A separate g/l account 40300 is setup to record invoice discounts only that
@@ -41,16 +41,16 @@ You will perform
 
 1.  Set up and assign number series.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Sales & Receivables Setup**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Sales & Receivables Setup`, and then choose the related link.
 
     2.  In the **Sales & Receivables Setup** page, go to the **Number Series**
         FastTab.
 
-    3.  In the **Customer** field, the value CUST is already filled in. Click on
+    3.  In the **Customer Nos.** field, the value CUST is already filled in. Click on
         the Look Up Value button and select **+ New**.
 
-    4.  In the opened **No. Series List** page, fill in the following fields:
+    4.  In the opened **No. Series** page, fill in the following fields:
 
         1.  In the **Code** field, enter **CUST WEB**
 
@@ -58,8 +58,8 @@ You will perform
 
         3.  Select the **Default Nos.** check box.
 
-    5.  Click on the ellipses (…) in the top ribbon, select **Navigate** and
-        then select **Lines**.
+    5.  Click on the ellipses (…) in the top ribbon
+     and then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
@@ -71,10 +71,10 @@ You will perform
 
     7.  Close the **No. Series Lines** page.
 
-    8.  In the opened **No. Series List** page, select the number series
+    8.  In the opened **No. Series** page, select the number series
         **CUST**.
 
-    9.  Click the ellipses (…), select **Navigate** and then select
+    9.  Click the ellipses (…) and then select
         **Relationships**.
 
     10. In the **No. Series Relationships** page, select **+ New**.
@@ -83,7 +83,7 @@ You will perform
 
     12. Close the **No. Series Relationships** page.
 
-    13. Close the **No. Series List** page by clicking **OK**.
+    13. Close the **No. Series** page by clicking **OK**.
 
     14. You are now back in the **Sales & Receivables Setup** page, on the
         **Number Series** FastTab.
@@ -92,10 +92,10 @@ You will perform
         filled in. Click on the Look Up Value button and then click **Select
         from full list.**
 
-    16. In the opened **No. Series List** page, the number series **S-INV+** is
+    16. In the opened **No. Series** page, the number series **S-INV+** is
         automatically selected.
 
-    17. Select **Navigate** and then select **Lines**.
+    17. Select **Lines**.
 
     18. In the opened **No. Series Lines** page, select **+ New**.
 
@@ -115,7 +115,7 @@ You will perform
 
     20. Close the **No. Series Lines** page.
 
-    21. Close the **No. Series List** page by clicking **OK**.
+    21. Close the **No. Series** page by clicking **OK**.
 
     22. The number series **S-INV+** remains filled in in the **Posted Invoice
         Nos.** field, in the **Sales & Receivables Setup** page.
@@ -189,8 +189,8 @@ You will perform
 
 1.  Set up a Customer Posting Group
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Customer Posting Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Customer Posting Groups`, and then choose the related link.
 
     2.  In the **Customer Posting Groups** page, select **+ New**.
 
@@ -214,7 +214,7 @@ You will perform
 
         2.  In the **Description** field, fill in **Intercompany customers**.
 
-        3.  In the **Payables Account** field fill in **10475**.
+        3.  In the **Receivables Account** field fill in **10475**.
 
         4.  Close the page.
 
@@ -247,8 +247,8 @@ You will perform
 
 2.  Create and configure a new customer.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Customers**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Customers`, and then choose the related link.
 
     2.  In the **Customers** page, select **+ New**.
 
@@ -287,7 +287,7 @@ You will perform
 
         6.  Click **OK**.
 
-    12. The new code is now automatically filled in in the **Document Sending
+    12. The new code is now automatically filled  in the **Document Sending
         Profile** field on the customer card.
 
     13. Go to the **Invoicing** FastTab.
@@ -333,7 +333,7 @@ You will perform
         4.  Click the **Bal. Account No.** field, and then click **Select from
             full list**.
 
-        5.  On the **G/L Account list** page, select account number
+        5.  On the **G/L Account List** page, select account number
             **20500/Credit Cards** and click **Edit**. Create a new account if
             you do not find it from the list.
 
@@ -347,7 +347,7 @@ You will perform
 
         9.  Click **OK**.
 
-    23. The new code is now automatically filled in in the **Payment Method
+    23. The new code is now automatically filled in the **Payment Method
         Code** field on the customer card.
 
     24. In the customer card, select **Customer** and then select
@@ -399,8 +399,8 @@ You will perform
 
 1.  Create and export a configuration package.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Configuration Packages**, and then choose the related link.
+    1.  Select the Search for page icon in the top-right corner of the page,
+        enter `Configuration Packages`, and then choose the related link.
 
     2.  In the **Configuration Packages** page, click **+ New** to create a new
         configuration package.

@@ -57,8 +57,8 @@ You will perform
 
 1.  Create a contact.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Contacts**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Contacts`, and then choose the related link.
 
     2.  In the **Contacts** list page, select **+ New**.
 
@@ -242,8 +242,8 @@ You will perform
 
 1.  Create several sales orders and shipments.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Customers**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Customers` and then choose the related link.
 
     2.  On the **Customers** list page, select the **Generic EU web shop**
         customer.
@@ -429,8 +429,8 @@ You will perform
 
 1.  Correct a posted sales invoice
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Posted Sales Invoices**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Posted Sales Invoices` and then choose the related link.
 
     2.  On the **Posted Sales Invoices** list page, select the invoice for
         customer Francematic.

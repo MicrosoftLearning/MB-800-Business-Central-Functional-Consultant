@@ -19,8 +19,8 @@ entire fiscal year.
 
 1.  Change the starting date of the fiscal year.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Accounting periods**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Accounting periods`, and then choose the related link.
 
     2.  Open the **Accounting Periods** page.
 
@@ -36,11 +36,11 @@ entire fiscal year.
 
     2.  On the window that opens, fill in the following options:
 
-        1.  In the **Starting Date** field, enter **7/1/2022**.
+        1.  In the **Starting Date** field, enter `7/1/2022`.
 
-        2.  In the **No. of Periods** field, enter **12**.
+        2.  In the **No. of Periods** field, enter `12`.
 
-        3.  In the **Period Length** field, enter **1M**.
+        3.  In the **Period Length** field, enter `1M`.
 
     3.  Click **OK**.
 
@@ -87,8 +87,8 @@ opening balance on December 31st 2021.
 
 1.  Determine the local currency.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **General Ledger Setup**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `General Ledger Setup` and then choose the related link.
 
     2.  Open the **General Ledger Setup** page.
 
@@ -111,8 +111,7 @@ opening balance on December 31st 2021.
 
 2.  Set up global and shortcut dimensions.
 
-    1.  In the **General Ledger Setup** page, select **Actions**, then
-        **Functions**, then **Others** and then **Change Global Dimensions**.
+    1.  In the **General Ledger Setup** page, select **Change Global Dimensions**.
 
     2.  In the **Change Global Dimensions** page, fill in the following fields:
 
@@ -141,8 +140,8 @@ opening balance on December 31st 2021.
 
     2.  Close the **General Ledger Setup** page.
 
-    3.  Select the search for page icon in the top-right corner of the page,
-        enter **User Setup**, and then choose the related link.
+    3.  Select the Search icon in the top-right corner of the page,
+        enter `User Setup` and then choose the related link.
 
     4.  In the **User Setup** page, select **+ New**.
 

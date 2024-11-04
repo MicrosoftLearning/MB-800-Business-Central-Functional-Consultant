@@ -28,15 +28,21 @@ Lab Credentials
 
 3.  Enter your **Office 365 tenant credentials** and click **Next**.
 
-4.  Click on **Sign in** and then enter the password provided to you.
+4.  Click on **Sign In** and then enter the password provided to you.
 
-5.  Click on **Get started**.
+5.  Click on **Sign in** and  select **Yes** to stay signed in.
 
-6.  Click on **Skip and go to Dynamics 365 Business Central**.
+6.  If prompted for contact information, leave the **Country/region** as the default value and enter 0123456789 for  **Business Phone number**.
 
-7.  Click on **Get started**.
+7.  Click on **Get Started**.
 
-8.  It may take up to 1-2 mins to set up the **Dynamics 365 Business Central**
+8.  Click on **Skip & go to Dynamics 365 Business Central**.
+
+9.  Click on **Get Started**.
+
+10.  It may take up to 1-2 mins to set up the **Dynamics 365 Business Central**
     environment.
 
-9.  You should now be able to see the **Dynamics 365 Business Central** portal.
+11.  If prompted, select **Skip survey**.
+
+12.  You should now be able to see the **Dynamics 365 Business Central** portal.

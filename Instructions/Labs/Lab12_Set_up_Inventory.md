@@ -32,8 +32,8 @@ You will perform
 
 1.  Set up and assign number series.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Inventory Setup**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Inventory Setup`, and then choose the related link.
 
     2.  In the **Inventory Setup** page, go to the **Numbering** FastTab.
 
@@ -49,7 +49,7 @@ You will perform
         3.  Select the **Default Nos.** check box.
 
     5.  Click on the Lookup again and Click on View Details. Click the ellipses
-        (…), select **Navigate** and then select **Lines**.
+        (…) and then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
@@ -64,7 +64,7 @@ You will perform
     8.  In the opened **No. Series List** page, select the number series
         **ITEM**.
 
-    9.  Click the ellipses (…), select **Navigate** and then select
+    9.  Click the ellipses (…) and then select
         **Relationships**.
 
     10. In the **No. Series Relationships** page, select **+ New**.
@@ -140,8 +140,8 @@ You will perform
 
 1.  Create a location.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Locations**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Locations`, and then choose the related link.
 
     2.  In the **Locations** page, select **+New**
 
@@ -156,8 +156,8 @@ You will perform
 
 2.  Set up an Inventory Posting Setup.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Inventory Posting Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Inventory Posting Groups`, and then choose the related link.
 
     2.  In the **Inventory Posting Groups** page, select **+ New**.
 
@@ -181,8 +181,8 @@ You will perform
 
     8.  Close the **Inventory Posting Setup Card**.
 
-    9.  Select the search for page icon in the top-right corner of the page,
-        enter **General Posting Setup**, and then choose the related link.
+    9.  Select the Search icon in the top-right corner of the page,
+        enter `General Posting Setup`, and then choose the related link.
 
     10. In the **General Posting Setup** page, for each combination where the
         **Gen. Prod. Posting Group** field contains the value **COMPUTERHW**,
@@ -198,8 +198,8 @@ You will perform
 
 3.  Set up Item Categories and Item Attributes.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Item Categories**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Item Categories`, and then choose the related link.
 
     2.  In the **Item Categories** page, select **+ New**.
 
@@ -220,7 +220,7 @@ You will perform
 
             3.  Click on the **Values** of **Color**.
 
-                1.  In the opened **Item Attributes Value** page, click **+
+                1.  In the opened **Item Attributes Values** page, click **+
                     New**.
 
                 2.  In the **Value** field, enter **Grey**
@@ -312,8 +312,8 @@ You will perform
 
 4.  Create an Item template.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Item Templates**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Item Templates`, and then choose the related link.
 
     2.  In the **Item Templates** page, select **+ New**.
 
@@ -336,8 +336,8 @@ You will perform
 
 6.  Create and configure a new item.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Items**, and then choose the related link.
+    1.  Select the Search for page icon in the top-right corner of the page,
+        enter `Items`, and then choose the related link.
 
     2.  On the **Items** page, select **New** and +New
 
@@ -356,7 +356,7 @@ You will perform
 
     6.  On the **Item Attribute** FactBox in the right side, select **Edit**.
 
-        1.  For the attribute **Color**, select the value **black**.
+        1.  For the attribute **Color**, select the value **Black**.
 
         2.  For the attribute **Processor**, enter the value **533 Mhz**.
 
@@ -381,7 +381,7 @@ You will perform
 
     12. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute **Color**, select the value **black**.
+        1.  For the attribute **Color**, select the value **Black**.
 
         2.  For the attribute **Processor**, enter the value **600 Mhz**.
 
@@ -406,7 +406,7 @@ You will perform
 
     18. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute **Color**, select the value **black**.
+        1.  For the attribute **Color**, select the value **Black**.
 
         2.  For the attribute **Inch**, enter the value **15**.
 
@@ -431,7 +431,7 @@ You will perform
 
     24. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute **Color**, select the value **black**.
+        1.  For the attribute **Color**, select the value **Black**.
 
         2.  For the attribute **Inch**, enter the value **17**.
 
@@ -456,7 +456,7 @@ You will perform
 
     30. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute **Color**, select the value **grey**.
+        1.  For the attribute **Color**, select the value **Grey**.
 
         2.  Click **OK** to close the FactBox.
 
@@ -479,7 +479,7 @@ You will perform
 
     36. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute **Color**, select the value **grey**.
+        1.  For the attribute **Color**, select the value **Grey**.
 
         2.  Click **OK** to close the FactBox.
 
@@ -502,7 +502,7 @@ You will perform
 
     42. On the **Item Attribute** FactBox, select **Edit**.
 
-        1.  For the attribute **Color**, select the value **white**.
+        1.  For the attribute **Color**, select the value **White**.
 
         2.  Click **OK** to close the FactBox.
 

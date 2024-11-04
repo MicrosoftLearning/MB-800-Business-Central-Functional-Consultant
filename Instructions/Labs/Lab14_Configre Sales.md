@@ -56,8 +56,8 @@ You will perform
 
 1.  Create a shipping address for the customer.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Customers**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Customers`, and then choose the related link.
 
     2.  On the **Customers** list page, select the **Generic EU web shop
         (CWEB0001)**.
@@ -67,7 +67,7 @@ You will perform
     4.  In the customer card, select **Related**, then select **Customer** and
         then **Ship-to Addresses**.
 
-    5.  In the opened **Ship-to Address** List page, select **+ New**.
+    5.  In the opened **Ship-to Address List** page, select **+ New**.
 
     6.  In the opened ship-to addresses card, fill in the following fields:
 
@@ -274,8 +274,8 @@ You will perform
 
 1.  Set up customer price groups
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Customers Price Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Customers Price Groups` and then choose the related link.
 
     2.  On the **Customers Price Groups** page, select **+ New**.
 
@@ -293,8 +293,8 @@ You will perform
 
 2.  Set up customer discount groups
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Customer Disc. Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Customer Disc. Groups` and then choose the related link.
 
     2.  On the **Customer Disc. Groups** page, select **+ New**.
 
@@ -309,8 +309,8 @@ You will perform
 
 3.  Assign customer price groups and customer discount groups
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Customer**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Customer` and then choose the related link.
 
     2.  On the **Customers** list page, select the **Generic EU Web Shop**
         Customer **(CWEB0001)**.
@@ -334,8 +334,8 @@ You will perform
 
 4.  Set up and assign item discount groups
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Item Discount Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Item Discount Groups` and then choose the related link.
 
     2.  On the **Item Discount Groups** page, select **+ New**.
 
@@ -348,8 +348,8 @@ You will perform
     4.  Repeat step b. and c. to create an item discount group for **MONITOR**
         and **ACCESSORIES**
 
-    5.  Select the search for page icon in the top-right corner of the page,
-        enter **Items**, and then choose the related link.
+    5.  Select the Search icon in the top-right corner of the page,
+        enter `Items` and then choose the related link.
 
     6.  On the **Items** list page, select the **15” Flat panel (CHW1002)**
 
@@ -357,9 +357,9 @@ You will perform
 
     8.  In the **Item Disc. Group** field, enter **MONITOR**.
 
-    9.  On the **Items** list page, select the **17” M780 (CHW1002)**
+    9.  On the **Items** list page, select the **17” M780 (CHW1003)**
 
-    10. Go to the **Invoicing** FastTab, in the **Item Disc. Group** field,
+    10. Go to the **Prices & Sales** FastTab, in the **Item Disc. Group** field,
         enter **MONITOR**.
 
 5.  Configure sales prices
@@ -368,7 +368,7 @@ You will perform
 
     2.  To open the item card, select **Manage** and then select **Edit**.
 
-    3.  On the opened item card, select **Sales Prices & Discounts** and then
+    3.  On the opened item card, select **Prices & Discounts** and then
         select **Sales Prices**.
 
     4.  On the **Sales Prices** page, create a new line as follows:
@@ -407,7 +407,7 @@ You will perform
 
     9.  To open the item card, select **Manage** and then select **Edit**.
 
-    10. On the opened item card, select **Sales Prices & Discounts** and then
+    10. On the opened item card, select **Prices & Discounts** and then
         select **Sales Prices**.
 
     11. On the **Sales Prices** page, create a new line as follows:
@@ -440,14 +440,14 @@ You will perform
 
 6.  Configure line discount
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Item Discount Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Item Discount Groups` and then choose the related link.
 
-    2.  On the **Prices & Discounts** page, select **Sales Lines Discounts**.
+    2.  Select the **Prices & Discounts**and then select **Sales Lines Discounts**.
 
     3.  Remove the value in the **Code Filter** filter.
 
-    4.  On the **Sales Discounts** page, create a new line as follows:
+    4.  On the **Sales Line Discounts** page, create a new line as follows:
 
         1.  In the **Sales Type** field enter **Customer Disc. Group**.
 
@@ -459,7 +459,7 @@ You will perform
 
         5.  In the **Line Discount %** field, enter **3**.
 
-    5.  On the **Sales Discounts** page, create a new line as follows:
+    5.  On the **Sales Line Discounts** page, create a new line as follows:
 
         1.  In the **Sales Type** field enter **Customer Disc. Group**.
 
@@ -471,7 +471,7 @@ You will perform
 
         5.  In the **Line Discount %** field, enter **6**.
 
-    6.  On the **Sales Discounts** page, create a new line as follows:
+    6.  On the **Sales Line Discounts** page, create a new line as follows:
 
         1.  In the **Sales Type** field enter **Customer Disc. Group**.
 
@@ -483,12 +483,12 @@ You will perform
 
         5.  In the **Line Discount %** field, enter **10**.
 
-    7.  Close the **Sales Discounts** page.
+    7.  Close the **Sales Line Discounts** page.
 
 7.  Configure invoice discount
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        **Customers**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        `Customers` and then choose the related link.
 
     2.  On the **Customers** page, select the **Generic EU Web Shop** Customer
         **(CWEB0001)**
