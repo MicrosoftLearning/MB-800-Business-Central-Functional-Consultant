@@ -99,7 +99,7 @@ You will perform
 
     18. In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **1/1/2023**.
+        1.  In the **Starting Date** field, enter **1/1/2022**.
 
         2.  In the **Starting No.** field, enter **S22/01/0001**.
 
@@ -107,7 +107,7 @@ You will perform
 
     19. In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **2/1/2023**.
+        1.  In the **Starting Date** field, enter **2/1/2022**.
 
         2.  In the **Starting No.** field, enter **S22/02/0001**.
 

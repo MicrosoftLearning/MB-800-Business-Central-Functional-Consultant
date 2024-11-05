@@ -56,7 +56,7 @@ You will perform
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **1/1/2023**.
+        1.  In the **Starting Date** field, enter **1/1/2022**.
 
         2.  In the **Starting No.** field, enter **P22/0001**.
 

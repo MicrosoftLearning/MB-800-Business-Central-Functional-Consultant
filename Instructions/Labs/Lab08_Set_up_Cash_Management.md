@@ -36,7 +36,7 @@ You will perform:
 
             1.  In the **No.** field, enter `EUROP`.
 
-            2.  In the **Name** filed, enter `European bank`
+            2.  In the **Name** field, enter `European bank`
 
         2.  On the **Posting** FastTab, in the **Currency Code** field, select
             **EUR**.
@@ -62,8 +62,8 @@ Exercise 2: Set up and assign a Bank Account Posting Group
 All transactions on the European bank account have to be posted on the balance
 account 10250.
 
-*(This general ledger account was already created in a previous lab 3.2 –
-exercise 1. If not, complete this first.)*
+*(This general ledger account was already created in a previous Excersize 5 –
+Task 1. If not, complete this first.)*
 
 You need to complete the correct bank posting group setup.
 
@@ -78,9 +78,9 @@ You will perform:
 1.  Create a bank account posting group.
 
     1.  Select the Search icon in the top-right corner of the page,
-        enter `Bank Accounts Posting Group` and then choose the related link.
+        enter `Bank Account Posting Group` and then choose the related link.
 
-    2.  In the **Bank Accounts Posting Groups** page, select **+ New**.
+    2.  In the **Bank Account Posting Groups** page, select **+ New**.
 
     3.  In the **Code** field, enter `EUROP`.
 
