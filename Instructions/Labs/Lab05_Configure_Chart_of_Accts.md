@@ -39,24 +39,24 @@ You will perform
 
 1.  Create a G/L Account card.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Chart of Accounts**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Chart of Accounts` and then choose the related link.
 
     2.  In the **Chart of Accounts** page, select **+ New**.
 
     3.  In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **10250**
+        1.  In the **No.** field, enter `10250`
 
-        2.  In the **Name** field, enter **European bank**.
+        2.  In the **Name** field, enter `European bank`.
 
-        3.  In the **Income/Balance** field, enter the value **Balance Sheet**.
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
 
-        4.  In the **Account Category** field, enter the value **Assets**
+        4.  In the **Account Category** field, select the value **Assets**
 
-        5.  In the **Account Subcategory** field, enter the value **Cash**.
+        5.  In the **Account Subcategory** field, select the value **Cash**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
         7.  Close the **G/L Account Card** page.
 
@@ -64,18 +64,18 @@ You will perform
 
     5.  In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **10450**
+        1.  In the **No.** field, enter `10450`
 
-        2.  In the **Name** field, enter **Accounts Receivables – Foreign**.
+        2.  In the **Name** field, enter `Accounts Receivables – Foreign`.
 
-        3.  In the **Income/Balance** field, enter the value **Balance Sheet**.
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
 
-        4.  In the **Account Category** field, enter the value **Assets**
+        4.  In the **Account Category** field, select the value **Assets**
 
-        5.  In the **Account Subcategory** field, enter the value **Accounts
+        5.  In the **Account Subcategory** field, select the value **Accounts
             Receivables**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
         7.  Close the **G/L Account Card** page.
 
@@ -85,17 +85,17 @@ You will perform
 
     8.  In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **10710**
+        1.  In the **No.** field, enter `10710`
 
-        2.  In the **Name** field, enter **Inventory – Computer Hardware**.
+        2.  In the **Name** field, enter `Inventory – Computer Hardware`.
 
-        3.  In the **Income/Balance** field, enter the value **Balance Sheet**.
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
 
-        4.  In the **Account Category** field, enter the value **Assets**
+        4.  In the **Account Category** field, select the value **Assets**
 
-        5.  In the **Account Subcategory** field, enter the value **Inventory**.
+        5.  In the **Account Subcategory** field, select the value **Inventory**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
         7.  Close the **G/L Account Card** page.
 
@@ -103,18 +103,18 @@ You will perform
 
     10. In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **20150**
+        1.  In the **No.** field, enter `20150`
 
-        2.  In the **Name** field, enter **Accounts Payable – Foreign**.
+        2.  In the **Name** field, enter `Accounts Payable – Foreign`.
 
-        3.  In the **Income/Balance** field, enter the value **Balance Sheet**.
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
 
-        4.  In the **Account Category** field, enter the value **Liabilities**
+        4.  In the **Account Category** field, select the value **Liabilities**
 
-        5.  In the **Account Subcategory** field, enter the value **Current
+        5.  In the **Account Subcategory** field, select the value **Current
             Liabilities**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
         7.  Close the **G/L Account Card** page.
 
@@ -124,21 +124,21 @@ You will perform
 
     13. In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **40210**
+        1.  In the **No.** field, enter `40210`
 
-        2.  In the **Name** field, enter **Product Sales – Computer hardware**.
+        2.  In the **Name** field, enter `Product Sales – Computer hardware`.
 
-        3.  In the **Income/Balance** field, enter the value **Income
+        3.  In the **Income/Balance** field, select the value **Income
             Statement**.
 
-        4.  In the **Account Category** field, enter the value **Income**
+        4.  In the **Account Category** field, select the value **Income**
 
-        5.  In the **Account Subcategory** field, enter the value **Income,
+        5.  In the **Account Subcategory** field, select the value **Income,
             Product Sales**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
-        7.  In the **Posting** FastTab, in the **Tax Group Code** field, enter
+        7.  In the **Posting** FastTab, in the **Tax Group Code** field, select
             **NONTAXABLE**.
 
         8.  Close the **G/L Account Card** page.
@@ -147,21 +147,21 @@ You will perform
 
     15. In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **50150**
+        1.  In the **No.** field, enter `50150`
 
-        2.  In the **Name** field, enter **Materials - Computerhardware**.
+        2.  In the **Name** field, enter `Materials - Computerhardware`.
 
-        3.  In the **Income/Balance** field, enter the value **Income
+        3.  In the **Income/Balance** field, select the value **Income
             Statement**.
 
-        4.  In the **Account Category** field, enter the value **Cost of Goods
+        4.  In the **Account Category** field, select the value **Cost of Goods
             Sold**
 
-        5.  In the **Account Subcategory** field, enter the value **Materials**.
+        5.  In the **Account Subcategory** field, select the value **Materials**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
-        7.  In the **Posting** FastTab, in the **Tax Group Code** field, enter
+        7.  In the **Posting** FastTab, in the **Tax Group Code** field, select
             **NONTAXABLE**.
 
         8.  Close the **G/L Account Card** page.
@@ -170,21 +170,21 @@ You will perform
 
     17. In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **61450**
+        1.  In the **No.** field, enter `61450`
 
-        2.  In the **Name** field, enter **Travel Expenses**.
+        2.  In the **Name** field, enter `Travel Expenses`.
 
-        3.  In the **Income/Balance** field, enter the value **Income
+        3.  In the **Income/Balance** field, select the value **Income
             Statement**.
 
-        4.  In the **Account Category** field, enter the value **Expense**
+        4.  In the **Account Category** field, select the value **Expense**
 
-        5.  In the **Account Subcategory** field, enter the value **Utilities
+        5.  In the **Account Subcategory** field, select the value **Utilities
             Expense**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
-        7.  In the **Posting** FastTab, in the **Tax Group Code** field, enter
+        7.  In the **Posting** FastTab, in the **Tax Group Code** field, select
             **NONTAXABLE**.
 
         8.  Close the **G/L Account Card** page.
@@ -193,21 +193,21 @@ You will perform
 
     19. In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter **61850**
+        1.  In the **No.** field, enter `61850`
 
-        2.  In the **Name** field, enter **VAT**.
+        2.  In the **Name** field, enter `VAT`.
 
-        3.  In the **Income/Balance** field, enter the value **Income
+        3.  In the **Income/Balance** field, select the value **Income
             Statement**.
 
-        4.  In the **Account Category** field, enter the value **Expense**
+        4.  In the **Account Category** field, select the value **Expense**
 
-        5.  In the **Account Subcategory** field, enter the value **Tax
+        5.  In the **Account Subcategory** field, select the value **Tax
             Expenses**.
 
-        6.  Deselect the **Direct Posting** checkbox.
+        6.  Deselect the option **Direct Posting**.
 
-        7.  In the **Posting** FastTab, in the **Tax Group Code** field, enter
+        7.  In the **Posting** FastTab, in the **Tax Group Code** field, select
             **NONTAXABLE**.
 
         8.  Close the **G/L Account Card** page.
@@ -220,7 +220,7 @@ You will perform
 2.  Assign default dimensions to multiple G/L Accounts.
 
     1.  In the **Chart of Accounts** page, select general ledger accounts 60110
-        until 61170.
+        until 61100.
 
     2.  Select **Account**, then **Dimensions-Multiple**, and then select
         **Dimensions – Multiple**.
@@ -271,8 +271,8 @@ You will perform
 
 1.  Create a VAT Product Posting Group.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **VAT Product Posting Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `VAT Product Posting Groups` and then choose the related link.
 
     2.  In the **VAT Product Posting Groups** page, select **+ New**.
 
@@ -282,8 +282,8 @@ You will perform
 
 2.  Create a VAT Business Posting Group.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **VAT Business Posting Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `VAT Business Posting Groups` and then choose the related link.
 
     2.  In the **VAT Business Posting Groups** page, select **+ New**.
 
@@ -293,8 +293,8 @@ You will perform
 
 3.  Complete the Tax Posting Setup.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Tax Posting Setup**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Tax Posting Setup` and then choose the related link.
 
     2.  In the **Tax Posting Setup** page, select **+ New**.
 
@@ -316,8 +316,8 @@ You will perform
 
 4.  Create a Product Posting Group.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **General Product Posting Groups**, and then choose the related
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `General Product Posting Groups` and then choose the related
         link.
 
     2.  In the **General Product Posting Groups** page, select **+ New**.
@@ -330,8 +330,8 @@ You will perform
 
 5.  Create a Business Posting Group
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Gen. Business Posting Groups**, and then choose the related
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Gen. Business Posting Groups` and then choose the related
         link.
 
     2.  In the **Gen. Business Posting Groups** page, select **+ New**.
@@ -352,8 +352,8 @@ You will perform
 
 6.  Complete the General Posting Setup.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **General Posting Setup**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `General Posting Setup` and then choose the related link.
 
     2.  In the **General Posting Setup** page, select **+ New**.
 

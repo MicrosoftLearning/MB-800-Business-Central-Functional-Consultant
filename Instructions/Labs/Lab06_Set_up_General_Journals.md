@@ -30,16 +30,16 @@ You will perform
 
 1.  Set up a journal for opening entries
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **General Journal Templates**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `General Journal Templates` and then choose the related link.
 
     2.  In the **General Journal Templates** page, select **+ New**.
 
     3.  Fill in the following fields:
 
-        1.  In the **Name** field, enter **OPENING**
+        1.  In the **Name** field, enter `OPENING`
 
-        2.  In the **Description** field, enter **conversion opening balances**.
+        2.  In the **Description** field, enter `conversion opening balances`.
 
         3.  In the **Type** field, select the **General** option.
 
@@ -61,26 +61,26 @@ You will perform
 
     4.  Fill in the following fields:
 
-        1.  In the **Name** field, enter **BALANCE**.
+        1.  In the **Name** field, enter `BALANCE`.
 
-        2.  In the **Description** field, enter **opening g/l balance account**.
+        2.  In the **Description** field, enter `opening g/l balance account`.
 
     5.  In the opened **General Journal Batches** page, select **+ New**.
 
     6.  Fill in the following fields:
 
-        1.  In the **Name** field, enter **BANK**.
+        1.  In the **Name** field, enter `BANK`.
 
-        2.  In the **Description** field, enter **Opening bank balance**.
+        2.  In the **Description** field, enter `Opening bank balance`.
 
     7.  In the opened **General Journal Batches** page, select **+ New**.
 
     8.  Fill in the following fields:
 
-        1.  In the **Name** field, enter **CUST**.
+        1.  In the **Name** field, enter `CUST`.
 
-        2.  In the **Description** field, enter **opening customer ledger
-            entries**.
+        2.  In the **Description** field, enter `opening customer ledger
+            entries`.
 
         3.  In the **Bal. Account No.** field, enter **10400**
 
@@ -88,10 +88,10 @@ You will perform
 
     10. Fill in the following fields:
 
-        1.  In the **Name** field, enter **VEND**.
+        1.  In the **Name** field, enter `VEND`.
 
-        2.  In the **Description** field, enter **opening vendor ledger
-            entries**.
+        2.  In the **Description** field, enter `opening vendor ledger
+            entries`.
 
         3.  In the **Bal. Account No.** field, enter **20100**
 

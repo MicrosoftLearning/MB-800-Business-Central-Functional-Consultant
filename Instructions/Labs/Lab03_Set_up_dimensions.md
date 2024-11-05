@@ -25,12 +25,12 @@ You will perform -
 
 1.  Set up a dimension with dimension values
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Dimensions**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Dimensions`, and then choose the related link.
 
     2.  In the **Dimensions** page, select **+ New**.
 
-    3.  In the **Code** field, enter SALESPERSON_NEWLIST.
+    3.  In the **Code** field, enter `SALESPERSON_NEWLIST`.
 
     4.  Select **Dimension** and then **Dimension Values**.
 
@@ -54,7 +54,7 @@ You will perform -
     6.  For each sales person, set the **Dimension Value Type** field to the
         **Standard** value.
 
-Exercise 2: Assign Account Type Default Dimensions
+Task 2: Assign Account Type Default Dimensions
 --------------------------------------------------
 
 ### Scenario
@@ -93,7 +93,7 @@ You will perform -
 
 2.  Assign Account Type Default Dimensions for the sales people.
 
-    1.  In the **Dimensions** page, select the SALESPERSON_NEWLIST dimension.
+    1.  In the **Dimensions** page, select the **SALESPERSON_NEWLIST** dimension.
 
     2.  Select **Dimension**, and then select **Account Type Default Dim.**.
 
@@ -104,7 +104,7 @@ You will perform -
 
     5.  In the **Value Posting** field, enter **Code Mandatory**.
 
-Exercise 3: Set up a dimension combination
+Task 3: Set up a dimension combination
 ------------------------------------------
 
 ### Scenario
@@ -149,8 +149,8 @@ You will perform -
 
 1.  Limit a dimension combination.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Dimension Combinations**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Dimension Combinations`, and then choose the related link.
 
     2.  In the **Dimension Combinations** page, click on the combination of the
         CUSTOMERGROUP and SALESPERSON_NEWLIST dimension in the matrix.

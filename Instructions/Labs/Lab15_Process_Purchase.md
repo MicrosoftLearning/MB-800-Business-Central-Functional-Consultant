@@ -48,8 +48,8 @@ You will perform-
 
 1.  Change the currency code on the vendor.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Vendors**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Vendors`, and then choose the related link.
 
     2.  On the **Vendors** list page, select vendor **Robert Townes (V9002)**.
 
@@ -230,8 +230,8 @@ You will perform -
 
 1.  Create a purchase return order.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Purchase Return Orders**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Purchase Return Orders`, and then choose the related link.
 
     2.  In the **Purchase Return Orders** list page, select **+ New**.
 
@@ -317,8 +317,8 @@ You will perform
 
 1.  Process a purchase invoice using recurring purchase lines
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Purchase Invoices**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Purchase Invoices`, and then choose the related link.
 
     2.  In the **Purchase Invoices** list page, select **+ New**.
 

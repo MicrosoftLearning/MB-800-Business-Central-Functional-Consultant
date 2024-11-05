@@ -34,10 +34,10 @@ You will perform
 
     1.  First make sure your work date is set to **Today**.
 
-    2.  Select the search for page icon in the top-right corner of the page,
-        enter **General journals**, and then choose the related link.
+    2.  Select the Search icon in the top-right corner of the page,
+        enter `General Journals` and then choose the related link.
 
-    3.  On the **General journals** list page, select the **OPENING** journal.
+    3.  On the **General Journal Template List** page, select the **OPENING** journal.
 
     4.  Open the assist edit(…) button to the right of the **Batch Name** field.
 
@@ -46,7 +46,7 @@ You will perform
         2.  Click **OK**.
 
     5.  Select **Actions**, then select **Opening Balance**, then select
-        **Prepare journal** and then select **G/L Accounts Opening Balance**.
+        **Prepare journal** and then select **G/L Accounts Opening balance**.
 
     6.  Click **OK**.
 
@@ -54,8 +54,8 @@ You will perform
 
 2.  Create and export a configuration package including dimension information.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Configuration Packages**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Configuration Packages` and then choose the related link.
 
     2.  In the **Configuration Packages** page, click **+ New** to create a new
         configuration package.
@@ -82,7 +82,7 @@ You will perform
 
     12. Select **Table** and then **Fields**.
 
-    13. Click on **NO.**
+    13. Click on **No.**
 
     14. Click on **Fields** again.
 
@@ -151,8 +151,8 @@ You will perform
 
 5.  Post the general journal.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **General Journals**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `General Journals` and then choose the related link .
 
     2.  Click on **OPENING.**
 
@@ -310,8 +310,8 @@ You will perform
 
 1.  Create a vendor bank account.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Vendors**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Vendors` and then choose the related link.
 
     2.  On the **Vendors** list page, select vendor **Graphic Design
         Institute.**
@@ -352,8 +352,8 @@ You will perform
 
 2.  Suggest vendor payments.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Payment journals**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Payment journals` and then choose the related link.
 
     2.  Open the assist edit button to the right of the **Batch Name** field.
 
@@ -433,8 +433,8 @@ You will perform
 
 1.  Review payment registration setup.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Payment Registration Setup**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Payment Registration Setup` and then choose the related link.
 
     2.  On the **Payment Registration Setup** page, make sure following fields
         are entered.
@@ -455,8 +455,8 @@ You will perform
 
 2.  Process payment registrations.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Payment Registrations.**
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Payment Registrations`.
 
     2.  Click on the **Payment Registrations** task, to open the **Register
         Customer Payments** page.

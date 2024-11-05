@@ -40,8 +40,8 @@ You will perform -
 
 1.  Create an order address for the vendor
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Vendors**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Vendors` and then choose the related link.
 
     2.  On the **Vendors** list page, select vendor **Robert Townes (V9002)**.
 
@@ -119,7 +119,7 @@ through wholesalers, with Robert Townes considered to be the main supplier.
 
 Robert Townes guarantees to deliver all goods within 5 days, however some
 special items may take a bit longer and have a deviating delivery time. For
-example, the 17” monitor will take up to 7D to deliver.
+example, the 17” monitor will take up to 7 days to deliver.
 
 All items can only be purchased in boxes, containing 10 pieces of the hardware.
 
@@ -135,8 +135,8 @@ You will perform
 
 1.  Specify replenishment information
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Items**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Items`, and then choose the related link.
 
     2.  On the **Items** list page, select item **15” 1501 FP Flat Panel
         (CHW1002)**
@@ -166,7 +166,7 @@ You will perform
 
         6.  Click **OK** to close the page.
 
-        7.  The new code is automatically filled in in the **Purch. Unit of
+        7.  The new code is automatically filled  in the **Purch. Unit of
             Measure** field on the item card.
 
     5.  Close the item card.
@@ -198,7 +198,7 @@ You will perform
 
         6.  Click **OK** to close the page.
 
-        7.  The new code is automatically filled in in the **Purch. Unit of
+        7.  The new code is automatically filled in the **Purch. Unit of
             Measure** field on the item card.
 
     9.  Close the item card.
@@ -329,8 +329,8 @@ You will perform
 
 1.  Configure recurring purchase lines
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Vendors**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Vendors` and then choose the related link.
 
     2.  On the **Vendors** list page, select vendor **Alpine Ski House
         (V9007)**.

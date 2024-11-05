@@ -32,8 +32,8 @@ You will perform
 
 1.  Set up and assign number series.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Purchases & Payables Setup**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Purchases & Payables Setup` and then choose the related link.
 
     2.  In the **Purchases & Payables Setup** page, go to the **Number Series**
         FastTab.
@@ -56,7 +56,7 @@ You will perform
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **1/1/2023**.
+        1.  In the **Starting Date** field, enter **1/1/2022**.
 
         2.  In the **Starting No.** field, enter **P22/0001**.
 
@@ -79,8 +79,8 @@ You will perform
 
     2.  In the **Discount Posting** field, select the **All Discounts** option.
 
-    3.  Select the search for page icon in the top-right corner of the page,
-        enter **General Posting Setup**, and then choose the related link.
+    3.  Select the Search icon in the top-right corner of the page,
+        enter `General Posting Setup`, and then choose the related link.
 
     4.  In the **General Posting Setup** page, for each possible combination of
         **Gen. Bus. Posting Group** and **Gen. Prod. Posting Group**, make sure
@@ -114,8 +114,8 @@ You will perform
 
 1.  Create a general journal template.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **General Journal Templates**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `General Journal Templates`, and then choose the related link.
 
     2.  In the **General Journal Templates** page, select **+ New**.
 
@@ -182,8 +182,8 @@ You will perform
 
 1.  Set up a Vendor Posting Group.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Vendor Posting Groups**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Vendor Posting Groups`, and then choose the related link.
 
     2.  In the **Vendor Posting Groups** page, select **+ New**.
 
@@ -233,8 +233,8 @@ You will perform
 
 2.  Create Vendor Templates.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Vendor Templates**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Vendor Templates` and then choose the related link.
 
     2.  In the **Vendor Templates** page, select **+ New**.
 
@@ -309,8 +309,8 @@ You will perform
 
 11. Configure vendors.
 
-12. Select the search for page icon in the top-right corner of the page, enter
-    **Vendors**, and then choose the related link.
+12. Select the Search icon in the top-right corner of the page, enter
+    `Vendors`, and then choose the related link.
 
 13. In the **Vendors** page, multi-select imported vendors **V9001**, **V9003**
     and **V9007**.

@@ -34,15 +34,15 @@ You will perform -
 
 1.  Create a configuration package.
 
-    1.  Select the search for page icon in the top-right corner of the page,
-        enter **Configuration Packages**, and then choose the related link.
+    1.  Select the Search icon in the top-right corner of the page,
+        enter `Configuration Packages`and then choose the related link.
 
     2.  In the **Configuration Packages** page, click **+ New** to create a new
         configuration package.
 
-    3.  In the **Code** field, enter **VENDOR**.
+    3.  In the **Code** field, enter `VENDOR`.
 
-    4.  In the **Package Name** field, enter **Vendor List**.
+    4.  In the **Package Name** field, enter `Vendor List`.
 
 2.  Assign tables and select fields.
 
@@ -210,14 +210,16 @@ You will perform -
     6.  A warning appears, where you select the **I understand, and want to
         continue** checkbox and click **OK**.
 
-    7.  Click **No** to any further questions.
+    7.  Click **Yes** to continue.  
 
-    8.  Select **Create new customer card for School of Fine Art** and click
+    8.  Click **No** to any further questions.
+
+    9.  Select **Create new customer card for School of Fine Art** and click
         **OK**.
 
-    9.  Select **Create new customer card for Adatum Corporation** and click
+    10.  Select **Create new customer card for Adatum Corporation** and click
         **OK**.
 
-    10. Select **Create new customer card for Trey Research** and click **OK**.
+    11. Select **Create new customer card for Trey Research** and click **OK**.
 
-    11. Click **OK**.
+    12. Click **OK**.
