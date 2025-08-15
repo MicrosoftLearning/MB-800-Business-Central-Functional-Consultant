@@ -1,4 +1,10 @@
-Exercise 10: Set Up Accounts Payable
+---
+lab:
+    title: 'Lab 9: Setup Accounts Payable'
+    module: 'Learning Path 2: Configure financials'
+---
+
+Exercise 9: Set Up Accounts Payable
 ====================================
 
 Task 1: Configure the Purchases & Payables Setup
