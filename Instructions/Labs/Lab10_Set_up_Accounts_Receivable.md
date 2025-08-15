@@ -1,4 +1,10 @@
-Exercise 11: Set Up Accounts Receivable
+---
+lab:
+    title: 'Lab 10: Setup Accounts Receivable'
+    module: 'Learning Path 2: Configure financials'
+---
+
+Exercise 10: Set Up Accounts Receivable
 =======================================
 
 Task 1: Configure the Sales & Receivables Setup
