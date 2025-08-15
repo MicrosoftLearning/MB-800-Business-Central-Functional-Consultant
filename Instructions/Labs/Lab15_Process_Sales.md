@@ -1,4 +1,10 @@
-Exercise 16: Process Sales
+---
+lab:
+    title: 'Lab 15: Process Sales'
+    module: 'Learning Path 4: Perform Business Central operations'
+---
+
+Exercise 15: Process Sales
 ==========================
 
 Task 1: Process a sales from quote to invoice
