@@ -1,4 +1,10 @@
-Exercise 8: Set Up Cash Management
+---
+lab:
+    title: 'Lab 7: Set Up Cash Management'
+    module: 'Learning Path 2: Configure financials'
+---
+
+Exercise 7: Set Up Cash Management
 ==================================
 
 Task 1: Create a bank account
