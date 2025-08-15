@@ -1,4 +1,3 @@
-
 ---
 lab:
     title: 'Lab 4: Setting up and using a purchase approval workflow'
