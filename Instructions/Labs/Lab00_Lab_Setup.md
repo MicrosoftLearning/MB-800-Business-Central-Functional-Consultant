@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 0: Validate lab environment'
-    module: 'Learning Path 00: Course introduction'
+    module: 'Learning Path 0: Course introduction'
 ---
 
 Module 0: Course introduction
