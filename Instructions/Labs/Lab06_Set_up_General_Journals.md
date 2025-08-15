@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab 6: Set up General Journals'
+    module: 'Learning Path 2: Configure financials'
+---
+
 Exercise 6: Set Up General Journals
 ===================================
 
