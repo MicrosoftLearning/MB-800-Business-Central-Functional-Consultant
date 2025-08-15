@@ -1,4 +1,10 @@
-Exercise 13: Configure Purchasing
+---
+lab:
+    title: 'Lab 12: Configure Purchasing'
+    module: 'Learning Path 3: Configure sales and purchasing'
+---
+
+Exercise 12: Configure Purchasing
 =================================
 
 Task 1: Complete the vendor card
