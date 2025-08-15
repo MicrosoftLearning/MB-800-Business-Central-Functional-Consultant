@@ -1,4 +1,10 @@
-Exercise 12: Set up Inventory 
+---
+lab:
+    title: 'Lab 11: Set up Inventory'
+    module: 'Learning Path 3: Configure sales and purchasing'
+---
+
+Exercise 11: Set up Inventory 
 ==============================
 
 Task 1: Configure the Inventory Setup
