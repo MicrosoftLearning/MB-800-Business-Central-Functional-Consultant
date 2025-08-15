@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab 5: Configure Chart of Accounts and Posting Groups'
+    module: 'Learning Path 2: Configure financials'
+---
+
 Exercise 5: Configure Chart of Accounts and Posting Groups
 ==========================================================
 
