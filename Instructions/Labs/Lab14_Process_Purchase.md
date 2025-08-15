@@ -1,4 +1,10 @@
-Exercise 15: Process Purchase
+---
+lab:
+    title: 'Lab 14: Process Purchase'
+    module: 'Learning Path 4: Perform Business Central operations'
+---
+
+Exercise 14: Process Purchase
 =============================
 
 Task 1: Process a purchase from order to invoice and review the posted documents
