@@ -1,4 +1,10 @@
-Exercise 9 : Process Cash Management
+---
+lab:
+    title: 'Lab 8: Process Cash Management'
+    module: 'Learning Path 2: Configure financials'
+---
+
+Exercise 8 : Process Cash Management
 ====================================
 
 Task 1: Create and post journal entries
