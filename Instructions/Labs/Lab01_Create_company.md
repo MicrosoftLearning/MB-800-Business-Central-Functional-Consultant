@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab 1: Create and configure a new company'
+    module: 'Learning Path 1: Set up Business Central'
+---
+
 Hands-on-Lab 1: Create and configure a new company
 ====================================================
 
