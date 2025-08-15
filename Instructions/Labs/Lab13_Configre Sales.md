@@ -1,4 +1,10 @@
-Exercise 14: Configure Sales
+---
+lab:
+    title: 'Lab 13: Configure Sales'
+    module: 'Learning Path 3: Configure sales and purchasing'
+---
+
+Exercise 13: Configure Sales
 ============================
 
 Task 1: Complete the customer card
