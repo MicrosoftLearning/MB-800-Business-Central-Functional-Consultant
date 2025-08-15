@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab 3: Set up dimensions'
+    module: 'Learning Path 1: Set up Business Central'
+---
+
 Exercise 3 : Set up dimensions
 ==============================
 
