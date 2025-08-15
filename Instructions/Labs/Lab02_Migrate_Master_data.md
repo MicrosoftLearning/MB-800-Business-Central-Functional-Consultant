@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab 2: Migrate master data to a new company'
+    module: 'Learning Path 1: Set up Business Central'
+---
+
 Exercise 2 - Migrate master data to a new company
 =================================================
 
