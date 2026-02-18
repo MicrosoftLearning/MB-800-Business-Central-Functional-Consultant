@@ -35,24 +35,24 @@ data.
     1.  Select the Search icon in the top-right corner of the page,
         enter `Companies`, and then choose the related link.
 
-    2.  In the **Companies** page, select **New** and then, **Create New
+    2.  In the **Companies** page, select the arrow by **New** and then **Create New
         Company**
 
     3.  The **Create New Company** wizard opens.
 
-    4.  Click **Next**.
+    4.  Select **Next**.
 
     5.  As the company name, enter **Contoso Ltd**.
 
     6.  Select the option **Production – Setup Data Only**.
 
-    7.  Click **Next**.
+    7.  Select **Next**.
     
-    8.  Click **Next** on "Available Modules" page.
+    8.  Select **Next** on the "Available Modules" page.
 
-    8.  Skip the **Manage Users** option by clicking **Next**.
+    8.  Skip the **Manage Users** option by selecting **Next**.
 
-    9.  Click **Finish** to create the company.
+    9.  Select **Finish** to create the company.
 
     10. Wait approximately 10 minutes for the company creation to complete.
 
@@ -63,20 +63,20 @@ data.
     1.  Once the **Setup Status** is changed to **Completed**, go to the
         **Settings** icon on the top-right corner.
 
-    2.  Select **My Settings**, to open the new company.
+    2.  Select **My Settings** to open the new company.
 
     3.  Open the assist edit button (…) to the right of the **Company** textbox.
 
-    4.  In the window that opens, select **Contoso Ltd** and click **OK**.
+    4.  In the window that opens, select **Contoso Ltd** and select **OK**.
 
     >> If prompted with 'Set up a company' wizard, select **Next**. Accept the Terms & Conditions and select **Get Started**
 
    
-    5.  Select **My Settings** on the top-right corner, and then select
+    5.  Select **Settings** in the top-right corner, and then select
         **Company information**.
 
     6.  On the **Company Information** page, enter the following information on
-        the **General** tab. Once completed, Click on the back arrow.
+        the **General** tab. Once completed, Select on the back arrow.
 
 | Setting             | Value                 |
 |---------------------|-----------------------|
@@ -98,9 +98,9 @@ data.
 5.  On the **Create Fiscal Year** page, select **1/1/2026** in the **Starting
     Date** field.
 
-6.  Click **OK**.
+6.  Select **OK**.
 
- Click on **Yes** if you receive a pop-up asking you to confirm.
+ Select on **Yes** if you receive a pop-up asking you to confirm.
 
 7.  A new **Fiscal Year** will be displayed on the **Accounting Periods** page.
 
@@ -147,12 +147,12 @@ You will start by copying the following data from the default CRONUS company:
 
     7.  Open the assist edit button to the right of the **Table ID** field.
 
-    8.  Search for **ZIP Code**, select table 225 and click **OK** to enter the
+    8.  Search for **ZIP Code**, select table 225 and select **OK** to enter the
         ID in the **Table ID** field.
 
     9.  Repeat steps 5. to 8. to enter table **10 Shipment Method**.
     
-**The two tables listed above already have data loaded into them. This will cause the Copy Company Data sheet to be blank. To complete this part of the exercise, you must go an delete all records in both tables in Contoso, Ltd. Once you've deleted all records, the Copy Company Data sheet will show the Zip Code and Shipping Method tables.**
+**The two tables listed above already have data loaded into them. This will cause the Copy Company Data sheet to be blank. To complete this part of the exercise, you must go and delete all records in both tables in Contoso, Ltd. Go do this now. Once you've deleted all records, the Copy Company Data sheet will show the Zip Code and Shipping Method tables.**
 
 2.  Copy data from another database company.
 
@@ -161,15 +161,15 @@ You will start by copying the following data from the default CRONUS company:
 
     2.  Open the assist edit button (…) to the right of the **Copy from** field.
 
-    3.  Select **Cronus USA Inc.** and click **OK** to enter the company in the
+    3.  Select **Cronus USA Inc.** and select **OK** to enter the company in the
         **Copy from** field.
 
     4.  Press the Shift Key and select the lines with the tables for ZIP codes and shipment methods.
 
     5.  In the menu select **Copy Data**.
 
-    6.  Click **Yes**.
+    6.  Select **Yes**.
 
-    7.  The data is now copied to the **Contoso Ltd** company. Click **OK**.
+    7.  The data is now copied to the **Contoso Ltd** company. Select **OK**.
 
 Close the configuration worksheet
