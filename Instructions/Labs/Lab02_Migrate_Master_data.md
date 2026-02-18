@@ -32,18 +32,20 @@ You will perform -
 
 2.  Assign tables and select fields.
 
-3.  Export a configuration package to excel.
+3.  Export a configuration package to Excel.
 
-4.  Prepare data in excel.
+4.  Prepare data in Excel.
+
+###  ***To fix the errors that occur during the lab, look at the end of the lab for fixes.***
 
 ### Steps
 
 1.  Create a configuration package.
 
     1.  Select the Search icon in the top-right corner of the page,
-        enter `Configuration Packages`and then choose the related link.
+        enter `Configuration Packages` and then choose the related link.
 
-    2.  In the **Configuration Packages** page, click **+ New** to create a new
+    2.  In the **Configuration Packages** page, select **+ New** to create a new
         configuration package.
 
     3.  In the **Code** field, enter `VENDOR`.
@@ -57,16 +59,16 @@ You will perform -
 
     2.  Open the assist edit button to the right of the **Table ID** field.
 
-    3.  In the window that opens, select the **Vendor** table and click **OK**.
+    3.  In the window that opens, select the **Vendor** table and select **OK**.
 
     4.  Then press ENTER or TAB.
 
     5.  Make sure the vendor table line is selected, select **Table** and then
         **Fields**.
 
-    6.  You will be asked to check related tables, click **No**.
+    6.  You will be asked to check related tables, select **No**.
 
-    7.  Click on fields again. On the field list page, first select **Clear
+    7.  Select **fields** again. On the field list page, first select **Clear
         Included**, to deselect the **Include Field** checkbox for all the
         fields.
 
@@ -90,22 +92,22 @@ You will perform -
 
     9.  The **Validate Field** checkbox is automatically selected.
 
-    10. Click **Close**.
+    10. Select **Close**.
 
-3.  Export a configuration package to excel.
+3.  Export a configuration package to Excel.
 
     1.  In the **Config. Package Card** page, select **Export to Excel**.
 
-    2.  Click **Yes** to export the configuration package.
+    2.  Select **Yes** to export the configuration package.
 
-4.  Prepare data in excel.
-
+4.  Prepare data in Excel.
+   
     1.  Open the exported excel file from the **Downloads** folder.
 
-    2.  Navigate to the Vendors List File. Copy and paste the information as
+    2.  Navigate to the **Vendors Import.xlsx** file (C:\ drive). Copy and paste the information as
         provided by Contoso.
 
-    3.  Save the excel file.
+    3.  Save the Excel file.
 
 Task 2: Import and apply a configuration package
 ------------------------------------------------
@@ -136,10 +138,10 @@ You will perform -
 
     2.  In the **Config. Package Card** page, select **Import from Excel**.
 
-    3.  Click on **Click here to browse…** and select the excel file that you
+    3.  Select on **Select here to browse…** and select the excel file that you
         updated in previous exercise.
 
-    4.  Click **Open**.
+    4.  Select **Open**.
 
     5.  Select **Import**.
 
@@ -147,25 +149,28 @@ You will perform -
 
     1.  In the **Config. Package Card** page, select **Apply Package**.
 
-    2.  Click **Yes** to confirm.
+    2.  Select **Yes** to confirm.
 
-    3.  Click **OK**.
+    3.  Select **OK**.
+
+**NOTE: When you copy the Vendor records, you may be missing the Currency record for GBP. Fix this by adding the GBP record on the Currencies card.**
 
 3.  Resolve package errors.
+
 
     1.  In the **Config. Package Card** page, the vendor table line will show a
         number of errors.
 
-    2.  Click on the number in the **No. of Package Errors** field.
+    2.  Select on the number in the **No. of Package Errors** field.
 
-    3.  In the error page, select the first record line and click **Show
+    3.  In the error page, select the first record line and select **Show
         Error**.
 
-    4.  Click **Close**.
+    4.  Select **Close**.
 
     5.  Repeat for all the error records.
 
-    6.  Click **OK**.
+    6.  Select **OK**.
 
     7.  In the **Config. Package Card** page, select the vendor table line and
         select **Table** and then select **Fields**.
@@ -176,15 +181,15 @@ You will perform -
 
         2.  Post Code
 
-    9.  Click **Close**.
+    9.  Select **Close**.
 
     10. In the **Config. Package Card** page, select **Apply Package**.
 
-    11. Click **Yes** to confirm.
+    11. Select **Yes** to confirm.
 
-    12. Click **OK**.
+    12. Select **OK**.
 
-Task 3: Import and apply a predefined package
+Task 3: Import and apply data from an existing company
 ---------------------------------------------
 
 ### Scenario
@@ -194,38 +199,47 @@ from the default CRONUS USA company within the database.
 
 You will perform -
 
-1.  Import and apply a predefined package.
+1.  Import and apply a predefined Excel package.
 
 ### Steps
 
 1.  Import and apply a predefined package.
 
-    1.  In the **Configuration Packages** page, click the dropdown next to
-        **Import Package**, and then select **Import Predefined Package**.
+    1.  In the **Configuration Packages** page, select the dropdown next to
+        **Import Package**, and then select **Import from Excel**.
 
-    2.  From the overview list, select the **Evaluation** package, containing
-        the demo data.
+    2.  In the **Import From Excel** dialogue, select **select here to browse**.
+    
+    3.  Select the file **MB800_Lab_2.3_EVALUATION.xlsx**, and then select **Open**.
 
-    3.  Click **OK**.
+    4.  Select **Import** to confirm.
+    
+    **NOTE: If you get a message about dimensions, select Yes.**
+    
+    5.  Select on **EVALUATION**.
+    
+    6.  Select **Apply Package**.
+    
+    **NOTE: If you get a message related to duplicated contacts, select No to each message.**
 
-    4.  Select the imported configuration package, select **Package**, and then
-        select **Apply Package**.
+    7.  Select **Yes** to continue.  
 
-    5.  Click **Yes** to confirm.
+    8.  Select **Yes** to any further questions.
 
-    6.  A warning appears, where you select the **I understand, and want to
-        continue** checkbox and click **OK**.
+    9. Select **OK**.
 
-    7.  Click **Yes** to continue.  
+**NOTE: You may run into errors when loading the package. You will need to fix those errors prior to continuing the labs.**
 
-    8.  Click **No** to any further questions.
+**Fixes for Errors**
 
-    9.  Select **Create new customer card for School of Fine Art** and click
-        **OK**.
+You need to fix the following items:
 
-    10.  Select **Create new customer card for Adatum Corporation** and click
-        **OK**.
+1. Add the missing bin types from the Evaluation.xlsx file.
+2. Fix/Add bin types to the White location errors
+3. Increase the value for the **Contacts** number series to from 20 to 30.
+4. Add three companies to **Customers**:
 
-    11. Select **Create new customer card for Trey Research** and click **OK**.
+- School of Fine Art
+- Adatum Corporation
+- Trey Research
 
-    12. Click **OK**.
