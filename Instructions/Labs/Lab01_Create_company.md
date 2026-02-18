@@ -7,39 +7,7 @@ lab:
 Hands-on-Lab 1: Create and configure a new company
 ====================================================
 
-Exercise 1: Sign into Dynamics 365 Business Central
----------------------------------------------------
-
-1.  Open your browser and browse to the **Dynamics 365 Business Central**
-    homepage using the link
-    <https://dynamics.microsoft.com/en-us/business-central/overview/>
-
-2.  Click **Try for free** tab on the **Dynamics 365 Business Central**
-    homepage.
-
-3.  Enter your **Office 365 tenant credentials** and click **Next**.   
-
-4.  Click on **Sign In** and then enter the password provided to you.
-
-5.  Click on **Sign in** and  select **Yes** to stay signed in.
-
-6.  If prompted for contact information, leave the **Country/region** as the default value and enter 0123456789 for  **Business Phone number**.
-
-7.  Click on **Get Started**.
-
-8.  Click on **Skip & go to Dynamics 365 Business Central**.
-
-9.  Click on **Get Started**.
-
-10.  It may take up to 1-2 mins to set up the **Dynamics 365 Business Central**
-    environment.
-
-11.  If prompted, select **Skip survey**.
-
-12.  You should now be able to see the **Dynamics 365 Business Central** portal.
-
-
-Exercise 2: Create a new company
+Exercise 1: Create a new company
 --------------------------------
 
 ### Scenario
@@ -48,7 +16,7 @@ You are a functional consultant assigned to a new project, where you are
 responsible for the analysis of your customers business processes. Your customer
 is Contoso Ltd, situated in Redmond Washington. They will start to use
 Microsoft Dynamics 365 Business Central as of their new fiscal year, January 1st
-2024.
+2026.
 
 You initiate the process by creating a new company within the customers
 database, including some predefined setup information but without any business
@@ -79,6 +47,8 @@ data.
     6.  Select the option **Production – Setup Data Only**.
 
     7.  Click **Next**.
+    
+    8.  Click **Next** on "Available Modules" page.
 
     8.  Skip the **Manage Users** option by clicking **Next**.
 
@@ -111,7 +81,7 @@ data.
 | Setting             | Value                 |
 |---------------------|-----------------------|
 | Name                | Contoso Ltd           |
-| Address             | 1432, Hamilton Street |
+| Address             | 1432 Hamilton Street |
 | Address 2           | Westminster           |
 | City                | Atlanta               |
 | State               | GA                    |
@@ -125,7 +95,7 @@ data.
 
 4.  On the **Accounting Periods** page, select **Create Year**.
 
-5.  On the **Create Fiscal Year** page, select **1/1/2022** in the **Starting
+5.  On the **Create Fiscal Year** page, select **1/1/2026** in the **Starting
     Date** field.
 
 6.  Click **OK**.
@@ -134,9 +104,11 @@ data.
 
 7.  A new **Fiscal Year** will be displayed on the **Accounting Periods** page.
 
-8.  Close all the pages.
+8.  Repeat for 2022 - 2025.
 
-Exercise 3: Configure a new company
+9.  Close all the pages.
+
+Exercise 2: Configure a new company
 -----------------------------------
 
 ### Scenario
@@ -161,7 +133,7 @@ You will start by copying the following data from the default CRONUS company:
 1.  Complete the configuration worksheet.
 
     1.  Select the Search icon in the top-right corner of the page,
-        enter `Configuration Worksheet`and then choose the related link.
+        enter `Configuration Worksheet` and then choose the related link.
 
     2.  At the bottom of the worksheet, enter a new line.
 
@@ -178,7 +150,9 @@ You will start by copying the following data from the default CRONUS company:
     8.  Search for **ZIP Code**, select table 225 and click **OK** to enter the
         ID in the **Table ID** field.
 
-    9.  Repeat steps e. to h. to enter table **10 Shipment Method**.
+    9.  Repeat steps 5. to 8. to enter table **10 Shipment Method**.
+    
+**The two tables listed above already have data loaded into them. This will cause the Copy Company Data sheet to be blank. To complete this part of the exercise, you must go an delete all records in both tables in Contoso, Ltd. Once you've deleted all records, the Copy Company Data sheet will show the Zip Code and Shipping Method tables.**
 
 2.  Copy data from another database company.
 
@@ -190,7 +164,7 @@ You will start by copying the following data from the default CRONUS company:
     3.  Select **Cronus USA Inc.** and click **OK** to enter the company in the
         **Copy from** field.
 
-    4.  Select the lines with the tables for ZIP codes and shipment methods.
+    4.  Press the Shift Key and select the lines with the tables for ZIP codes and shipment methods.
 
     5.  In the menu select **Copy Data**.
 
