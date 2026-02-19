@@ -44,7 +44,7 @@ You will perform
     2.  In the **Inventory Setup** page, go to the **Numbering** FastTab.
 
     3.  In the **Item Nos.** field, the value **ITEM** is already filled in.
-        Click on the Look Up Value button and select **+ New**.
+        Select on the Look Up Value button and select **+ New**.
 
     4.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -54,7 +54,7 @@ You will perform
 
         3.  Select the **Default Nos.** check box.
 
-    5.  Click on the Lookup again and Click on View Details. Click the ellipses
+    5.  Select on the Lookup again and Select on View Details. Select the ellipses
         (…) and then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
@@ -70,7 +70,7 @@ You will perform
     8.  In the opened **No. Series List** page, select the number series
         **ITEM**.
 
-    9.  Click the ellipses (…) and then select
+    9.  Select the ellipses (…) and then select
         **Relationships**.
 
     10. In the **No. Series Relationships** page, select **+ New**.
@@ -79,7 +79,7 @@ You will perform
 
     12. Close the **No. Series Relationships** page.
 
-    13. Close the **No. Series List** page by clicking **OK**.
+    13. Close the **No. Series List** page by selecting **OK**.
 
     14. The number series **ITEM** remains filled in in the **Item Nos.** field,
         in the **Inventory Setup** page.
@@ -88,7 +88,7 @@ You will perform
 
     1.  In the **Inventory Setup** page, go to the **General** FastTab.
 
-    2.  Click **Show more**.
+    2.  Select **Show more**.
 
     3.  Select the **Automatic Cost Posting** checkbox.
 
@@ -218,22 +218,22 @@ You will perform
         3.  In the **Attributes** section, enter a new line, filling in the
             following fields:
 
-            1.  In the **Attribute** field, click on the Look Up Value button
-                and click **Select from full list**.
+            1.  In the **Attribute** field, select on the Look Up Value button
+                and select **Select from full list**.
 
             2.  In the opened **Item Attributes** page, select the **Color**
                 attribute.
 
-            3.  Click on the **Values** of **Color**.
+            3.  Select on the **Values** of **Color**.
 
-                1.  In the opened **Item Attributes Values** page, click **+
+                1.  In the opened **Item Attributes Values** page, select **+
                     New**.
 
                 2.  In the **Value** field, enter **Grey**
 
                 3.  Close the **Item Attributes Value** page.
 
-            4.  Click **OK** to close the **Item Attributes** page.
+            4.  Select **OK** to close the **Item Attributes** page.
 
             5.  The new code is automatically filled in in the **Attribute**
                 field on the item category card.
@@ -253,8 +253,8 @@ You will perform
         4.  In the **Attributes** section, enter a new line, filling in the
             following fields:
 
-            1.  In the **Attribute** field, click on the Look Up Value button
-                and click **+ New**.
+            1.  In the **Attribute** field, select on the Look Up Value button
+                and select **+ New**.
 
             2.  In the opened **Item Attributes** page, on the new line, fill in
                 the following fields:
@@ -265,7 +265,7 @@ You will perform
 
                 6.  Make sure the new line is selected.
 
-                7.  Click **OK** to close the page.
+                7.  Select **OK** to close the page.
 
             3.  The new code is automatically filled in in the **Attribute**
                 field on the item category card.
@@ -285,8 +285,8 @@ You will perform
         4.  In the **Attributes** section, enter a new line, filling in the
             following fields:
 
-            1.  In the **Attribute** field, click on the Look Up Value button
-                and click **+ New**.
+            1.  In the **Attribute** field, select on the Look Up Value button
+                and select **+ New**.
 
             2.  In the opened **Item Attributes** page, on the new line, fill in
                 the following fields:
@@ -297,7 +297,7 @@ You will perform
 
                 10. Make sure the new line is selected.
 
-                11. Click **OK** to close the page.
+                11. Select **OK** to close the page.
 
             3.  The new code is automatically filled in in the **Attribute**
                 field on the item category card.
@@ -347,7 +347,7 @@ You will perform
 
     2.  On the **Items** page, select **New** and +New
 
-    3.  Select the template **Computer hardware** and click **OK**.
+    3.  Select the template **Computer hardware** and select **OK**.
 
     4.  A new item card is created with number **CHW1000**.
 
@@ -366,13 +366,13 @@ You will perform
 
         2.  For the attribute **Processor**, enter the value **533 Mhz**.
 
-        3.  Click **OK** to close the FactBox.
+        3.  Select **OK** to close the FactBox.
 
     7.  Close the item card.
 
     8.  On the **Items** page, select **+ New**.
 
-    9.  Select the template **Computer hardware** and click **OK**.
+    9.  Select the template **Computer hardware** and select **OK**.
 
     10. A new item card is created with number **CHW1001**.
 
@@ -391,13 +391,13 @@ You will perform
 
         2.  For the attribute **Processor**, enter the value **600 Mhz**.
 
-        3.  Click **OK** to close the FactBox.
+        3.  Select **OK** to close the FactBox.
 
     13. Close the item card.
 
     14. On the **Items** page, select **+ New**.
 
-    15. Select the template **Computer hardware** and click **OK**.
+    15. Select the template **Computer hardware** and select **OK**.
 
     16. A new item card is created with number **CHW1002**.
 
@@ -416,13 +416,13 @@ You will perform
 
         2.  For the attribute **Inch**, enter the value **15**.
 
-        3.  Click **OK** to close the FactBox.
+        3.  Select **OK** to close the FactBox.
 
     19. Close the item card.
 
     20. On the **Items** page, select **+ New**.
 
-    21. Select the template **Computer hardware** and click **OK**.
+    21. Select the template **Computer hardware** and select **OK**.
 
     22. A new item card is created with number **CHW1003**.
 
@@ -441,13 +441,13 @@ You will perform
 
         2.  For the attribute **Inch**, enter the value **17**.
 
-        3.  Click **OK** to close the FactBox.
+        3.  Select **OK** to close the FactBox.
 
     25. Close the item card.
 
     26. On the **Items** page, select **+ New**.
 
-    27. Select the template **Computer hardware** and click **OK**.
+    27. Select the template **Computer hardware** and select **OK**.
 
     28. A new item card is created with number **CHW1004**.
 
@@ -464,13 +464,13 @@ You will perform
 
         1.  For the attribute **Color**, select the value **Grey**.
 
-        2.  Click **OK** to close the FactBox.
+        2.  Select **OK** to close the FactBox.
 
     31. Close the item card.
 
     32. On the **Items** page, select **+ New**.
 
-    33. Select the template **Computer hardware** and click **OK**.
+    33. Select the template **Computer hardware** and select **OK**.
 
     34. A new item card is created with number **CHW1005**.
 
@@ -487,13 +487,13 @@ You will perform
 
         1.  For the attribute **Color**, select the value **Grey**.
 
-        2.  Click **OK** to close the FactBox.
+        2.  Select **OK** to close the FactBox.
 
     37. Close the item card.
 
     38. On the **Items** page, select **+ New**.
 
-    39. Select the template **Computer hardware** and click **OK**.
+    39. Select the template **Computer hardware** and select **OK**.
 
     40. A new item card is created with number **CHW1006**.
 
@@ -510,6 +510,6 @@ You will perform
 
         1.  For the attribute **Color**, select the value **White**.
 
-        2.  Click **OK** to close the FactBox.
+        2.  Select **OK** to close the FactBox.
 
     43. Close the item card.
