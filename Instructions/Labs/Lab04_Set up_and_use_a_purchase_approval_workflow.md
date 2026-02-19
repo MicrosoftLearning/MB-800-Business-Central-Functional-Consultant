@@ -1,11 +1,8 @@
-<!-- 
 ---
 lab:
     title: 'Lab 4: Set up and use a purchase approval workflow'
     module: 'Learning Path 1: Set up Business Central'
 ---
--->
-
 
 Hands-on-Lab 04: Set up and use a purchase approval workflow
 ===========================================
