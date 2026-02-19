@@ -160,7 +160,7 @@ You will perform
         3.  In the **Vendor No.** field, enter **V9002**.
 
         4.  In the **Purch. Unit of Measure** field, the value **PCS** is
-            already filled in. Click on the Look Up Value button and select **+
+            already filled in. Select on the Look Up Value button and select **+
             New**.
 
         5.  In the opened **Item Units of Measure** page, fill in the following
@@ -170,7 +170,7 @@ You will perform
 
             2.  In the **Qty. per Unit of Measure** field, enter **10**.
 
-        6.  Click **OK** to close the page.
+        6.  Select **OK** to close the page.
 
         7.  The new code is automatically filled  in the **Purch. Unit of
             Measure** field on the item card.
@@ -192,7 +192,7 @@ You will perform
         3.  In the **Vendor No.** field, enter **V9002**.
 
         4.  In the **Purch. Unit of Measure** field, the value **PCS** is
-            already filled in. Click on the Look Up Value button and select **+
+            already filled in. Select on the Look Up Value button and select **+
             New**.
 
         5.  In the opened **Item Units of Measure** page, fill in the following
@@ -202,7 +202,7 @@ You will perform
 
             2.  In the **Qty. per Unit of Measure** field, enter **10**.
 
-        6.  Click **OK** to close the page.
+        6.  Select **OK** to close the page.
 
         7.  The new code is automatically filled in the **Purch. Unit of
             Measure** field on the item card.
@@ -348,7 +348,7 @@ You will perform
 
     5.  On the new line, fill in the following fields:
 
-        1.  Click on the Look Up Value button in the **Code** field and select
+        1.  Select on the Look Up Value button in the **Code** field and select
             **+ New**.
 
         2.  On the opened **Standard Purchase Code Card** page, fill in the
@@ -371,12 +371,12 @@ You will perform
 
                 4.  Add the Amount Excl. Tax field:
 
-                    1.  Click on the **Settings** icon in the top-right corner
+                    1.  Select on the **Settings** icon in the top-right corner
                         and select **Personalize**.
 
-                    2.  Click **More** on the **Personalizing** ribbon.
+                    2.  Select **More** on the **Personalizing** ribbon.
 
-                    3.  Select the **Lines** area and click **+ Field** in the
+                    3.  Select the **Lines** area and select **+ Field** in the
                         **Personalizing** ribbon.
 
                     4.  An **Add field to page** pane will appear on the right
@@ -385,7 +385,7 @@ You will perform
                     5.  Select the **Amount Excl. Tax** field and drag it to the
                         right of **Quantity** column in the **Lines** area
 
-                    6.  Click **Done** to close **Personalization**.
+                    6.  Select **Done** to close **Personalization**.
 
                     7.  In the **Amount Excl. Tax** field, enter **300**. (25%
                         of 1,200.00)
@@ -422,7 +422,7 @@ You will perform
 
             7.  Close the **Standard Purchase Code Card** page.
 
-            8.  Click **OK** to close the **Recurring Purchase Lines** page.
+            8.  Select **OK** to close the **Recurring Purchase Lines** page.
 
         3.  The new code is now automatically filled in in the **Code** field on
             the **Recurring Purchase Lines** page.
