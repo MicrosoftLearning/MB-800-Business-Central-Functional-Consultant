@@ -49,12 +49,12 @@ You will perform
 
         1.  Select the **BALANCE** journal batch.
 
-        2.  Click **OK**.
+        2.  Select **OK**.
 
     5.  Select **Actions**, then select **Opening Balance**, then select
         **Prepare journal** and then select **G/L Accounts Opening balance**.
 
-    6.  Click **OK**.
+    6.  Select **OK**.
 
     7.  The journal lines are automatically filled in for all balance accounts.
 
@@ -63,7 +63,7 @@ You will perform
     1.  Select the Search icon in the top-right corner of the page,
         enter `Configuration Packages` and then choose the related link.
 
-    2.  In the **Configuration Packages** page, click **+ New** to create a new
+    2.  In the **Configuration Packages** page, select **+ New** to create a new
         configuration package.
 
     3.  In the **Code** field, enter **OPENING**.
@@ -76,7 +76,7 @@ You will perform
     6.  Open the assist edit button to the right of the **Table ID** field.
 
     7.  In the window that opens, select the **Gen. Journal Line** table, and
-        click **OK**.
+        select **OK**.
 
     8.  Then press ENTER or TAB.
 
@@ -88,9 +88,9 @@ You will perform
 
     12. Select **Table** and then **Fields**.
 
-    13. Click on **No.**
+    13. Select on **No.**
 
-    14. Click on **Fields** again.
+    14. Select on **Fields** again.
 
     15. On the field list page, first select **Clear Included**, to deselect the
         **Include Field** checkbox for all the fields.
@@ -121,20 +121,20 @@ You will perform
 
     17. The **Validate Field** checkbox is automatically selected.
 
-    18. Click **Close**.
+    18. Select **Close**.
 
     19. Select **Export to Excel**.
 
-    20. Click **Yes** to export the configuration package.
+    20. Select **Yes** to export the configuration package.
 
 3.  Prepare data in excel.
 
     1.  Open the exported excel file from the download folder.
 
-    2.  Keep only the first 2 lines on the exported to Excel and delete all
+    2.  Keep only the first 3 lines (Rows 1 - 3) in the exported to Excel and delete all
         other, so that you can start from a blank Excel template.
 
-    3.  **Save** the excel file.
+    3.  **Save** the Excel file.
 
 4.  Import and apply the configuration package.
 
@@ -143,26 +143,28 @@ You will perform
 
     2.  In the **Config. Package Card** page, select **Import from Excel**.
 
-    3.  Click on **Click here to browse** and select the excel file.
+    3.  Select on **Select here to browse** and select the excel file.
 
-    4.  Click **Open**
+    4.  Select **Open**
 
     5.  In the preview page, select **Import**.
 
     6.  In the **Config. Package Card** page, select **Apply Package**.
 
-    7.  Click **Yes**.
+    7.  Select **Yes**.
 
-    8.  Click **OK**.
+    8.  Select **OK**.
 
 5.  Post the general journal.
 
     1.  Select the Search icon in the top-right corner of the page,
         enter `General Journals` and then choose the related link .
 
-    2.  Click on **OPENING.**
+    2.  Select on **GENERAL.**
+    
+    3.  In Batch Name field select **DEFAULT**.
 
-    3.  Select the first line and enter the information as provided below.
+    4.  Select the first line and enter the information as provided below.
 
         1.  Enter **C03** in the **Document No.** field
 
@@ -172,7 +174,7 @@ You will perform
 
         4.  Enter **10200** in the **Bal. Account No.** field
 
-    4.  Select the second line and enter the information provided below.
+    5.  Select the second line and enter the information provided below.
 
         1.  Enter **C04** in the **Document No.** field
 
@@ -182,14 +184,14 @@ You will perform
 
         4.  Enter **10200** in the **Bal. Account No.** field
 
-    5.  In the search area, enter General Ledger Setup and make sure the **Allow
+    6.  In the search area, enter **General Ledger Setup** and make sure the **Allow
         Posting From** field, is set to **Today**. Close the page.
 
-    6.  Go back to **General Journal** page and then select **Post**.
+    7.  Go back to **General Journal** page and then select **Post**.
 
-    7.  Click **Yes**.
+    8.  Select **Yes**.
 
-    8.  Click **OK**.
+    9.  Select **OK**.
 
 Task 2: Create and post journal entries
 ---------------------------------------
@@ -222,18 +224,18 @@ You will perform
         enter **Configuration Packages**, and then choose the related link.
 
     2.  On the **Configuration Packages** page, select the **OPENING** package
-        and then select **Import Package**.
+        and then select **Import Package/Import from Excel**.
 
-    3.  Click on **Click here to browse.**
+    3.  Select on **Select here to browse.**
 
-    4.  Select the rapidstart package.
+    4.  Select the Excel file **OpenBalance Lab 8.2.xlsx**.
 
     5.  In the **Config. Package Card** page, select **Package** and then
         **Apply Package**.
 
-    6.  Click **Yes**.
+    6.  Select **Yes**.
 
-    7.  Click **OK**.
+    7.  Select **OK**.
 
 2.  Post the general journal.
 
@@ -246,45 +248,73 @@ You will perform
 
         1.  Select the **CUST** journal batch.
 
-        2.  Click **OK**.
+        2.  Select **OK**.
 
     4.  Select the first line and fill in the following details.
 
         1.  Update the **Posting Date** field of all the lines
 
         2.  Enter **D01** in the **Document No.** field
+        
+        3.  Change the **Account Type** field to **G/L Account**
 
-        3.  Enter **10100** in the **Account No.** field
+        4.  Enter **10100** in the **Account No.** field
 
-        4.  Enter **400.00** in the **Amount** field
+        5.  Enter **400.00** in the **Amount** field
+        
+        6.  Enter **10400** in the **Bal. Account No.**
 
     5.  Repeat the above for line number 2, 3 and 4
 
-    6.  Enter **10200** in the **Balance Account No.** field of all the lines
+    6.  Enter **20100** in the **Balance Account No.** field of all the lines
+    
+    7.  Select Post -> Preview Posting
+    
+    8.  Check for any errors and correct them
+    
+    9.  Close the window
 
-    7.  Select **Post**.
+    10.  Select **Post**
 
-    8.  Click **Yes**.
+    11.  Select **Yes**
 
-    9.  Click **OK**.
+    12.  Select **OK**
 
-    10. Close the General Journals Page.
+    13. Close the General Journals Page.
 
-    11. Enter **General Journals** in the search and select the related link.
+    14. Enter **General Journals** in the search and select the related link.
+    
+    15. On the **General Journals** list page, select the **OPENING** journal.
 
-    12. Open the assist edit button to the right of the **Batch Name** field.
+    16. Open the assist edit button to the right of the **Batch Name** field.
 
         1.  Select the **VEND** journal batch.
 
-        2.  Click **OK**.
+        2.  Select **OK**.
 
-    13. Update the Posting Date field of all the lines.
+    17. Update the Posting Date field of all the lines.
+    
+    18. Enter **10400** in the **Balance Account No.** field of all the lines
+    
+    19. Select Post -> Preview Posting
+    
+    20. Check for any errors and correct them
+    
+    21. Close the window
 
-    14. Select **Home**, and then select **Post**.
+    22. Select **Post**
 
-    15. Click **Yes**.
+    23. Select **Yes**
 
-    16. Click **OK**.
+    24. Select **OK**
+
+    25. Close the General Journals Page.
+
+    26. Select **Home**, and then select **Post**.
+
+    27. Select **Yes**.
+
+    28. Select **OK**.
 
 Task 3: Process vendor payments
 -------------------------------
@@ -301,7 +331,7 @@ account. They also request to be paid for all invoices as a single payment.
 
 The bank account details: SNS - IBAN: BE67 2900 0461 4187 - SWIFT Code: BBRUBEBB
 
-The first payment to this vendor V9005 will be performed on January 31st, 2023,
+The first payment to this vendor V9005 will be performed on January 31st, 2024,
 using the EUROP payment journal, with a new batch PAY1.
 
 You will perform
@@ -322,12 +352,10 @@ You will perform
     2.  On the **Vendors** list page, select vendor **Graphic Design
         Institute.**
 
-    3.  Select **Manage** and then select **Edit**.
+    3.  On the **Vendor** card, go to the **Payments** Fast Tab.
 
-    4.  On the **Vendor** card, go to the **Payments** Fast Tab.
-
-    5.  In the **Preferred Bank Account Code** field, click on the Look Up Value
-        button and click **+ New**.
+    5.  In the **Preferred Bank Account Code** field, select on the Look Up Value
+        button and select **+ New**.
 
     6.  On the opened **Vendor bank account** card, fill in the following
         fields:
@@ -342,7 +370,7 @@ You will perform
 
             4.  In the **Currency Code** field, enter **EUR**.
 
-        2.  On the **Transfer** FastTab, click **Show more** and then fill in
+        2.  On the **Transfer** FastTab, select **Show more** and then fill in
             the following fields:
 
             1.  In the **SWIFT Code** field, enter **BBRUBEBB**.
@@ -351,7 +379,7 @@ You will perform
 
             3.  Select the **Use for Electronic Payments** checkbox.
 
-        3.  Click **OK**.
+        3.  Select **OK**.
 
     7.  The new **Vendor bank account** is automatically filled in in the
         **Preferred Bank Account Code** field on the vendor card.
@@ -361,14 +389,13 @@ You will perform
     1.  Select the Search icon in the top-right corner of the page,
         enter `Payment journals` and then choose the related link.
 
-    2.  Open the assist edit button to the right of the **Batch Name** field.
-
-    3.  On the opened **General Journal Batches** page, click **+ New** and fill
+    2.  PAY1
+    3.  On the opened **General Journal Batches** page, select **+ New** and fill
         in the following fields:
 
         1.  In the **Name** field, enter **PAY1**.
 
-        2.  In the **Description** field, enter **Payment January 2023**.
+        2.  In the **Description** field, enter **Payment January 2024**.
 
         3.  In the **Bal. Account Type** field, enter **Bank Account**.
 
@@ -378,7 +405,7 @@ You will perform
         5.  In the **No. Series** field, the value **GJNL-PMT** is automatically
             filled in.
 
-        6.  Click **OK**.
+        6.  Select **OK**.
 
     4.  The new batch **PAY1**, is automatically filled in in the **Batch Name**
         field on the payment journal.
@@ -387,7 +414,7 @@ You will perform
 
     6.  On the **Options** FastTab, fill in the following fields:
 
-        1.  In the **Last Payment Date** field, enter **1/31/2023**.
+        1.  In the **Last Payment Date** field, enter **1/31/2024**.
 
         2.  Leave the **Check Other Journal Batches** checkbox selected.
 
@@ -396,7 +423,7 @@ You will perform
         4.  On the **Filter:Vendor** FastTab, in the **No**. filter, enter
             **20000**.
 
-        5.  Click **OK** to perform the batch job and automatically fill in the
+        5.  Select **OK** to perform the batch job and automatically fill in the
             lines in the payment journal.
 
 g. In the second line, fill in the details. Enter **V9005** in the **Account
@@ -406,16 +433,16 @@ h. Process payment journals. Select **Bank**, and then select **Export**.
 
 1.  Select **Home**, and then select **Post**.
 
-2.  Click **Yes**.
+2.  Select **Yes**.
 
-3.  Click **OK**.
+3.  Select **OK**.
 
 Task 4: Process customer payments
 ---------------------------------
 
 ### Scenario
 
-On January 24th, 2023, Contoso receives payment from customer C00010
+On January 24th, 2024   , Contoso receives payment from customer C00010
 Spotsmeyer’s Furnishings on their CHECKINGS bank account.
 
 This payment is for all open invoices from the previous month:
@@ -457,21 +484,21 @@ You will perform
 
         6.  Deselect the **Automatically Fill Date Received** checkbox.
 
-        7.  Click **OK**.
+        7.  Select **OK**.
 
 2.  Process payment registrations.
 
     1.  Select the Search icon in the top-right corner of the page,
         enter `Payment Registrations`.
 
-    2.  Click on the **Payment Registrations** task, to open the **Register
+    2.  Select on the **Payment Registrations** task, to open the **Register
         Customer Payments** page.
 
     3.  Select the line for document **S-ORD101009**.
 
         1.  Select the **Payment Made** field.
 
-        2.  In the **Date Received** field, enter **1/24/2023**.
+        2.  In the **Date Received** field, enter **1/24/2024**.
 
         3.  The **Amount Received** field is automatically filled in with
             **5,828.00**.
@@ -480,7 +507,7 @@ You will perform
 
         1.  Select the **Payment Made** field.
 
-        2.  In the **Date Received** field, enter **1/24/2023**.
+        2.  In the **Date Received** field, enter **1/24/2024**.
 
         3.  The **Amount Received** field is automatically filled in with
             **5,345.16**.
@@ -489,11 +516,11 @@ You will perform
 
         1.  Select the **Payment Made** field.
 
-        2.  In the **Date Received** field, enter **1/24/2023**.
+        2.  In the **Date Received** field, enter **1/24/2024**.
 
         3.  In the **Amount Received** field, enter **5,345.16**.
 
     6.  Select the dropdown of **Post Payments** and then select **Post as Lump
         Payment**.
 
-    7.  Click **Yes** to post all the three payments.
+    7.  Select **Yes** to post all the three payments.
