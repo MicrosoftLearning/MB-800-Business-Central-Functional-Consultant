@@ -42,14 +42,14 @@ You will perform:
 
             1.  In the **No.** field, enter `EUROP`.
 
-            2.  In the **Name** field, enter `European bank`
+            2.  In the **Name** field, enter `European Bank`
 
         2.  On the **Posting** FastTab, in the **Currency Code** field, select
             **EUR**.
 
         3.  On the **Transfer** FastTab:
 
-            1.  Click **Show more**.
+            1.  Select **Show more**.
 
             2.  In the **SWIFT Code** field, enter `BBRUBEBB`
 
@@ -59,7 +59,7 @@ You will perform:
 
     1.  On the **Transfer** FastTab, in the **Payment Export Format** field,
         enter `SEPACT`.
-
+        
 Exercise 2: Set up and assign a Bank Account Posting Group
 ----------------------------------------------------------
 
