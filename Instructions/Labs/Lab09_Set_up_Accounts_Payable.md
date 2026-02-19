@@ -22,7 +22,7 @@ accounting manager has expressed the following requirements:
     The first purchase document, as of January 1st, 2024, will be posted with
     the number P22/0001. The next year will be P23/0001 and so on.
 
-    These numbering should be respected in a chronological order and cannot be
+    This numbering should be respected in a chronological order and cannot be
     entered manually.
 
 -   A separate G/L account 20200 is setup to record any discounts that were
