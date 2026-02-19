@@ -19,13 +19,13 @@ accounting manager has expressed the following requirements:
     they follow the same numbering. This number will include the year and will
     start from 1 each year as follows:
 
-    The first purchase document, as of January 1st, 2022, will be posted with
+    The first purchase document, as of January 1st, 2024, will be posted with
     the number P22/0001. The next year will be P23/0001 and so on.
 
     These numbering should be respected in a chronological order and cannot be
     entered manually.
 
--   A separate g/l account 20200 is setup to record any discounts that were
+-   A separate G/L account 20200 is setup to record any discounts that were
     given by the vendors.
 
 You will perform
@@ -44,8 +44,8 @@ You will perform
     2.  In the **Purchases & Payables Setup** page, go to the **Number Series**
         FastTab.
 
-    3.  In the **Posted Invoice Nos.** field, click on the Look Up Value button
-        and click **+ New.**
+    3.  In the **Posted Invoice Nos.** field, select on the Look Up Value button
+        and select **+ New.**
 
     4.  In the opened **No. Series List** page, fill in the following fields:
 
@@ -58,11 +58,11 @@ You will perform
 
         4.  Select the **Date Order** check box.
 
-    5.  Click the ellipses (…), select **Navigate** and then select **Lines**.
+    5.  Select the ellipses (…), select **Navigate** and then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **1/1/2022**.
+        1.  In the **Starting Date** field, enter **1/1/2024**.
 
         2.  In the **Starting No.** field, enter **P22/0001**.
 
@@ -70,7 +70,7 @@ You will perform
 
     7.  Close the **No. Series Lines** page.
 
-    8.  Close the **No. Series List** page, by clicking **OK**.
+    8.  Close the **No. Series List** page, by selecting **OK**.
 
     9.  The new number series PINCN+ is now automatically filled in in the
         **Posted Invoice Nos.** field, in the **Purchases & Payables Setup**
@@ -323,26 +323,26 @@ You will perform
 
 14. Select **Apply Template**.
 
-15. In the **Vendor Templates** list, select **Domestic vendors**, and click
+15. In the **Vendor Templates** list, select **Domestic vendors**, and select
     **OK.**
 
-16. Click **Yes**.
+16. Select **Yes**.
 
 17. In the **Vendors** list page, multi-select imported vendors **V9002**,
     **V9005** and **V9006**.
 
 18. Select **Apply Template**.
 
-19. In the **Vendor Templates** list, select **EU vendors**, and click **OK.**
+19. In the **Vendor Templates** list, select **EU vendors**, and select **OK.**
 
-20. Click **Yes**.
+20. Select **Yes**.
 
 21. In the **Vendors** list page, multi-select imported vendors **V9004** and
     **V9008**.
 
 22. Select **Apply Template**.
 
-23. In the **Vendor Templates** list, select **Export vendors**, and click
+23. In the **Vendor Templates** list, select **Export vendors**, and select
     **OK.**
 
-24. Click **Yes**.
+24. Select **Yes**.
