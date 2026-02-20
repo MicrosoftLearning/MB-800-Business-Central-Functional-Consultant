@@ -92,7 +92,7 @@ You will perform:
 
     4.  In the **G/L Account No.** field, enter **10250**.
 
-Note – If you do not find the G/L Account No. – Please proceed with creating a
+Note – If you do not find the G/L Account No. – please proceed with creating
 new.
 
 2.  Assign the bank account posting group.
