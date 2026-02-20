@@ -23,10 +23,10 @@ expressed the following requirements:
     and assigned in the Sales & Receivables Setup)*
 
 -   Posted sales invoices are numbered based on the year and month in which they
-    are posted. The first sales invoice, as of January 1st, 2022, will be posted
+    are posted. The first sales invoice, as of January 1st, 2024, will be posted
     with the number S22/01/0001. The next month will be S22/02/0001 and so on.
 
--   A separate g/l account 40300 is setup to record invoice discounts only that
+-   A separate G/L account 40300 is setup to record invoice discounts only that
     were given to the customer. Line discounts are also given but considered as
     part of the net sales price and thus not posted separately from the normal
     sales account.
@@ -53,7 +53,7 @@ You will perform
     2.  In the **Sales & Receivables Setup** page, go to the **Number Series**
         FastTab.
 
-    3.  In the **Customer Nos.** field, the value CUST is already filled in. Click on
+    3.  In the **Customer Nos.** field, the value CUST is already filled in. Select on
         the Look Up Value button and select **+ New**.
 
     4.  In the opened **No. Series** page, fill in the following fields:
@@ -64,7 +64,7 @@ You will perform
 
         3.  Select the **Default Nos.** check box.
 
-    5.  Click on the ellipses (…) in the top ribbon
+    5.  Select on the ellipses (…) in the top ribbon
      and then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
@@ -80,7 +80,7 @@ You will perform
     8.  In the opened **No. Series** page, select the number series
         **CUST**.
 
-    9.  Click the ellipses (…) and then select
+    9.  Select the ellipses (…) and then select
         **Relationships**.
 
     10. In the **No. Series Relationships** page, select **+ New**.
@@ -89,13 +89,13 @@ You will perform
 
     12. Close the **No. Series Relationships** page.
 
-    13. Close the **No. Series** page by clicking **OK**.
+    13. Close the **No. Series** page by selecting **OK**.
 
     14. You are now back in the **Sales & Receivables Setup** page, on the
         **Number Series** FastTab.
 
     15. In the **Posted Invoice Nos.** field, the value **S-INV+** is already
-        filled in. Click on the Look Up Value button and then click **Select
+        filled in. Select on the Look Up Value button and then select **Select
         from full list.**
 
     16. In the opened **No. Series** page, the number series **S-INV+** is
@@ -105,7 +105,7 @@ You will perform
 
     18. In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **1/1/2022**.
+        1.  In the **Starting Date** field, enter **1/1/2024**.
 
         2.  In the **Starting No.** field, enter **S22/01/0001**.
 
@@ -113,7 +113,7 @@ You will perform
 
     19. In the opened **No. Series Lines** page, select **+ New**.
 
-        1.  In the **Starting Date** field, enter **2/1/2022**.
+        1.  In the **Starting Date** field, enter **2/1/2024**.
 
         2.  In the **Starting No.** field, enter **S22/02/0001**.
 
@@ -121,7 +121,7 @@ You will perform
 
     20. Close the **No. Series Lines** page.
 
-    21. Close the **No. Series** page by clicking **OK**.
+    21. Close the **No. Series** page by selecting **OK**.
 
     22. The number series **S-INV+** remains filled in in the **Posted Invoice
         Nos.** field, in the **Sales & Receivables Setup** page.
@@ -258,23 +258,23 @@ You will perform
 
     2.  In the **Customers** page, select **+ New**.
 
-    3.  Select the **CUSTOMER COMPANY** template and then click **OK**.
+    3.  Select the **CUSTOMER COMPANY** template and then select **OK**.
 
     4.  Go to the **General** FastTab.
 
     5.  Open the assist edit button to the right of the **No.** field.
 
     6.  In the window that opens, select the number series for web shop
-        customers **CUST WEB** and click **OK**.
+        customers **CUST WEB** and select **OK**.
 
-    7.  Click **Yes**.
+    7.  Select **Yes**.
 
     8.  In the **Name** field, enter **Generic EU web shop**.
 
-    9.  Click **Show more**.
+    9.  Select **Show more**.
 
-    10. In the **Document Sending Profile** field, click on the Look Up Value
-        button and click **+ New**.
+    10. In the **Document Sending Profile** field, select on the Look Up Value
+        button and select **+ New**.
 
     11. In the opened **Document Sending Profile** card page, fill in the
         following fields:
@@ -291,7 +291,7 @@ You will perform
 
         5.  In the **Disk** field, select the **PDF** option.
 
-        6.  Click **OK**.
+        6.  Select **OK**.
 
     12. The new code is now automatically filled  in the **Document Sending
         Profile** field on the customer card.
@@ -304,8 +304,8 @@ You will perform
 
     16. Go to the **Payments** FastTab.
 
-    17. In the **Payment Terms Code** field, click on the Look Up Value button
-        and click **+ New**.
+    17. In the **Payment Terms Code** field, select on the Look Up Value button
+        and select **+ New**.
 
     18. In the opened **Payment Terms** page, select **+ New** and fill in the
         following fields:
@@ -316,15 +316,15 @@ You will perform
 
         3.  In the **Description** field, enter **Pay before delivery**.
 
-        4.  Click **OK**.
+        4.  Select **OK**.
 
     19. The new code is now automatically filled in in the **Payment Terms
         Code** field on the customer card.
 
-    20. On the **Payments** FastTab, click **Show more**.
+    20. On the **Payments** FastTab, select **Show more**.
 
-    21. In the **Payment Method Code** field, click on the Look Up Value button
-        and click **+ New**.
+    21. In the **Payment Method Code** field, select on the Look Up Value button
+        and select **+ New**.
 
     22. In the opened **Payment Methods** page, select **+ New** and fill in the
         following fields:
@@ -336,11 +336,11 @@ You will perform
         3.  In the **Bal. Account Type** field, select the **G/L Account**
             option.
 
-        4.  Click the **Bal. Account No.** field, and then click **Select from
+        4.  Select the **Bal. Account No.** field, and then select **Select from
             full list**.
 
         5.  On the **G/L Account List** page, select account number
-            **20500/Credit Cards** and click **Edit**. Create a new account if
+            **20500/Credit Cards** and select **Edit**. Create a new account if
             you do not find it from the list.
 
         6.  On the **G/L Account Card** of **20500**, enable **Direct Posting**
@@ -351,7 +351,7 @@ You will perform
         8.  The account number **20500** is automatically filled in the **Bal.
             Account No.** field.
 
-        9.  Click **OK**.
+        9.  Select **OK**.
 
     23. The new code is now automatically filled in the **Payment Method
         Code** field on the customer card.
@@ -408,7 +408,7 @@ You will perform
     1.  Select the Search for page icon in the top-right corner of the page,
         enter `Configuration Packages`, and then choose the related link.
 
-    2.  In the **Configuration Packages** page, click **+ New** to create a new
+    2.  In the **Configuration Packages** page, select **+ New** to create a new
         configuration package.
 
     3.  In the **Code** field, enter **CUST**.
@@ -420,21 +420,21 @@ You will perform
 
     6.  Open the assist edit button to the right of the **Table ID** field.
 
-    7.  In the window that opens, select the **Customer** table, and click
+    7.  In the window that opens, select the **Customer** table, and select
         **OK**.
 
     8.  Then press **ENTER** or **TAB**.
 
     9.  Select the **Dimensions as Columns** check box.
 
-    10. Click **Yes** to add the related dimension tables.
+    10. Select **Yes** to add the related dimension tables.
 
     11. Make sure the customer table line is selected, select **Table** and then
         **Fields**.
 
-    12. Click on **No.**
+    12. Select on **No.**
 
-    13. Click on **Fields** again. On the field list page, first select **Clear
+    13. Select on **Fields** again. On the field list page, first select **Clear
         Included**, to deselect the **Include Field** checkbox for all the
         fields.
 
@@ -452,11 +452,11 @@ You will perform
 
     15. The **Validate Field** checkbox is automatically selected.
 
-    16. Click **Close**.
+    16. Select **Close**.
 
     17. In the **Config. Package Card** page, select **Export to Excel**.
 
-    18. Click **Yes** to export the configuration package.
+    18. Select **Yes** to export the configuration package.
 
 2.  Create and assign data template to the configuration package.
 
@@ -475,7 +475,7 @@ You will perform
 
         3.  Open the assist edit button to the right of the **Table ID** field.
 
-        4.  Select the table for **Customers** (ID = 18) and click **OK**.
+        4.  Select the table for **Customers** (ID = 18) and select **OK**.
 
         5.  Select the **Enabled** check box.
 
@@ -518,7 +518,7 @@ You will perform
         10. Close the configuration template.
 
     5.  In the **Configuration Templates** page, make sure the new template for
-        domestic customers is selected, and click **OK**.
+        domestic customers is selected, and select **OK**.
 
     6.  The new code is now automatically filled in in the **Data Template**
         field on the configuration package card.
@@ -538,14 +538,14 @@ You will perform
 
     2.  In the **Config. Package Card** page, select **Import from Excel**.
 
-    3.  Select Click here to browse and select the excel file.
+    3.  Select Select here to browse and select the excel file.
 
-    4.  Click **Open**.
+    4.  Select **Open**.
 
     5.  In the preview page, select **Import**.
 
     6.  In the **Config. Package Card** page, select **Apply Package**.
 
-    7.  Click **Yes**.
+    7.  Select **Yes**.
 
-    8.  Click **OK**.
+    8.  Select **OK**.

@@ -158,7 +158,7 @@ You will perform
 
     3.  In the **Location Code** field, enter **EUROP**.
 
-    4.  Click **Show more**.
+    4.  Select **Show more**.
 
     5.  In the **Agent** field, enter **DHL**
 
@@ -180,7 +180,7 @@ You will perform
     4.  Close the Salesperson/Purchaser card.
 
     5.  On the **Salespeople/Purchaser** page, make sure that you have selected
-        **Annette Hill**. Click on **Salesperson** and then select
+        **Annette Hill**. Select on **Salesperson** and then select
         **Dimensions-single** from the dropdown.
 
     6.  On the opened **Default Dimensions** page, select **+ New**.
@@ -323,7 +323,7 @@ You will perform
 
     3.  To open the customer card, select **Manage** and then select **Edit**.
 
-    4.  Go to the **Invoicing** FastTab, click **Show more** and fill in the
+    4.  Go to the **Invoicing** FastTab, select **Show more** and fill in the
         following fields:
 
         1.  In the **Customer Price Group** field, enter **EU**.
@@ -359,7 +359,7 @@ You will perform
 
     6.  On the **Items** list page, select the **15” Flat panel (CHW1002)**
 
-    7.  Go to the **Prices & Sales** FastTab, click **Show more**.
+    7.  Go to the **Prices & Sales** FastTab, select **Show more**.
 
     8.  In the **Item Disc. Group** field, enter **MONITOR**.
 

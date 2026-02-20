@@ -16,7 +16,7 @@ During the implementation process, Contoso’s superusers are systematically
 informed and trained in different areas of the system during work sessions.
 After following the work sessions about the chart of accounts, posting groups
 and dimensions, the accounting manager has reviewed Contoso’s chart of accounts
-and has added some g/l accounts. The further setup of posting groups is done in
+and has added some G/L accounts. The further setup of posting groups is done in
 collaboration with you, the functional consultant.
 
 Some accounts were added to distinguish very easily between purchases and sales
@@ -26,10 +26,10 @@ posting groups.
 
 Also the expenses are more detailed, where we can see a clear separation between
 staff-related expenses and other expenses. All staff-related expenses are posted
-to the g/l accounts 60700 until 61100, where it is obligated to indicate a
+to the G/L accounts 60700 until 61100, where it is obligated to indicate a
 specific department each time an expense is made.
 
-Your first job is to make sure the g/l accounts are created correctly and that
+Your first job is to make sure the G/L accounts are created correctly and that
 the necessary dimensions are connected.
 
 *Remark: for the income statement accounts, make sure to fill in the Tax Group
@@ -47,14 +47,54 @@ You will perform
 
     1.  Select the Search icon in the top-right corner of the page,
         enter `Chart of Accounts` and then choose the related link.
+        
+    
+    **NOTE: If accounts 10100 and 10200 already exist, go to instructions for 10250 and continue from there.**
+    
+    
+    In the **Chart of Accounts** page, select **+ New**.
 
-    2.  In the **Chart of Accounts** page, select **+ New**.
+    2.  In the new general ledger account card, fill in the following fields:
+
+        1.  In the **No.** field, enter `10100`
+
+        2.  In the **Name** field, enter `Bank Account - Operating`.
+
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
+
+        4.  In the **Account Category** field, select the value **Assets**
+
+        5.  In the **Account Subcategory** field, select the value **Current Assets**.
+
+        6.  In the Debit/Credit Balance field, select the value **Debit**.
+
+        7.  Close the **G/L Account Card** page.    
+    
+    In the **Chart of Accounts** page, select **+ New**.
 
     3.  In the new general ledger account card, fill in the following fields:
 
+        1.  In the **No.** field, enter `10200`
+
+        2.  In the **Name** field, enter `Bank Account - Savings`.
+
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
+
+        4.  In the **Account Category** field, select the value **Assets**
+
+        5.  In the **Account Subcategory** field, select the value **Current Assets**.
+
+        6.  In the Debit/Credit Balance field, select the value **Debit**.
+
+        7.  Close the **G/L Account Card** page.  
+
+    4.  In the **Chart of Accounts** page, select **+ New**.
+
+    5.  In the new general ledger account card, fill in the following fields:
+
         1.  In the **No.** field, enter `10250`
 
-        2.  In the **Name** field, enter `European bank`.
+        2.  In the **Name** field, enter `European Bank`.
 
         3.  In the **Income/Balance** field, select the value **Balance Sheet**.
 
@@ -66,9 +106,23 @@ You will perform
 
         7.  Close the **G/L Account Card** page.
 
-    4.  In the **Chart of Accounts** page, select **+ New**.
+    6.  In the **Chart of Accounts** page, select **+ New**.
+    
+    7.  In the new general ledger account card, fill in the following fields:
 
-    5.  In the new general ledger account card, fill in the following fields:
+        1.  In the **No.** field, enter `10400`
+
+        2.  In the **Name** field, enter `Opening Customer Entries`.
+
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
+
+        4.  In the **Account Category** field, select the value **Assets**
+
+        5.  In the **Account Subcategory** field, select the value **Cash**.
+
+        6.  Close the **G/L Account Card** page.
+
+    8.  In the new general ledger account card, fill in the following fields:
 
         1.  In the **No.** field, enter `10450`
 
@@ -85,11 +139,11 @@ You will perform
 
         7.  Close the **G/L Account Card** page.
 
-    6.  Repeat steps c for account **10475**.
+    9.  Repeat above steps for account **10475**.
 
-    7.  In the **Chart of Accounts** page, select **+ New**.
+    10.  In the **Chart of Accounts** page, select **+ New**.
 
-    8.  In the new general ledger account card, fill in the following fields:
+    11. In the new general ledger account card, fill in the following fields:
 
         1.  In the **No.** field, enter `10710`
 
@@ -104,10 +158,27 @@ You will perform
         6.  Deselect the option **Direct Posting**.
 
         7.  Close the **G/L Account Card** page.
+        
+    12.  In the **Chart of Accounts** page, select **+ New**.
 
-    9.  In the **Chart of Accounts** page, select **+ New**.
+    13. In the new general ledger account card, fill in the following fields:
 
-    10. In the new general ledger account card, fill in the following fields:
+        1.  In the **No.** field, enter `20100`
+
+        2.  In the **Name** field, enter `Opening Vendor Ledger`.
+
+        3.  In the **Income/Balance** field, select the value **Balance Sheet**.
+
+        4.  In the **Account Category** field, select the value **Liabilities**
+
+        5.  In the **Account Subcategory** field, select the value **Current
+            Liabilities**.
+
+        6.  Close the **G/L Account Card** page.    
+
+    12.  In the **Chart of Accounts** page, select **+ New**.
+
+    13. In the new general ledger account card, fill in the following fields:
 
         1.  In the **No.** field, enter `20150`
 
@@ -124,13 +195,13 @@ You will perform
 
         7.  Close the **G/L Account Card** page.
 
-    11. Repeat steps h for the account **20175**.
+    14. Repeat above steps for the account **20175**.
 
-    12. In the **Chart of Accounts** page, select **+ New**.
+    15. In the **Chart of Accounts** page, select **+ New**.
 
-    13. In the new general ledger account card, fill in the following fields:
+    16. In the new general ledger account card, fill in the following fields:
 
-        1.  In the **No.** field, enter `40210`
+        1.  In the **No.** field, enter `40230`
 
         2.  In the **Name** field, enter `Product Sales – Computer hardware`.
 
@@ -149,13 +220,13 @@ You will perform
 
         8.  Close the **G/L Account Card** page.
 
-    14. In the **Chart of Accounts** page, select **+ New**.
+    17. In the **Chart of Accounts** page, select **+ New**.
 
-    15. In the new general ledger account card, fill in the following fields:
+    18. In the new general ledger account card, fill in the following fields:
 
         1.  In the **No.** field, enter `50150`
 
-        2.  In the **Name** field, enter `Materials - Computerhardware`.
+        2.  In the **Name** field, enter `Materials - Computer Hardware`.
 
         3.  In the **Income/Balance** field, select the value **Income
             Statement**.
@@ -172,9 +243,9 @@ You will perform
 
         8.  Close the **G/L Account Card** page.
 
-    16. In the **Chart of Accounts** page, select **+ New**.
+    19. In the **Chart of Accounts** page, select **+ New**.
 
-    17. In the new general ledger account card, fill in the following fields:
+    20. In the new general ledger account card, fill in the following fields:
 
         1.  In the **No.** field, enter `61450`
 
@@ -185,7 +256,7 @@ You will perform
 
         4.  In the **Account Category** field, select the value **Expense**
 
-        5.  In the **Account Subcategory** field, select the value **Utilities
+        5.  In the **Account Subcategory** field, select the value **Travel
             Expense**.
 
         6.  Deselect the option **Direct Posting**.
@@ -195,9 +266,9 @@ You will perform
 
         8.  Close the **G/L Account Card** page.
 
-    18. In the **Chart of Accounts** page, select **+ New**.
+    21. In the **Chart of Accounts** page, select **+ New**.
 
-    19. In the new general ledger account card, fill in the following fields:
+    22. In the new general ledger account card, fill in the following fields:
 
         1.  In the **No.** field, enter `61850`
 
@@ -218,15 +289,15 @@ You will perform
 
         8.  Close the **G/L Account Card** page.
 
-    20. In the **Chart of Accounts** page, select **Home** and then select
+    23. In the **Chart of Accounts** page, select **Home** and then select
         **Indent Chart of Accounts**.
 
-    21. Click **Yes**.
+    24. Select **Yes**.
 
 2.  Assign default dimensions to multiple G/L Accounts.
 
     1.  In the **Chart of Accounts** page, select general ledger accounts 60110
-        until 61100.
+        until 61100 *(Select 60110, hold the Shift Key and click 61100).*
 
     2.  Select **Account**, then **Dimensions-Multiple**, and then select
         **Dimensions – Multiple**.
@@ -237,7 +308,7 @@ You will perform
 
     5.  In the **Value Posting** field, enter the value **Code Mandatory**.
 
-    6.  Click **OK**.
+    6.  Select **OK**.
 
 Task 2: Set up posting groups
 -----------------------------
@@ -280,7 +351,7 @@ You will perform
     1.  Select the Search icon in the top-right corner of the page,
         enter `VAT Product Posting Groups` and then choose the related link.
 
-    2.  In the **VAT Product Posting Groups** page, select **+ New**.
+    2.  In the **VAT Product Posting Groups** page, select the first blank row.
 
     3.  In the **Code** field, enter **G15**.
 
@@ -306,13 +377,13 @@ You will perform
 
     3.  In the new tax posting setup card, fill in the following fields:
 
-        1.  In the **VAT Bus. Posting Group** field, enter **EU**.
+        1.  In the **VAT Bus. Posting Group** field, enter **EU**. Select **Yes**.
 
-        2.  In the **VAT Prod. Posting Group** field, enter **G15**.
+        2.  In the **VAT Prod. Posting Group** field, enter **G15**. Select **Yes**.
 
         3.  In the **VAT Calculation Type** field, enter **Normal Tax**.
 
-        4.  In the **Description** field, enter **web shop sales**.
+        4.  In the **Description** field, enter **Web Shop Sales**.
 
         5.  In the **Tax%** field, enter **15**.
 
@@ -330,7 +401,7 @@ You will perform
 
     3.  In the **Code** field, enter **COMPUTERHW**.
 
-    4.  In the **Description** field, enter **computer hardware**.
+    4.  In the **Description** field, enter **Computer Hardware**.
 
     5.  In the **Def. VAT Prod. Posting Group** field, enter **G15**.
 
@@ -340,21 +411,11 @@ You will perform
         enter `Gen. Business Posting Groups` and then choose the related
         link.
 
-    2.  In the **Gen. Business Posting Groups** page, select **+ New**.
+    2.  In the **Gen. Business Posting Groups** page, select **EU**.
+    
+    3.  In the **Def. VAT Bus. Posting Group** field, fill in **EU**.
 
-    3.  In the **Code** field, enter **EU**.
-
-    4.  In the **Description** field, enter **EU customer and vendors**.
-
-    5.  In the **Def. VAT Bus. Posting Group** field, enter **EU**.
-
-    6.  In the **Gen. Business Posting Groups** page, select **+ New**.
-
-    7.  In the **Code** field, enter **EXPORT**.
-
-    8.  In the **Description** field, enter **Export customer and vendors**.
-
-    9.  Leave the **Def. VAT Bus. Posting Group** field blank.
+    4.  Select **Yes**.
 
 6.  Complete the General Posting Setup.
 
@@ -382,9 +443,9 @@ You will perform
 
         4.  Leave all the checkboxes selected.
 
-        5.  Click **OK**.
+        5.  Select **OK**.
 
-        6.  Click **Yes**.
+        6.  Select **Yes**.
 
     6.  In the new general posting setup card, in the **Sales** FastTab, change
         the following fields:
@@ -423,6 +484,6 @@ You will perform
 
         4.  Leave all the checkboxes selected.
 
-        5.  Click **OK**.
+        5.  Select **OK**.
 
-        6.  Click **Yes**.
+        6.  Select **Yes**.

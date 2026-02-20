@@ -94,13 +94,13 @@ You will perform
 
     2.  Select **Home** and then select **Create Sales Quote**.
 
-    3.  Click **Yes** for selecting a customer template.
+    3.  Select **Yes** for selecting a customer template.
 
-    4.  Select the **CUSTOMER COMPANY** template and click **OK**.
+    4.  Select the **CUSTOMER COMPANY** template and select **OK**.
 
     5.  A new sales quote is created.
 
-    6.  In the **General** FastTab, click **Show more** and then fill in the
+    6.  In the **General** FastTab, select **Show more** and then fill in the
         following fields:
 
         1.  In the **Order Date** and **Document Date** field, enter
@@ -156,13 +156,13 @@ You will perform
 
     2.  Select **Home** and then select **Make Order**.
 
-    3.  Click **Yes**.
+    3.  Select **Yes**.
 
-    4.  Click **Yes** to create a customer card for contact **Francematic**.
+    4.  Select **Yes** to create a customer card for contact **Francematic**.
 
-    5.  Click **OK**.
+    5.  Select **OK**.
 
-    6.  Click **Yes** to open the sales order.
+    6.  Select **Yes** to open the sales order.
 
 4.  Partially ship items from the order.
 
@@ -176,7 +176,7 @@ You will perform
 
     4.  Select **Home** and then select **Post**.
 
-    5.  Select the **Ship** option and click **OK**.
+    5.  Select the **Ship** option and select **OK**.
 
     6.  Select **OK**.
 
@@ -185,7 +185,7 @@ You will perform
 
     8.  Select **Home** and then select **Post**.
 
-    9.  Select the **Ship** option and click **OK**.
+    9.  Select the **Ship** option and select **OK**.
 
     10. Select **OK**.
 
@@ -196,7 +196,7 @@ You will perform
 
     2.  Select **Home** and then select **Post**.
 
-    3.  Select the **Invoice** option and click **OK**.
+    3.  Select the **Invoice** option and select **OK**.
 
     4.  Select **No**.
 
@@ -257,7 +257,7 @@ You will perform
     3.  Select **New Document** and then select **Sales Order**.
 
     4.  On the opened **Sales Order** card page, on the **General** FastTab,
-        click **Show more** and then fill in the following fields:
+        select **Show more** and then fill in the following fields:
 
         1.  In the **Order Date** field, enter **1/5/2023**.
 
@@ -271,7 +271,7 @@ You will perform
             option.
 
         2.  On the opened **Ship-to Address** List page, select PICK-UP-DK and
-            click **OK**.
+            select **OK**.
 
         3.  Select the **Combine Shipments** checkbox.
 
@@ -294,9 +294,9 @@ You will perform
 
     7.  Select **Home** and then select **Post**.
 
-    8.  Select the **Ship** option and click **OK**.
+    8.  Select the **Ship** option and select **OK**.
 
-    9.  Click **OK** for the sales order to be placed in a job queue.
+    9.  Select **OK** for the sales order to be placed in a job queue.
 
     10. Close the **Sales Order** page.
 
@@ -306,7 +306,7 @@ You will perform
     12. Select **New Document** and then select **Sales Order**.
 
     13. On the opened **Sales Order** card page, on the **General** FastTab,
-        click **Show more** and then fill in the following fields:
+        select **Show more** and then fill in the following fields:
 
         1.  In the **Order Date** field, enter **1/6/2023**.
 
@@ -320,7 +320,7 @@ You will perform
             option.
 
         2.  On the opened **Ship-to Address** List page, select PICK-UP-BE and
-            click **OK**.
+            select **OK**.
 
         3.  Select the **Combine Shipments** checkbox.
 
@@ -342,9 +342,9 @@ You will perform
 
     16. Select **Home** and then select **Post**.
 
-    17. Select the **Ship** option and click **OK**.
+    17. Select the **Ship** option and select **OK**.
 
-    18. Click **OK** for the sales order to be placed in a job queue.
+    18. Select **OK** for the sales order to be placed in a job queue.
 
     19. Close the **Sales Order** page.
 
@@ -354,7 +354,7 @@ You will perform
     21. Select **New Document** and then select **Sales Order**.
 
     22. On the opened **Sales Order** card page, on the **General** FastTab,
-        click **Show more** and then fill in the following fields:
+        select **Show more** and then fill in the following fields:
 
         1.  In the **Order Date** field, enter **1/9/2023**.
 
@@ -368,7 +368,7 @@ You will perform
             option.
 
         2.  On the opened **Ship-to Address** List page, select **PICK-UP-FR**
-            and click **OK**.
+            and select **OK**.
 
         3.  Select the **Combine Shipments** checkbox.
 
@@ -391,9 +391,9 @@ You will perform
 
     25. Select **Home** and then select **Post**.
 
-    26. Select the **Ship** option and click **OK**.
+    26. Select the **Ship** option and select **OK**.
 
-    27. Click **OK** for the sales order to be placed in a job queue.
+    27. Select **OK** for the sales order to be placed in a job queue.
 
     28. Close the **Sales Order** page.
 
@@ -412,9 +412,9 @@ You will perform
 
     6.  In the **Sell-to Customer No.** filter, enter **CWEB0001**.
 
-    7.  Click **OK**.
+    7.  Select **OK**.
 
-    8.  Click **OK**.
+    8.  Select **OK**.
 
 Task 3: Correct a posted sales invoice
 --------------------------------------
@@ -443,7 +443,7 @@ You will perform
 
     3.  Select **Correct** and then select **Create Corrective Credit Memo**.
 
-    4.  On the opened sales credit memo, on the **General** FastTab, click
+    4.  On the opened sales credit memo, on the **General** FastTab, select
         **Show more** and then enter **3/6/2023** in the **Posting Date** field.
 
     5.  On the **Lines** section, delete the line for the 15” flat panels.
@@ -454,6 +454,6 @@ You will perform
 
     8.  Select **Home** and then select **Post**.
 
-    9.  Click **Yes**.
+    9.  Select **Yes**.
 
-    10. Click **No**.
+    10. Select **No**.

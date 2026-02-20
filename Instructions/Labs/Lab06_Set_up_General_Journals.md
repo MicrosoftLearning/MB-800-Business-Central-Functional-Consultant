@@ -45,7 +45,7 @@ You will perform
 
         1.  In the **Name** field, enter `OPENING`
 
-        2.  In the **Description** field, enter `conversion opening balances`.
+        2.  In the **Description** field, enter `Conversion Opening Balances`.
 
         3.  In the **Type** field, select the **General** option.
 
@@ -55,6 +55,8 @@ You will perform
         5.  Deselect the **Force Doc. Balance** check box.
 
         6.  Deselect the **Copy Tax Setup to Jnl.** check box.
+        
+        7. Select **Yes**.
 
 2.  Set up different batches for customer, vendor, balance, and bank.
 
@@ -63,13 +65,13 @@ You will perform
 
     2.  Select **Batches**.
 
-    3.  In the opened **General Journal Batches** page, select **+ New**.
+    3.  In the opened **General Journal Batches** page, select the first blank row.
 
     4.  Fill in the following fields:
 
         1.  In the **Name** field, enter `BALANCE`.
 
-        2.  In the **Description** field, enter `opening g/l balance account`.
+        2.  In the **Description** field, enter `Opening G/L Balance Account`.
 
     5.  In the opened **General Journal Batches** page, select **+ New**.
 
@@ -77,7 +79,7 @@ You will perform
 
         1.  In the **Name** field, enter `BANK`.
 
-        2.  In the **Description** field, enter `Opening bank balance`.
+        2.  In the **Description** field, enter `Opening Bank Balance`.
 
     7.  In the opened **General Journal Batches** page, select **+ New**.
 
@@ -85,8 +87,8 @@ You will perform
 
         1.  In the **Name** field, enter `CUST`.
 
-        2.  In the **Description** field, enter `opening customer ledger
-            entries`.
+        2.  In the **Description** field, enter `Opening Customer Ledger
+            Entries`.
 
         3.  In the **Bal. Account No.** field, enter **10400**
 
@@ -96,8 +98,8 @@ You will perform
 
         1.  In the **Name** field, enter `VEND`.
 
-        2.  In the **Description** field, enter `opening vendor ledger
-            entries`.
+        2.  In the **Description** field, enter `Opening Vendor Ledger
+            Entries`.
 
         3.  In the **Bal. Account No.** field, enter **20100**
 

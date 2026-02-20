@@ -90,9 +90,9 @@ You will perform -
 
     2.  Select **Dimension**, and then select **Account Type Default Dim.**.
 
-    3.  Open the assist edit button to the right of the **Table ID** field.
+    3.  On a new line, open the assist edit button to the right of the **Table ID** field.
 
-    4.  In the window that opens, select the **Customer** table and click
+    4.  In the window that opens, select the **Customer** table and select
         **OK**.
 
     5.  In the **Value Posting** field, enter **Code Mandatory**.
@@ -106,7 +106,7 @@ You will perform -
     3.  Open the assist edit button to the right of the **Table ID** field.
 
     4.  In the window that opens, select the **Salesperson/Purchaser** table,
-        and click **OK**.
+        and select **OK**.
 
     5.  In the **Value Posting** field, enter **Code Mandatory**.
 
@@ -118,7 +118,7 @@ Task 3: Set up a dimension combination
 Sales people are divided into sales teams, where each team is responsible for a
 specific customer group.
 
-To further provide enhance the accuracy of their analytical information, you
+To further enhance the accuracy of their analytical information, you
 have to make sure only logical dimension combination can be made when posting
 sales transactions.
 
@@ -158,8 +158,10 @@ You will perform -
     1.  Select the Search icon in the top-right corner of the page,
         enter `Dimension Combinations`, and then choose the related link.
 
-    2.  In the **Dimension Combinations** page, click on the combination of the
-        CUSTOMERGROUP and SALESPERSON_NEWLIST dimension in the matrix.
+    2.  In the **Dimension Combinations** page, select the CUSTOMERGROUP row, hold the CTRL key and
+        select on the SALESPERSON_NEWLIST row in the dimension matrix.
+        
+    3.  In the CUSTOMERGROUP column select on the line in the SALESPERSON_NEWLIST row.
 
     3.  In the window that opens, select **Limited**.
 
@@ -167,20 +169,20 @@ You will perform -
 
 2.  Block dimension value combinations.
 
-    1.  In the **Dimension Combinations** page, click on the **Limited** value
+    1.  In the **Dimension Combinations** page, select on the **Limited** value
         of the combination of the CUSTOMERGROUP and SALESPERSON_NEWLIST
         dimension in the matrix.
 
-    2.  Click **Yes** to view the list of values.
+    2.  Select **Yes** to view the list of values.
 
-    3.  Click on the combination of the AH and MEDIUM dimension values in the
+    3.  Select on the combination of the AH and MEDIUM dimension values in the
         matrix.
 
     4.  In the window that opens, select **Blocked**.
 
     5.  Select **OK**.
 
-    6.  Repeat steps c. d. and e., for the following combinations:
+    6.  Repeat steps 3. 4. and 5., for the following combinations:
 
         -   AH – LARG
 

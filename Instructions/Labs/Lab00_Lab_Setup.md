@@ -30,7 +30,7 @@ Lab Credentials
     <https://dynamics.microsoft.com/en-us/business-central/overview/>
 
 2.  Click **Try for free** tab on the **Dynamics 365 Business Central**
-    homepage.
+    homepage (**not** the top right).
 
 3.  Enter your **Office 365 tenant credentials** and click **Next**.
 
