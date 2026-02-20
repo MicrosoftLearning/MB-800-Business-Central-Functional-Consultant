@@ -103,6 +103,7 @@ You will perform
 
         3.  In the **Bal. Account No.** field, enter **20100**
 
-Note – If you do not find the Balance Account number from the list. Please
+Note – If you do not find the Balance Account number from the list, please
 proceed with creating new.
--------------------------
+
+
