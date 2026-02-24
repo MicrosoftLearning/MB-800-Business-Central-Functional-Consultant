@@ -23,16 +23,14 @@ Hands-on-Lab 04: Set up and use a purchase approval workflow
    - On the **Approval User Setup** page, create a new line.
    - Fill in the following fields:
      - **User ID**: Select the user involved in the approval process.
-     - **Approver ID**: Specify the user who must approve requests made by the selected user.
+     - **Approver ID**: Leave it blank.
      - **Purchase Amount Approval Limit**: Enter the maximum purchase amount the user can approve.
      - **Substitute**: Assign a substitute approver for cases when the primary approver is unavailable.
 
 3. Define unlimited approval permissions (if applicable):
    - If the user can approve all purchase requests regardless of the amount, select the **Unlimited Purchase Approval** checkbox. Leave the **Purchase Amount Approval Limit** field blank.
 
-4. Repeat steps 2–3 for all users who need to participate in the approval workflow.
-
-5. Test the setup:
+4. Test the setup:
    - Select the **Approval User Setup Test** action to validate the configuration.
 
 ## Check your work: Set up approval users
