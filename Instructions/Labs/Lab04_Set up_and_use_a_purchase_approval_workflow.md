@@ -73,12 +73,12 @@ To confirm the workflow is set up correctly:
 ## Task 3: Configure notification settings
 **Goal:** Set up notification settings to ensure relevant users are informed about pending approval requests.
 
-1. Open the **Notification Setup** page:
-   - In the search bar, enter **Notification Setup**, and select the related link.
+1. Open the **Workflow Notification Setup** page:
+   - In the search bar, enter **Workflow Notification Setup**, and select the related link.
 
 2. Configure notification preferences:
    - Specify how users receive notifications (e.g., email or in-app).
-   - Define the notification triggers (e.g., "Approval request created" or "Approval request overdue").
+   - Define the notification triggers (e.g., "Approval" or "Overdue").
 
 3. Test the notification setup:
    - Send a test notification to ensure users receive alerts as expected.
