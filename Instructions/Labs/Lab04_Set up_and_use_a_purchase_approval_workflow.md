@@ -53,9 +53,9 @@ To verify the setup:
    - In the **Description** field, provide a brief description (e.g., "Purchase Approval Workflow").
 
 3. Define the workflow steps:
-   - In the **When Event** field, specify the event that triggers the workflow (e.g., "A purchase order is created").
+   - In the **When Event** field, specify the event that triggers the workflow (e.g., "Approval of a purchase document is requested.").
    - In the **On Condition** field, add any conditions that must be met (e.g., "Total Amount > $10,000").
-   - In the **Then Response** field, define the response (e.g., "Create an approval request for the record").
+   - In the **Then Response** field, define the response (e.g., "Create an approval request for the record...").
 
 4. Add additional steps as needed:
    - For example, include steps for handling approvals, rejections, or delegations.
