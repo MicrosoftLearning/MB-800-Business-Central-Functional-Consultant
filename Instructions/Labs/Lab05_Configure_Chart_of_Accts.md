@@ -336,7 +336,7 @@ You will perform
 
 2.  Create a VAT Business Posting Group.
 
-3.  Complete the Tax Posting Setup.
+3.  Complete the Tax Posting Setup(VAT Posting Setup).
 
 4.  Create a Product Posting Group.
 
