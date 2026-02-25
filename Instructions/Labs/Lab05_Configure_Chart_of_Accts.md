@@ -368,7 +368,7 @@ You will perform
 
     4.  In the **Description** field, enter **EU**.
 
-3.  Complete the Tax Posting Setup.
+3.  Complete the Tax Posting Setup. 
 
     1.  Select the Search icon in the top-right corner of the page,
         enter `Tax Posting Setup` and then choose the related link.
