@@ -344,6 +344,11 @@ You will perform
 
 6.  Complete the General Posting Setup.
 
+
+> [!NOTE]
+> Ensure Task 1 is completed and that the required general ledger accounts exist before continuing. 
+
+
 ### Steps
 
 1.  Create a VAT Product Posting Group.
