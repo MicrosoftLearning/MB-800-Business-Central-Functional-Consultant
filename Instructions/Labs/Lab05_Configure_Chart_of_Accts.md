@@ -280,7 +280,7 @@ You will perform
         4.  In the **Account Category** field, select the value **Expense**
 
         5.  In the **Account Subcategory** field, select the value **Tax
-            Expenses**.
+            Expense**.
 
         6.  Deselect the option **Direct Posting**.
 
