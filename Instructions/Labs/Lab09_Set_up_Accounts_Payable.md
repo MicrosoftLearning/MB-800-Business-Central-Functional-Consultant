@@ -58,7 +58,7 @@ You will perform
 
         4.  Select the **Date Order** check box.
 
-    5.  Select the ellipses (…), select **Navigate** and then select **Lines**.
+    5.  Select the ellipses (…), then select **Lines**.
 
     6.  In the opened **No. Series Lines** page, select **+ New**.
 
