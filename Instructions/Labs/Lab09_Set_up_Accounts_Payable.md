@@ -317,9 +317,12 @@ You will perform
 
 12. Select the Search icon in the top-right corner of the page, enter
     `Vendors`, and then choose the related link.
+    
 
-13. In the **Vendors** page, multi-select imported vendors **V9001**, **V9003**
+13. In the **Vendors** page, multi-select imported **Domestic** vendors **V9001**, **V9003**
     and **V9007**.
+    
+    If any of these vendors are missing, create them using the same vendor numbers before continuing.Do this for all the vendors mentioned in the next steps as well.
 
 14. Select **Apply Template**.
 
@@ -328,7 +331,7 @@ You will perform
 
 16. Select **Yes**.
 
-17. In the **Vendors** list page, multi-select imported vendors **V9002**,
+17. In the **Vendors** list page, multi-select imported **EU** vendors **V9002**,
     **V9005** and **V9006**.
 
 18. Select **Apply Template**.
@@ -337,7 +340,7 @@ You will perform
 
 20. Select **Yes**.
 
-21. In the **Vendors** list page, multi-select imported vendors **V9004** and
+21. In the **Vendors** list page, multi-select imported **Export** vendors **V9004** and
     **V9008**.
 
 22. Select **Apply Template**.
