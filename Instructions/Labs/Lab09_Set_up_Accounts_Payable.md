@@ -291,7 +291,7 @@ You will perform
 
         1.  In the **Gen. Bus. Posting Group** field, enter **EU**.
 
-        2.  In the **Vendor Posting Group** field, enter **INTERCOMP**.
+        2.  In the **Vendor Posting Group** field, enter **INTERCOMPANY**.
 
     5.  Close the vendor template.
 
