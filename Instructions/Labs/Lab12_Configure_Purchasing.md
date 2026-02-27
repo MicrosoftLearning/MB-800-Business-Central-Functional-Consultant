@@ -62,8 +62,7 @@ You will perform -
 
         1.  In the **Code** field, enter **COMP&MON**
 
-        2.  In the **Name** field, the value **Robert Townes** is automatically
-            filled in.
+        2.  In the **Name** field, enter the value **Robert Townes**.
 
         3.  In the **Address** field, enter **Nyborgvej 566**.
 
