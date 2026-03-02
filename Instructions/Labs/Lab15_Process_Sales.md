@@ -400,9 +400,9 @@ You will perform
 2.  Use the Combine Shipments function to create sales invoices.
 
     1.  Select the search for page icon in the top-right corner of the page,
-        enter **Combine Shipments**, and then choose the related link.
+        enter **Combine Sales Shipments**, and then choose the related link.
 
-    2.  Open the **Combine Shipments** task.
+    2.  Open the **Combine Sales Shipments** task.
 
     3.  In the **Posting Date** and **Document Date** field, enter **3/8/2023**.
 
