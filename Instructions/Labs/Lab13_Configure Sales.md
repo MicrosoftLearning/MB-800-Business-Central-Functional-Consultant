@@ -332,7 +332,7 @@ You will perform
 
         3.  Leave the **Allow Line Disc.** checkbox selected.
 
-    5.  Repeat steps d. to f. to assign the **DOMESTIC** customer price group to
+    5.  Repeat the previous steps to assign the **DOMESTIC** customer price group to
         the customers **20000**, **30000** and **50000**, and the **SMALL**
         customer discount group to customer **20000**, the **MEDIUM** customer
         discount group to customer **30000** and the **LARGE** customer discount
