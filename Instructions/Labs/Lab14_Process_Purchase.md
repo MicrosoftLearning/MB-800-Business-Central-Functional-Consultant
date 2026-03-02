@@ -86,7 +86,7 @@ You will perform-
     1.  On the vendor card, select **New Document** and then select **Purchase
         Order**.
 
-    2.  On the **General** FastTab, fill in the following fields:
+    2.  On the **General** FastTab,select **Show more** and then fill in the following fields:
 
         1.  In the **Document Date** and **Order Date** fields, enter
             **1/1/2023**.
@@ -98,7 +98,7 @@ You will perform-
     3.  On the **Invoice Details** FastTab, select **Show more** and then fill in
         the following fields:
 
-        1.  In the **Requested Receipt Date** field, enter **1/05/2023**.
+        1.  In the **Requested Receipt Date** field, enter **1/5/2023**.
 
         2.  In the **Promised Receipt Date** field, enter **1/12/2023**.
 
@@ -162,7 +162,8 @@ You will perform-
 
         1.  In the **Qty. to Receive** field, enter **4**.
 
-    4.  Select the dropdown of **Posting**, and then select **Post**.
+    4.  Select the dropdown of **Posting**, and then select **Post**. 
+    If an error occurs, ensure the **Posting Date** is within the allowed posting dates. If needed, use the **Search** icon to review the settings in **General Ledger Setup**
 
     5.  Select the **Receive** option and select **OK**.
 
@@ -439,9 +440,9 @@ You will perform-
     3.  On the **Invoice Details** FastTab, click **Show more** and then fill in
         the following fields:
 
-        1.  In the **Requested Receipt Date** field, enter **1/05/2023**.
+        1.  In the **Requested Receipt Date** field, enter **1/5/2023**. 
 
-        2.  In the **Promised Receipt Date** field, enter **1/12/2023**.
+        2.  In the **Promised Receipt Date** field, enter **1/12/2023**. 
 
     4.  On the **Lines** section, enter a new line by filling in the following
         field:
@@ -465,7 +466,7 @@ You will perform-
     5.  On the **Lines** section, enter a new line by filling in the following
         field:
 
-        1.  In the **Type** field, enter **Item**.
+        1.  In the **Type** field, enter **Item**. 
 
         2.  In the **No.** field, enter **CHW1003** for the **17” flat panels**.
 
