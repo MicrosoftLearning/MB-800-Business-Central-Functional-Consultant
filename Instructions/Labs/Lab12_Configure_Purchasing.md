@@ -421,7 +421,7 @@ You will perform
 
             7.  Close the **Standard Purchase Code Card** page.
 
-            8.  Select **Back** to close the **Recurring Purchase Lines** page.
+            8.  Select **OK** to close the **Recurring Purchase Lines** page.
 
         3.  The new code is now automatically filled in in the **Code** field on
             the **Recurring Purchase Lines** page.
