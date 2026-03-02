@@ -389,8 +389,7 @@ You will perform
     1.  Select the Search icon in the top-right corner of the page,
         enter `Payment journals` and then choose the related link.
 
-    2.  PAY1
-    3.  On the opened **General Journal Batches** page, select **+ New** and fill
+    2.  On the opened **General Journal Batches** page, select **+ New** and fill
         in the following fields:
 
         1.  In the **Name** field, enter **PAY1**.
