@@ -265,7 +265,7 @@ You will perform
 
         3.  In the **Your Reference** field, enter **Private sale DK**.
 
-    5.  On the **Shipping and Billing** FastTab, fill in the following fields:
+    5.  On the **Shipping and Billing** FastTab,select **Show more** and then fill in the following fields:
 
         1.  In the **Ship-to** field, select the **Alternate Shipping Address**
             option.
