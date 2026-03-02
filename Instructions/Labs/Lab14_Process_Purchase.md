@@ -162,7 +162,8 @@ You will perform-
 
         1.  In the **Qty. to Receive** field, enter **4**.
 
-    4.  Select the dropdown of **Posting**, and then select **Post**.
+    4.  Select the dropdown of **Posting**, and then select **Post**. 
+    If an error occurs, ensure the **Posting Date** is within the allowed posting dates. If needed, use the **Search** icon to review the settings in **General Ledger Setup**
 
     5.  Select the **Receive** option and select **OK**.
 
