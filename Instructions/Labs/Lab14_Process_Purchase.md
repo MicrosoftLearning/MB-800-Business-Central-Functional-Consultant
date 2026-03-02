@@ -86,7 +86,7 @@ You will perform-
     1.  On the vendor card, select **New Document** and then select **Purchase
         Order**.
 
-    2.  On the **General** FastTab, fill in the following fields:
+    2.  On the **General** FastTab,select **Show more** and then fill in the following fields:
 
         1.  In the **Document Date** and **Order Date** fields, enter
             **1/1/2023**.
