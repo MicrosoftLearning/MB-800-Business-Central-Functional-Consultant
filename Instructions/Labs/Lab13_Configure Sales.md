@@ -96,7 +96,7 @@ You will perform
 
     7.  Close the ship-to address card.
 
-    8.  In the customer card, select **Related**, then select **Customer** and
+    8.  In the customer card, select **Customer** and
         then **Ship-to Addresses**.
 
     9.  In the opened **Ship-to Address List** page, select **+ New**.
@@ -121,7 +121,7 @@ You will perform
 
     11. Close the ship-to address card.
 
-    12. In the customer card, select **Related**, then select **Customer** and
+    12. In the customer card, select **Customer** and
         then **Ship-to Addresses**.
 
     13. In the opened **Ship-to Address** List page, select **+ New**.
