@@ -452,7 +452,7 @@ You will perform
 
     7.  Change the **Quantity** field from **3** to **1**.
 
-    8.  Select **Home** and then select **Post**.
+    8.  Select **Home** and then select **Post**. If an error occurs, open **General Posting Setup** and add a value to the Sales Credit Memo Account field.
 
     9.  Select **Yes**.
 
