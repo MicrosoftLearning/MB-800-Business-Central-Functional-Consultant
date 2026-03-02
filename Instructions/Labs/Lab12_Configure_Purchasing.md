@@ -419,9 +419,7 @@ You will perform
 
                 15. In the **Department Code** field, enter **PROD**.
 
-            7.  Close the **Standard Purchase Code Card** page.
-
-            8.  Select **OK** to close the **Recurring Purchase Lines** page.
+            7.  Select **OK** to close the **Standard Purchase Code Card** page.
 
         3.  The new code is now automatically filled in in the **Code** field on
             the **Recurring Purchase Lines** page.
