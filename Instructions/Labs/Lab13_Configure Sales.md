@@ -70,7 +70,7 @@ You will perform
 
     3.  To open the customer card, select **Manage** and then select **Edit**.
 
-    4.  In the customer card, select **Related**, then select **Customer** and
+    4.  In the customer card, select **Customer** and
         then **Ship-to Addresses**.
 
     5.  In the opened **Ship-to Address List** page, select **+ New**.
@@ -96,7 +96,7 @@ You will perform
 
     7.  Close the ship-to address card.
 
-    8.  In the customer card, select **Related**, then select **Customer** and
+    8.  In the customer card, select **Customer** and
         then **Ship-to Addresses**.
 
     9.  In the opened **Ship-to Address List** page, select **+ New**.
@@ -121,7 +121,7 @@ You will perform
 
     11. Close the ship-to address card.
 
-    12. In the customer card, select **Related**, then select **Customer** and
+    12. In the customer card, select **Customer** and
         then **Ship-to Addresses**.
 
     13. In the opened **Ship-to Address** List page, select **+ New**.
@@ -332,7 +332,7 @@ You will perform
 
         3.  Leave the **Allow Line Disc.** checkbox selected.
 
-    5.  Repeat steps d. to f. to assign the **DOMESTIC** customer price group to
+    5.  Repeat the previous steps to assign the **DOMESTIC** customer price group to
         the customers **20000**, **30000** and **50000**, and the **SMALL**
         customer discount group to customer **20000**, the **MEDIUM** customer
         discount group to customer **30000** and the **LARGE** customer discount
