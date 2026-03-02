@@ -152,7 +152,8 @@ You will start by copying the following data from the default CRONUS company:
 
     9.  Repeat steps 5. to 8. to enter table **10 Shipment Method**.
     
-**The two tables listed above already have data loaded into them. This will cause the Copy Company Data sheet to be blank. To complete this part of the exercise, you must go and delete all records in both tables in Contoso, Ltd. Go do this now. Once you've deleted all records, the Copy Company Data sheet will show the Zip Code and Shipping Method tables.**
+> [!NOTE]
+>The two tables listed above already have data loaded into them. This will cause the **Copy Company Data** sheet to be blank. To complete this part of the exercise, you must go and delete all records in both tables in **Contoso, Ltd.** Go do this now. Once you've deleted all records, the **Copy Company Data** sheet will show the **Zip Code** and **Shipping Method** tables.
 
 2.  Copy data from another database company.
 
