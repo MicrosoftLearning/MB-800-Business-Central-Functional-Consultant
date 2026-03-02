@@ -98,7 +98,7 @@ You will perform-
     3.  On the **Invoice Details** FastTab, select **Show more** and then fill in
         the following fields:
 
-        1.  In the **Requested Receipt Date** field, enter **1/05/2023**.
+        1.  In the **Requested Receipt Date** field, enter **1/5/2023**.
 
         2.  In the **Promised Receipt Date** field, enter **1/12/2023**.
 
