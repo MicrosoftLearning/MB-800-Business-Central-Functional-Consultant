@@ -23,16 +23,14 @@ Hands-on-Lab 04: Set up and use a purchase approval workflow
    - On the **Approval User Setup** page, create a new line.
    - Fill in the following fields:
      - **User ID**: Select the user involved in the approval process.
-     - **Approver ID**: Specify the user who must approve requests made by the selected user.
+     - **Approver ID**: Leave it blank.
      - **Purchase Amount Approval Limit**: Enter the maximum purchase amount the user can approve.
      - **Substitute**: Assign a substitute approver for cases when the primary approver is unavailable.
 
 3. Define unlimited approval permissions (if applicable):
    - If the user can approve all purchase requests regardless of the amount, select the **Unlimited Purchase Approval** checkbox. Leave the **Purchase Amount Approval Limit** field blank.
 
-4. Repeat steps 2–3 for all users who need to participate in the approval workflow.
-
-5. Test the setup:
+4. Test the setup:
    - Select the **Approval User Setup Test** action to validate the configuration.
 
 ## Check your work: Set up approval users
@@ -55,9 +53,9 @@ To verify the setup:
    - In the **Description** field, provide a brief description (e.g., "Purchase Approval Workflow").
 
 3. Define the workflow steps:
-   - In the **When Event** field, specify the event that triggers the workflow (e.g., "A purchase order is created").
+   - In the **When Event** field, specify the event that triggers the workflow (e.g., "Approval of a purchase document is requested.").
    - In the **On Condition** field, add any conditions that must be met (e.g., "Total Amount > $10,000").
-   - In the **Then Response** field, define the response (e.g., "Create an approval request for the record").
+   - In the **Then Response** field, define the response (e.g., "Create an approval request for the record...").
 
 4. Add additional steps as needed:
    - For example, include steps for handling approvals, rejections, or delegations.
@@ -75,12 +73,12 @@ To confirm the workflow is set up correctly:
 ## Task 3: Configure notification settings
 **Goal:** Set up notification settings to ensure relevant users are informed about pending approval requests.
 
-1. Open the **Notification Setup** page:
-   - In the search bar, enter **Notification Setup**, and select the related link.
+1. Open the **Workflow Notification Setup** page:
+   - In the search bar, enter **Workflow Notification Setup**, and select the related link.
 
 2. Configure notification preferences:
    - Specify how users receive notifications (e.g., email or in-app).
-   - Define the notification triggers (e.g., "Approval request created" or "Approval request overdue").
+   - Define the notification triggers (e.g., "Approval" or "Overdue").
 
 3. Test the notification setup:
    - Send a test notification to ensure users receive alerts as expected.
