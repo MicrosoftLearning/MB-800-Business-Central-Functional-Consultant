@@ -440,9 +440,9 @@ You will perform-
     3.  On the **Invoice Details** FastTab, click **Show more** and then fill in
         the following fields:
 
-        1.  In the **Requested Receipt Date** field, enter **1/05/2023**.
+        1.  In the **Requested Receipt Date** field, enter **1/5/2023**. 
 
-        2.  In the **Promised Receipt Date** field, enter **1/12/2023**.
+        2.  In the **Promised Receipt Date** field, enter **1/12/2023**. 
 
     4.  On the **Lines** section, enter a new line by filling in the following
         field:
@@ -466,7 +466,7 @@ You will perform-
     5.  On the **Lines** section, enter a new line by filling in the following
         field:
 
-        1.  In the **Type** field, enter **Item**.
+        1.  In the **Type** field, enter **Item**. 
 
         2.  In the **No.** field, enter **CHW1003** for the **17” flat panels**.
 
