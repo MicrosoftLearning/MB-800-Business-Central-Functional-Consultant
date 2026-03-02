@@ -62,8 +62,7 @@ You will perform -
 
         1.  In the **Code** field, enter **COMP&MON**
 
-        2.  In the **Name** field, the value **Robert Townes** is automatically
-            filled in.
+        2.  In the **Name** field, enter the value **Robert Townes**.
 
         3.  In the **Address** field, enter **Nyborgvej 566**.
 
@@ -365,7 +364,7 @@ You will perform
 
                 1.  In the **Type** field, select the **G/L Account** option.
 
-                2.  In the **No.** field, enter **61000**.
+                2.  In the **No.** field, enter **61000**. If an error occurs, open the G/L Account Card for account **61000** and change the Account Type to Posting.
 
                 3.  In the **Quantity** field, enter **1**.
 
@@ -420,9 +419,7 @@ You will perform
 
                 15. In the **Department Code** field, enter **PROD**.
 
-            7.  Close the **Standard Purchase Code Card** page.
-
-            8.  Select **OK** to close the **Recurring Purchase Lines** page.
+            7.  Select **OK** to close the **Standard Purchase Code Card** page.
 
         3.  The new code is now automatically filled in in the **Code** field on
             the **Recurring Purchase Lines** page.
