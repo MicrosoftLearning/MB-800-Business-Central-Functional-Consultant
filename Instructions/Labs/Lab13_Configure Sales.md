@@ -70,7 +70,7 @@ You will perform
 
     3.  To open the customer card, select **Manage** and then select **Edit**.
 
-    4.  In the customer card, select **Related**, then select **Customer** and
+    4.  In the customer card, select **Customer** and
         then **Ship-to Addresses**.
 
     5.  In the opened **Ship-to Address List** page, select **+ New**.
