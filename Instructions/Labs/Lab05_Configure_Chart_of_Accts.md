@@ -280,7 +280,7 @@ You will perform
         4.  In the **Account Category** field, select the value **Expense**
 
         5.  In the **Account Subcategory** field, select the value **Tax
-            Expenses**.
+            Expense**.
 
         6.  Deselect the option **Direct Posting**.
 
@@ -336,13 +336,18 @@ You will perform
 
 2.  Create a VAT Business Posting Group.
 
-3.  Complete the Tax Posting Setup.
+3.  Complete the Tax Posting Setup(VAT Posting Setup).
 
 4.  Create a Product Posting Group.
 
 5.  Create a Business Posting Group.
 
 6.  Complete the General Posting Setup.
+
+
+> [!NOTE]
+> Ensure Task 1 is completed and that the required general ledger accounts exist before continuing. 
+
 
 ### Steps
 
