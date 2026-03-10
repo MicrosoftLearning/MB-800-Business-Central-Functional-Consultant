@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 15: Process Sales'
-    module: 'Learning Path 4: Perform Business Central operations'
+  title: 'Lab 15: Process Sales'
+  module: 'Learning Path 4: Perform Business Central operations'
+  description: 'Exercise 15: Process Sales =========================='
+  duration: 142 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 15: Process Sales
