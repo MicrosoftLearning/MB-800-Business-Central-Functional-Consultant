@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 9: Setup Accounts Payable'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 9: Setup Accounts Payable'
+  module: 'Learning Path 2: Configure financials'
+  description: 'Exercise 9: Set Up Accounts Payable ===================================='
+  duration: 142 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 9: Set Up Accounts Payable
