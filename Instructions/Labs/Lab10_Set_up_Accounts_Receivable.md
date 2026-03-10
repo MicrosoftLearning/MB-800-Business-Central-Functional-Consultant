@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 10: Setup Accounts Receivable'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 10: Setup Accounts Receivable'
+  module: 'Learning Path 2: Configure financials'
+  description: 'Exercise 10: Set Up Accounts Receivable ======================================='
+  duration: 142 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 10: Set Up Accounts Receivable
