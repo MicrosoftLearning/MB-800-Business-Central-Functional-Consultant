@@ -1,3 +1,12 @@
+---
+lab:
+  title: Untitled exercise
+  description: 'Module 0: Course introduction ========================'
+  duration: 5 minutes
+  level: 100
+  islab: true
+---
+
 Module 0: Course introduction
 ========================
 
