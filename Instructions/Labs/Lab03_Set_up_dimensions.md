@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 3: Set up dimensions'
-    module: 'Learning Path 1: Set up Business Central'
+  title: 'Lab 3: Set up dimensions'
+  module: 'Learning Path 1: Set up Business Central'
+  description: 'Exercise 3 : Set up dimensions =============================='
+  duration: 96 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 3 : Set up dimensions
