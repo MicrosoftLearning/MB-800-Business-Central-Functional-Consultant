@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 5: Configure Chart of Accounts and Posting Groups'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 5: Configure Chart of Accounts and Posting Groups'
+  module: 'Learning Path 2: Configure financials'
+  description: 'Exercise 5: Configure Chart of Accounts and Posting Groups =========================================================='
+  duration: 138 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 5: Configure Chart of Accounts and Posting Groups
