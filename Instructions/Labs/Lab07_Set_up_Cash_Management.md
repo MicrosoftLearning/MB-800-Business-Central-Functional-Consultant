@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 7: Set Up Cash Management'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 7: Set Up Cash Management'
+  module: 'Learning Path 2: Configure financials'
+  description: 'Exercise 7: Set Up Cash Management =================================='
+  duration: 72 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 7: Set Up Cash Management
