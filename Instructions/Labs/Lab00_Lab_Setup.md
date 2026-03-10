@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 0: Validate lab environment'
-    module: 'Learning Path 0: Course introduction'
+  title: 'Lab 0: Validate lab environment'
+  module: 'Learning Path 0: Course introduction'
+  description: 'Module 0: Course introduction ========================'
+  duration: 5 minutes
+  level: 100
+  islab: true
 ---
 
 Module 0: Course introduction
