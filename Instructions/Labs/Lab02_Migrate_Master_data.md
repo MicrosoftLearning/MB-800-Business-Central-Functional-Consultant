@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 2: Migrate master data to a new company'
-    module: 'Learning Path 1: Set up Business Central'
+  title: 'Lab 2: Migrate master data to a new company'
+  module: 'Learning Path 1: Set up Business Central'
+  description: Exercise 2 - Migrate master data to a new company =================================================
+  duration: 144 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 2 - Migrate master data to a new company
