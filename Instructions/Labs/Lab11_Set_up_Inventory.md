@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 11: Set up Inventory'
-    module: 'Learning Path 3: Configure sales and purchasing'
+  title: 'Lab 11: Set up Inventory'
+  module: 'Learning Path 3: Configure sales and purchasing'
+  description: 'Exercise 11: Set up Inventory =============================='
+  duration: 138 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 11: Set up Inventory 
