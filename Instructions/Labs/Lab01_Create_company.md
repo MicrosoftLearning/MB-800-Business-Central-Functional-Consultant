@@ -3,8 +3,8 @@ lab:
   title: 'Lab 1: Create and configure a new company'
   module: 'Learning Path 1: Set up Business Central'
   description: Now that the company has been created, you will further complete the company configuration, setup and business data.
-  duration: 10 minutes
-  level: 100
+  duration: 20 minutes
+  level: 200
   islab: true
 ---
 
