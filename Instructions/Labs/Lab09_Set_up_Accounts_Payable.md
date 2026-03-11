@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 9: Setup Accounts Payable'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 9: Setup Accounts Payable'
+  module: 'Learning Path 2: Configure financials'
+  description: Based on the chart of accounts, you will set up the different vendor posting groups. With their fast-growing business abroad, they want to keep track of their accounts payables in the US (domestic) and in other EU countries (foreign) separately. A third group will be set up to register transactions with EU third-party alliances (intercompany) they have set up to expand their business even further.
+  duration: 142 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 9: Set Up Accounts Payable
