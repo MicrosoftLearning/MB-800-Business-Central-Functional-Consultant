@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 8: Process Cash Management'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 8: Process Cash Management'
+  module: 'Learning Path 2: Configure financials'
+  description: 'Exercise 8 : Process Cash Management ===================================='
+  duration: 30 minutes
+  level: 300
+  islab: true
 ---
 
 Exercise 8 : Process Cash Management

@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 2: Migrate master data to a new company'
-    module: 'Learning Path 1: Set up Business Central'
+  title: 'Lab 2: Migrate master data to a new company'
+  module: 'Learning Path 1: Set up Business Central'
+  description: For the further ease of the labs during the course, you will migrate the data from the default CRONUS USA company within the database.
+  duration: 30 minutes
+  level: 200
+  islab: true
 ---
 
 Exercise 2 - Migrate master data to a new company

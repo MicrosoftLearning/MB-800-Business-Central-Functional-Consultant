@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 6: Set up General Journals'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 6: Set up General Journals'
+  module: 'Learning Path 2: Configure financials'
+  description: 'Task 1: Set up General Journals -------------------------------'
+  duration: 30 minutes
+  level: 300
+  islab: true
 ---
 
 Exercise 6: Set Up General Journals

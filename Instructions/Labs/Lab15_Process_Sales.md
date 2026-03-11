@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 15: Process Sales'
-    module: 'Learning Path 4: Perform Business Central operations'
+  title: 'Lab 15: Process Sales'
+  module: 'Learning Path 4: Perform Business Central operations'
+  description: On March 1st, 2023, the sales invoice is created and send to the customer.
+  duration: 30 minutes
+  level: 300
+  islab: true
 ---
 
 Exercise 15: Process Sales

@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 10: Setup Accounts Receivable'
-    module: 'Learning Path 2: Configure financials'
+  title: 'Lab 10: Setup Accounts Receivable'
+  module: 'Learning Path 2: Configure financials'
+  description: Based on the chart of accounts, you will set up the different customer posting groups. With their fast-growing business abroad, they want to keep track of their accounts receivables in the US (domestic) and in other EU countries (foreign) separately. A third group will be set up to register transactions with EU third-party alliances (intercompany) they have set up to expand their business even further.
+  duration: 30 minutes
+  level: 300
+  islab: true
 ---
 
 Exercise 10: Set Up Accounts Receivable
