@@ -3,8 +3,8 @@ lab:
   title: 'Lab 12: Configure Purchasing'
   module: 'Learning Path 3: Configure sales and purchasing'
   description: 'You will set up an item vendor catalog for all computer hardware items, as follows:'
-  duration: 146 minutes
-  level: 100
+  duration: 30 minutes
+  level: 300
   islab: true
 ---
 
