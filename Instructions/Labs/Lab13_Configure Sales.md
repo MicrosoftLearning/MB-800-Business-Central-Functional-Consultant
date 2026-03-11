@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 13: Configure Sales'
-    module: 'Learning Path 3: Configure sales and purchasing'
+  title: 'Lab 13: Configure Sales'
+  module: 'Learning Path 3: Configure sales and purchasing'
+  description: 'Exercise 13: Configure Sales ============================'
+  duration: 138 minutes
+  level: 100
+  islab: true
 ---
 
 Exercise 13: Configure Sales
