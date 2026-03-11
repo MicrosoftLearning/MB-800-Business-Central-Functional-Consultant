@@ -3,8 +3,8 @@ lab:
   title: 'Lab 4: Set up and use a purchase approval workflow'
   module: 'Learning Path 1: Set up Business Central'
   description: 'Hands-on-Lab 04: Set up and use a purchase approval workflow ==========================================='
-  duration: 80 minutes
-  level: 200
+  duration: 30 minutes
+  level: 300
   islab: true
 ---
 
