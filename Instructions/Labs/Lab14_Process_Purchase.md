@@ -3,8 +3,8 @@ lab:
   title: 'Lab 14: Process Purchase'
   module: 'Learning Path 4: Perform Business Central operations'
   description: 'As the purchasing agent you are replenishing the stock for the European warehouse. The computer monitors are --- lab: title: ''Lab 14: Process Purchase'' module: ''Learning Path 4: Perform Business Central operations'' ---'
-  duration: 154 minutes
-  level: 100
+  duration: 30 minutes
+  level: 300
   islab: true
 ---
 
