@@ -2,6 +2,10 @@
 lab:
     title: 'Lab 0: Validate lab environment'
     module: 'Learning Path 0: Course introduction'
+    description: This appendix contains step-by-step instructions to provision and configure a Dynamics 365 Business Central environment, including prerequisites.
+    duration: 10 minutes
+    level: 200
+    islab: true
 ---
 
 Module 0: Course introduction
