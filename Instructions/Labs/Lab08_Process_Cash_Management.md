@@ -466,6 +466,22 @@ You will perform
 
 2.  Process payment registrations.
 
+> [!NOTE]
+> If you do not see the expected sales documents (for example, **S-ORD101009**) when starting **Task 4**, the required posted sales data is not available in the lab environment.
+>
+> If **Customer C00010 (Spotsmeyer’s Furnishings)** is not available, you must first create the customer before continuing.
+>
+> Before continuing, create and post one or more sales orders:
+> 1. Go to **Search** and open **Sales Orders**.
+> 2. Select **New**, choose **Customer C00010**, and add an available item (for example, **1900‑S**).
+> 3. Select **Post**, then choose **Invoice** or **Ship and Invoice**.
+> 4. When prompted to open the posted invoice, select **No**.
+>
+> After posting the sales order(s), return to this exercise and continue with **Task 4** using the order(s) you created.
+
+
+
+
 ### Steps
 
 1.  Review payment registration setup.
@@ -498,7 +514,7 @@ You will perform
     2.  Select on the **Payment Registrations** task, to open the **Register
         Customer Payments** page.
 
-    3.  Select the line for document **S-ORD101009**.
+    3.  Select the line for document **S-ORD101009** or the line for the newly created sales order.
 
         1.  Select the **Payment Made** field.
 
@@ -524,7 +540,5 @@ You will perform
 
         3.  In the **Amount Received** field, enter **5,345.16**.
 
-    6.  Select the dropdown of **Post Payments** and then select **Post as Lump
-        Payment**.
-
-    7.  Select **Yes** to post all the three payments.
+    6.  Select the **Post Payments** dropdown, and then select **Post as Lump Payment** or **Post Payments**.
+    7.  Select **Yes** to post all the payments.
