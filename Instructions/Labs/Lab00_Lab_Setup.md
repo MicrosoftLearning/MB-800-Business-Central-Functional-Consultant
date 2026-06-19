@@ -15,7 +15,7 @@ Module 0: Course introduction
 
 --------
 
-In this Module 0 lab, you will validate that your classroom tenant is working as expected. You will access your individual credentials, record your “alias”, and open the Dynamics 365 model-driven application that we will be using throughout the course. 
+Hi! In this Module 0 lab, you will validate that your classroom tenant is working as expected. You will access your individual credentials, record your “alias”, and open the Dynamics 365 model-driven application that we will be using throughout the course. 
 
 Lab Specification Guide
 -----------------------
