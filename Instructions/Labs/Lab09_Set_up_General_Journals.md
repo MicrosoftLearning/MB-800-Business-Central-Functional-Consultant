@@ -1,0 +1,86 @@
+---
+lab:
+  title: 'Lab 09: Set Up General Journals'
+  module: 'Set up general journal templates in Dynamics 365 Business Central'
+  duration: 35 minutes
+  level: 300
+  islab: true
+---
+
+## Exercise 9: Set Up General Journals
+
+## Task 1: Set up General Journals
+
+## Scenario
+Part of the implementation process is the conversion of opening balances. For these specific transactions, a separate general journal OPENING will be created.
+
+Separate batches are set up for the entry of the opening g/l balance accounts, the open customer ledger entries, the open vendor ledger entries, and the opening bank balance.
+
+For customers and vendors, the detailed open ledger entries will be entered using the existing document no. given by the previous system. The total amount will be balanced by the regular g/l accounts for accounts receivables (10400) and accounts payable (20100).
+
+You also want to avoid any tax postings while entering the opening g/l balances.
+
+You will perform
+
+1. Set up a journal for opening entries
+2. Set up different batches for customer, vendor, balance
+3. Set up a general journal batch for finance corrections.
+
+### Steps
+1. Set up a journal for opening entries
+   1. Select the Search icon in the top-right corner of the page, enter General Journal Templates and then choose the related link.
+   2. In the **General Journal Templates** page, select **+ New**.
+   3. Fill in the following fields:
+      1. In the **Name** field, enter OPENING
+      2. In the **Description** field, enter Conversion Opening Balances.
+      3. In the **Type** field, select the **General** option.
+      4. In the **Bal. Account Type** field, select the **G/L Account** option.
+      5. Deselect the **Force Doc. Balance** check box.
+      6. Deselect the **Copy Tax/VAT Setup to Jnl.** check box.
+      7. Select **Yes**.
+2. Set up different batches for customer, vendor, balance, and bank.
+   1. In the **General Journal Templates** page, make sure the **OPENING** journal is selected.
+   2. Select **Batches**.
+   3. In the opened **General Journal Batches** page, select the first blank row.
+   4. Fill in the following fields:
+      1. In the **Name** field, enter BALANCE.
+      2. In the **Description** field, enter Opening G/L Balance Account.
+   5. In the opened **General Journal Batches** page, select **+ New**.
+   6. Fill in the following fields:
+      1. In the **Name** field, enter BANK.
+      2. In the **Description** field, enter Opening Bank Balance.
+   7. In the opened **General Journal Batches** page, select **+ New**.
+   8. Fill in the following fields:
+      1. In the **Name** field, enter CUST.
+      2. In the **Description** field, enter Opening Customer Ledger Entries.
+      3. In the **Bal. Account No.** field, enter **10400**
+   9. In the opened **General Journal Batches** page, select **+ New**.
+   10. Fill in the following fields:
+       1. In the **Name** field, enter VEND.
+       2. In the **Description** field, enter Opening Vendor Ledger Entries.
+       3. In the **Bal. Account No.** field, enter **20100**
+3. Set up a general journal batch for finance corrections.
+   1. In the **General Journal Templates** page, select the GENERAL journal.
+   2. Select **Batches**.
+   3. In the opened **General Journal Batches** page, select the first blank row.
+   4. Fill in the following fields:
+      1. In the **Name** field, enter FINCOR.
+      2. In the **Description** field, enter Finance corrections.
+      3. Deselect the **Copy Tax/VAT Setup to Jnl.** check box.
+      4. Choose field **No,Series**, click **+New** in bottom left corner of page.
+
+To create new numbers series to use for the batch, on the page **Select – No, Series** fill the line:
+
+**Code** – FINCOR,
+
+**Description** - Finance corrections,
+
+**Select Default Nos.** - Yes,
+
+**Manual Nos**. - Yes.
+
+Click on the field **Starting No**. and fill out the field **Starting No**. - FC0000.
+
+Click Close.
+
+On the page **Select- No,Series** page select line with FINCOR code and click OK.

@@ -1,14 +1,14 @@
 ---
 lab:
-  title: 'Lab 4: Set up and use a purchase approval workflow'
-  module: 'Learning Path 1: Set up Business Central'
-  description: 'Hands-on-Lab 04: Set up and use a purchase approval workflow ==========================================='
+  title: 'Lab 05: Set up and use a purchase approval workflow'
+  module: 'Create workflows in Dynamics 365 Business Central'
+  description: 'Hands-on-Lab 05: Set up and use a purchase approval workflow '
   duration: 30 minutes
   level: 300
   islab: true
 ---
 
-Hands-on-Lab 04: Set up and use a purchase approval workflow
+Hands-on-Lab: Set up and use a purchase approval workflow
 ===========================================
 
 **Learning Objective:**
@@ -37,7 +37,7 @@ Hands-on-Lab 04: Set up and use a purchase approval workflow
 4. Test the setup:
    - Select the **Approval User Setup Test** action to validate the configuration.
 
-## Check your work: Set up approval users
+### Check your work: Set up approval users
 To verify the setup:
 1. Ensure all required users are listed on the **Approval User Setup** page.
 2. Confirm that each user has an approver and, if necessary, a substitute assigned.
@@ -67,7 +67,7 @@ To verify the setup:
 5. Enable the workflow:
    - Turn on the **Enabled** toggle to activate the workflow.
 
-## Check your work: Create a purchase approval workflow
+### Check your work: Create a purchase approval workflow
 To confirm the workflow is set up correctly:
 1. Review the workflow steps to ensure they align with the desired approval process.
 2. Verify that the workflow is enabled and ready to trigger upon the specified event.
@@ -87,7 +87,7 @@ To confirm the workflow is set up correctly:
 3. Test the notification setup:
    - Send a test notification to ensure users receive alerts as expected.
 
-## Check your work: Configure notification settings
+### Check your work: Configure notification settings
 To validate the notification setup:
 1. Confirm that notifications are sent to the correct users.
 2. Verify that the notification format and content meet organizational requirements.
@@ -114,7 +114,7 @@ To validate the notification setup:
 5. Review the outcome:
    - Ensure the workflow behaves as expected based on the approver's action.
 
-## Check your work: Test the purchase approval workflow
+### Check your work: Test the purchase approval workflow
 To confirm the workflow is functioning correctly:
 1. Verify that the approval request is routed to the correct approver.
 2. Ensure notifications are sent at each step of the workflow.
