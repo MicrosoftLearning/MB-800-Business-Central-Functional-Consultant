@@ -66,7 +66,6 @@ You will perform:
 
 14. Set up Cash Receipt journal.
 
-
 15. Select the Search icon in the top-right corner of the page, enter Cash Receipt journals and then choose the related link.
 
 16. On the opened General Journal Batches page, select + New and fill in the following fields:
@@ -87,68 +86,52 @@ You will perform:
 
 24. Create payment entries.
 
-In the Cash Receipt journal, fill in the details for the new line. 
-		Enter in the Posting Date field 12/1/25.
+25. In the Cash Receipt journal, fill in the details for the new line.
+    Enter in the Posting Date field 12/1/25.
+	Select in the Document type field, the option Payment.
+	Select in the Account type field, the option Vendor.
+	Select in the Account no. field 40000 for Wide World Importers vendor.
+	Enter in the Amount field 1600.
+	Select in the Applies-to Doc.Type field, the value Invoice.
+	On the Apply Vendor Entries page select the line with invoice from 12/1/25 and External Document No. WW25/367
 
-Select in the Document type field, the option Payment.
+26. Select OK.
 
-Select in the Account type field, the option Vendor.
-		Select in the Account no. field 40000 for Wide World Importers vendor.
+27. In the Cash Receipt journal, fill in the details for the new line.
 
-Enter in the Amount field 1600.
-		Select in the Applies-to Doc.Type field, the value Invoice.
-		On the Apply Vendor Entries page select the line with invoice from 12/1/25 and External Document No. WW25/367
+28. Enter in the Posting Date field 1/1/26.
 
-Select OK.
+29. Select in the Document type field, the option Payment.
 
-In the Cash Receipt journal, fill in the details for the new line.
+30. Select in the Account type field, the option Vendor.
+31. Select in the Account no. field 40000 for Wide World Importers vendor.
 
-Enter in the Posting Date field 1/1/26.
-
-Select in the Document type field, the option Payment.
-
-Select in the Account type field, the option Vendor.
-		Select in the Account no. field 40000 for Wide World Importers vendor.
-
-Enter in the Amount field 3600.
-		On the menu select Home, Apply Entries.
-		On the Apply Vendor Entries
-			Select the lines: 
+32. Enter in the Amount field 3600.
+33. On the menu select Home, Apply Entries.
+34. On the Apply Vendor Entries select the lines: 
 			the line with External Document No. WW25/368, Posting Date 12/10/2025
 			the line with External Document No. WW26/001, Posting Date 1/1/2026
 			the line with External Document No. WW26/002, Posting Date 1/10/2026
 			Select Set Applies –to ID
 
-System show message “You cannot apply and post an entry to an entry with an earlier posting date...”, Select OK.
+35. The system shows the message “You cannot apply and post an entry to an entry with an earlier posting date...”, select **OK**.
 
-Unselect the line with External Document No. WW26/002, Posting Date 1/10/2026.
+36. Unselect the line with External Document No. WW26/002, Posting Date 1/10/2026.
 
-Select Set Applies –to ID, to assign value for the Applies to ID field.
-			Select OK.
-
-
-In the Cash Receipt journal, fill in the details for the new line.
-
-Enter in the Posting Date field 1/1/26.
-
-Select in the Document type field, the option Payment.
-
-Select in the Account type field the option Customer.
-	Select in the Account no. field 20000 for Trey Research.
-
-Enter in the Amount field -2000.
-
-Select in the Applies-to Doc.Type field, the value Invoice.
-	On the Apply Customer Entries page select the line with invoice from 12/16/25
-
-Select OK.
-
-
-25. Select Home, and then select Post.
-
-Select Yes.
-
-Select OK.
+37. Select Set Applies –to ID, to assign value for the Applies to ID field.
+38. Select **OK**.
+39. In the Cash Receipt journal, fill in the details for the new line.
+40. Enter in the Posting Date field 1/1/26.
+41. Select in the Document type field, the option Payment.
+42. Select in the Account type field the option Customer.
+43. Select in the Account no. field 20000 for Trey Research.
+44. Enter in the Amount field -2000.
+45. Select in the Applies-to Doc.Type field, the value Invoice.
+46. On the Apply Customer Entries page select the line with invoice from 12/16/25
+47. Select OK.
+48. Select Home, and then select Post.
+49. Select Yes.
+50. Select OK.
 
 
 ## Task 2: Reconcile posted entries.
