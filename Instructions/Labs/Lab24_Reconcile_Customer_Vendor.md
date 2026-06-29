@@ -85,53 +85,43 @@ You will perform:
 23. The new batch OPERATING is automatically filled in in the Batch Name field on the cash receipt journal.
 
 24. Create payment entries.
-
 25. In the Cash Receipt journal, fill in the details for the new line.
-    Enter in the Posting Date field 12/1/25.
-	Select in the Document type field, the option Payment.
-	Select in the Account type field, the option Vendor.
-	Select in the Account no. field 40000 for Wide World Importers vendor.
-	Enter in the Amount field 1600.
-	Select in the Applies-to Doc.Type field, the value Invoice.
-	On the Apply Vendor Entries page select the line with invoice from 12/1/25 and External Document No. WW25/367
-
+- Enter in the Posting Date field 12/1/25.
+- Select in the Document type field, the option Payment.
+- Select in the Account type field, the option Vendor.
+- Select in the Account no. field 40000 for Wide World Importers vendor.
+- Enter in the Amount field 1600.
+- Select in the Applies-to Doc.Type field, the value Invoice.
+- On the Apply Vendor Entries page select the line with invoice from 12/1/25 and External Document No. WW25/367
 26. Select OK.
-
 27. In the Cash Receipt journal, fill in the details for the new line.
-
 28. Enter in the Posting Date field 1/1/26.
-
 29. Select in the Document type field, the option Payment.
-
 30. Select in the Account type field, the option Vendor.
 31. Select in the Account no. field 40000 for Wide World Importers vendor.
-
 32. Enter in the Amount field 3600.
 33. On the menu select Home, Apply Entries.
-34. On the Apply Vendor Entries select the lines: 
-			the line with External Document No. WW25/368, Posting Date 12/10/2025
-			the line with External Document No. WW26/001, Posting Date 1/1/2026
-			the line with External Document No. WW26/002, Posting Date 1/10/2026
-			Select Set Applies –to ID
-
-35. The system shows the message “You cannot apply and post an entry to an entry with an earlier posting date...”, select **OK**.
-
-36. Unselect the line with External Document No. WW26/002, Posting Date 1/10/2026.
-
-37. Select Set Applies –to ID, to assign value for the Applies to ID field.
-38. Select **OK**.
-39. In the Cash Receipt journal, fill in the details for the new line.
-40. Enter in the Posting Date field 1/1/26.
-41. Select in the Document type field, the option Payment.
-42. Select in the Account type field the option Customer.
-43. Select in the Account no. field 20000 for Trey Research.
-44. Enter in the Amount field -2000.
-45. Select in the Applies-to Doc.Type field, the value Invoice.
-46. On the Apply Customer Entries page select the line with invoice from 12/16/25
-47. Select OK.
-48. Select Home, and then select Post.
-49. Select Yes.
-50. Select OK.
+34. On the Apply Vendor Entries select the lines:
+- the line with External Document No. WW25/368, Posting Date 12/10/2025
+- the line with External Document No. WW26/001, Posting Date 1/1/2026
+- the line with External Document No. WW26/002, Posting Date 1/10/2026
+- Select Set Applies –to ID
+36. The system shows the message “You cannot apply and post an entry to an entry with an earlier posting date...”, select **OK**.
+37. Unselect the line with External Document No. WW26/002, Posting Date 1/10/2026.
+38. Select Set Applies –to ID, to assign value for the Applies to ID field.
+39. Select **OK**.
+40. In the Cash Receipt journal, fill in the details for the new line.
+41. Enter in the Posting Date field 1/1/26.
+42. Select in the Document type field, the option Payment.
+43. Select in the Account type field the option Customer.
+44. Select in the Account no. field 20000 for Trey Research.
+45. Enter in the Amount field -2000.
+46. Select in the Applies-to Doc.Type field, the value Invoice.
+47. On the Apply Customer Entries page select the line with invoice from 12/16/25
+48. Select OK.
+49. Select Home, and then select Post.
+50. Select Yes.
+51. Select OK.
 
 
 ## Task 2: Reconcile posted entries.
@@ -155,25 +145,25 @@ You will perform:
 3. On the Vendor list page select line with 40000 Wide World Importers.
 
 4. Select on the menu Vendor, Ledger Entries
-	On the Vendor Ledger entries page,
-	Select the red invoice line with External Document No. WW26/002.
-	Select on the menu Apply Entries, Apply Entries.
-	On the Apply Vendor Entries page, select Set Applies –to ID to assign value for the Applies to ID field for the line with payment entry.
-	Select Post Application.
+- On the Vendor Ledger entries page,
+- Select the red invoice line with External Document No. WW26/002.
+- Select on the menu Apply Entries, Apply Entries.
+- On the Apply Vendor Entries page, select Set Applies –to ID to assign value for the Applies to ID field for the line with payment entry.
+5. Select Post Application.
 
-5. On the Post application page, leave the Document No. - P26/0005 and Posting Date -1/10/2026.
+6. On the Post application page, leave the Document No. - P26/0005 and Posting Date -1/10/2026.
 	Select OK.
 
-6. Select OK.
+7. Select OK.
 
 
-7. Review detailed vendor entries and applied entries.
+8. Review detailed vendor entries and applied entries.
 
-8. On the Vendor Ledger entries page
+9. On the Vendor Ledger entries page
 
-9. Select the payment dated 1/1/26 with Original Amount = 3600 and Remaining Amount = 0
+10. Select the payment dated 1/1/26 with Original Amount = 3600 and Remaining Amount = 0
 
-10. Select on the menu of Entry, Applied Entries.
+11. Select on the menu of Entry, Applied Entries.
 	Review the invoices closed by this payment and confirm that the Sum of Closed by Amount = 3600.
 
 Close Applied Vendor Entries.
